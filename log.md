@@ -29,3 +29,11 @@ merkbouw-toepassing.
 `me/about.md` opgebouwd uit `bartschilten/kennisbank`'s `me/about.md` —
 Bart's profiel en TMA-talentenanalyse, verkort en toegespitst op wat
 relevant is voor merkopbouw-werk.
+
+## [2026-09-22] strategie | BLITS merkstrategie-intake
+
+Volledige brand-strategy questionnaire doorlopen met Bart voor BLITS:
+positionering, villain (brave merken-toon + schermtijd), doelgroep,
+merkwaarden, persoonlijkheidssliders, concurrentieanalyse en
+tagline-kandidaten vastgelegd in `wiki/brands/blits.md`. Open beslissingen:
+kleurrichting, definitieve tagline, reason-for-existence-zin.

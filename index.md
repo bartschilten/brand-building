@@ -12,7 +12,7 @@ Catalogus van alle pagina's, één regel per pagina, gegroepeerd per type.
 ## brand
 
 - [[baste]] — buitenkoken, positionering nog dubbelzinnig (developing)
-- [[blits]] — buitenspelen, volumemerk (developing)
+- [[blits]] — buitenspelen, volumemerk, positionering/villain/doelgroep uitgewerkt (developing)
 - [[luminous]] — tuinverwarming, seizoensgebonden (developing)
 - [[eigen-merk-tuininrichting]] — tuininrichting, nog naamloos (seed)
 
