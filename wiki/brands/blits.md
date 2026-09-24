@@ -39,13 +39,17 @@ trekt.
 liever buiten een keer laten vallen, dan binnen laten scrollen — met een
 esthetiek die niet verdwijnt tussen drie andere merken in dezelfde tuin.
 
-**Villain (dubbel, zie [[villain-and-contagious-ideas]]):**
-1. De saaie, brave, onderling verwisselbare toon van Berg/Exit/Salta
-   (groen/zwart/wit, golden-hour-fotografie, gezinsveiligheid als enige
-   verhaal) — **niet** veiligheid zelf, wél hoe erover verteld wordt. BLITS
-   stelt de veiligheid van producten expliciet niet ter discussie.
+**Villain (dubbel, zie [[villain-and-contagious-ideas]]) — scherpstelling vastgesteld 2026-09-24:**
+1. *Buitenspelen is verworden tot een geregisseerd veiligheidsritueel in
+   plaats van een avontuur* — dit is de scherpere formulering van de
+   oorspronkelijke "brave merken-toon"-villain, en waar BLITS als merk voor
+   wil staan. **Niet** veiligheid zelf, wél hoe erover verteld/getoond
+   wordt. BLITS stelt de veiligheid van producten expliciet niet ter
+   discussie.
 2. Schermtijd/social media — de eigenlijke, grotere concurrent van de hele
-   categorie.
+   categorie. **Toonregel:** altijd evocatief/impliciet (tonen, niet
+   vertellen), nooit een directe "wij zijn tegen schermtijd"-claim — BLITS
+   gaat naast de ouder staan, niet tegenover, en geeft geen schuldgevoel.
 
 **Doelgroep:** jonge ouders die hun kind willen opvoeden zoals zijzelf zijn
 opgevoed (vallen, opstaan, vies worden, buiten tot het donker) — in
@@ -56,15 +60,21 @@ dealers én klanten — zit letterlijk in het ontstaansverhaal), kwalitatief.
 
 **Persoonlijkheid (schaal 1–8, door Bart gescoord):** casual (1/8), zeer
 toegankelijk/betaalbaar (2/8), zeer vernieuwend (7/8), zeer bold (7/8).
-Positionering combineert toegankelijke prijs met premium-aanvoelende
-uitstraling (referentie die Bart zelf noemde: IKEA — voor iedereen, met
-uitgesproken esthetiek).
 
-**Identiteit — open punt:** logo werkt, kleuren niet. Huidig groen/zwart/wit
-is precies de sameness met Berg/Exit/Salta. Zwart wordt door Bart zelf ook
-genoemd als iets dat al werkt (rustig, strak, valt niet weg tussen fellere
-concurrenten) — de aanbeveling is zwart te behouden als anker en groen te
-vervangen door een eigen, niet-groene accentkleur. Welke kleur: nog open.
+**Prijs/persoonlijkheid-spanning — opgelost (2026-09-24):** toegankelijk in
+prijs, premium in uitvoering. Referentiemodel: Skulum, Create en de IKEA
+PAX-lijn — scherpe, toegankelijke prijzen gecombineerd met een DTC-niveau
+uitvoering (fotografie, website/3D-configurator, klantreis, unboxing) dat
+als premium aanvoelt zónder een premium prijs te vragen. "Bold/vernieuwend"
+wordt dus niet uitgedrukt via prijsstelling, maar via de kwaliteit van
+uitvoering: fotografie, website, verpakking, klantreis.
+
+**Identiteit — kleurrichting vastgesteld, exacte kleuren nog open:** één
+donkere basiskleur (zwart, donkergrijs, donkerrood, donkergroen of
+donkerblauw — nog te kiezen) + één felle, gedurfde, unieke tweede kleur als
+signaalaccent. Huidig groen/zwart/wit vervalt (sameness met Berg/Exit/Salta).
+Visuele opties (paletcombinaties) worden voorgelegd in het merkdocument —
+zie `now/` voor de laatste versie.
 
 **Concurrenten:** Berg (duur, agressieve accessoire-pricing), Exit
 Toys/Salta (nette prijs-kwaliteit, maar generiek/private-label-uitstraling
@@ -81,10 +91,10 @@ meer kleur/energie). Twee genoemde merknamen ("Fintornrose", "Ameli
 Ameliando") zijn onduidelijk overgekomen — navragen bij Bart voor de juiste
 spelling voordat ze als referentie worden gebruikt.
 
-**Tagline-kandidaten:** "Buiten wint.", "Val op. Sta op." (bouwt voort op
-Bart's eigen "vallen en opstaan"-richting), "Speelgoed met lef.". Bart's
-eigen kandidaat "Play More" werkt beter als subline dan als hoofdtagline —
-zegt niets over villain of esthetiek.
+**Tagline — "Play More" definitief losgelaten** (te generiek, zegt niets
+over villain/esthetiek). **"Val op. Sta op."** is de leidende kandidaat
+(won de doelgroeptest overtuigend). Extra opties ter keuze zie
+merkdocument in `now/`.
 
 **Businessdoelen (1-2 jaar):** omzet 1-2x, forse assortimentsverbreding
 (sportspeelgoed → speelhuizen/schommels/zandbakken), van
@@ -100,10 +110,31 @@ nov/dec) bewust als campagne-ankers gebruiken.
 - [[reason-for-existence]] — concept-zin hierboven; nog niet definitief
   vastgesteld.
 
+## Governance (vastgesteld 2026-09-24)
+
+- Het B2B-marge-/dealerfrustratie-ontstaansverhaal blijft in het
+  dealerkanaal (sell-in, salesdeck) — nooit richting consument.
+- Avontuur-/val-taal blijft in campagnes/social; verpakking en instructies
+  blijven feitelijk-veilig (aansprakelijkheids-/CE-risico anders).
+- Elke assortimentsverbreding (speelhuizen, schommels, zandbakken, ...)
+  wordt eerst los getoetst op marge en logistiek, exact zoals dat ooit de
+  aanleiding was om zelf te gaan labelen — geen categorie erbij zonder die
+  toets.
+
+## Ambitie-horizon — bewust geparkeerd
+
+Contentplatform/beweging, schoolplein-/sportclub-licentiemodel en
+internationalisering (geopperd tijdens het merkpanel) zijn een legitieme
+fase-2-richting, maar nu expliciet buiten scope. Niet oppakken voordat de
+consumentenpositionering staat.
+
 ## Open beslissingen
 
-- Kleurrichting: zwart behouden, welke accentkleur i.p.v. groen?
-- Tagline: definitieve keuze tussen de kandidaten (of nieuwe).
+- Exacte kleurcombinatie (donkere basiskleur + fel signaalaccent) — visuele
+  opties liggen klaar ter keuze, zie merkdocument in `now/`.
+- Typografie- en fotografierichting — visuele opties liggen klaar ter
+  keuze, zie merkdocument in `now/`.
+- Definitieve tagline — "Val op. Sta op." leidt, extra opties ter keuze.
 - Reason-for-existence-zin: definitieve formulering.
 - Grootste merk qua volume — risico blijft dat het merk zonder scherpe
   uitvoering terugzakt naar "prijs-vriendelijk alternatief".
@@ -114,3 +145,5 @@ nov/dec) bewust als campagne-ankers gebruiken.
 
 - **2026-09-22** | ingest (overgenomen uit bartschilten/kennisbank, aangepast voor merkbouw-context) — pagina aangemaakt.
 - **2026-09-22** | Bart, volledige intake (brand-strategy questionnaire) — positionering, villain, doelgroep, waarden, persoonlijkheid, concurrentieanalyse en tagline-kandidaten vastgelegd. Kleurrichting, definitieve tagline en reason-for-existence-zin blijven open beslissingen.
+- **2026-09-24** | merkpanel (5 agent-persona's + chairman-synthese) — positionering, villain, kleur, fotografie/typografie, tagline en assortimentsrisico kritisch doorgelicht.
+- **2026-09-24** | Bart, besluitvorming op panel-vragenlijst — zie [[blits-merkstrategie-fase-1]]: prijs/persoonlijkheid-spanning opgelost (toegankelijk in prijs, premium in uitvoering — Skulum/Create/IKEA PAX als referentie), villain-formulering en -toon vastgesteld, governance-schotten en assortimentstoets vastgesteld, "Play More" losgelaten, ambitie-horizon geparkeerd. Kleurcombinatie en typografie/fotografie blijven open tot visuele keuze.

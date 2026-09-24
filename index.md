@@ -12,7 +12,7 @@ Catalogus van alle pagina's, één regel per pagina, gegroepeerd per type.
 ## brand
 
 - [[baste]] — buitenkoken, positionering nog dubbelzinnig (developing)
-- [[blits]] — buitenspelen, volumemerk, positionering/villain/doelgroep uitgewerkt (developing)
+- [[blits]] — buitenspelen, volumemerk, positionering vastgesteld, kleur/typografie nog open (developing)
 - [[luminous]] — tuinverwarming, seizoensgebonden (developing)
 - [[eigen-merk-tuininrichting]] — tuininrichting, nog naamloos (seed)
 
@@ -42,7 +42,7 @@ _(nog geen pagina's — Bart's eigen synthese komt hier zodra die is uitgekrista
 
 ## decision
 
-_(nog geen pagina's)_
+- [[blits-merkstrategie-fase-1]] — positionering/villain/governance/tagline vastgesteld, kleur/typografie nog open (developing)
 
 ## initiative
 

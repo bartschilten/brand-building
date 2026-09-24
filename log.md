@@ -37,3 +37,15 @@ positionering, villain (brave merken-toon + schermtijd), doelgroep,
 merkwaarden, persoonlijkheidssliders, concurrentieanalyse en
 tagline-kandidaten vastgelegd in `wiki/brands/blits.md`. Open beslissingen:
 kleurrichting, definitieve tagline, reason-for-existence-zin.
+
+## [2026-09-24] decision | BLITS merkstrategie fase 1 vastgesteld
+
+Vijfkoppig agent-persona-panel (advocaat vd duivel, overambitieuze
+visionair, retail-realist, doelgroep-ouder, esthetisch purist) + chairman-
+synthese uitgevoerd op de BLITS-intake. Op basis daarvan heeft Bart
+besluiten genomen: prijs/persoonlijkheid-spanning opgelost, villain
+scherpgesteld, governance-schotten en assortimentstoets vastgesteld,
+tagline-richting bepaald, ambitie-horizon geparkeerd. Vastgelegd in
+`wiki/decisions/blits-merkstrategie-fase-1.md`, verwerkt in
+`wiki/brands/blits.md`. Kleurcombinatie en typografie/fotografie blijven
+open tot visuele keuze.
