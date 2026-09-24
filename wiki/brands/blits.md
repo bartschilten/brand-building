@@ -69,12 +69,24 @@ als premium aanvoelt zónder een premium prijs te vragen. "Bold/vernieuwend"
 wordt dus niet uitgedrukt via prijsstelling, maar via de kwaliteit van
 uitvoering: fotografie, website, verpakking, klantreis.
 
-**Identiteit — kleurrichting vastgesteld, exacte kleuren nog open:** één
-donkere basiskleur (zwart, donkergrijs, donkerrood, donkergroen of
-donkerblauw — nog te kiezen) + één felle, gedurfde, unieke tweede kleur als
-signaalaccent. Huidig groen/zwart/wit vervalt (sameness met Berg/Exit/Salta).
-Visuele opties (paletcombinaties) worden voorgelegd in het merkdocument —
-zie `now/` voor de laatste versie.
+**Identiteit — kleur definitief vastgesteld (2026-09-24):** zwart als
+basiskleur (~95% van product/verpakking/achtergrond) + een Porsche
+Guards/Racing-Red-achtig koraalrood als signaalaccent (~5%, spaarzaam en
+functioneel: logo-detail, stiksel, sticker, CTA). Werkindicatie hex
+~#E14B33/#D5382A — exacte tint nog te bevestigen door een designer met een
+kleurenpicker/Pantone-match op het brongebeeld (Instagram-Porsche-referentie
+van Bart). Huidig groen/zwart/wit vervalt (sameness met Berg/Exit/Salta).
+
+**Tweede laag — categoriecode (geaccepteerd in principe, nog niet ingevuld):**
+idee van een collega, omarmd door Bart: BLITS is overwegend sportspeelgoed
+(voetbal, basketbal, trampoline/rebounder, straks volleybal) — elke sport
+heeft een herkenbare felle kleur (basketbal-oranje, tennisbal-neon,
+volleybalnet-neon, zwembad-babyblauw, witte veldbelijning). Voorstel:
+gebruik deze als beperkt, functioneel kleurcodesysteem per productgroep
+(label/sticker/accentstiksel) bovenop het ene vaste hoofdaccent (koraalrood)
+— nooit als concurrerende eigen kleuren die de merkherkenning verdunnen.
+Speelhuizen/schommels/zandbakken (geen sport) krijgen geen sportkleur, blijven
+bij het hoofdaccent. Nog te doen: concrete kleur-per-sport-mapping.
 
 **Concurrenten:** Berg (duur, agressieve accessoire-pricing), Exit
 Toys/Salta (nette prijs-kwaliteit, maar generiek/private-label-uitstraling
@@ -130,8 +142,10 @@ consumentenpositionering staat.
 
 ## Open beslissingen
 
-- Exacte kleurcombinatie (donkere basiskleur + fel signaalaccent) — visuele
-  opties liggen klaar ter keuze, zie merkdocument in `now/`.
+- Exacte kleurtint bevestigen (kleurenpicker/Pantone-match op de
+  Porsche-referentiefoto) — richting (zwart + koraalrood) staat vast.
+- Categoriecode-laag concreet invullen: welke kleur bij welke sport/product
+  (basketbal, voetbal, trampoline, volleybal, evt. zwembad-gerelateerd).
 - Typografie- en fotografierichting — visuele opties liggen klaar ter
   keuze, zie merkdocument in `now/`.
 - Definitieve tagline — "Val op. Sta op." leidt, extra opties ter keuze.
@@ -147,3 +161,4 @@ consumentenpositionering staat.
 - **2026-09-22** | Bart, volledige intake (brand-strategy questionnaire) — positionering, villain, doelgroep, waarden, persoonlijkheid, concurrentieanalyse en tagline-kandidaten vastgelegd. Kleurrichting, definitieve tagline en reason-for-existence-zin blijven open beslissingen.
 - **2026-09-24** | merkpanel (5 agent-persona's + chairman-synthese) — positionering, villain, kleur, fotografie/typografie, tagline en assortimentsrisico kritisch doorgelicht.
 - **2026-09-24** | Bart, besluitvorming op panel-vragenlijst — zie [[blits-merkstrategie-fase-1]]: prijs/persoonlijkheid-spanning opgelost (toegankelijk in prijs, premium in uitvoering — Skulum/Create/IKEA PAX als referentie), villain-formulering en -toon vastgesteld, governance-schotten en assortimentstoets vastgesteld, "Play More" losgelaten, ambitie-horizon geparkeerd. Kleurcombinatie en typografie/fotografie blijven open tot visuele keuze.
+- **2026-09-24** | Bart, kleur definitief (na sparren over een collega's sport-kleurcode-idee en een Porsche-Instagram-referentie) — zie [[blits-kleur-definitief]]: zwart (~95%) + koraalrood-signaalaccent (~5%) vastgesteld, categoriecode-laag per sport geaccepteerd in principe, nog niet ingevuld.

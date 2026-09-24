@@ -4,11 +4,11 @@ _Laatst ververst: 2026-09-22_
 
 ## Actieve merkbouw-vraagstukken
 
-- **[[blits]]** — merkstrategie fase 1 vastgesteld na intake + agent-panel-
-  review (zie [[blits-merkstrategie-fase-1]]): positionering, villain,
-  governance en tagline-richting staan. Open: exacte kleurcombinatie en
-  typografie/fotografie — wacht op Bart's visuele keuze uit voorgelegde
-  opties.
+- **[[blits]]** — merkstrategie fase 1 vastgesteld (zie
+  [[blits-merkstrategie-fase-1]]) én kleur nu definitief (zie
+  [[blits-kleur-definitief]]: zwart + koraalrood-accent, sport-categoriecode-
+  laag in principe geaccepteerd). Open: exacte kleurtint bevestigen,
+  kleur-per-sport-mapping invullen, typografie/fotografie-keuze.
 - **[[eigen-merk-tuininrichting]]** — nog naamloos, hoogste prioriteit qua
   merkbouw-werk: reason-for-existence en naamgeving staan open (zie de
   pagina voor de aanbevolen volgorde).

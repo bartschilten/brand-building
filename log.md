@@ -49,3 +49,13 @@ tagline-richting bepaald, ambitie-horizon geparkeerd. Vastgelegd in
 `wiki/decisions/blits-merkstrategie-fase-1.md`, verwerkt in
 `wiki/brands/blits.md`. Kleurcombinatie en typografie/fotografie blijven
 open tot visuele keuze.
+
+## [2026-09-24] decision | BLITS kleur definitief: zwart + koraalrood
+
+Na sparren over een sport-kleurcode-idee (collega van Bart) en een Porsche-
+Instagram-referentiefoto: zwart (~95%) als basiskleur + een Porsche
+Guards/Racing-Red-achtig koraalrood (~5%) als signaalaccent vastgesteld.
+Categoriecode-laag (kleur per sport: basketbal, voetbal, trampoline,
+volleybal) geaccepteerd in principe, kleur-per-sport-mapping nog niet
+ingevuld. Vastgelegd in `wiki/decisions/blits-kleur-definitief.md`,
+verwerkt in `wiki/brands/blits.md`.
