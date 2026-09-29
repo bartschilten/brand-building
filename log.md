@@ -72,3 +72,14 @@ speeltoestellen ~90% wit), merk-fit toegevoegd als toetsingscriterium
 naast marge/logistiek. Vastgelegd in
 `wiki/decisions/blits-merkarchitectuur-lijnen.md`, verwerkt in
 `wiki/brands/blits.md`.
+
+## [2026-09-29] decision | BLITS uitvoering fase 2: tagline, typografie, fotografie
+
+Tagline definitief "Buiten wint." (i.p.v. "Val op. Sta op.", nu sport-lijn-
+subline) — claimt de merkbrede schermtijd-villain. Typografie sport-lijn
+vastgesteld: Bebas Neue + Oswald. Fotografierichting speeltoestellen-lijn
+bepaald op basis van Pinterest-referenties van Bart (warm, wit/naturel
+hout, lifestyle-props). Sport-categoriecode-idee losgelaten op Bart's eigen
+initiatief (te druk/operationeel complex). Vastgelegd in
+`wiki/decisions/blits-uitvoering-fase-2.md`, verwerkt in
+`wiki/brands/blits.md`.

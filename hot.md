@@ -4,13 +4,14 @@ _Laatst ververst: 2026-09-22_
 
 ## Actieve merkbouw-vraagstukken
 
-- **[[blits]]** — nu een twee-lijnen-merk (sport + speeltoestellen), zie
-  [[blits-merkarchitectuur-lijnen]]: villain gelaagd (schermtijd merkbreed,
-  brave-merken-villain alleen sport), drie merkkleuren wit/zwart/koraalrood
-  met ratio per lijn. Eerdere besluiten: [[blits-merkstrategie-fase-1]],
-  [[blits-kleur-definitief]]. Open: exacte kleurtint bevestigen,
-  sport-kleur-mapping, fotografierichting speeltoestellen-lijn nog
-  uit te werken.
+- **[[blits]]** — strategiefase vrijwel afgerond: twee-lijnen-architectuur
+  ([[blits-merkarchitectuur-lijnen]]), kleur ([[blits-kleur-definitief]]),
+  en nu ook tagline/typografie/fotografie/sport-kleurcode
+  ([[blits-uitvoering-fase-2]]: "Buiten wint.", Bebas Neue + Oswald,
+  Pinterest-fotografierichting speeltoestellen, sport-kleurcode losgelaten).
+  Open: exacte kleurtint bevestigen, speeltoestellen-typografie visueel
+  bevestigen, reason-for-existence-zin definitief maken. Volgende fase:
+  identiteit (logo-check + visueel identiteitsdocument).
 - **[[eigen-merk-tuininrichting]]** — nog naamloos, hoogste prioriteit qua
   merkbouw-werk: reason-for-existence en naamgeving staan open (zie de
   pagina voor de aanbevolen volgorde).

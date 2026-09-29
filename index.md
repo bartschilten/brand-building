@@ -12,7 +12,7 @@ Catalogus van alle pagina's, één regel per pagina, gegroepeerd per type.
 ## brand
 
 - [[baste]] — buitenkoken, positionering nog dubbelzinnig (developing)
-- [[blits]] — buitenspelen, twee lijnen (sport + speeltoestellen), merkarchitectuur/kleur vastgesteld, typografie/fotografie speeltoestellen nog open (developing)
+- [[blits]] — buitenspelen, twee lijnen (sport + speeltoestellen), merkarchitectuur/kleur/tagline/typografie/fotografie vastgesteld, alleen reason-for-existence-zin nog open (developing)
 - [[luminous]] — tuinverwarming, seizoensgebonden (developing)
 - [[eigen-merk-tuininrichting]] — tuininrichting, nog naamloos (seed)
 
@@ -45,6 +45,7 @@ _(nog geen pagina's — Bart's eigen synthese komt hier zodra die is uitgekrista
 - [[blits-merkstrategie-fase-1]] — positionering/villain/governance/tagline vastgesteld, kleur/typografie nog open (developing)
 - [[blits-kleur-definitief]] — zwart + koraalrood-accent, categoriecode-laag per sport in principe geaccepteerd (developing)
 - [[blits-merkarchitectuur-lijnen]] — sport-lijn + speeltoestellen-lijn, villain gelaagd, drie merkkleuren met ratio per lijn (developing)
+- [[blits-uitvoering-fase-2]] — tagline "Buiten wint.", typografie sport-lijn, fotografie speeltoestellen-lijn, sport-kleurcode losgelaten (developing)
 
 ## initiative
 

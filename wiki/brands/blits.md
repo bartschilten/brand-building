@@ -127,15 +127,17 @@ bevestigen door een designer met een kleurenpicker/Pantone-match op het
 brongebeeld. Huidig groen/zwart/wit (sport) vervalt (sameness met
 Berg/Exit/Salta).
 
-**Sport-categoriecode (geaccepteerd in principe, nog niet ingevuld, alléén
-binnen de sport-lijn):** idee van een collega van Bart — elke sport heeft
-een herkenbare felle kleur (basketbal-oranje, tennisbal-neon,
-volleybalnet-neon, zwembad-babyblauw, witte veldbelijning). Voorstel:
-gebruik deze als beperkt, functioneel kleurcodesysteem per sport-productgroep
-(label/sticker/accentstiksel) bovenop de drie vaste merkkleuren — nooit
-concurrerend met het koraalrode hoofdaccent. Geldt niet voor de
-speeltoestellen-lijn (geen sport-referent). Nog te doen: concrete
-kleur-per-sport-mapping.
+**Sport-categoriecode — losgelaten (2026-09-29):** het idee (elke sport zijn
+eigen felle kleur als label/sticker-systeem) is heroverwogen en geschrapt.
+Reden: een apart kleurcodesysteem per sport-productgroep vereist feitelijk
+verschillende label-/verpakkingsvarianten per productgroep — te druk, te
+onherkenbaar als één merk, en operationeel te complex (precies het
+"sameness-in-de-andere-richting"-risico dat het merkpanel al signaleerde).
+In plaats daarvan: **geen officieel kleurcodesysteem.** De inherente kleur
+van een sportobject (een oranje basketbal, een neon tennisbal, witte
+veldbelijning) mag gewoon zichtbaar zijn in productfotografie/context — dat
+is geen merk-kleursysteem, gewoon de werkelijkheid in beeld, en voegt
+vanzelf visuele variatie toe zonder een aparte productie-/ontwerplaag.
 
 **Concurrenten:** Berg (duur, agressieve accessoire-pricing), Exit
 Toys/Salta (nette prijs-kwaliteit, maar generiek/private-label-uitstraling
@@ -152,10 +154,28 @@ meer kleur/energie). Twee genoemde merknamen ("Fintornrose", "Ameli
 Ameliando") zijn onduidelijk overgekomen — navragen bij Bart voor de juiste
 spelling voordat ze als referentie worden gebruikt.
 
-**Tagline — "Play More" definitief losgelaten** (te generiek, zegt niets
-over villain/esthetiek). **"Val op. Sta op."** is de leidende kandidaat
-(won de doelgroeptest overtuigend). Extra opties ter keuze zie
-merkdocument in `now/`.
+**Tagline — definitief vastgesteld (2026-09-29): "Buiten wint."** ("Play
+More" was al losgelaten; "Val op. Sta op." won eerder de doelgroeptest maar
+bleek bij nader inzien té sport-specifiek — past bij trampolines/rebounders,
+niet bij speelhuizen.) "Buiten wint." claimt de merkbrede schermtijd-villain
+direct en werkt daardoor voor beide lijnen. "Val op. Sta op." wordt niet
+weggegooid maar gedegradeerd tot sport-lijn-specifieke campagnezin/subline.
+
+**Typografie — sport-lijn (2026-09-29):** Bebas Neue voor grote koppen en
+verpakking (sterkste "bold"-statement), Oswald voor subteksten/kleinere
+maten binnen dezelfde familie-sfeer — beide door Bart als sterkste opties
+aangewezen. Speeltoestellen-lijn heeft een eigen, warmere typografie nodig
+(niet condensed/industrieel) — richting: een warm handschrift/serif voor
+bordjes-achtige teksten plus een rustige, ronde sans voor leesbaarheid,
+aansluitend bij de fotografierichting hieronder. Nog niet visueel bevestigd.
+
+**Fotografie — speeltoestellen-lijn (2026-09-29, o.b.v. Pinterest-
+referenties van Bart):** warm natuurlijk daglicht, wit/naturel-hout
+kleurenpalet met zachte groentinten, lifestyle-styling met rieten manden,
+planten, tipi's, vlaggetjes/slingers en handgeschreven bordjes ("Grocery
+Store", "Play Dream Grow"), kind in zachte/naturel kleding, weelderige tuin
+als decor. Volledig anders dan de harde/documentaire sport-fotografie — bewust,
+want andere koper, ander doel (zie [[blits-merkarchitectuur-lijnen]]).
 
 **Businessdoelen (1-2 jaar):** omzet 1-2x, forse assortimentsverbreding
 (sportspeelgoed → speelhuizen/schommels/zandbakken), van
@@ -203,13 +223,9 @@ consumentenpositionering staat.
 - Exacte kleurtint bevestigen (kleurenpicker/Pantone-match op de
   Porsche-referentiefoto) — richting (wit/zwart/koraalrood, ratio per lijn)
   staat vast.
-- Sport-categoriecode-laag concreet invullen: welke kleur bij welke
-  sport/product (basketbal, voetbal, trampoline, volleybal, evt.
-  zwembad-gerelateerd) — alleen binnen de sport-lijn.
-- Typografie- en fotografierichting (sport-lijn) — visuele opties liggen
-  klaar ter keuze, zie merkdocument in `now/`. Speeltoestellen-lijn heeft
-  een eigen, warmere fotografierichting nodig — nog niet visueel uitgewerkt.
-- Definitieve tagline — "Val op. Sta op." leidt, extra opties ter keuze.
+- Typografie speeltoestellen-lijn visueel bevestigen (richting: warm
+  handschrift/serif + ronde sans — nog niet als specimen getoond, in
+  tegenstelling tot de sport-lijn-typografie die al gekozen is).
 - Reason-for-existence-zin: definitieve formulering.
 - Grootste merk qua volume — risico blijft dat het merk zonder scherpe
   uitvoering terugzakt naar "prijs-vriendelijk alternatief".
@@ -224,3 +240,4 @@ consumentenpositionering staat.
 - **2026-09-24** | Bart, besluitvorming op panel-vragenlijst — zie [[blits-merkstrategie-fase-1]]: prijs/persoonlijkheid-spanning opgelost (toegankelijk in prijs, premium in uitvoering — Skulum/Create/IKEA PAX als referentie), villain-formulering en -toon vastgesteld, governance-schotten en assortimentstoets vastgesteld, "Play More" losgelaten, ambitie-horizon geparkeerd. Kleurcombinatie en typografie/fotografie blijven open tot visuele keuze.
 - **2026-09-24** | Bart, kleur definitief (na sparren over een collega's sport-kleurcode-idee en een Porsche-Instagram-referentie) — zie [[blits-kleur-definitief]]: zwart (~95%) + koraalrood-signaalaccent (~5%) vastgesteld, categoriecode-laag per sport geaccepteerd in principe, nog niet ingevuld.
 - **2026-09-29** | Bart, twijfel over speeltoestellen-uitbreiding (bang voor eendimensionaal "sportief" merk zoals Exit/Salta, maar ook niet het generieke Berg-model willen) opgelost via merkarchitectuur — zie [[blits-merkarchitectuur-lijnen]]: villain herstructureerd (schermtijd merkbreed, brave-merken-villain alleen sport-lijn), drie merkkleuren wit/zwart/koraalrood met verhouding per lijn (sport ~90% zwart, speeltoestellen ~90% wit), merk-fit toegevoegd als toetsingscriterium naast marge/logistiek bij assortimentsverbreding.
+- **2026-09-29** | Bart, uitvoeringskeuzes fase 2 — zie [[blits-uitvoering-fase-2]]: tagline definitief "Buiten wint." (i.p.v. "Val op. Sta op.", nu sport-lijn-subline), typografie sport-lijn vastgesteld (Bebas Neue + Oswald), fotografierichting speeltoestellen-lijn bepaald o.b.v. Pinterest-referenties, sport-categoriecode-idee losgelaten (te druk/complex).
