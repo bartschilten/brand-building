@@ -59,3 +59,16 @@ Categoriecode-laag (kleur per sport: basketbal, voetbal, trampoline,
 volleybal) geaccepteerd in principe, kleur-per-sport-mapping nog niet
 ingevuld. Vastgelegd in `wiki/decisions/blits-kleur-definitief.md`,
 verwerkt in `wiki/brands/blits.md`.
+
+## [2026-09-29] decision | BLITS merkarchitectuur: twee lijnen, gelaagde villain
+
+Bart twijfelde over speeltoestellen (speelhuizen/schommels/zandbakken)
+onder BLITS: bang voor een eendimensionaal "sportief" merk (zoals
+Exit/Salta), maar ook niet het generieke Berg-model willen kopiëren.
+Opgelost: villain herstructureerd (schermtijd merkbreed voor elke lijn,
+brave-merken-villain alleen sport-lijn-specifiek), drie vaste merkkleuren
+wit/zwart/koraalrood met andere ratio per lijn (sport ~90% zwart,
+speeltoestellen ~90% wit), merk-fit toegevoegd als toetsingscriterium
+naast marge/logistiek. Vastgelegd in
+`wiki/decisions/blits-merkarchitectuur-lijnen.md`, verwerkt in
+`wiki/brands/blits.md`.

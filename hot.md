@@ -4,11 +4,13 @@ _Laatst ververst: 2026-09-22_
 
 ## Actieve merkbouw-vraagstukken
 
-- **[[blits]]** — merkstrategie fase 1 vastgesteld (zie
-  [[blits-merkstrategie-fase-1]]) én kleur nu definitief (zie
-  [[blits-kleur-definitief]]: zwart + koraalrood-accent, sport-categoriecode-
-  laag in principe geaccepteerd). Open: exacte kleurtint bevestigen,
-  kleur-per-sport-mapping invullen, typografie/fotografie-keuze.
+- **[[blits]]** — nu een twee-lijnen-merk (sport + speeltoestellen), zie
+  [[blits-merkarchitectuur-lijnen]]: villain gelaagd (schermtijd merkbreed,
+  brave-merken-villain alleen sport), drie merkkleuren wit/zwart/koraalrood
+  met ratio per lijn. Eerdere besluiten: [[blits-merkstrategie-fase-1]],
+  [[blits-kleur-definitief]]. Open: exacte kleurtint bevestigen,
+  sport-kleur-mapping, fotografierichting speeltoestellen-lijn nog
+  uit te werken.
 - **[[eigen-merk-tuininrichting]]** — nog naamloos, hoogste prioriteit qua
   merkbouw-werk: reason-for-existence en naamgeving staan open (zie de
   pagina voor de aanbevolen volgorde).

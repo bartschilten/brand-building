@@ -7,7 +7,7 @@ updated: 2026-09-22
 tags: [eigen-merk, buitenspelen]
 related: ["[[remarkable-brand-is-a-promise]]", "[[villain-and-contagious-ideas]]", "[[reason-for-existence]]"]
 aliases: []
-category: "Buitenspelen — sportspeelgoed (voetbaldoelen, basketbalpalen, trampolines) nu; speelhuizen, schommels, zandbakken gepland"
+category: "Buitenspelen — twee lijnen: sport-lijn (voetbaldoelen, basketbalpalen, trampolines, later volleybal) en speeltoestellen-lijn (speelhuizen, schommels, zandbakken)"
 parent: "Toppy (zie bartschilten/kennisbank)"
 owner: "Bart Schilten"
 stage: "positionering"
@@ -39,17 +39,30 @@ trekt.
 liever buiten een keer laten vallen, dan binnen laten scrollen — met een
 esthetiek die niet verdwijnt tussen drie andere merken in dezelfde tuin.
 
-**Villain (dubbel, zie [[villain-and-contagious-ideas]]) — scherpstelling vastgesteld 2026-09-24:**
-1. *Buitenspelen is verworden tot een geregisseerd veiligheidsritueel in
-   plaats van een avontuur* — dit is de scherpere formulering van de
-   oorspronkelijke "brave merken-toon"-villain, en waar BLITS als merk voor
-   wil staan. **Niet** veiligheid zelf, wél hoe erover verteld/getoond
-   wordt. BLITS stelt de veiligheid van producten expliciet niet ter
-   discussie.
-2. Schermtijd/social media — de eigenlijke, grotere concurrent van de hele
-   categorie. **Toonregel:** altijd evocatief/impliciet (tonen, niet
-   vertellen), nooit een directe "wij zijn tegen schermtijd"-claim — BLITS
-   gaat naast de ouder staan, niet tegenover, en geeft geen schuldgevoel.
+**Villain — herstructureerd 2026-09-29 (was "dubbel", nu gelaagd, zie [[villain-and-contagious-ideas]]):**
+
+Bart's twijfel bij de speeltoestellen-uitbreiding (bang om net zo'n
+eendimensionaal "sportief" merk te worden als Exit/Salta, waardoor
+speelhuizen/zandbakken nooit natuurlijk zouden passen — terwijl hij ook niet
+het generieke alles-kunnende Berg-model wil) heeft de twee villains
+uit elkaar getrokken in een **merkbrede** en een **lijn-specifieke** laag:
+
+1. **Merkbrede villain (geldt voor élke categorie, incl. speeltoestellen):**
+   schermtijd/social media — de eigenlijke, grotere concurrent van
+   buitenspelen als geheel. **Toonregel:** altijd evocatief/impliciet
+   (tonen, niet vertellen), nooit een directe "wij zijn tegen
+   schermtijd"-claim — BLITS gaat naast de ouder staan, niet tegenover, en
+   geeft geen schuldgevoel. Dit — niet "sportief" — is het punt of view dat
+   BLITS onderscheidt van het generieke, mening-loze Berg-model.
+2. **Sport-lijn-specifieke villain (alléén voor sportspeelgoed, niet voor
+   speeltoestellen):** *buitenspelen is verworden tot een geregisseerd
+   veiligheidsritueel in plaats van een avontuur* — de concurrentiestrijd
+   tegen de brave/veilige-ritueel-toon van Berg/Exit/Salta specifiek op
+   trampolines/voetbaldoelen/basketbalpalen. **Niet** veiligheid zelf, wél
+   hoe erover verteld/getoond wordt. BLITS stelt de veiligheid van
+   producten expliciet niet ter discussie. Deze villain speelt niet bij
+   speeltoestellen — daar concurreert BLITS al met esthetische merken, geen
+   brave/saaie.
 
 **Doelgroep:** jonge ouders die hun kind willen opvoeden zoals zijzelf zijn
 opgevoed (vallen, opstaan, vies worden, buiten tot het donker) — in
@@ -69,24 +82,60 @@ als premium aanvoelt zónder een premium prijs te vragen. "Bold/vernieuwend"
 wordt dus niet uitgedrukt via prijsstelling, maar via de kwaliteit van
 uitvoering: fotografie, website, verpakking, klantreis.
 
-**Identiteit — kleur definitief vastgesteld (2026-09-24):** zwart als
-basiskleur (~95% van product/verpakking/achtergrond) + een Porsche
-Guards/Racing-Red-achtig koraalrood als signaalaccent (~5%, spaarzaam en
-functioneel: logo-detail, stiksel, sticker, CTA). Werkindicatie hex
-~#E14B33/#D5382A — exacte tint nog te bevestigen door een designer met een
-kleurenpicker/Pantone-match op het brongebeeld (Instagram-Porsche-referentie
-van Bart). Huidig groen/zwart/wit vervalt (sameness met Berg/Exit/Salta).
+## Merkarchitectuur — twee lijnen, één merk (vastgesteld 2026-09-29)
 
-**Tweede laag — categoriecode (geaccepteerd in principe, nog niet ingevuld):**
-idee van een collega, omarmd door Bart: BLITS is overwegend sportspeelgoed
-(voetbal, basketbal, trampoline/rebounder, straks volleybal) — elke sport
-heeft een herkenbare felle kleur (basketbal-oranje, tennisbal-neon,
+Om het "te sportief"-risico op te lossen zonder in het generieke
+alles-kunnende Berg-model te vervallen (zie [[blits-merkarchitectuur-lijnen]]
+voor het volledige besluit): BLITS is één merk met een gedeelde kern die
+nooit verandert, en een uitvoeringslaag die per lijn mag verschillen.
+
+**Kern — overal identiek, ongeacht lijn:**
+- Naam, logo, tagline ("Val op. Sta op." werkt merkbreed, niet alleen sport).
+- Kwaliteitsbelofte: toegankelijk in prijs, premium in uitvoering.
+- Reason-for-existence (avontuur, niet sport-specifiek).
+- Merkbrede villain (schermtijd, evocatief).
+- Drie merkkleuren wit/zwart/koraalrood (zie hieronder) — altijd dezelfde
+  drie, alleen de onderlinge verhouding verschuift per lijn.
+
+**Uitvoering — mag verschillen per lijn:**
+- **Sport-lijn** (voetbal, basketbal, trampoline/rebounder): sport-lijn-
+  villain (tegen brave/veilige-ritueel-toon), stoere/harde documentaire
+  fotografie (geen golden hour), zwart-dominant kleurgebruik.
+- **Speeltoestellen-lijn** (speelhuizen, schommels, zandbakken): geen
+  sport-villain, alléén de merkbrede schermtijd-villain, warme/sfeervolle
+  Pinterest-waardige stylingfotografie, wit-dominant kleurgebruik. Zwart
+  wordt hier ingezet als gewild structureel materiaal (deur, dakrand,
+  kozijnen, hang-en-sluitwerk — vergelijkbaar met bestaande populaire
+  zwart/wit/hout-speelhuisesthetiek), niet als "stoere sport-kleur".
+
+## Identiteit — kleur: drie merkkleuren, verhouding per lijn (vastgesteld 2026-09-29)
+
+BLITS heeft drie vaste merkkleuren — **wit (hoofdkleur), koraalrood
+(signaalkleur), zwart (derde kleur)** — die in élke lijn voorkomen, maar in
+een andere onderlinge verhouding:
+
+- **Sport-lijn:** ~90% zwart, klein beetje wit, klein signaalaccent
+  koraalrood.
+- **Speeltoestellen-lijn:** ~90% wit, ~10% zwart (structurele elementen),
+  klein signaalaccent koraalrood.
+
+Koraalrood is in beide lijnen de constante, spaarzaam ingezette
+herkenningskleur (logo-detail, stiksel, sticker, deurklink, naambordje,
+CTA). Werkindicatie hex ~#E14B33/#D5382A (Porsche Guards/Racing-Red-achtig,
+naar aanleiding van een Instagram-referentie van Bart) — exacte tint nog te
+bevestigen door een designer met een kleurenpicker/Pantone-match op het
+brongebeeld. Huidig groen/zwart/wit (sport) vervalt (sameness met
+Berg/Exit/Salta).
+
+**Sport-categoriecode (geaccepteerd in principe, nog niet ingevuld, alléén
+binnen de sport-lijn):** idee van een collega van Bart — elke sport heeft
+een herkenbare felle kleur (basketbal-oranje, tennisbal-neon,
 volleybalnet-neon, zwembad-babyblauw, witte veldbelijning). Voorstel:
-gebruik deze als beperkt, functioneel kleurcodesysteem per productgroep
-(label/sticker/accentstiksel) bovenop het ene vaste hoofdaccent (koraalrood)
-— nooit als concurrerende eigen kleuren die de merkherkenning verdunnen.
-Speelhuizen/schommels/zandbakken (geen sport) krijgen geen sportkleur, blijven
-bij het hoofdaccent. Nog te doen: concrete kleur-per-sport-mapping.
+gebruik deze als beperkt, functioneel kleurcodesysteem per sport-productgroep
+(label/sticker/accentstiksel) bovenop de drie vaste merkkleuren — nooit
+concurrerend met het koraalrode hoofdaccent. Geldt niet voor de
+speeltoestellen-lijn (geen sport-referent). Nog te doen: concrete
+kleur-per-sport-mapping.
 
 **Concurrenten:** Berg (duur, agressieve accessoire-pricing), Exit
 Toys/Salta (nette prijs-kwaliteit, maar generiek/private-label-uitstraling
@@ -116,9 +165,9 @@ nov/dec) bewust als campagne-ankers gebruiken.
 
 ## Toe te passen frameworks
 
-- [[villain-and-contagious-ideas]] — villain nu concreet: brave
-  merken-toon + schermtijd. Emotion + Practical value (voor ouders) als
-  STEPPS-triggers.
+- [[villain-and-contagious-ideas]] — villain gelaagd: schermtijd
+  merkbreed, brave merken-toon alleen sport-lijn. Emotion + Practical value
+  (voor ouders) als STEPPS-triggers.
 - [[reason-for-existence]] — concept-zin hierboven; nog niet definitief
   vastgesteld.
 
@@ -132,6 +181,15 @@ nov/dec) bewust als campagne-ankers gebruiken.
   wordt eerst los getoetst op marge en logistiek, exact zoals dat ooit de
   aanleiding was om zelf te gaan labelen — geen categorie erbij zonder die
   toets.
+- **Nieuw (2026-09-29):** elke assortimentsverbreding wordt óók getoetst op
+  merk-fit — past de categorie bij de merkbrede kern (naam/logo/kwaliteit/
+  schermtijd-villain/drie merkkleuren), ook als de sport-lijn-villain en
+  -toon niet van toepassing zijn? Zie [[blits-merkarchitectuur-lijnen]].
+- De vaste merkconstanten (logo, naam, tagline, koraalrood-detail,
+  typografie/verpakkingsstructuur) blijven ongewijzigd over lijnen heen —
+  alleen villain-toepassing, fotostijl en kleurverhouding mogen per lijn
+  verschillen. Zonder die discipline valt de twee-lijnen-architectuur uit
+  elkaar in twee merken.
 
 ## Ambitie-horizon — bewust geparkeerd
 
@@ -143,11 +201,14 @@ consumentenpositionering staat.
 ## Open beslissingen
 
 - Exacte kleurtint bevestigen (kleurenpicker/Pantone-match op de
-  Porsche-referentiefoto) — richting (zwart + koraalrood) staat vast.
-- Categoriecode-laag concreet invullen: welke kleur bij welke sport/product
-  (basketbal, voetbal, trampoline, volleybal, evt. zwembad-gerelateerd).
-- Typografie- en fotografierichting — visuele opties liggen klaar ter
-  keuze, zie merkdocument in `now/`.
+  Porsche-referentiefoto) — richting (wit/zwart/koraalrood, ratio per lijn)
+  staat vast.
+- Sport-categoriecode-laag concreet invullen: welke kleur bij welke
+  sport/product (basketbal, voetbal, trampoline, volleybal, evt.
+  zwembad-gerelateerd) — alleen binnen de sport-lijn.
+- Typografie- en fotografierichting (sport-lijn) — visuele opties liggen
+  klaar ter keuze, zie merkdocument in `now/`. Speeltoestellen-lijn heeft
+  een eigen, warmere fotografierichting nodig — nog niet visueel uitgewerkt.
 - Definitieve tagline — "Val op. Sta op." leidt, extra opties ter keuze.
 - Reason-for-existence-zin: definitieve formulering.
 - Grootste merk qua volume — risico blijft dat het merk zonder scherpe
@@ -162,3 +223,4 @@ consumentenpositionering staat.
 - **2026-09-24** | merkpanel (5 agent-persona's + chairman-synthese) — positionering, villain, kleur, fotografie/typografie, tagline en assortimentsrisico kritisch doorgelicht.
 - **2026-09-24** | Bart, besluitvorming op panel-vragenlijst — zie [[blits-merkstrategie-fase-1]]: prijs/persoonlijkheid-spanning opgelost (toegankelijk in prijs, premium in uitvoering — Skulum/Create/IKEA PAX als referentie), villain-formulering en -toon vastgesteld, governance-schotten en assortimentstoets vastgesteld, "Play More" losgelaten, ambitie-horizon geparkeerd. Kleurcombinatie en typografie/fotografie blijven open tot visuele keuze.
 - **2026-09-24** | Bart, kleur definitief (na sparren over een collega's sport-kleurcode-idee en een Porsche-Instagram-referentie) — zie [[blits-kleur-definitief]]: zwart (~95%) + koraalrood-signaalaccent (~5%) vastgesteld, categoriecode-laag per sport geaccepteerd in principe, nog niet ingevuld.
+- **2026-09-29** | Bart, twijfel over speeltoestellen-uitbreiding (bang voor eendimensionaal "sportief" merk zoals Exit/Salta, maar ook niet het generieke Berg-model willen) opgelost via merkarchitectuur — zie [[blits-merkarchitectuur-lijnen]]: villain herstructureerd (schermtijd merkbreed, brave-merken-villain alleen sport-lijn), drie merkkleuren wit/zwart/koraalrood met verhouding per lijn (sport ~90% zwart, speeltoestellen ~90% wit), merk-fit toegevoegd als toetsingscriterium naast marge/logistiek bij assortimentsverbreding.
