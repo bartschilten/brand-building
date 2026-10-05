@@ -4,15 +4,17 @@ _Laatst ververst: 2026-09-22_
 
 ## Actieve merkbouw-vraagstukken
 
-- **[[blits]]** — strategiefase afgerond, identiteitsfase gestart (zie
-  [[blits-identiteit-logo-kleurenpalet]]): logo bevestigd (werkt ongewijzigd
-  op beide lijnen), kleurenpalet uitgebreid naar vijf kleuren (diep
-  olijfgroen + zand/crème als eigen palet voor de speeltoestellen-lijn,
-  naast zwart/koraalrood), Engelse tagline-werktitel "Outside Wins.". Open:
-  oker als vijfde accent bevestigen, Engelse tagline definitief maken,
-  logo-lockups herbouwen. Eerdere besluiten: [[blits-merkstrategie-fase-1]],
-  [[blits-kleur-definitief]], [[blits-merkarchitectuur-lijnen]],
-  [[blits-uitvoering-fase-2]], [[blits-strategie-afgerond]].
+- **[[blits]]** — identiteitsfase loopt (zie
+  [[blits-kleur-typografie-herzien]], vervolg op
+  [[blits-identiteit-logo-kleurenpalet]]): kleurenpalet nu vier gedeelde
+  kleuren voor béíde lijnen (koraalrood, diep olijfgroen, zand/crème,
+  neongeel — zwart geschrapt), nieuw merkbreed lettertype-trio (Archivo
+  Black/Outfit/Kalam, vervangt Bebas Neue + Oswald), Engelse tagline
+  "Outside Wins." definitief, logo accuraat gerecolord in canvas. Open:
+  logo-lockups laten vectoriseren door een designer. Eerdere besluiten:
+  [[blits-merkstrategie-fase-1]], [[blits-kleur-definitief]],
+  [[blits-merkarchitectuur-lijnen]], [[blits-uitvoering-fase-2]],
+  [[blits-strategie-afgerond]].
 - **[[eigen-merk-tuininrichting]]** — nog naamloos, hoogste prioriteit qua
   merkbouw-werk: reason-for-existence en naamgeving staan open (zie de
   pagina voor de aanbevolen volgorde).

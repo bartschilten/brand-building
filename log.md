@@ -111,3 +111,19 @@ expansie. Verouderde "Play More"-lockups gesignaleerd voor herbouw.
 Vastgelegd in `wiki/decisions/blits-identiteit-logo-kleurenpalet.md`,
 verwerkt in `wiki/brands/blits.md` (stage: identiteit). Canvas bijgewerkt
 met Kleur-bord (5 kleuren) en nieuw Logo-bord.
+
+## [2026-10-05] decision | BLITS kleur en typografie herzien
+
+Op het canvas, direct door Bart doorgewerkt: kleurenpalet teruggebracht van
+vijf naar vier kleuren, nu écht gedeeld over beide lijnen — koraalrood,
+diep olijfgroen, zand/crème, neongeel (tennisbal). Zwart geschrapt uit het
+officiële palet (koerscorrectie op de "zwart blijft anker"-beslissing van
+24 september); diep olijfgroen neemt die ankerrol over, ook in de
+sport-lijn. Nieuw merkbreed lettertype-trio aangedragen door Bart: Archivo
+Black (header), Outfit (body), Kalam (handgeschreven accent) — vervangt
+Bebas Neue + Oswald. Engelse tagline "Outside Wins." definitief bevestigd.
+Logo accuraat gerecolord (Python/Pillow) in de vier merkkleuren en als
+assets in het canvas gezet, CSS-benaderingen vervangen door echte
+kleurvarianten. Vastgelegd in
+`wiki/decisions/blits-kleur-typografie-herzien.md`, verwerkt in
+`wiki/brands/blits.md`.

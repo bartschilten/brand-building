@@ -12,7 +12,7 @@ Catalogus van alle pagina's, één regel per pagina, gegroepeerd per type.
 ## brand
 
 - [[baste]] — buitenkoken, positionering nog dubbelzinnig (developing)
-- [[blits]] — buitenspelen, twee lijnen (sport + speeltoestellen), strategiefase afgerond, identiteitsfase gestart (logo bevestigd, 5-kleurenpalet) (developing)
+- [[blits]] — buitenspelen, twee lijnen (sport + speeltoestellen), strategiefase afgerond, identiteitsfase: logo bevestigd, 4-kleurenpalet (geen zwart meer), nieuw lettertype-trio (developing)
 - [[luminous]] — tuinverwarming, seizoensgebonden (developing)
 - [[eigen-merk-tuininrichting]] — tuininrichting, nog naamloos (seed)
 
@@ -48,6 +48,7 @@ _(nog geen pagina's — Bart's eigen synthese komt hier zodra die is uitgekrista
 - [[blits-uitvoering-fase-2]] — tagline "Buiten wint.", typografie sport-lijn, fotografie speeltoestellen-lijn, sport-kleurcode losgelaten (developing)
 - [[blits-strategie-afgerond]] — reason-for-existence definitief, typografie-correctie (één merkbreed lettertypepaar), kleurtint gepauzeerd (developing)
 - [[blits-identiteit-logo-kleurenpalet]] — logo bevestigd, 5-kleurenpalet (olijfgroen + zand/crème voor speeltoestellen-lijn), Engelse tagline-werktitel (developing)
+- [[blits-kleur-typografie-herzien]] — palet teruggebracht naar vier gedeelde kleuren (zwart geschrapt), nieuw lettertype-trio Archivo Black/Outfit/Kalam, "Outside Wins." definitief (developing)
 
 ## initiative
 

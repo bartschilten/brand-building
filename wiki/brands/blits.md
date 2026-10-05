@@ -111,47 +111,48 @@ nooit verandert, en een uitvoeringslaag die per lijn mag verschillen.
   kozijnen, hang-en-sluitwerk — vergelijkbaar met bestaande populaire
   zwart/wit/hout-speelhuisesthetiek), niet als "stoere sport-kleur".
 
-## Identiteit — kleur: vijf merkkleuren, elke lijn haar eigen subset (uitgebreid 2026-10-05)
+## Identiteit — kleur: vier merkkleuren, één gedeeld palet (herzien 2026-10-05)
 
-Oorspronkelijk drie merkkleuren (wit/koraalrood/zwart) met ratio per lijn —
-uitgebreid naar vijf, waarbij elke lijn een eigen, harmonieuze subset
-gebruikt in plaats van hetzelfde palet verdund:
+Eerdere versie had vijf kleuren met per lijn een andere subset (inclusief
+zwart als sport-anker en een voorgesteld oker-accent). Bart heeft dit
+herzien tot één écht gedeeld palet van vier kleuren voor béíde lijnen —
+"geldt altijd voor het merk, voor alle producten en lijnen", alleen de
+ratio verschuift:
 
-- **Zwart** `#0E0E10` — sport-lijn, dominant (~90%).
 - **Koraalrood** `~#E14B33` — constante signaalkleur, béíde lijnen, altijd
   spaarzaam (logo-detail, stiksel, sticker, deurklink, naambordje, CTA).
   Werkindicatie hex ~#E14B33/#D5382A (Porsche Guards/Racing-Red-achtig) —
   exacte tint bewust gepauzeerd (zie Open beslissingen).
-- **Diep olijfgroen** `#1B2E21` — nieuw (2026-10-05, Bart's eigen vondst,
-  Jamera-referentie), speeltoestellen-lijn: "stoer, volwassen tegenwicht"
-  tegen het felle koraalrood. Sluit direct aan bij de al vastgelegde
-  Pinterest-fotografierichting (zachte groentinten).
-- **Zand/crème** `~#F2E8D5` — vervangt hard wit als basis van de
-  speeltoestellen-lijn (warmer, zachter, past bij olijfgroen én koraalrood).
-- **Oker/mosterdgeel** `~#C9893E` — vijfde accentkleur, voorgesteld door de
-  assistent op Bart's verzoek om het palet "rond te maken" (kleurt warm met
-  koraalrood, olijfgroen én zand) — **nog niet door Bart bevestigd.**
+- **Diep olijfgroen** `#1B2E21` — Bart's eigen vondst (Jamera-referentie).
+  Neemt de rol over van "donker, stoer anker" die eerder aan zwart werd
+  toegeschreven — nu ook in de sport-lijn, niet alleen speeltoestellen.
+- **Zand/crème** `~#F2E8D5` — vervangt hard wit; warmer, zachter, past bij
+  olijfgroen én koraalrood.
+- **Neongeel (tennisbal)** `~#D7FF1A` — vervangt het eerder voorgestelde
+  oker/mosterdgeel; feller, directere sport-associatie, werkt in beide
+  lijnen als klein, fel accentdetail.
 
-**Sport-lijn:** ~90% zwart, klein beetje wit, klein signaalaccent
-koraalrood — ongewijzigd.
+**Zwart `#0E0E10` is uit het officiële palet geschrapt** (2026-10-05) — dit
+is een expliciete koerscorrectie op de eerdere "zwart blijft anker"-
+beslissing van 2026-09-24. Diep olijfgroen neemt die rol nu over.
 
-**Speeltoestellen-lijn (herzien 2026-10-05):** zand/crème als basis, diep
-olijfgroen als tegenwicht (verf, luiken, structurele elementen i.p.v. het
-eerder genoemde zwart), klein signaalaccent koraalrood. Dit is een eigen
-palet binnen het merksysteem, geen verdunde versie van het sport-palet.
+**Sport-lijn:** diep olijfgroen dominant (~70%, i.p.v. zwart), zand/crème
+als lichte tegenkleur (~15%), koraalrood signaal (~10%), neongeel als felle
+sport-pop (~5%, sluit toevallig mooi aan bij de eerder overwogen
+"sport-kleurcode"-gedachte — nu puur als merkaccent, niet als systeem per
+sport). Hard licht, documentaire fotografie blijft ongewijzigd.
 
-Huidig groen/zwart/wit (sport) vervalt (sameness met Berg/Exit/Salta) —
-niet te verwarren met het nieuwe diepe olijfgroen, dat alleen in de
-speeltoestellen-lijn voorkomt.
+**Speeltoestellen-lijn:** zand/crème dominant (~60%), diep olijfgroen als
+tegenwicht (~25%, structurele elementen: deur, dakrand, kozijnen, luiken),
+koraalrood signaal (~10%), neongeel als klein speels detail (~5%).
 
 **Logo — kleurvarianten (2026-10-05):** het bestaande beeldmerk (schild +
-BLITS-belettering) werkt ongewijzigd op beide lijnen. Getoond in drie vlakke
-kleuren afhankelijk van de ondergrond — niet multicolor in zichzelf: zwart
-op lichte/zand achtergrond, wit op donkere/olijfgroene achtergrond,
-koraalrood als signaalversie. De twee bestaande lockup-varianten met
-"PLAY MORE" zijn verouderd (die tagline is losgelaten op 2026-09-29) en
-moeten herbouwd worden met "Buiten wint." / de Engelse tagline zodra die
-definitief is.
+BLITS-belettering) werkt ongewijzigd op beide lijnen, nu accuraat
+gerecolord (geen CSS-benadering) in koraalrood, diep olijfgroen, wit (op
+donker) en neongeel — zie het Logo-bord in het canvas. De twee bestaande
+lockup-varianten met "PLAY MORE" zijn verouderd (tagline losgelaten
+2026-09-29, ander lettertype) en worden herbouwd met "Buiten wint." /
+"Outside Wins." in Archivo Black.
 
 **Sport-categoriecode — losgelaten (2026-09-29):** het idee (elke sport zijn
 eigen felle kleur als label/sticker-systeem) is heroverwogen en geschrapt.
@@ -187,23 +188,31 @@ niet bij speelhuizen.) "Buiten wint." claimt de merkbrede schermtijd-villain
 direct en werkt daardoor voor beide lijnen. "Val op. Sta op." wordt niet
 weggegooid maar gedegradeerd tot sport-lijn-specifieke campagnezin/subline.
 
-**Engelse variant — nog niet definitief (2026-10-05):** BLITS wil met het
-merk heel Europa in, dus "Buiten wint." heeft een Engelse tegenhanger
-nodig. Werktitel: **"Outside Wins."** (bijna 1-op-1 vertaling, zelfde ritme
-en claim op villain #2). Alternatieven: "Outdoors Always Wins.",
-"Go Outside. Win." Zodra Bart kiest, worden de logo-lockups bijgewerkt.
+**Engelse variant — definitief vastgesteld (2026-10-05): "Outside Wins."**
+BLITS wil met het merk heel Europa in, dus "Buiten wint." kreeg een Engelse
+tegenhanger (bijna 1-op-1 vertaling, zelfde ritme en claim op villain #2).
+Logo-lockups worden hierop gebaseerd.
 
-**Typografie — merkbreed, één lettertypepaar voor béíde lijnen (gecorrigeerd
-2026-10-05):** Bebas Neue voor grote koppen en verpakking (sterkste
-"bold"-statement), Oswald voor subteksten/kleinere maten — geldt voor sport-
-én speeltoestellen-lijn. Eerder was hier per abuis een aparte, warmere
-typografie (Fraunces/Caveat/Quicksand) voor de speeltoestellen-lijn
-voorgesteld — dat was een eigen inconsistentie met de al langer geldende
-governance-regel dat typografie een vaste merkconstante is (zie
-Governance). Bart corrigeerde dit: één merk vraagt één lettertype, anders
-wordt het "een zooitje in plaats van een merk". Condensed/industrieel hoeft
-niet "stoer" te ogen zodra het terughoudender (kleiner, meer witruimte)
-wordt ingezet op de rustigere speeltoestellen-fotografie.
+**Typografie — merkbreed, drie lettertypes met vaste rol (herzien
+2026-10-05, vervangt Bebas Neue + Oswald):** Bart's eigen keuze, geldt
+altijd, voor het hele merk, alle producten en lijnen:
+
+- **Archivo Black** — header/koppen. Massief, zwaar, breed. Grote H1-koppen,
+  verpakking, folders — altijd in hoofdletters, in koraalrood of diep
+  olijfgroen.
+- **Outfit** (Regular/Medium) — body/leestekst. Geometrisch, rond,
+  vriendelijk — productomschrijvingen, voorwaarden, UI. Diep olijfgroen op
+  zand/crème.
+- **Kalam** — accent/speelse twist. Handgeschreven, dikke stift, rauw —
+  pijltjes/notities in de webshop, schuine watermerken op productfoto's,
+  korte quotes op verpakking. Spaarzaam gebruiken. Sluit opvallend goed aan
+  bij de handgeschreven bordjes in de Pinterest-fotografierichting van de
+  speeltoestellen-lijn (zie hieronder) — daar past dit accent-lettertype
+  zelfs beter dan in de sport-lijn.
+
+De eerdere Bebas Neue + Oswald-keuze (29-09-2026) is hiermee vervangen.
+Nog steeds hetzelfde principe: één lettertypesysteem voor het hele merk,
+geen aparte typografie per lijn.
 
 **Fotografie — speeltoestellen-lijn (2026-09-29, o.b.v. Pinterest-
 referenties van Bart):** warm natuurlijk daglicht, wit/naturel-hout
@@ -214,7 +223,8 @@ sport-fotografie — bewust, want andere koper, ander doel (zie
 [[blits-merkarchitectuur-lijnen]]). Dit mag verschillen van de sport-lijn
 (fotostijl is uitvoering, geen merkconstante); kleurenpalet en typografie
 blijven wél gelijk aan de sport-lijn, alleen de ratio/toon schuift (zie
-Identiteit — kleur hierboven).
+Identiteit — kleur hierboven). Diep olijfgroen (niet langer zwart) is het
+structurele materiaal (deur, dakrand, kozijnen, luiken) in deze lijn.
 
 **Businessdoelen (1-2 jaar):** omzet 1-2x, forse assortimentsverbreding
 (sportspeelgoed → speelhuizen/schommels/zandbakken), van
@@ -259,18 +269,11 @@ consumentenpositionering staat.
 
 ## Open beslissingen
 
-Identiteitsfase gestart (2026-10-05). Open:
+Identiteitsfase loopt. Open:
 
-- Oker/mosterdgeel (~#C9893E) als vijfde accentkleur — voorstel van de
-  assistent, nog niet door Bart bevestigd. Alternatief geopperd: stofblauw
-  (~#5B7B8C).
-- Engelse tagline definitief kiezen (werktitel "Outside Wins.") — zodra
-  bevestigd, logo-lockups bijwerken.
-- Logo-lockups met "PLAY MORE" herbouwen met "Buiten wint." / de Engelse
-  tagline — wacht op bovenstaande.
-- Echte kleurvariant-bestanden van het logo (zwart/wit/koraalrood) laten
-  exporteren door een designer — het canvas toont nu alleen een
-  conceptuele CSS-benadering.
+- Logo-lockups met "PLAY MORE" definitief herbouwen (vector, door een
+  designer) met "Buiten wint." / "Outside Wins." in Archivo Black — het
+  canvas toont nu een concept-richting, geen productiebestand.
 - Exacte kleurtint koraalrood — bewust gepauzeerd, geen actie nodig tot
   productie/druk aan de orde is.
 - Grootste merk qua volume — risico blijft dat het merk zonder scherpe
@@ -289,3 +292,4 @@ Identiteitsfase gestart (2026-10-05). Open:
 - **2026-09-29** | Bart, uitvoeringskeuzes fase 2 — zie [[blits-uitvoering-fase-2]]: tagline definitief "Buiten wint." (i.p.v. "Val op. Sta op.", nu sport-lijn-subline), typografie sport-lijn vastgesteld (Bebas Neue + Oswald), fotografierichting speeltoestellen-lijn bepaald o.b.v. Pinterest-referenties, sport-categoriecode-idee losgelaten (te druk/complex).
 - **2026-10-05** | Bart, strategiefase afgerond — zie [[blits-strategie-afgerond]]: reason-for-existence definitief (met sociaal aspect: vriendschap, teleurstelling/verlies), typografie-inconsistentie gecorrigeerd (één merkbreed lettertypepaar i.p.v. aparte speeltoestellen-typografie), exacte kleurtint bewust gepauzeerd. Strategiefase inhoudelijk klaar; volgende fase: identiteit (logo-check + visueel identiteitsdocument).
 - **2026-10-05** | Bart, identiteitsfase gestart — logo beoordeeld (schild+belettering, werkt ongewijzigd op beide lijnen in drie kleurvarianten), kleurenpalet uitgebreid naar vijf kleuren (diep olijfgroen + zand/crème eigen palet voor speeltoestellen-lijn, oker als voorgesteld vijfde accent), Engelse tagline-werktitel "Outside Wins." voorgesteld, verouderde "Play More"-lockups gesignaleerd voor herbouw. Zie [[blits-identiteit-logo-kleurenpalet]].
+- **2026-10-05** | Bart, kleur- en typografieherziening — zie [[blits-kleur-typografie-herzien]]: palet teruggebracht naar vier gedeelde kleuren (zwart geschrapt, diep olijfgroen neemt sport-ankerrol over, neongeel vervangt oker), nieuw merkbreed lettertype-trio (Archivo Black/Outfit/Kalam, vervangt Bebas Neue + Oswald), Engelse tagline "Outside Wins." definitief bevestigd, logo accuraat gerecolord in de vier kleuren.
