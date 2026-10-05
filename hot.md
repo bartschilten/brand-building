@@ -4,14 +4,13 @@ _Laatst ververst: 2026-09-22_
 
 ## Actieve merkbouw-vraagstukken
 
-- **[[blits]]** — strategiefase vrijwel afgerond: twee-lijnen-architectuur
-  ([[blits-merkarchitectuur-lijnen]]), kleur ([[blits-kleur-definitief]]),
-  en nu ook tagline/typografie/fotografie/sport-kleurcode
-  ([[blits-uitvoering-fase-2]]: "Buiten wint.", Bebas Neue + Oswald,
-  Pinterest-fotografierichting speeltoestellen, sport-kleurcode losgelaten).
-  Open: exacte kleurtint bevestigen, speeltoestellen-typografie visueel
-  bevestigen, reason-for-existence-zin definitief maken. Volgende fase:
-  identiteit (logo-check + visueel identiteitsdocument).
+- **[[blits]]** — strategiefase afgerond (zie [[blits-strategie-afgerond]]):
+  reason-for-existence definitief (incl. sociaal aspect), typografie
+  gecorrigeerd naar één merkbreed paar (Bebas Neue + Oswald, geen aparte
+  speeltoestellen-typografie), kleurtint bewust gepauzeerd. Eerdere
+  besluiten: [[blits-merkstrategie-fase-1]], [[blits-kleur-definitief]],
+  [[blits-merkarchitectuur-lijnen]], [[blits-uitvoering-fase-2]]. Volgende
+  fase: identiteit (logo-check + visueel identiteitsdocument).
 - **[[eigen-merk-tuininrichting]]** — nog naamloos, hoogste prioriteit qua
   merkbouw-werk: reason-for-existence en naamgeving staan open (zie de
   pagina voor de aanbevolen volgorde).

@@ -83,3 +83,17 @@ hout, lifestyle-props). Sport-categoriecode-idee losgelaten op Bart's eigen
 initiatief (te druk/operationeel complex). Vastgelegd in
 `wiki/decisions/blits-uitvoering-fase-2.md`, verwerkt in
 `wiki/brands/blits.md`.
+
+## [2026-10-05] decision | BLITS strategiefase afgerond
+
+Reason-for-existence definitief vastgesteld, uitgebreid met het sociale
+aspect (vriendschap, omgaan met teleurstelling/verlies) op aangeven van
+Bart. Typografie-inconsistentie gecorrigeerd: één merkbreed lettertypepaar
+(Bebas Neue + Oswald) voor beide lijnen, de eerder voorgestelde aparte
+speeltoestellen-typografie (Fraunces/Caveat/Quicksand) losgelaten —
+conflicteerde met de bestaande governance-regel dat typografie een vaste
+merkconstante is. Exacte kleurtint bewust gepauzeerd, geen actie nu nodig.
+Vastgelegd in `wiki/decisions/blits-strategie-afgerond.md`, verwerkt in
+`wiki/brands/blits.md`. Hiermee is de strategiefase van BLITS inhoudelijk
+afgerond; volgende fase is identiteit (logo-check + visueel
+identiteitsdocument).

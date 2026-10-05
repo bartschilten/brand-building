@@ -30,10 +30,13 @@ baby tot puber, over alle buitenspeel-categorieën heen.
 
 ## Merkstrategie (2026-09-22 intake)
 
-**Reason for existence (concept, nog niet definitief):** kinderen een
-avontuurlijke, onbezorgde jeugd buiten geven — van eerste stapjes tot
-puberteit — in een wereld die ze anders naar binnen (en naar het scherm)
-trekt.
+**Reason for existence — definitief (2026-10-05):** "BLITS bestaat om
+kinderen, van dreumes tot puber, buiten te laten opgroeien — met vriendjes
+die je nog niet kent, teleurstellingen die je overleeft, en avontuur dat
+geen scherm je kan geven." Uitgebreid t.o.v. de eerdere conceptzin met het
+sociale aspect (socializen, omgaan met teleurstelling/verlies, vriendschap
+sluiten met onbekende kinderen) — nadrukkelijk niet alleen "avontuur tegen
+schermtijd", ook "leren omgaan met andere kinderen".
 
 **Positioneringsstatement:** BLITS is het merk voor ouders die hun kind
 liever buiten een keer laten vallen, dan binnen laten scrollen — met een
@@ -161,21 +164,28 @@ niet bij speelhuizen.) "Buiten wint." claimt de merkbrede schermtijd-villain
 direct en werkt daardoor voor beide lijnen. "Val op. Sta op." wordt niet
 weggegooid maar gedegradeerd tot sport-lijn-specifieke campagnezin/subline.
 
-**Typografie — sport-lijn (2026-09-29):** Bebas Neue voor grote koppen en
-verpakking (sterkste "bold"-statement), Oswald voor subteksten/kleinere
-maten binnen dezelfde familie-sfeer — beide door Bart als sterkste opties
-aangewezen. Speeltoestellen-lijn heeft een eigen, warmere typografie nodig
-(niet condensed/industrieel) — richting: een warm handschrift/serif voor
-bordjes-achtige teksten plus een rustige, ronde sans voor leesbaarheid,
-aansluitend bij de fotografierichting hieronder. Nog niet visueel bevestigd.
+**Typografie — merkbreed, één lettertypepaar voor béíde lijnen (gecorrigeerd
+2026-10-05):** Bebas Neue voor grote koppen en verpakking (sterkste
+"bold"-statement), Oswald voor subteksten/kleinere maten — geldt voor sport-
+én speeltoestellen-lijn. Eerder was hier per abuis een aparte, warmere
+typografie (Fraunces/Caveat/Quicksand) voor de speeltoestellen-lijn
+voorgesteld — dat was een eigen inconsistentie met de al langer geldende
+governance-regel dat typografie een vaste merkconstante is (zie
+Governance). Bart corrigeerde dit: één merk vraagt één lettertype, anders
+wordt het "een zooitje in plaats van een merk". Condensed/industrieel hoeft
+niet "stoer" te ogen zodra het terughoudender (kleiner, meer witruimte)
+wordt ingezet op de rustigere speeltoestellen-fotografie.
 
 **Fotografie — speeltoestellen-lijn (2026-09-29, o.b.v. Pinterest-
 referenties van Bart):** warm natuurlijk daglicht, wit/naturel-hout
 kleurenpalet met zachte groentinten, lifestyle-styling met rieten manden,
-planten, tipi's, vlaggetjes/slingers en handgeschreven bordjes ("Grocery
-Store", "Play Dream Grow"), kind in zachte/naturel kleding, weelderige tuin
-als decor. Volledig anders dan de harde/documentaire sport-fotografie — bewust,
-want andere koper, ander doel (zie [[blits-merkarchitectuur-lijnen]]).
+planten, tipi's, vlaggetjes/slingers, kind in zachte/naturel kleding,
+weelderige tuin als decor. Volledig anders dan de harde/documentaire
+sport-fotografie — bewust, want andere koper, ander doel (zie
+[[blits-merkarchitectuur-lijnen]]). Dit mag verschillen van de sport-lijn
+(fotostijl is uitvoering, geen merkconstante); kleurenpalet en typografie
+blijven wél gelijk aan de sport-lijn, alleen de ratio/toon schuift (zie
+Identiteit — kleur hierboven).
 
 **Businessdoelen (1-2 jaar):** omzet 1-2x, forse assortimentsverbreding
 (sportspeelgoed → speelhuizen/schommels/zandbakken), van
@@ -188,8 +198,8 @@ nov/dec) bewust als campagne-ankers gebruiken.
 - [[villain-and-contagious-ideas]] — villain gelaagd: schermtijd
   merkbreed, brave merken-toon alleen sport-lijn. Emotion + Practical value
   (voor ouders) als STEPPS-triggers.
-- [[reason-for-existence]] — concept-zin hierboven; nog niet definitief
-  vastgesteld.
+- [[reason-for-existence]] — definitieve zin hierboven, inclusief het
+  sociale aspect (vriendschap, teleurstelling/verlies).
 
 ## Governance (vastgesteld 2026-09-24)
 
@@ -220,13 +230,11 @@ consumentenpositionering staat.
 
 ## Open beslissingen
 
-- Exacte kleurtint bevestigen (kleurenpicker/Pantone-match op de
-  Porsche-referentiefoto) — richting (wit/zwart/koraalrood, ratio per lijn)
-  staat vast.
-- Typografie speeltoestellen-lijn visueel bevestigen (richting: warm
-  handschrift/serif + ronde sans — nog niet als specimen getoond, in
-  tegenstelling tot de sport-lijn-typografie die al gekozen is).
-- Reason-for-existence-zin: definitieve formulering.
+Strategiefase is hiermee inhoudelijk afgerond. Nog open:
+
+- Exacte kleurtint — bewust gepauzeerd (2026-10-05): Bart houdt voorlopig
+  vast aan het huidige indicatieve koraalrood, geen externe Pantone-actie
+  op dit moment nodig. Oppakken zodra echt productie/druk aan de orde is.
 - Grootste merk qua volume — risico blijft dat het merk zonder scherpe
   uitvoering terugzakt naar "prijs-vriendelijk alternatief".
 
@@ -241,3 +249,4 @@ consumentenpositionering staat.
 - **2026-09-24** | Bart, kleur definitief (na sparren over een collega's sport-kleurcode-idee en een Porsche-Instagram-referentie) — zie [[blits-kleur-definitief]]: zwart (~95%) + koraalrood-signaalaccent (~5%) vastgesteld, categoriecode-laag per sport geaccepteerd in principe, nog niet ingevuld.
 - **2026-09-29** | Bart, twijfel over speeltoestellen-uitbreiding (bang voor eendimensionaal "sportief" merk zoals Exit/Salta, maar ook niet het generieke Berg-model willen) opgelost via merkarchitectuur — zie [[blits-merkarchitectuur-lijnen]]: villain herstructureerd (schermtijd merkbreed, brave-merken-villain alleen sport-lijn), drie merkkleuren wit/zwart/koraalrood met verhouding per lijn (sport ~90% zwart, speeltoestellen ~90% wit), merk-fit toegevoegd als toetsingscriterium naast marge/logistiek bij assortimentsverbreding.
 - **2026-09-29** | Bart, uitvoeringskeuzes fase 2 — zie [[blits-uitvoering-fase-2]]: tagline definitief "Buiten wint." (i.p.v. "Val op. Sta op.", nu sport-lijn-subline), typografie sport-lijn vastgesteld (Bebas Neue + Oswald), fotografierichting speeltoestellen-lijn bepaald o.b.v. Pinterest-referenties, sport-categoriecode-idee losgelaten (te druk/complex).
+- **2026-10-05** | Bart, strategiefase afgerond — zie [[blits-strategie-afgerond]]: reason-for-existence definitief (met sociaal aspect: vriendschap, teleurstelling/verlies), typografie-inconsistentie gecorrigeerd (één merkbreed lettertypepaar i.p.v. aparte speeltoestellen-typografie), exacte kleurtint bewust gepauzeerd. Strategiefase inhoudelijk klaar; volgende fase: identiteit (logo-check + visueel identiteitsdocument).
