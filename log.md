@@ -127,3 +127,15 @@ assets in het canvas gezet, CSS-benaderingen vervangen door echte
 kleurvarianten. Vastgelegd in
 `wiki/decisions/blits-kleur-typografie-herzien.md`, verwerkt in
 `wiki/brands/blits.md`.
+
+## [2026-10-05] fix | BLITS canvas on-brand gemaakt
+
+Canvas (merkdocument) bevatte nog generieke donkere UI-kleuren (#0e0e10
+zwart-achtergronden), het Inter-lettertype en een teruggevallen oude
+5-kleurenversie van het Kleur-bord — niet consistent met de net vastgestelde
+merkidentiteit. Alle borden (Overzicht, Kleur, Typografie-Fotografie,
+Speeltoestellen, Logo) herbouwd met de vier echte merkkleuren
+(koraalrood/diep olijfgroen/zand-crème/neongeel) als paginakleuren en
+Archivo Black/Outfit als paginalettertype, niet alleen als voorbeeldtekst.
+Geen vault-wijziging nodig — dit was een canvas-correctie, geen
+inhoudelijke beslissing.
