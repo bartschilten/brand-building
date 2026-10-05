@@ -28,6 +28,15 @@ BLITS stoer en esthetisch zijn.
 Ambitie: van sportspeelgoed naar volwaardig meegroei-merk — één merk van
 baby tot puber, over alle buitenspeel-categorieën heen.
 
+**Visueel merkdocument (canvas):**
+https://claude.ai/artifact/UP2NSRLKSLh4FdgBmHXdFz — privé-Artifact van
+Bart, bevat de borden Overzicht, Kleur, Typografie-Fotografie,
+Speeltoestellen, Tagline en Logo, volledig on-brand opgemaakt (vier
+merkkleuren, Archivo Black/Outfit als paginatypografie). Dit document kan
+verder bijgewerkt worden zodra nieuwe visuele keuzes gemaakt worden; de
+tekstuele waarheid staat hier in de vault, het canvas is de visuele
+afspiegeling daarvan.
+
 ## Merkstrategie (2026-09-22 intake)
 
 **Reason for existence — definitief (2026-10-05):** "BLITS bestaat om
@@ -92,24 +101,30 @@ alles-kunnende Berg-model te vervallen (zie [[blits-merkarchitectuur-lijnen]]
 voor het volledige besluit): BLITS is één merk met een gedeelde kern die
 nooit verandert, en een uitvoeringslaag die per lijn mag verschillen.
 
-**Kern — overal identiek, ongeacht lijn:**
-- Naam, logo, tagline ("Val op. Sta op." werkt merkbreed, niet alleen sport).
+**Kern — overal identiek, ongeacht lijn (zie Identiteit + Typografie
+hieronder voor de huidige, herziene invulling):**
+- Naam, logo, tagline ("Buiten wint." / "Outside Wins." werkt merkbreed,
+  niet alleen sport — "Val op. Sta op." is afgewaardeerd tot sport-lijn-
+  subline, zie Tagline hieronder).
 - Kwaliteitsbelofte: toegankelijk in prijs, premium in uitvoering.
-- Reason-for-existence (avontuur, niet sport-specifiek).
+- Reason-for-existence (avontuur + sociaal, niet sport-specifiek).
 - Merkbrede villain (schermtijd, evocatief).
-- Drie merkkleuren wit/zwart/koraalrood (zie hieronder) — altijd dezelfde
-  drie, alleen de onderlinge verhouding verschuift per lijn.
+- Typografie (Archivo Black / Outfit / Kalam).
+- Vier merkkleuren koraalrood/diep olijfgroen/zand-crème/neongeel (zwart is
+  geschrapt, 2026-10-05) — altijd dezelfde vier, alleen de onderlinge
+  verhouding verschuift per lijn. Zie "Identiteit — kleur" hieronder voor
+  de actuele, definitieve versie.
 
 **Uitvoering — mag verschillen per lijn:**
 - **Sport-lijn** (voetbal, basketbal, trampoline/rebounder): sport-lijn-
   villain (tegen brave/veilige-ritueel-toon), stoere/harde documentaire
-  fotografie (geen golden hour), zwart-dominant kleurgebruik.
+  fotografie (geen golden hour), diep olijfgroen-dominant kleurgebruik
+  (niet langer zwart, zie Identiteit — kleur).
 - **Speeltoestellen-lijn** (speelhuizen, schommels, zandbakken): geen
   sport-villain, alléén de merkbrede schermtijd-villain, warme/sfeervolle
-  Pinterest-waardige stylingfotografie, wit-dominant kleurgebruik. Zwart
-  wordt hier ingezet als gewild structureel materiaal (deur, dakrand,
-  kozijnen, hang-en-sluitwerk — vergelijkbaar met bestaande populaire
-  zwart/wit/hout-speelhuisesthetiek), niet als "stoere sport-kleur".
+  Pinterest-waardige stylingfotografie, zand/crème-dominant kleurgebruik.
+  Diep olijfgroen wordt hier ingezet als structureel materiaal (deur,
+  dakrand, kozijnen, hang-en-sluitwerk), niet als "stoere sport-kleur".
 
 ## Identiteit — kleur: vier merkkleuren, één gedeeld palet (herzien 2026-10-05)
 
@@ -266,6 +281,21 @@ Contentplatform/beweging, schoolplein-/sportclub-licentiemodel en
 internationalisering (geopperd tijdens het merkpanel) zijn een legitieme
 fase-2-richting, maar nu expliciet buiten scope. Niet oppakken voordat de
 consumentenpositionering staat.
+
+## Volgende stappen (voorgesteld, nog niet gestart)
+
+Strategie- en identiteitsfase zijn inhoudelijk en visueel afgerond. Voorstel
+voor het vervolg, nog niet door Bart bevestigd welke als eerste:
+
+1. **Logo vectoriseren** — een designer laat de "Buiten wint."/"Outside
+   Wins."-lockups (nu een conceptrichting in het canvas) definitief maken
+   in vector, inclusief exacte Pantone-match van het koraalrood.
+2. **Stem & verhaal** (`brand-voice`/`brand-messaging`/`brand-story` uit
+   `.claude/skills/domain/`) — villain/waarden omzetten in een
+   messaging-hiërarchie en een geschreven merkverhaal.
+3. **Merkgids samenvoegen** (`brand-guidelines`) — alles uit deze pagina en
+   de decision-pagina's bundelen tot één doorlopend document voor een
+   extern bureau/fotograaf/dealer.
 
 ## Open beslissingen
 

@@ -139,3 +139,17 @@ Speeltoestellen, Logo) herbouwd met de vier echte merkkleuren
 Archivo Black/Outfit als paginalettertype, niet alleen als voorbeeldtekst.
 Geen vault-wijziging nodig — dit was een canvas-correctie, geen
 inhoudelijke beslissing.
+
+## [2026-10-05] fix | BLITS vault consistentie-check vóór context-wissen
+
+Op Bart's verzoek (context wordt zo gewist) de hele blits.md doorgelopen op
+consistentie: Merkarchitectuur-sectie bevatte nog verouderde verwijzingen
+(drie kleuren wit/zwart/koraalrood, "Val op. Sta op." als merkbrede
+tagline, zwart-dominant sport-lijn) — gecorrigeerd naar de huidige,
+definitieve staat (vier kleuren, olijfgroen-dominant sport-lijn, "Buiten
+wint."/"Outside Wins." merkbreed). Canvas-URL
+(https://claude.ai/artifact/UP2NSRLKSLh4FdgBmHXdFz) ontbrak nog volledig in
+de vault — toegevoegd. Voorgestelde volgende stappen (logo vectoriseren,
+stem & verhaal, merkgids samenvoegen) vastgelegd zodat ze niet verloren
+gaan. hot.md ververst (datum + verouderde "nog geen beslissingen"-sectie
+verwijderd, want er zijn er inmiddels zeven).
