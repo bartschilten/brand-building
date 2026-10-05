@@ -4,13 +4,15 @@ _Laatst ververst: 2026-09-22_
 
 ## Actieve merkbouw-vraagstukken
 
-- **[[blits]]** — strategiefase afgerond (zie [[blits-strategie-afgerond]]):
-  reason-for-existence definitief (incl. sociaal aspect), typografie
-  gecorrigeerd naar één merkbreed paar (Bebas Neue + Oswald, geen aparte
-  speeltoestellen-typografie), kleurtint bewust gepauzeerd. Eerdere
-  besluiten: [[blits-merkstrategie-fase-1]], [[blits-kleur-definitief]],
-  [[blits-merkarchitectuur-lijnen]], [[blits-uitvoering-fase-2]]. Volgende
-  fase: identiteit (logo-check + visueel identiteitsdocument).
+- **[[blits]]** — strategiefase afgerond, identiteitsfase gestart (zie
+  [[blits-identiteit-logo-kleurenpalet]]): logo bevestigd (werkt ongewijzigd
+  op beide lijnen), kleurenpalet uitgebreid naar vijf kleuren (diep
+  olijfgroen + zand/crème als eigen palet voor de speeltoestellen-lijn,
+  naast zwart/koraalrood), Engelse tagline-werktitel "Outside Wins.". Open:
+  oker als vijfde accent bevestigen, Engelse tagline definitief maken,
+  logo-lockups herbouwen. Eerdere besluiten: [[blits-merkstrategie-fase-1]],
+  [[blits-kleur-definitief]], [[blits-merkarchitectuur-lijnen]],
+  [[blits-uitvoering-fase-2]], [[blits-strategie-afgerond]].
 - **[[eigen-merk-tuininrichting]]** — nog naamloos, hoogste prioriteit qua
   merkbouw-werk: reason-for-existence en naamgeving staan open (zie de
   pagina voor de aanbevolen volgorde).

@@ -97,3 +97,17 @@ Vastgelegd in `wiki/decisions/blits-strategie-afgerond.md`, verwerkt in
 `wiki/brands/blits.md`. Hiermee is de strategiefase van BLITS inhoudelijk
 afgerond; volgende fase is identiteit (logo-check + visueel
 identiteitsdocument).
+
+## [2026-10-05] decision | BLITS identiteitsfase: logo bevestigd, 5-kleurenpalet
+
+Logo (schild + belettering) beoordeeld en bevestigd — werkt ongewijzigd op
+beide lijnen in drie kleurvarianten (zwart/wit/koraalrood). Kleurenpalet
+uitgebreid van drie naar vijf kleuren: diep olijfgroen (#1B2E21, Bart's
+eigen vondst) en zand/crème (~#F2E8D5) als eigen palet voor de
+speeltoestellen-lijn, sluit aan bij de Pinterest-fotografierichting.
+Oker/mosterdgeel voorgesteld als vijfde accent (nog niet bevestigd).
+Engelse tagline-werktitel "Outside Wins." voorgesteld voor Europese
+expansie. Verouderde "Play More"-lockups gesignaleerd voor herbouw.
+Vastgelegd in `wiki/decisions/blits-identiteit-logo-kleurenpalet.md`,
+verwerkt in `wiki/brands/blits.md` (stage: identiteit). Canvas bijgewerkt
+met Kleur-bord (5 kleuren) en nieuw Logo-bord.
