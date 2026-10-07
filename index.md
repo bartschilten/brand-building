@@ -12,7 +12,7 @@ Catalogus van alle pagina's, één regel per pagina, gegroepeerd per type.
 ## brand
 
 - [[baste]] — buitenkoken, positionering nog dubbelzinnig (developing)
-- [[blits]] — buitenspelen, twee lijnen (sport + speeltoestellen), strategiefase afgerond, identiteitsfase: logo bevestigd, 4-kleurenpalet (geen zwart meer), nieuw lettertype-trio (developing)
+- [[blits]] — buitenspelen, twee lijnen (sport + speeltoestellen), strategiefase afgerond, identiteitsfase: logo bevestigd, 4-kleurenpalet (wit/crème i.p.v. zwart), neo-heritage-laag (fysieke merktekens) + speelhuizen-designrichting (developing)
 - [[luminous]] — tuinverwarming, seizoensgebonden (developing)
 - [[eigen-merk-tuininrichting]] — tuininrichting, nog naamloos (seed)
 
@@ -23,6 +23,7 @@ Catalogus van alle pagina's, één regel per pagina, gegroepeerd per type.
 - [[growth-for-breakfast-oliver-source]] — social post (developing)
 - [[psychology-of-premium-branding]] — video (mature)
 - [[build-a-brand-in-7-minutes-gary-vee]] — video (mature)
+- [[blits-heritage-onderzoek-gemini]] — AI-onderzoeksrapport, neo-heritage-merkopbouw buitenspeelgoed (mature)
 
 ## framework
 
@@ -31,6 +32,7 @@ Catalogus van alle pagina's, één regel per pagina, gegroepeerd per type.
 - [[premium-branding-exclusivity-identity-story]] — exclusiviteit/identificatie/storytelling (mature)
 - [[villain-and-contagious-ideas]] — vijand benoemen + STEPPS (developing)
 - [[caring-listening-patience]] — luisteren, geduld, juiste metriek (mature)
+- [[neo-heritage-branding]] — invented tradition, materiële heritage-signifiers (developing)
 
 ## case
 
@@ -49,6 +51,7 @@ _(nog geen pagina's — Bart's eigen synthese komt hier zodra die is uitgekrista
 - [[blits-strategie-afgerond]] — reason-for-existence definitief, typografie-correctie (één merkbreed lettertypepaar), kleurtint gepauzeerd (developing)
 - [[blits-identiteit-logo-kleurenpalet]] — logo bevestigd, 5-kleurenpalet (olijfgroen + zand/crème voor speeltoestellen-lijn), Engelse tagline-werktitel (developing)
 - [[blits-kleur-typografie-herzien]] — palet teruggebracht naar vier gedeelde kleuren (zwart geschrapt), nieuw lettertype-trio Archivo Black/Outfit/Kalam, "Outside Wins." definitief (developing)
+- [[blits-neo-heritage-en-kleurcorrectie]] — zand/crème gecorrigeerd naar wit/crème, neo-heritage-laag toegevoegd, speelhuizen-designrichting (developing)
 
 ## initiative
 

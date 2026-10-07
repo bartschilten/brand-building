@@ -5,7 +5,7 @@ status: developing
 created: 2026-09-22
 updated: 2026-09-22
 tags: [eigen-merk, buitenspelen]
-related: ["[[remarkable-brand-is-a-promise]]", "[[villain-and-contagious-ideas]]", "[[reason-for-existence]]"]
+related: ["[[remarkable-brand-is-a-promise]]", "[[villain-and-contagious-ideas]]", "[[reason-for-existence]]", "[[neo-heritage-branding]]", "[[blits-heritage-onderzoek-gemini]]"]
 aliases: []
 category: "Buitenspelen — twee lijnen: sport-lijn (voetbaldoelen, basketbalpalen, trampolines, later volleybal) en speeltoestellen-lijn (speelhuizen, schommels, zandbakken)"
 parent: "Toppy (zie bartschilten/kennisbank)"
@@ -110,7 +110,7 @@ hieronder voor de huidige, herziene invulling):**
 - Reason-for-existence (avontuur + sociaal, niet sport-specifiek).
 - Merkbrede villain (schermtijd, evocatief).
 - Typografie (Archivo Black / Outfit / Kalam).
-- Vier merkkleuren koraalrood/diep olijfgroen/zand-crème/neongeel (zwart is
+- Vier merkkleuren koraalrood/diep olijfgroen/wit-crème/neongeel (zwart is
   geschrapt, 2026-10-05) — altijd dezelfde vier, alleen de onderlinge
   verhouding verschuift per lijn. Zie "Identiteit — kleur" hieronder voor
   de actuele, definitieve versie.
@@ -122,7 +122,7 @@ hieronder voor de huidige, herziene invulling):**
   (niet langer zwart, zie Identiteit — kleur).
 - **Speeltoestellen-lijn** (speelhuizen, schommels, zandbakken): geen
   sport-villain, alléén de merkbrede schermtijd-villain, warme/sfeervolle
-  Pinterest-waardige stylingfotografie, zand/crème-dominant kleurgebruik.
+  Pinterest-waardige stylingfotografie, wit/crème-dominant kleurgebruik.
   Diep olijfgroen wordt hier ingezet als structureel materiaal (deur,
   dakrand, kozijnen, hang-en-sluitwerk), niet als "stoere sport-kleur".
 
@@ -141,8 +141,11 @@ ratio verschuift:
 - **Diep olijfgroen** `#1B2E21` — Bart's eigen vondst (Jamera-referentie).
   Neemt de rol over van "donker, stoer anker" die eerder aan zwart werd
   toegeschreven — nu ook in de sport-lijn, niet alleen speeltoestellen.
-- **Zand/crème** `~#F2E8D5` — vervangt hard wit; warmer, zachter, past bij
-  olijfgroen én koraalrood.
+- **Wit/crème** `~#F8F4EA` (herzien 2026-10-07, was `#F2E8D5`) — vervangt
+  hard wit; dicht tegen wit aan, met net genoeg warmte om niet klinisch te
+  ogen. Bart: "Ik vind de zandkleur echt nog veel te geel... het moet
+  dichter tegen wit aan zitten dan beige." Zie
+  [[blits-neo-heritage-en-kleurcorrectie]].
 - **Neongeel (tennisbal)** `~#D7FF1A` — vervangt het eerder voorgestelde
   oker/mosterdgeel; feller, directere sport-associatie, werkt in beide
   lijnen als klein, fel accentdetail.
@@ -151,13 +154,13 @@ ratio verschuift:
 is een expliciete koerscorrectie op de eerdere "zwart blijft anker"-
 beslissing van 2026-09-24. Diep olijfgroen neemt die rol nu over.
 
-**Sport-lijn:** diep olijfgroen dominant (~70%, i.p.v. zwart), zand/crème
+**Sport-lijn:** diep olijfgroen dominant (~70%, i.p.v. zwart), wit/crème
 als lichte tegenkleur (~15%), koraalrood signaal (~10%), neongeel als felle
 sport-pop (~5%, sluit toevallig mooi aan bij de eerder overwogen
 "sport-kleurcode"-gedachte — nu puur als merkaccent, niet als systeem per
 sport). Hard licht, documentaire fotografie blijft ongewijzigd.
 
-**Speeltoestellen-lijn:** zand/crème dominant (~60%), diep olijfgroen als
+**Speeltoestellen-lijn:** wit/crème dominant (~60%), diep olijfgroen als
 tegenwicht (~25%, structurele elementen: deur, dakrand, kozijnen, luiken),
 koraalrood signaal (~10%), neongeel als klein speels detail (~5%).
 
@@ -217,7 +220,7 @@ altijd, voor het hele merk, alle producten en lijnen:
   olijfgroen.
 - **Outfit** (Regular/Medium) — body/leestekst. Geometrisch, rond,
   vriendelijk — productomschrijvingen, voorwaarden, UI. Diep olijfgroen op
-  zand/crème.
+  wit/crème.
 - **Kalam** — accent/speelse twist. Handgeschreven, dikke stift, rauw —
   pijltjes/notities in de webshop, schuine watermerken op productfoto's,
   korte quotes op verpakking. Spaarzaam gebruiken. Sluit opvallend goed aan
@@ -240,6 +243,67 @@ sport-fotografie — bewust, want andere koper, ander doel (zie
 blijven wél gelijk aan de sport-lijn, alleen de ratio/toon schuift (zie
 Identiteit — kleur hierboven). Diep olijfgroen (niet langer zwart) is het
 structurele materiaal (deur, dakrand, kozijnen, luiken) in deze lijn.
+
+## Neo-heritage — toegevoegde strategische laag (2026-10-07)
+
+Op basis van een extern onderzoeksrapport dat Bart liet opstellen (zie
+[[blits-heritage-onderzoek-gemini]], gedistilleerd in
+[[neo-heritage-branding]]): BLITS bouwt een merkziel niet alleen via
+positionering/villain/kleur/typografie, maar ook via **fysieke, materiële
+merktekens op het product zelf** — naar het voorbeeld van Steiffs
+"Knopf im Ohr" en Radio Flyers industriële onverwoestbaarheid. Dit vervangt
+niets van de bestaande strategie, het is een extra ontwerplaag. Concreet:
+
+- **Fysiek merkteken i.p.v. sticker:** een ingeslagen/ingebrand BLITS-schild
+  of typeplaatje op het product, zichtbaar bij montage/gebruik — geeft een
+  speelwerktuig het gevoel van een geregistreerd, duurzaam object in plaats
+  van een wegwerpartikel. Rechtstreeks toepasbaar op de
+  speelhuizen-designrichting hieronder.
+- **Verzendkist-gevoel:** verpakking in ongebleekt kraftkarton met
+  industriële typografie i.p.v. een klinische consumentendoos — richting
+  voor een latere verpakkingsherziening, geen fase-1-actie.
+- **Typografie-onderbouwing:** bevestigt (geen wijziging) Archivo Black als
+  "betonnen fundament" en Kalam strikt begrensd tot functionele
+  aantekening/stoepkrijt-gevoel — nooit een decoratieve titelfont. Zie
+  Typografie hierboven.
+- **Waarschuwing uit het rapport, overgenomen als richtlijn:** geen sepia,
+  geen sierlijke krulletters, geen nep-historische jaartallen — neo-heritage
+  wordt anders kitscherige pastiche. De bestaande strenge, industriële
+  typografische hiërarchie is hier de bescherming tegen.
+
+## Speeltoestellen-lijn — designrichting speelhuizen (2026-10-07)
+
+Bart staat op het punt speelhuizen in te kopen; onderstaande sturing is
+gegeven vóór de daadwerkelijke inkoop, op basis van de bestaande
+merkarchitectuur + de nieuwe heritage-signifiers-laag hierboven:
+
+- **Kleur:** wit/crème dominant (~60%, zie de gecorrigeerde tint
+  hierboven), diep olijfgroen als structureel materiaal (deur, dakrand,
+  kozijnen, luiken — geen vlakke "speelgoedkleur" maar materiaaltoepassing
+  zoals bij een echt tuinhuisje), koraalrood uitsluitend als klein
+  signaaldetail (deurklink, naambordje), neongeel spaarzaam en speels (bv.
+  een wiebeldier of vlaggetje, nooit een grote vlakkleur). Expliciet
+  **niet** de felgroen/zwart-contrastcombinatie van Exit/Salta, en niet de
+  kleurrijke primaire-kleuren-plastic-look van Smoby.
+- **Materiaal/vorm:** hout(-look), architecturaal en naturel (zie Bart's
+  Pinterest-referenties) — "veilige burcht/boomhut", geen felgekleurd
+  gegoten kunststof. Bewust tegenovergesteld aan de harde documentaire
+  sport-lijn-esthetiek.
+- **Logoplaatsing:** geen grote opdruk/sticker op de voorgevel. In plaats
+  daarvan een klein fysiek typeplaatje/schildje (metaal of hout, het ronde
+  of puntige BLITS-schild) bij de deur of op een kozijn — zoals een
+  naamplaatje op een tuinhuisje, niet als reclame-uiting.
+- **Prijs:** geen koerswijziging t.o.v. de rest van het merk — toegankelijk
+  in prijs, premium in uitvoering. Het typeplaatje is goedkoop te
+  produceren met hoge impact, geen reden om de prijspositionering te
+  verzwaren.
+- **Fotografie:** ongewijzigd — het bestaande warme, Pinterest-geïnspireerde
+  moodboard (zie Fotografie hieronder).
+- **Governance:** blijft onder de bestaande assortimentstoets (marge,
+  logistiek, merk-fit) — deze sturing is designrichting, geen vrijbrief om
+  de toets over te slaan.
+
+Volledig besluit: [[blits-neo-heritage-en-kleurcorrectie]].
 
 **Businessdoelen (1-2 jaar):** omzet 1-2x, forse assortimentsverbreding
 (sportspeelgoed → speelhuizen/schommels/zandbakken), van
@@ -282,6 +346,13 @@ internationalisering (geopperd tijdens het merkpanel) zijn een legitieme
 fase-2-richting, maar nu expliciet buiten scope. Niet oppakken voordat de
 consumentenpositionering staat.
 
+**Toegevoegd 2026-10-07 (uit [[blits-heritage-onderzoek-gemini]]):** een
+halfjaarlijkse redactionele uitgave "Buiten Wint / Outside Chronicle" (naar
+het voorbeeld van Tracksmiths "Meter") en een "Athletic & Expedition
+Depot"-retailconcept (verweerde houten vloeren, registerboek voor
+serienummers). Beide pas relevant ná fase 1, net als de rest van deze
+sectie.
+
 ## Volgende stappen (voorgesteld, nog niet gestart)
 
 Strategie- en identiteitsfase zijn inhoudelijk en visueel afgerond. Voorstel
@@ -323,3 +394,4 @@ Identiteitsfase loopt. Open:
 - **2026-10-05** | Bart, strategiefase afgerond — zie [[blits-strategie-afgerond]]: reason-for-existence definitief (met sociaal aspect: vriendschap, teleurstelling/verlies), typografie-inconsistentie gecorrigeerd (één merkbreed lettertypepaar i.p.v. aparte speeltoestellen-typografie), exacte kleurtint bewust gepauzeerd. Strategiefase inhoudelijk klaar; volgende fase: identiteit (logo-check + visueel identiteitsdocument).
 - **2026-10-05** | Bart, identiteitsfase gestart — logo beoordeeld (schild+belettering, werkt ongewijzigd op beide lijnen in drie kleurvarianten), kleurenpalet uitgebreid naar vijf kleuren (diep olijfgroen + zand/crème eigen palet voor speeltoestellen-lijn, oker als voorgesteld vijfde accent), Engelse tagline-werktitel "Outside Wins." voorgesteld, verouderde "Play More"-lockups gesignaleerd voor herbouw. Zie [[blits-identiteit-logo-kleurenpalet]].
 - **2026-10-05** | Bart, kleur- en typografieherziening — zie [[blits-kleur-typografie-herzien]]: palet teruggebracht naar vier gedeelde kleuren (zwart geschrapt, diep olijfgroen neemt sport-ankerrol over, neongeel vervangt oker), nieuw merkbreed lettertype-trio (Archivo Black/Outfit/Kalam, vervangt Bebas Neue + Oswald), Engelse tagline "Outside Wins." definitief bevestigd, logo accuraat gerecolord in de vier kleuren.
+- **2026-10-07** | Bart, extern neo-heritage-onderzoek (Gemini) aangeleverd, zand/crème gecorrigeerd naar wit/crème (`#F8F4EA`, was `#F2E8D5` — "nog veel te geel"), sturing gegeven op speelhuizen-designrichting (kleur, materiaal, logoplaatsing via fysiek typeplaatje i.p.v. sticker, prijs ongewijzigd) vóór de daadwerkelijke inkoop. Zie [[blits-neo-heritage-en-kleurcorrectie]], [[blits-heritage-onderzoek-gemini]], [[neo-heritage-branding]].

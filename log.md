@@ -2,6 +2,21 @@
 
 Append-only operatielog. `grep "^## \[" log.md` voor alle entries.
 
+## [2026-10-07] ingest | BLITS neo-heritage-onderzoek + kleurcorrectie + speelhuizen-designrichting
+
+Bart leverde een extern Gemini-onderzoeksrapport aan over neo-heritage-
+merkopbouw (.docx, origineel bewaard als platte tekst in
+`.raw/sources/blits-heritage-neo-heritage-onderzoek-gemini.txt`).
+Geïngest als [[blits-heritage-onderzoek-gemini]] (source), gedistilleerd
+naar [[neo-heritage-branding]] (framework). Daarnaast: zand/crème-kleur
+gecorrigeerd naar wit/crème (`#F8F4EA`, was `#F2E8D5` — Bart: "nog veel te
+geel"), en designrichting gegeven voor de aanstaande speelhuizen-inkoop
+(kleur/materiaal/logoplaatsing via fysiek typeplaatje/prijs). Alle drie
+vastgelegd in [[blits-neo-heritage-en-kleurcorrectie]] (decision) en
+verwerkt in [[blits]] (kleursectie, nieuwe secties "Neo-heritage" en
+"Speeltoestellen-lijn — designrichting speelhuizen", ambitie-horizon
+uitgebreid). `index.md`/`hot.md` bijgewerkt.
+
 ## [2026-09-22] onboard | Vault aangemaakt
 
 Nieuwe vault opgezet vanuit `toppynl/me-template`, entiteit-types aangepast
