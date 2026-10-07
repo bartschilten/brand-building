@@ -67,6 +67,33 @@ geen sierlijke krulletters, geen feitelijk onjuiste jaartallen. Een zwaar,
 compromisloos schreefloos lettertype als fundament, een handschriftfont
 strikt begrensd tot functionele aantekeningen (nooit decoratieve titels).
 
+## Acht culturele codes van het analoge buitenspelen (toegevoegd 2026-10-07)
+
+Bron: [[blits-culturele-codes-analoog-buitenspelen]]. Acht universele
+rituelen uit het analoge buitenspelen — elk met een nostalgisch haakje, een
+vertaling naar merk/copy, én een concreet, tastbaar productdesign-detail
+(hardware, niet alleen tekst). Dit is de meest concrete toepassing van het
+"materiële signifiers"-principe hierboven tot nu toe.
+
+| Code | Nostalgisch haakje (kort) | Drager | Merk/copy | Tastbaar productdesign |
+|---|---|---|---|---|
+| 1. De Jas als Doelpaal | opgerolde jassen als denkbeeldig doel | Sport-lijn (ballen, rebounders) | "Geen lat. Wel een doelpunt." / "Het veld is waar jij je jas neerlegt." | Zware rubberen 'Corner Cones' (koraalrood/olijfgroen) met ingegoten schildlogo |
+| 2. Laatste Doelpunt Wint | de hele stand wordt gewist zodra de lantaarns aangaan | Sport-lijn (doelen, trampolines, ballen) | "LAATSTE DOELPUNT WINT." (Archivo Black) | Koraalrode geweven 'Golden Goal'-bies op doel/trampolinenet; Kalam-opdruk op ballen |
+| 3. Poten / Pootje Over | straatdemocratie zonder scheidsrechter | Skelters, steps, voetsteunen | "Vriendschappen sluiten doe je niet via een app. Je kiest elkaar op straat." | Vintage wafelzool-reliëf in pedalen; Captain A/B-klittenbandpatches |
+| 4. Buutvrij voor de Hele Pot | de ene paal die de hele groep verlost | Speeltoestellen (klimrekken, torens) | "Het enige toevluchtsoord dat ertoe doet." | Gegoten stalen/messing 'Home Base'-stip op de centrale staander, patineert met gebruik |
+| 5. Het Geheim van de Boomhut | het geheime, volwassenenvrije hoofdkwartier | Speeltoestellen (huizen, hutten) | Sluit aan op "Play. Dream. Grow." / "Verboden toegang voor volwassenen" | Ingebouwd olijfgroen krijtbordje bij de ingang (dagelijks wachtwoord); verborgen schatvak onder vloerluik/zitbank |
+| 6. De Beker Krijt | de stoep als dagelijks herschreven speelveld | Accessoire & verpakking | Stoepkrijt-visuele taal (Kalam) op webshop/verpakking/handleiding | Chalk-ready coating op speelhuisonderdelen/scoreborden; blikje stoepkrijt (koraalrood/neongeel/wit) als bijgeleverd accessoire: "Teken je eigen regels." |
+| 7. Gereedschap van Pa & De Bandenplakker | zelf repareren, meesterschap over machines | Hardware & assemblage | "Onverwoestbaar gebouwd. Gemaakt om doorgegeven te worden." | Gegraveerde stalen multitool in olijfgroen canvas foedraal i.p.v. wegwerp-inbussleuteltje; gestempeld onderhoudsregister op het frame |
+| 8. De Roep voor het Eten | naar binnen geroepen worden, honger na een dag buiten | Speeltoestellen-accessoire & campagne | "Honger krijg je niet van een scherm. Honger verdien je buiten." | Messing/gietijzeren 'Yard Bell' (scheeps-/schoolbel) als premium accessoire, geen plastic toetertje |
+
+Status: dit zijn **voorgestelde** fysieke productdetails, nog niet getoetst
+op kostprijs/haalbaarheid/leveranciers — ze passen in de
+toegankelijk-in-prijs/premium-in-uitvoering-logica (zie [[blits]] §
+Merkstrategie) zolang het per-stuk-toevoeging goedkoop te produceren blijft
+(zoals het typeplaatje-principe hierboven). Elk concreet item loopt mee in
+de gewone assortiments-/productontwikkelingstoets, niet als blanco
+vrijbrief.
+
 ## Toepassing bij BLITS
 
 Zie [[blits]] — bevestigt de bestaande Archivo Black/Kalam-rolverdeling,

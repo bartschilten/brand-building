@@ -24,6 +24,7 @@ Catalogus van alle pagina's, één regel per pagina, gegroepeerd per type.
 - [[psychology-of-premium-branding]] — video (mature)
 - [[build-a-brand-in-7-minutes-gary-vee]] — video (mature)
 - [[blits-heritage-onderzoek-gemini]] — AI-onderzoeksrapport, neo-heritage-merkopbouw buitenspeelgoed (mature)
+- [[blits-culturele-codes-analoog-buitenspelen]] — acht culturele codes, copy + tastbaar productdesign (mature)
 
 ## framework
 
@@ -32,7 +33,7 @@ Catalogus van alle pagina's, één regel per pagina, gegroepeerd per type.
 - [[premium-branding-exclusivity-identity-story]] — exclusiviteit/identificatie/storytelling (mature)
 - [[villain-and-contagious-ideas]] — vijand benoemen + STEPPS (developing)
 - [[caring-listening-patience]] — luisteren, geduld, juiste metriek (mature)
-- [[neo-heritage-branding]] — invented tradition, materiële heritage-signifiers (developing)
+- [[neo-heritage-branding]] — invented tradition, materiële heritage-signifiers, acht culturele codes (developing)
 
 ## case
 

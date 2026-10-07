@@ -2,6 +2,21 @@
 
 Append-only operatielog. `grep "^## \[" log.md` voor alle entries.
 
+## [2026-10-07] ingest | BLITS acht culturele codes van het analoge buitenspelen
+
+Bart leverde een vervolg op het neo-heritage-onderzoek aan: acht universele
+buitenspeel-rituelen (jas als doelpaal, laatste doelpunt wint, pootje over,
+buutvrij, geheime boomhut, beker krijt, bandenplakker-reparatieritueel, roep
+voor het eten), elk vertaald naar merk/copy én tastbaar productdesign.
+Origineel bewaard in
+`.raw/sources/blits-culturele-codes-analoog-buitenspelen.txt`. Geïngest als
+[[blits-culturele-codes-analoog-buitenspelen]] (source), volledig
+uitgewerkt (tabel) in [[neo-heritage-branding]], compact samengevat met de
+twee meest speelhuis-relevante details (krijtbordje, schatvak) in [[blits]]
+§ Neo-heritage en § Speeltoestellen-lijn — designrichting speelhuizen.
+Status: voorgesteld, nog niet getoetst op kostprijs/haalbaarheid.
+`index.md`/`hot.md` bijgewerkt.
+
 ## [2026-10-07] ingest | BLITS neo-heritage-onderzoek + kleurcorrectie + speelhuizen-designrichting
 
 Bart leverde een extern Gemini-onderzoeksrapport aan over neo-heritage-

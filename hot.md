@@ -10,7 +10,8 @@ _Laatst ververst: 2026-10-07_
   olijfgroen, wit/crème (`#F8F4EA`, gecorrigeerd — was te geel), neongeel;
   merkbreed lettertype-trio Archivo Black/Outfit/Kalam; Engelse tagline
   "Outside Wins." definitief; logo accuraat gerecolord in canvas. Nieuw:
-  neo-heritage-laag (fysieke merktekens op het product, zie
+  neo-heritage-laag (fysieke merktekens op het product + acht culturele
+  codes met concrete productdesign-vertalingen, zie
   [[neo-heritage-branding]]) en designrichting voor de aanstaande
   speelhuizen-inkoop (kleur/materiaal/logoplaatsing/prijs) vastgelegd. Open:
   logo-lockups laten vectoriseren door een designer. Eerdere besluiten:
