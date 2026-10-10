@@ -26,6 +26,7 @@ Catalogus van alle pagina's, één regel per pagina, gegroepeerd per type.
 - [[blits-heritage-onderzoek-gemini]] — AI-onderzoeksrapport, neo-heritage-merkopbouw buitenspeelgoed (mature)
 - [[blits-culturele-codes-analoog-buitenspelen]] — acht culturele codes, copy + tastbaar productdesign (mature)
 - [[blits-tone-of-voice-concept-2026]] — eerder ToV-concept, startpunt voor stem-&-verhaal-fase (developing)
+- [[blits-tone-of-voice-definitief]] — "strijders" geschrapt, villain-toon teruggebracht, Engels als mastertaal (mature)
 
 ## framework
 

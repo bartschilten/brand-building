@@ -5,7 +5,7 @@ status: developing
 created: 2026-09-22
 updated: 2026-09-22
 tags: [eigen-merk, buitenspelen]
-related: ["[[remarkable-brand-is-a-promise]]", "[[villain-and-contagious-ideas]]", "[[reason-for-existence]]", "[[neo-heritage-branding]]", "[[blits-heritage-onderzoek-gemini]]", "[[blits-culturele-codes-analoog-buitenspelen]]", "[[blits-apple-design-review]]"]
+related: ["[[remarkable-brand-is-a-promise]]", "[[villain-and-contagious-ideas]]", "[[reason-for-existence]]", "[[neo-heritage-branding]]", "[[blits-heritage-onderzoek-gemini]]", "[[blits-culturele-codes-analoog-buitenspelen]]", "[[blits-apple-design-review]]", "[[blits-tone-of-voice-definitief]]", "[[blits-tone-of-voice-concept-2026]]"]
 aliases: []
 category: "Buitenspelen — twee lijnen: sport-lijn (voetbaldoelen, basketbalpalen, trampolines, later volleybal) en speeltoestellen-lijn (speelhuizen, schommels, zandbakken)"
 parent: "Toppy (zie bartschilten/kennisbank)"
@@ -292,6 +292,38 @@ niets van de bestaande strategie, het is een extra ontwerplaag. Concreet:
   Cones, zoolprofiel, Captain-patches, onderhoudsregister, schatvak,
   verzendkist-herziening, eigendomscertificaat.
 
+## Tone of Voice — taal & stem (vastgesteld 2026-10-10)
+
+Volledig besluit: [[blits-tone-of-voice-definitief]], op basis van een
+eerder concept ([[blits-tone-of-voice-concept-2026]]) en een scherpe
+vragenronde. Kern:
+
+- **Geen strijd/competitie-taal.** "Strijders" en "kampioen in wording" zijn
+  geschrapt — BLITS gaat over samen spelen, samen ervaren, samen de wereld
+  leren kennen, niet over winnen of de beste zijn. Werkwoord-kandidaat ter
+  vervanging: "ontdekkers" (nog te bevestigen bij eerste concrete copy).
+- **Villain blijft evocatief/impliciet, geen schuldgevoel** — bevestigt de
+  bestaande regel (zie § Villain hierboven) boven de scherpere, meer
+  confronterende toon uit het oudere concept.
+- **Eén stem, twee lijnen:** zelfde kernwoorden (vallen & opstaan, je eigen
+  plekje, buiten ervaren) voor beide lijnen; sport-lijn benadrukt actie/
+  modder, speeltoestellen-lijn benadrukt ontdekken/je eigen plekje/
+  verstoppen — geen apart register.
+- **Engels is de mastertaal** voor nieuwe copy (eerst EN, dan vertaald naar
+  NL) — vanwege de internationale B2B/B2C-schaalambitie. Scherpte mag licht
+  schuiven per markt.
+- **Premium zit niet in de taal.** De taal blijft warm/toegankelijk over
+  spelen en ontdekken; de premium-laag komt uit fotografie, verpakking,
+  productnamen en website — niet uit een rauwe/ongepolijste schrijfstijl
+  (dit was wél de toon van het oudere concept).
+- **Format:** korte, ritmische zinnen voor website/campagnes/social;
+  verpakking en instructies blijven eenvoudiger en rustiger.
+- **Humor mag** — vooral via de nostalgische knipogen uit de
+  neo-heritage-laag (zie § Neo-heritage hierboven), niet als apart register.
+- **Open, nog geen besluit:** aanspreekvorm in het Engels ("you" voelt voor
+  Bart mogelijk "wijzend" aan) — te verkennen bij de eerste concrete
+  Engelse copy.
+
 ## Speeltoestellen-lijn — designrichting speelhuizen (2026-10-07)
 
 Bart staat op het punt speelhuizen in te kopen; onderstaande sturing is
@@ -370,6 +402,9 @@ nov/dec) bewust als campagne-ankers gebruiken.
   bestaand signifier dupliceert (zoals typeplaatje/Home Base-plaatje/
   chassis-plaatje dat deden) vóórdat hij als los item wordt toegevoegd —
   "decide what not to build" geldt ook voor heritage-details.
+- **Nieuw (2026-10-10, uit [[blits-tone-of-voice-definitief]]):** geen
+  winnen/verliezen/strijd/wedstrijd-taal die kinderen tegen elkaar zet —
+  BLITS gaat over samen spelen, niet over wie wint.
 
 ## Ambitie-horizon — bewust geparkeerd
 
@@ -394,8 +429,11 @@ voor het vervolg, nog niet door Bart bevestigd welke als eerste:
    Wins."-lockups (nu een conceptrichting in het canvas) definitief maken
    in vector, inclusief exacte Pantone-match van het koraalrood.
 2. **Stem & verhaal** (`brand-voice`/`brand-messaging`/`brand-story` uit
-   `.claude/skills/domain/`) — villain/waarden omzetten in een
-   messaging-hiërarchie en een geschreven merkverhaal.
+   `.claude/skills/domain/`) — **gestart 2026-10-10**, tone-of-voice-ronde 1
+   afgerond (zie § Tone of Voice hierboven). Nog te doen: de aanspreekvorm-
+   vraag oplossen, de "medailles"-metafoor bevestigen, en de
+   voorbeeldteksten uit het oude concept herschrijven volgens de nieuwe
+   regels; daarna messaging-hiërarchie en geschreven merkverhaal.
 3. **Merkgids samenvoegen** (`brand-guidelines`) — alles uit deze pagina en
    de decision-pagina's bundelen tot één doorlopend document voor een
    extern bureau/fotograaf/dealer.
@@ -429,3 +467,4 @@ Identiteitsfase loopt. Open:
 - **2026-10-07** | Bart, extern neo-heritage-onderzoek (Gemini) aangeleverd, zand/crème gecorrigeerd naar wit/crème (`#F8F4EA`, was `#F2E8D5` — "nog veel te geel"), sturing gegeven op speelhuizen-designrichting (kleur, materiaal, logoplaatsing via fysiek typeplaatje i.p.v. sticker, prijs ongewijzigd) vóór de daadwerkelijke inkoop. Zie [[blits-neo-heritage-en-kleurcorrectie]], [[blits-heritage-onderzoek-gemini]], [[neo-heritage-branding]].
 - **2026-10-07** | Bart, acht culturele codes van het analoge buitenspelen aangeleverd (vervolg op het neo-heritage-onderzoek) — acht concrete productdesign-/copy-vertalingen (o.a. 'Home Base'-plaatje, krijtbordje bij speelhuizen, messing 'Yard Bell', gegraveerde multitool, 'Golden Goal'-bies). Voorgesteld, nog niet getoetst op kostprijs/haalbaarheid. Zie [[blits-culturele-codes-analoog-buitenspelen]], volledig uitgewerkt in [[neo-heritage-branding]].
 - **2026-10-10** | Bart liet de `apple-design`-skill toevoegen aan de vault en vroeg om een designkwaliteitscheck op alles tot nu toe — zie [[blits-apple-design-review]]: bevestigt positionering/architectuur/typografie-discipline, signaleert dat typeplaatje/Home Base-plaatje/chassis-plaatje drie keer dezelfde oplossing zijn (nu samengevoegd tot één 'BLITS-schildplaatje'), en prioriteert de heritage-signifiers in drie tiers i.p.v. alles tegelijk bouwen.
+- **2026-10-10** | Bart, tone-of-voice-ronde 1 — een eerder ToV-concept aangeleverd ([[blits-tone-of-voice-concept-2026]]), gevolgd door een scherpe vragenronde en besluit ([[blits-tone-of-voice-definitief]]): "strijders"/competitie-taal geschrapt (vervangen door "ontdekkers"-richting), villain-toon teruggebracht naar de bestaande evocatieve regel, Engels vastgesteld als mastertaal, taal blijft warm/toegankelijk (premium zit in fotografie/verpakking/website, niet in de tekst). Aanspreekvorm in het Engels blijft open.

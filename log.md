@@ -2,6 +2,21 @@
 
 Append-only operatielog. `grep "^## \[" log.md` voor alle entries.
 
+## [2026-10-10] decision | BLITS tone-of-voice ronde 1 vastgesteld
+
+Op de scherpe vragenronde over [[blits-tone-of-voice-concept-2026]] heeft
+Bart geantwoord; besluit vastgelegd in [[blits-tone-of-voice-definitief]]:
+"strijders"/competitie-taal geschrapt (richting "ontdekkers", nog te
+bevestigen), villain-toon teruggebracht naar de bestaande evocatieve regel
+(geen schuldgevoel, 2026-09-29), Engels vastgesteld als mastertaal voor
+nieuwe copy, taal blijft warm/toegankelijk — premium zit in fotografie/
+verpakking/website, niet in de tekst. Eén stem voor beide lijnen bevestigd
+(verschil zit in accenten, niet register). Open: aanspreekvorm in het
+Engels, de "medailles"-metafoor, herschrijven van de oude voorbeeldteksten.
+Verwerkt in [[blits]] (nieuwe § Tone of Voice + governance-aanvulling),
+`index.md`/`hot.md` bijgewerkt (significante statusverandering: stem &
+verhaal-fase gestart).
+
 ## [2026-10-10] ingest | BLITS tone-of-voice-concept aangeleverd, start stem-&-verhaal-fase
 
 Bart leverde een eerder uitgewerkt tone-of-voice-concept aan (.docx,

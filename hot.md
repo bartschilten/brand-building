@@ -1,27 +1,27 @@
 # Hot
 
-_Laatst ververst: 2026-10-07_
+_Laatst ververst: 2026-10-10_
 
 ## Actieve merkbouw-vraagstukken
 
-- **[[blits]]** — identiteitsfase loopt (zie
-  [[blits-neo-heritage-en-kleurcorrectie]], vervolg op
-  [[blits-kleur-typografie-herzien]]): kleurenpalet nu koraalrood, diep
-  olijfgroen, wit/crème (`#F8F4EA`, gecorrigeerd — was te geel), neongeel;
-  merkbreed lettertype-trio Archivo Black/Outfit/Kalam; Engelse tagline
-  "Outside Wins." definitief; logo accuraat gerecolord in canvas. Nieuw:
-  neo-heritage-laag (fysieke merktekens op het product + acht culturele
-  codes met concrete productdesign-vertalingen, zie
-  [[neo-heritage-branding]]) en designrichting voor de aanstaande
-  speelhuizen-inkoop (kleur/materiaal/logoplaatsing/prijs) vastgelegd.
-  Gevolgd door een designkwaliteitscheck tegen Apple Design-principes (zie
-  [[blits-apple-design-review]]): signifiers samengevoegd/geprioriteerd in
-  drie tiers i.p.v. alles tegelijk bouwen. Open:
-  logo-lockups laten vectoriseren door een designer. Eerdere besluiten:
+- **[[blits]]** — identiteit vrijwel afgerond, **stem & verhaal-fase
+  gestart** (zie [[blits-tone-of-voice-definitief]]): "strijders"/
+  competitie-taal geschrapt (BLITS gaat over samen spelen, niet winnen),
+  villain-toon teruggebracht naar de bestaande evocatieve regel (geen
+  schuldgevoel), Engels vastgesteld als mastertaal voor nieuwe copy, taal
+  blijft warm/toegankelijk (premium zit in fotografie/verpakking/website,
+  niet in de tekst). Open: aanspreekvorm in het Engels ("you" voelt mogelijk
+  "wijzend" aan), de "medailles"-metafoor bevestigen, voorbeeldteksten
+  herschrijven. Identiteitslaag (kleur/typografie/logo/heritage-signifiers)
+  staat: vier merkkleuren (koraalrood, diep olijfgroen, wit/crème `#F8F4EA`,
+  neongeel), lettertype-trio Archivo Black/Outfit/Kalam, Engelse tagline
+  "Outside Wins." definitief, neo-heritage-signifiers geprioriteerd in drie
+  tiers (zie [[blits-apple-design-review]]). Open: logo-lockups laten
+  vectoriseren door een designer. Eerdere besluiten:
   [[blits-merkstrategie-fase-1]], [[blits-kleur-definitief]],
   [[blits-merkarchitectuur-lijnen]], [[blits-uitvoering-fase-2]],
   [[blits-strategie-afgerond]], [[blits-identiteit-logo-kleurenpalet]],
-  [[blits-kleur-typografie-herzien]].
+  [[blits-kleur-typografie-herzien]], [[blits-neo-heritage-en-kleurcorrectie]].
 - **[[eigen-merk-tuininrichting]]** — nog naamloos, hoogste prioriteit qua
   merkbouw-werk: reason-for-existence en naamgeving staan open (zie de
   pagina voor de aanbevolen volgorde).
@@ -32,7 +32,8 @@ _Laatst ververst: 2026-10-07_
 ## Beslissingen tot nu toe
 
 BLITS is het enige merk met `decision`-pagina's — zie `wiki/decisions/`
-(acht stuks, van positionering tot kleur/typografie/heritage) en de Timeline op
+(tien stuks, van positionering tot kleur/typografie/heritage/tone-of-voice)
+en de Timeline op
 [[blits]] voor de volledige geschiedenis. De andere drie merken
 (eigen-merk-tuininrichting, baste, luminous) zitten nog in de verkennende
 fase, geen besluiten vastgelegd.
