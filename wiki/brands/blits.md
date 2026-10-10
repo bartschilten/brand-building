@@ -5,7 +5,7 @@ status: developing
 created: 2026-09-22
 updated: 2026-09-22
 tags: [eigen-merk, buitenspelen]
-related: ["[[remarkable-brand-is-a-promise]]", "[[villain-and-contagious-ideas]]", "[[reason-for-existence]]", "[[neo-heritage-branding]]", "[[blits-heritage-onderzoek-gemini]]", "[[blits-culturele-codes-analoog-buitenspelen]]"]
+related: ["[[remarkable-brand-is-a-promise]]", "[[villain-and-contagious-ideas]]", "[[reason-for-existence]]", "[[neo-heritage-branding]]", "[[blits-heritage-onderzoek-gemini]]", "[[blits-culturele-codes-analoog-buitenspelen]]", "[[blits-apple-design-review]]"]
 aliases: []
 category: "Buitenspelen — twee lijnen: sport-lijn (voetbaldoelen, basketbalpalen, trampolines, later volleybal) en speeltoestellen-lijn (speelhuizen, schommels, zandbakken)"
 parent: "Toppy (zie bartschilten/kennisbank)"
@@ -283,6 +283,14 @@ niets van de bestaande strategie, het is een extra ontwerplaag. Concreet:
   voorgesteld, nog niet getoetst op kostprijs/haalbaarheid — loopt mee in
   de gewone assortiments-/productontwikkelingstoets. Volledige tabel (acht
   codes × drager × copy × productdesign) in [[neo-heritage-branding]].
+- **Prioritering (toegevoegd 2026-10-10, na designkwaliteitscheck):** niet
+  alle signifiers tegelijk bouwen — zie [[blits-apple-design-review]]. Tier 1
+  (nu): één gedeeld 'BLITS-schildplaatje' (vervangt het typeplaatje/Home
+  Base-plaatje/chassis-plaatje-drieling door één spec), het krijtbordje bij
+  speelhuizen, de Golden Goal-bies op sportdoelen. Tier 2 (daarna): Yard
+  Bell, multitool, stoepkrijt-blikje. Tier 3 (bewust geparkeerd): Corner
+  Cones, zoolprofiel, Captain-patches, onderhoudsregister, schatvak,
+  verzendkist-herziening, eigendomscertificaat.
 
 ## Speeltoestellen-lijn — designrichting speelhuizen (2026-10-07)
 
@@ -357,6 +365,11 @@ nov/dec) bewust als campagne-ankers gebruiken.
   alleen villain-toepassing, fotostijl en kleurverhouding mogen per lijn
   verschillen. Zonder die discipline valt de twee-lijnen-architectuur uit
   elkaar in twee merken.
+- **Nieuw (2026-10-10, uit [[blits-apple-design-review]]):** elke nieuw
+  voorgestelde fysieke merksignifier wordt eerst getoetst of hij een
+  bestaand signifier dupliceert (zoals typeplaatje/Home Base-plaatje/
+  chassis-plaatje dat deden) vóórdat hij als los item wordt toegevoegd —
+  "decide what not to build" geldt ook voor heritage-details.
 
 ## Ambitie-horizon — bewust geparkeerd
 
@@ -415,3 +428,4 @@ Identiteitsfase loopt. Open:
 - **2026-10-05** | Bart, kleur- en typografieherziening — zie [[blits-kleur-typografie-herzien]]: palet teruggebracht naar vier gedeelde kleuren (zwart geschrapt, diep olijfgroen neemt sport-ankerrol over, neongeel vervangt oker), nieuw merkbreed lettertype-trio (Archivo Black/Outfit/Kalam, vervangt Bebas Neue + Oswald), Engelse tagline "Outside Wins." definitief bevestigd, logo accuraat gerecolord in de vier kleuren.
 - **2026-10-07** | Bart, extern neo-heritage-onderzoek (Gemini) aangeleverd, zand/crème gecorrigeerd naar wit/crème (`#F8F4EA`, was `#F2E8D5` — "nog veel te geel"), sturing gegeven op speelhuizen-designrichting (kleur, materiaal, logoplaatsing via fysiek typeplaatje i.p.v. sticker, prijs ongewijzigd) vóór de daadwerkelijke inkoop. Zie [[blits-neo-heritage-en-kleurcorrectie]], [[blits-heritage-onderzoek-gemini]], [[neo-heritage-branding]].
 - **2026-10-07** | Bart, acht culturele codes van het analoge buitenspelen aangeleverd (vervolg op het neo-heritage-onderzoek) — acht concrete productdesign-/copy-vertalingen (o.a. 'Home Base'-plaatje, krijtbordje bij speelhuizen, messing 'Yard Bell', gegraveerde multitool, 'Golden Goal'-bies). Voorgesteld, nog niet getoetst op kostprijs/haalbaarheid. Zie [[blits-culturele-codes-analoog-buitenspelen]], volledig uitgewerkt in [[neo-heritage-branding]].
+- **2026-10-10** | Bart liet de `apple-design`-skill toevoegen aan de vault en vroeg om een designkwaliteitscheck op alles tot nu toe — zie [[blits-apple-design-review]]: bevestigt positionering/architectuur/typografie-discipline, signaleert dat typeplaatje/Home Base-plaatje/chassis-plaatje drie keer dezelfde oplossing zijn (nu samengevoegd tot één 'BLITS-schildplaatje'), en prioriteert de heritage-signifiers in drie tiers i.p.v. alles tegelijk bouwen.

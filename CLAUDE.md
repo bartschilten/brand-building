@@ -56,6 +56,7 @@ _templates/          paginaskeletten per entiteit-type
 .claude/
   skills/            ingest, query, lint, context-audit, correction-capture, onboard, usecases (mechaniek)
   skills/domain/     de brand-building skillset (27 skills, zie hieronder) — inhoudelijke expertise
+  skills/design/     designsmaak-skillset (apple-design, zie hieronder) — toetsingskader voor identiteitswerk
 archive/             overbodig geworden pagina's (nog steeds linkbaar)
 ```
 
@@ -132,6 +133,34 @@ bewerken. Update door opnieuw te clonen/kopiëren van de bronrepo als die een
 nieuwe versie uitbrengt. De `wiki/frameworks/`- en `wiki/playbooks/`-pagina's
 zijn waar Bart's *eigen* synthese/aanpassing van deze kennis komt te staan —
 dat mag wél vrij bewerkt worden.
+
+## De design-skillset (`.claude/skills/design/`)
+
+Geïmporteerd van [emilkowalski/skills](https://github.com/emilkowalski/skills)
+(2026-10-10, MIT-licentie, bewaard als `LICENSE-emilkowalski-skills`).
+Bedoeld om Bart en de assistent te helpen "smaak"/designregels consequent
+toe te passen bij het beoordelen van merkwerk (naast de inhoudelijke
+`domain/`-skillset hierboven). Net als `domain/`: externe, onveranderlijke
+kennis — niet handmatig bewerken, update door opnieuw te clonen.
+
+Bewust **niet** het hele bronrepository geïmporteerd — dat bevat vooral
+web-/app-interactie-engineering-skills (`animate`, `animate-expo`,
+`write-swift`, `ask-sonner`, `pick-ui-library`, `mobile-native`, `break-ui`,
+`prototype`, ...) die relevant worden zodra BLITS (of een ander merk) een
+website/3D-configurator/app bouwt, maar niets toevoegen aan merk-/
+identiteitswerk nu. Alleen geïmporteerd:
+
+- **`apple-design`** — Apple's ontwerpprincipes (uit WWDC-designtalks):
+  acht fundamentele designprincipes (Purpose, Agency, Responsibility,
+  Familiarity, Flexibility, Simplicity, Craft, Delight), typografieregels
+  (optical sizing/tracking/leading), materialen/diepte, en motion-principes.
+  Grotendeels geschreven voor interface-/interactiedesign, maar de acht
+  principes en de typografie-/craft-discipline zijn direct bruikbaar als
+  toetsingskader voor merk-/identiteitsbeslissingen in het algemeen (zie
+  toepassing in [[blits-apple-design-review]]).
+
+Als een later merk een website/app/configurator bouwt: haal dan alsnog de
+resterende skills uit dezelfde bronrepo op.
 
 ## Invariants
 

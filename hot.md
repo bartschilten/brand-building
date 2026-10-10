@@ -13,7 +13,10 @@ _Laatst ververst: 2026-10-07_
   neo-heritage-laag (fysieke merktekens op het product + acht culturele
   codes met concrete productdesign-vertalingen, zie
   [[neo-heritage-branding]]) en designrichting voor de aanstaande
-  speelhuizen-inkoop (kleur/materiaal/logoplaatsing/prijs) vastgelegd. Open:
+  speelhuizen-inkoop (kleur/materiaal/logoplaatsing/prijs) vastgelegd.
+  Gevolgd door een designkwaliteitscheck tegen Apple Design-principes (zie
+  [[blits-apple-design-review]]): signifiers samengevoegd/geprioriteerd in
+  drie tiers i.p.v. alles tegelijk bouwen. Open:
   logo-lockups laten vectoriseren door een designer. Eerdere besluiten:
   [[blits-merkstrategie-fase-1]], [[blits-kleur-definitief]],
   [[blits-merkarchitectuur-lijnen]], [[blits-uitvoering-fase-2]],

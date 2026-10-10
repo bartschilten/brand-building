@@ -53,6 +53,7 @@ _(nog geen pagina's — Bart's eigen synthese komt hier zodra die is uitgekrista
 - [[blits-identiteit-logo-kleurenpalet]] — logo bevestigd, 5-kleurenpalet (olijfgroen + zand/crème voor speeltoestellen-lijn), Engelse tagline-werktitel (developing)
 - [[blits-kleur-typografie-herzien]] — palet teruggebracht naar vier gedeelde kleuren (zwart geschrapt), nieuw lettertype-trio Archivo Black/Outfit/Kalam, "Outside Wins." definitief (developing)
 - [[blits-neo-heritage-en-kleurcorrectie]] — zand/crème gecorrigeerd naar wit/crème, neo-heritage-laag toegevoegd, speelhuizen-designrichting (developing)
+- [[blits-apple-design-review]] — designkwaliteitscheck (Apple Design-principes): simplicity-risico, signifiers samengevoegd en geprioriteerd (mature)
 
 ## initiative
 

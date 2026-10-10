@@ -2,6 +2,22 @@
 
 Append-only operatielog. `grep "^## \[" log.md` voor alle entries.
 
+## [2026-10-10] ingest | design-skillset toegevoegd + BLITS designkwaliteitscheck
+
+Bart liet de skills van [emilkowalski/skills](https://github.com/emilkowalski/skills)
+toevoegen. Alleen `apple-design` geïmporteerd naar `.claude/skills/design/`
+(MIT-licentie bewaard) — de overige 13 skills in die repo zijn web-/app-
+interactie-engineering (animatie, Swift, UI-libraries) en voegen nu niets
+toe aan merk-/identiteitswerk; CLAUDE.md documenteert dit expliciet, incl.
+wanneer ze alsnog relevant worden (website/configurator). Vervolgens een
+designkwaliteitscheck uitgevoerd op alle BLITS-branding tot nu toe tegen
+Apple's acht designprincipes — zie [[blits-apple-design-review]] (decision).
+Belangrijkste bevinding: typeplaatje/Home Base-plaatje/chassis-plaatje zijn
+dezelfde oplossing drie keer bedacht, samengevoegd tot één
+'BLITS-schildplaatje'; de heritage-signifiers geprioriteerd in drie tiers.
+Verwerkt in [[blits]] (Governance + Neo-heritage-sectie), `index.md`/
+`hot.md` bijgewerkt.
+
 ## [2026-10-07] ingest | BLITS acht culturele codes van het analoge buitenspelen
 
 Bart leverde een vervolg op het neo-heritage-onderzoek aan: acht universele
