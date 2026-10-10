@@ -2,6 +2,14 @@
 
 Append-only operatielog. `grep "^## \[" log.md` voor alle entries.
 
+## [2026-10-10] now | BLITS actielijst voor Bart opgesteld
+
+Bart vroeg concreet wat hij nu moet doen om de launchrollout
+([[blits-launch-rollout]]) vooruit te helpen. Eerste bestand in
+`now/actions/`: `blits-launch-acties.md` — onderverdeeld in beslissen
+(jij kiest), aanleveren (ik heb iets nodig) en extern (los van mij), per
+fase van de rollout. Geen wiki-wijziging, puur `now/`-status.
+
 ## [2026-10-10] ingest | BLITS go-to-market/launchplan opgezet (eerste initiative-pagina)
 
 Derde en laatste stap van de door de assistent geprioriteerde
