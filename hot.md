@@ -26,8 +26,10 @@ _Laatst ververst: 2026-10-10_
   doelgroep-persona's vastgesteld (sport-lijn/actieve ouder,
   speeltoestellen-lijn/esthetische ouder, B2B-dealer) — zie [[blits]] §
   Doelgroep-persona's. Verpakkingsrichting uitgewerkt (zie § Verpakking &
-  productpresentatie) — nog te bevestigen door Bart. Volgende fase:
-  go-to-market/launchplan. Eerdere besluiten:
+  productpresentatie) — nog te bevestigen door Bart. Go-to-market/
+  launchplan opgezet (zie [[blits-launch-rollout]]): fase 2B
+  (speeltoestellen-lijn-launch, samenvallend met de speelhuizen-inkoop) is
+  nu de eerstvolgende concrete stap. Eerdere besluiten:
   [[blits-merkstrategie-fase-1]], [[blits-kleur-definitief]],
   [[blits-merkarchitectuur-lijnen]], [[blits-uitvoering-fase-2]],
   [[blits-strategie-afgerond]], [[blits-identiteit-logo-kleurenpalet]],

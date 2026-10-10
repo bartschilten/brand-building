@@ -5,7 +5,7 @@ status: developing
 created: 2026-09-22
 updated: 2026-09-22
 tags: [eigen-merk, buitenspelen]
-related: ["[[remarkable-brand-is-a-promise]]", "[[villain-and-contagious-ideas]]", "[[reason-for-existence]]", "[[neo-heritage-branding]]", "[[blits-heritage-onderzoek-gemini]]", "[[blits-culturele-codes-analoog-buitenspelen]]", "[[blits-apple-design-review]]", "[[blits-tone-of-voice-definitief]]", "[[blits-tone-of-voice-concept-2026]]", "[[blits-merkgids]]", "[[blits-logo-designbriefing]]"]
+related: ["[[remarkable-brand-is-a-promise]]", "[[villain-and-contagious-ideas]]", "[[reason-for-existence]]", "[[neo-heritage-branding]]", "[[blits-heritage-onderzoek-gemini]]", "[[blits-culturele-codes-analoog-buitenspelen]]", "[[blits-apple-design-review]]", "[[blits-tone-of-voice-definitief]]", "[[blits-tone-of-voice-concept-2026]]", "[[blits-merkgids]]", "[[blits-logo-designbriefing]]", "[[blits-launch-rollout]]"]
 aliases: []
 category: "Buitenspelen — twee lijnen: sport-lijn (voetbaldoelen, basketbalpalen, trampolines, later volleybal) en speeltoestellen-lijn (speelhuizen, schommels, zandbakken)"
 parent: "Toppy (zie bartschilten/kennisbank)"
@@ -557,9 +557,10 @@ assistent op Bart's verzoek, nog niet gestart:
 1. **Verpakking & productpresentatie** (`brand-packaging`) — **voorstel
    klaar 2026-10-10**, zie § Verpakking & productpresentatie. Nog te
    bevestigen door Bart.
-2. **Go-to-market/launchplan** (`brand-launch`) — welk product/welke lijn
-   eerst, kanaalvolgorde, campagne-opbouw. Bouwt op de drie persona's
-   hierboven.
+2. **Go-to-market/launchplan** (`brand-launch`) — **opgezet 2026-10-10**,
+   zie [[blits-launch-rollout]] (eerste `initiative`-pagina in deze vault):
+   tweeledige uitrol (rebrand sport-lijn + launch speeltoestellen-lijn),
+   met de speelhuizen-inkoop als eerstvolgende concrete stap.
 3. Daarna pas kanaalspecifieke skills (`d2c-marketing`/`b2b-brand-marketing`/
    advertising-skills) — hebben weinig houvast zonder een launchplan.
 
@@ -599,3 +600,4 @@ Identiteitsfase loopt. Open:
 - **2026-10-10** | Laatste openstaande stap uit § Volgende stappen afgerond: logo-designbriefing geschreven — zie [[blits-logo-designbriefing]], kant-en-klaar voor een externe designer (vectorisatie + Pantone-match koraalrood). Alle vier voorgestelde vervolgstappen (logo-briefing, stem & verhaal, merkgids) zijn hiermee doorlopen; de identiteits- en voice-fase is inhoudelijk compleet. Resterende open punten: aanspreekvorm EN, "medailles"-metafoor, exacte kleurtint koraalrood, en de daadwerkelijke uitvoering door een externe designer.
 - **2026-10-10** | Op Bart's verzoek door naar de volgende fase (distributie/doelgroep): doelgroep verdiept tot drie concrete persona's (sport-lijn/actieve ouder, speeltoestellen-lijn/esthetische ouder, B2B-dealer) met trigger/kanaal/bezwaar per profiel, zie § Doelgroep-persona's. Volgende stappen: verpakking & productpresentatie, daarna een go-to-market/launchplan.
 - **2026-10-10** | Verpakkingsrichting uitgewerkt (nog te bevestigen door Bart) — zie § Verpakking & productpresentatie: kraftkarton, kleur/logo-principes per lijn overgenomen uit de productrichting, een lightweight welkomstkaart i.p.v. het volledige (Tier 3) eigendomscertificaat, rustig instructie-register gescheiden van marketingcopy. Volgende stap: go-to-market/launchplan.
+- **2026-10-10** | Go-to-market/launchplan opgezet — zie [[blits-launch-rollout]] (eerste `initiative`-pagina in de vault): tweeledige uitrol (fase 2A rebrand sport-lijn vóór het voorjaars-hoofdmoment, fase 2B launch speeltoestellen-lijn samenvallend met de aankomende speelhuizen-inkoop), plus een contentcadans per doelgroep-persona (fase 3). Hiermee is de door de assistent voorgestelde distributie-fase (verpakking → launchplan) doorlopen.

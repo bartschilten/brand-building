@@ -60,4 +60,4 @@ _(nog geen pagina's)_
 
 ## initiative
 
-_(nog geen pagina's)_
+- [[blits-launch-rollout]] — rebrand sport-lijn + launch speeltoestellen-lijn, fase 1 (fundament) afgerond (developing)

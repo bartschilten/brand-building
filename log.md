@@ -2,6 +2,20 @@
 
 Append-only operatielog. `grep "^## \[" log.md` voor alle entries.
 
+## [2026-10-10] ingest | BLITS go-to-market/launchplan opgezet (eerste initiative-pagina)
+
+Derde en laatste stap van de door de assistent geprioriteerde
+distributie-fase: [[blits-launch-rollout]] (eerste pagina van het
+`initiative`-type in deze vault) met de `brand-launch`-skill. Geen
+launch-vanaf-nul — een tweeledige uitrol: fase 2A rebrandt de bestaande
+sport-lijn (timing: vóór het voorjaars-hoofdmoment), fase 2B lanceert de
+speeltoestellen-lijn met de nieuwe identiteit, samenvallend met Bart's
+aanstaande speelhuizen-inkoop (gemarkeerd als eerstvolgende concrete
+stap). Fase 3 legt een contentcadans per doelgroep-persona vast.
+`index.md`/`hot.md`/[[blits]] bijgewerkt. Hiermee is de volledige,
+zelf-geprioriteerde distributie-fase (persona's → verpakking →
+launchplan) doorlopen.
+
 ## [2026-10-10] ingest | BLITS verpakkingsrichting uitgewerkt (voorstel)
 
 Tweede stap van de door de assistent geprioriteerde distributie-fase:
