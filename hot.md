@@ -22,7 +22,11 @@ _Laatst ververst: 2026-10-10_
   staat: vier merkkleuren (koraalrood, diep olijfgroen, wit/crème `#F8F4EA`,
   neongeel), lettertype-trio Archivo Black/Outfit/Kalam, Engelse tagline
   "Outside Wins." definitief, neo-heritage-signifiers geprioriteerd in drie
-  tiers (zie [[blits-apple-design-review]]). Eerdere besluiten:
+  tiers (zie [[blits-apple-design-review]]). **Nieuw:** drie
+  doelgroep-persona's vastgesteld (sport-lijn/actieve ouder,
+  speeltoestellen-lijn/esthetische ouder, B2B-dealer) — zie [[blits]] §
+  Doelgroep-persona's. Volgende fase: verpakking & productpresentatie,
+  daarna een go-to-market/launchplan. Eerdere besluiten:
   [[blits-merkstrategie-fase-1]], [[blits-kleur-definitief]],
   [[blits-merkarchitectuur-lijnen]], [[blits-uitvoering-fase-2]],
   [[blits-strategie-afgerond]], [[blits-identiteit-logo-kleurenpalet]],

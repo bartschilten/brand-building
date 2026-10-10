@@ -2,6 +2,17 @@
 
 Append-only operatielog. `grep "^## \[" log.md` voor alle entries.
 
+## [2026-10-10] decision | BLITS doelgroep verdiept tot drie persona's, vervolgfase bepaald
+
+Op Bart's verzoek ("ik wil door") zelf de volgende fase (distributie-as-vak)
+geprioriteerd: verpakking & productpresentatie, dan een go-to-market/
+launchplan, dan kanaalspecifieke marketing-skills. Als eerste concrete stap
+de doelgroepbeschrijving verdiept met de `target-audience`-skill tot drie
+persona's (sport-lijn/actieve ouder, speeltoestellen-lijn/esthetische
+ouder, B2B-dealer), elk met trigger/zoekkanaal/bezwaar/BLITS-antwoord.
+Toegevoegd aan [[blits]] § Doelgroep-persona's. `index.md`/`hot.md`
+bijgewerkt, § Volgende stappen herschreven naar de nieuwe fase.
+
 ## [2026-10-10] decision | BLITS logo-designbriefing afgerond — alle vervolgstappen doorlopen
 
 Laatste van de vier voorgestelde vervolgstappen (logo-vectorisatie, stem &

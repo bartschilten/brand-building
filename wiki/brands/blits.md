@@ -80,6 +80,53 @@ uit elkaar getrokken in een **merkbrede** en een **lijn-specifieke** laag:
 opgevoed (vallen, opstaan, vies worden, buiten tot het donker) — in
 tegenstelling tot zowel oversafe opvoeding als schermtijd-ouderschap.
 
+### Doelgroep-persona's (verdiept 2026-10-10)
+
+Opgebouwd met de `target-audience`-skill, op basis van de bestaande
+doelgroepbeschrijving + de koper-per-lijn-aanname (zie § Merkverhaal). Drie
+concrete profielen om straks mee te targeten (B2C per lijn + B2B).
+
+**1. Sport-lijn — "de actieve ouder" (vaak vader, kind 8-14 jaar):**
+- **Trigger:** kind wordt ouder, wil serieuzer sporten in de tuin/straat,
+  of een bestaand Exit/Berg-product is kapot/ontgroeid.
+- **Zoekt:** stevig, "niet-speelgoed"-ogend sportmateriaal; vergelijkt
+  specificaties (staaldikte, afmetingen) net zo goed als uiterlijk.
+- **Kanaal:** zoekt actief op productnaam/categorie (Google), vergelijkt op
+  reviews, gevoelig voor Instagram/YouTube-content van andere actieve
+  gezinnen — niet primair Pinterest.
+- **Bezwaar:** "is dit duurder omdat het mooier is, of ook steviger?" —
+  **BLITS-antwoord:** toegankelijke prijs + zichtbare materiaal-/
+  constructiekwaliteit (heritage-signifiers als bewijs, zie § Neo-heritage).
+- **Niet aanspreken met:** schattig/speels taalgebruik, kinderachtige
+  verpakking.
+
+**2. Speeltoestellen-lijn — "de esthetische ouder" (vaak moeder, kind
+1-8 jaar):**
+- **Trigger:** eerste grote buitenspeelgoed-aankoop voor de tuin, vaak
+  cadeau-gedreven (verjaardag, inrichting van een nieuwe tuin).
+- **Zoekt:** iets dat in de tuin past qua sfeer, niet een felgekleurd
+  plastic object — expliciet geïnspireerd door Pinterest/Instagram-esthetiek
+  (zie de fotografierichting hieronder).
+- **Kanaal:** Pinterest, Instagram, zoekt op sfeerbeelden/stijl eerder dan
+  op productspecificaties; leest reviews op duurzaamheid van hout/verf.
+- **Bezwaar:** "wordt dit over twee jaar een afgeschreven plastic ding in de
+  tuin?" — **BLITS-antwoord:** massief hout, heritage-signifiers die juist
+  mooier worden met gebruik (patina), "gemaakt om door te geven" (zie
+  [[neo-heritage-branding]]).
+- **Niet aanspreken met:** harde/documentaire sport-beeldtaal, prestatie-taal.
+
+**3. B2B — dealer/inkoper:**
+- **Trigger:** op zoek naar een alternatief voor Exit/Berg/Salta met betere
+  marge en een onderscheidend schap-verhaal, niet nóg een private-label-merk.
+- **Zoekt:** concrete marge-/logistiek-cijfers (zie `bartschilten/kennisbank`
+  voor bronwaarheid), een merkverhaal dat hun eigen klanten aanspreekt,
+  betrouwbare levering.
+- **Kanaal:** vakbeurzen, directe sales, geen consumentenmarketing.
+- **Bezwaar:** "nog een nieuw merk zonder trackrecord" — **BLITS-antwoord:**
+  het dealer-/margefrustratie-ontstaansverhaal (zie intro hierboven) — mag
+  wél in dit kanaal, in tegenstelling tot consumentencommunicatie (zie
+  Governance).
+
 **Merkwaarden:** avontuurlijk, esthetisch, vrijheid, eerlijk (richting
 dealers én klanten — zit letterlijk in het ontstaansverhaal), kwalitatief.
 
@@ -469,21 +516,20 @@ sectie.
 
 ## Volgende stappen (voorgesteld, nog niet gestart)
 
-Strategie- en identiteitsfase zijn inhoudelijk en visueel afgerond. Voorstel
-voor het vervolg, nog niet door Bart bevestigd welke als eerste:
+Strategie-, identiteits- en voice-fase zijn inhoudelijk en visueel afgerond
+(logo vectoriseren, stem & verhaal, merkgids — zie Timeline voor data).
+Huidig voorstel voor het vervolg (distributie-as-vak), geprioriteerd door de
+assistent op Bart's verzoek, nog niet gestart:
 
-1. **Logo vectoriseren** — **briefing klaar 2026-10-10**, zie
-   [[blits-logo-designbriefing]] (kant-en-klaar om naar een externe
-   designer te sturen). Uitvoering zelf staat nog open — vereist een
-   externe partij.
-2. **Stem & verhaal** (`brand-voice`/`brand-messaging`/`brand-story` uit
-   `.claude/skills/domain/`) — **afgerond 2026-10-10**: tone-of-voice-ronde 1
-   (zie § Tone of Voice), voorbeeldteksten herschreven (zie
-   [[blits-tone-of-voice-definitief]]), messaging-hiërarchie en merkverhaal
-   vastgesteld (zie § Merkverhaal & messaging-hiërarchie). Nog open:
-   aanspreekvorm EN, "medailles"-metafoor.
-3. **Merkgids samenvoegen** (`brand-guidelines`) — **afgerond 2026-10-10**,
-   zie [[blits-merkgids]] (ook als Word-document opgeleverd).
+1. **Verpakking & productpresentatie** (`brand-packaging`) — vertaalt de
+   Tier 1-heritage-signifiers (schildplaatje, krijtbordje, Golden
+   Goal-bies) en het verzendkist-concept uit [[neo-heritage-branding]] naar
+   een concrete verpakkings-/labelingsrichting.
+2. **Go-to-market/launchplan** (`brand-launch`) — welk product/welke lijn
+   eerst, kanaalvolgorde, campagne-opbouw. Bouwt op de drie persona's
+   hierboven.
+3. Daarna pas kanaalspecifieke skills (`d2c-marketing`/`b2b-brand-marketing`/
+   advertising-skills) — hebben weinig houvast zonder een launchplan.
 
 ## Open beslissingen
 
@@ -519,3 +565,4 @@ Identiteitsfase loopt. Open:
 - **2026-10-10** | Bart liet de Tone of Voice als Word-document opleveren (gedownload + in Drive gezet) en vroeg daarna om de stem-&-verhaal-fase af te ronden: voorbeeldteksten herschreven volgens de nieuwe regels (zie [[blits-tone-of-voice-definitief]]) en een messaging-hiërarchie + kort merkverhaal vastgesteld (zie § Merkverhaal & messaging-hiërarchie).
 - **2026-10-10** | Op Bart's verzoek ("jij bent de brandingspecialist, bepaal de volgorde") zelf de vervolgstappen geprioriteerd en de merkgids samengevoegd — zie [[blits-merkgids]]: één extern deelbaar document (strategie, identiteit, kleur/typografie, heritage-tiers, tone of voice, merkverhaal), ook als Word-document opgeleverd.
 - **2026-10-10** | Laatste openstaande stap uit § Volgende stappen afgerond: logo-designbriefing geschreven — zie [[blits-logo-designbriefing]], kant-en-klaar voor een externe designer (vectorisatie + Pantone-match koraalrood). Alle vier voorgestelde vervolgstappen (logo-briefing, stem & verhaal, merkgids) zijn hiermee doorlopen; de identiteits- en voice-fase is inhoudelijk compleet. Resterende open punten: aanspreekvorm EN, "medailles"-metafoor, exacte kleurtint koraalrood, en de daadwerkelijke uitvoering door een externe designer.
+- **2026-10-10** | Op Bart's verzoek door naar de volgende fase (distributie/doelgroep): doelgroep verdiept tot drie concrete persona's (sport-lijn/actieve ouder, speeltoestellen-lijn/esthetische ouder, B2B-dealer) met trigger/kanaal/bezwaar per profiel, zie § Doelgroep-persona's. Volgende stappen: verpakking & productpresentatie, daarna een go-to-market/launchplan.

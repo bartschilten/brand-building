@@ -12,7 +12,7 @@ Catalogus van alle pagina's, één regel per pagina, gegroepeerd per type.
 ## brand
 
 - [[baste]] — buitenkoken, positionering nog dubbelzinnig (developing)
-- [[blits]] — buitenspelen, twee lijnen (sport + speeltoestellen), strategiefase afgerond, identiteitsfase: logo bevestigd, 4-kleurenpalet (wit/crème i.p.v. zwart), neo-heritage-laag (fysieke merktekens) + speelhuizen-designrichting (developing)
+- [[blits]] — buitenspelen, twee lijnen (sport + speeltoestellen); strategie/identiteit/tone-of-voice/merkgids afgerond, drie doelgroep-persona's vastgesteld; volgende fase: verpakking + go-to-market (developing)
 - [[luminous]] — tuinverwarming, seizoensgebonden (developing)
 - [[eigen-merk-tuininrichting]] — tuininrichting, nog naamloos (seed)
 
