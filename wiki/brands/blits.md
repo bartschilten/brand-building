@@ -5,7 +5,7 @@ status: developing
 created: 2026-09-22
 updated: 2026-09-22
 tags: [eigen-merk, buitenspelen]
-related: ["[[remarkable-brand-is-a-promise]]", "[[villain-and-contagious-ideas]]", "[[reason-for-existence]]", "[[neo-heritage-branding]]", "[[blits-heritage-onderzoek-gemini]]", "[[blits-culturele-codes-analoog-buitenspelen]]", "[[blits-apple-design-review]]", "[[blits-tone-of-voice-definitief]]", "[[blits-tone-of-voice-concept-2026]]", "[[blits-merkgids]]"]
+related: ["[[remarkable-brand-is-a-promise]]", "[[villain-and-contagious-ideas]]", "[[reason-for-existence]]", "[[neo-heritage-branding]]", "[[blits-heritage-onderzoek-gemini]]", "[[blits-culturele-codes-analoog-buitenspelen]]", "[[blits-apple-design-review]]", "[[blits-tone-of-voice-definitief]]", "[[blits-tone-of-voice-concept-2026]]", "[[blits-merkgids]]", "[[blits-logo-designbriefing]]"]
 aliases: []
 category: "Buitenspelen — twee lijnen: sport-lijn (voetbaldoelen, basketbalpalen, trampolines, later volleybal) en speeltoestellen-lijn (speelhuizen, schommels, zandbakken)"
 parent: "Toppy (zie bartschilten/kennisbank)"
@@ -472,9 +472,10 @@ sectie.
 Strategie- en identiteitsfase zijn inhoudelijk en visueel afgerond. Voorstel
 voor het vervolg, nog niet door Bart bevestigd welke als eerste:
 
-1. **Logo vectoriseren** — een designer laat de "Buiten wint."/"Outside
-   Wins."-lockups (nu een conceptrichting in het canvas) definitief maken
-   in vector, inclusief exacte Pantone-match van het koraalrood.
+1. **Logo vectoriseren** — **briefing klaar 2026-10-10**, zie
+   [[blits-logo-designbriefing]] (kant-en-klaar om naar een externe
+   designer te sturen). Uitvoering zelf staat nog open — vereist een
+   externe partij.
 2. **Stem & verhaal** (`brand-voice`/`brand-messaging`/`brand-story` uit
    `.claude/skills/domain/`) — **afgerond 2026-10-10**: tone-of-voice-ronde 1
    (zie § Tone of Voice), voorbeeldteksten herschreven (zie
@@ -490,7 +491,8 @@ Identiteitsfase loopt. Open:
 
 - Logo-lockups met "PLAY MORE" definitief herbouwen (vector, door een
   designer) met "Buiten wint." / "Outside Wins." in Archivo Black — het
-  canvas toont nu een concept-richting, geen productiebestand.
+  canvas toont nu een concept-richting, geen productiebestand. Briefing
+  klaar: [[blits-logo-designbriefing]], wacht op een externe designer.
 - Exacte kleurtint koraalrood — bewust gepauzeerd, geen actie nodig tot
   productie/druk aan de orde is.
 - Grootste merk qua volume — risico blijft dat het merk zonder scherpe
@@ -515,4 +517,5 @@ Identiteitsfase loopt. Open:
 - **2026-10-10** | Bart liet de `apple-design`-skill toevoegen aan de vault en vroeg om een designkwaliteitscheck op alles tot nu toe — zie [[blits-apple-design-review]]: bevestigt positionering/architectuur/typografie-discipline, signaleert dat typeplaatje/Home Base-plaatje/chassis-plaatje drie keer dezelfde oplossing zijn (nu samengevoegd tot één 'BLITS-schildplaatje'), en prioriteert de heritage-signifiers in drie tiers i.p.v. alles tegelijk bouwen.
 - **2026-10-10** | Bart, tone-of-voice-ronde 1 — een eerder ToV-concept aangeleverd ([[blits-tone-of-voice-concept-2026]]), gevolgd door een scherpe vragenronde en besluit ([[blits-tone-of-voice-definitief]]): "strijders"/competitie-taal geschrapt (vervangen door "ontdekkers"-richting), villain-toon teruggebracht naar de bestaande evocatieve regel, Engels vastgesteld als mastertaal, taal blijft warm/toegankelijk (premium zit in fotografie/verpakking/website, niet in de tekst). Aanspreekvorm in het Engels blijft open.
 - **2026-10-10** | Bart liet de Tone of Voice als Word-document opleveren (gedownload + in Drive gezet) en vroeg daarna om de stem-&-verhaal-fase af te ronden: voorbeeldteksten herschreven volgens de nieuwe regels (zie [[blits-tone-of-voice-definitief]]) en een messaging-hiërarchie + kort merkverhaal vastgesteld (zie § Merkverhaal & messaging-hiërarchie).
-- **2026-10-10** | Op Bart's verzoek ("jij bent de brandingspecialist, bepaal de volgorde") zelf de vervolgstappen geprioriteerd en de merkgids samengevoegd — zie [[blits-merkgids]]: één extern deelbaar document (strategie, identiteit, kleur/typografie, heritage-tiers, tone of voice, merkverhaal), ook als Word-document opgeleverd. Overgebleven: logo-designbriefing voor een externe designer.
+- **2026-10-10** | Op Bart's verzoek ("jij bent de brandingspecialist, bepaal de volgorde") zelf de vervolgstappen geprioriteerd en de merkgids samengevoegd — zie [[blits-merkgids]]: één extern deelbaar document (strategie, identiteit, kleur/typografie, heritage-tiers, tone of voice, merkverhaal), ook als Word-document opgeleverd.
+- **2026-10-10** | Laatste openstaande stap uit § Volgende stappen afgerond: logo-designbriefing geschreven — zie [[blits-logo-designbriefing]], kant-en-klaar voor een externe designer (vectorisatie + Pantone-match koraalrood). Alle vier voorgestelde vervolgstappen (logo-briefing, stem & verhaal, merkgids) zijn hiermee doorlopen; de identiteits- en voice-fase is inhoudelijk compleet. Resterende open punten: aanspreekvorm EN, "medailles"-metafoor, exacte kleurtint koraalrood, en de daadwerkelijke uitvoering door een externe designer.

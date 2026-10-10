@@ -2,6 +2,18 @@
 
 Append-only operatielog. `grep "^## \[" log.md` voor alle entries.
 
+## [2026-10-10] decision | BLITS logo-designbriefing afgerond — alle vervolgstappen doorlopen
+
+Laatste van de vier voorgestelde vervolgstappen (logo-vectorisatie, stem &
+verhaal, merkgids) afgerond: een kant-en-klare briefing voor een externe
+designer geschreven ([[blits-logo-designbriefing]]) — wat vaststaat
+(silhouet, 4 kleurvarianten, Archivo Black, NL/EN-lockups), wat concreet
+geleverd moet worden (vector + Pantone-match koraalrood), en wat buiten
+scope blijft. `index.md`/`hot.md`/[[blits]] bijgewerkt. Hiermee is de
+identiteits- en voice-fase van BLITS inhoudelijk compleet; openstaand zijn
+alleen nog externe uitvoering (designer) en twee kleine bevestigingen
+(aanspreekvorm EN, "medailles"-metafoor).
+
 ## [2026-10-10] ingest | BLITS merkgids samengevoegd (eerste playbook-pagina)
 
 Bart liet de assistent zelf de volgorde van de resterende "Volgende

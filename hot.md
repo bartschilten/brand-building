@@ -12,14 +12,17 @@ _Laatst ververst: 2026-10-10_
   blijft warm/toegankelijk (premium zit in fotografie/verpakking/website,
   niet in de tekst), voorbeeldteksten herschreven, messaging-hiërarchie +
   merkverhaal vastgesteld (zie [[blits]] § Merkverhaal & messaging-
-  hiërarchie). Open: aanspreekvorm in het Engels ("you" voelt mogelijk
-  "wijzend" aan), de "medailles"-metafoor bevestigen. Volgende stap:
-  merkgids samenvoegen. Identiteitslaag (kleur/typografie/logo/heritage-signifiers)
+  hiërarchie). Merkgids gebundeld (zie [[blits-merkgids]], ook als Word-
+  document) en logo-designbriefing geschreven (zie
+  [[blits-logo-designbriefing]]) — alle vier vervolgstappen uit § Volgende
+  stappen zijn hiermee doorlopen. Open: aanspreekvorm in het Engels ("you"
+  voelt mogelijk "wijzend" aan), de "medailles"-metafoor bevestigen, exacte
+  kleurtint koraalrood, en de daadwerkelijke logo-vectorisatie door een
+  externe designer. Identiteitslaag (kleur/typografie/logo/heritage-signifiers)
   staat: vier merkkleuren (koraalrood, diep olijfgroen, wit/crème `#F8F4EA`,
   neongeel), lettertype-trio Archivo Black/Outfit/Kalam, Engelse tagline
   "Outside Wins." definitief, neo-heritage-signifiers geprioriteerd in drie
-  tiers (zie [[blits-apple-design-review]]). Open: logo-lockups laten
-  vectoriseren door een designer. Eerdere besluiten:
+  tiers (zie [[blits-apple-design-review]]). Eerdere besluiten:
   [[blits-merkstrategie-fase-1]], [[blits-kleur-definitief]],
   [[blits-merkarchitectuur-lijnen]], [[blits-uitvoering-fase-2]],
   [[blits-strategie-afgerond]], [[blits-identiteit-logo-kleurenpalet]],
@@ -34,8 +37,8 @@ _Laatst ververst: 2026-10-10_
 ## Beslissingen tot nu toe
 
 BLITS is het enige merk met `decision`-pagina's — zie `wiki/decisions/`
-(tien stuks, van positionering tot kleur/typografie/heritage/tone-of-voice)
-en de Timeline op
+(elf stuks, van positionering tot kleur/typografie/heritage/tone-of-voice/
+logo-briefing) en de Timeline op
 [[blits]] voor de volledige geschiedenis. De andere drie merken
 (eigen-merk-tuininrichting, baste, luminous) zitten nog in de verkennende
 fase, geen besluiten vastgelegd.
