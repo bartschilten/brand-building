@@ -2,6 +2,20 @@
 
 Append-only operatielog. `grep "^## \[" log.md` voor alle entries.
 
+## [2026-10-10] decision | BLITS stem-&-verhaal-fase afgerond: voorbeeldteksten + messaging-hiërarchie
+
+Op verzoek van Bart (ToV als Word-document opgeleverd — gedownload en in
+Google Drive gezet als "BLITS Tone of Voice.docx" — daarna gevraagd door te
+pakken naar de vervolgstappen in zelfgekozen volgorde): voorbeeldteksten
+(campagnetekst, twee productomschrijvingen, twee Instagram-captions, EN+NL)
+herschreven volgens de nieuwe ToV-regels, toegevoegd aan
+[[blits-tone-of-voice-definitief]]. Daarna een messaging-hiërarchie
+(kernbelofte, drie pijlers, doelgroep-invalshoeken) en een kort merkverhaal
+(EN master + NL) vastgesteld, toegevoegd aan [[blits]] § Merkverhaal &
+messaging-hiërarchie. Hiermee is de "stem & verhaal"-stap uit § Volgende
+stappen afgerond. Volgende stap: merkgids samenvoegen (`brand-guidelines`).
+`index.md`/`hot.md` bijgewerkt (significante statusverandering).
+
 ## [2026-10-10] decision | BLITS tone-of-voice ronde 1 vastgesteld
 
 Op de scherpe vragenronde over [[blits-tone-of-voice-concept-2026]] heeft

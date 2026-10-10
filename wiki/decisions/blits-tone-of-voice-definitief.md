@@ -133,10 +133,82 @@ hierboven — bij de eerste concrete copy aan Bart voorleggen of dit beeld
 blijft staan of vervangen wordt (bv. "vuile knieën zijn bewijs dat je hebt
 geleefd/ontdekt").
 
-## Gevolg voor de voorbeeldteksten uit het oude concept
+## Voorbeeldteksten herschreven (2026-10-10)
 
-De campagnetekst, productomschrijving en Instagram-caption-voorbeelden in
+De campagnetekst, productomschrijving en Instagram-caption-voorbeelden uit
 [[blits-tone-of-voice-concept-2026]] zijn **niet meer bruikbaar zoals ze
 zijn geschreven** — ze bevatten strijders-taal en de te-scherpe
-villain-claim. Herschrijven volgens bovenstaande regels is nog niet gedaan;
-dit is de volgende concrete stap zodra Bart dat wil oppakken.
+villain-claim. Hieronder de herschreven versies: Engels als master, Nederlands
+als vertaling (zie § 4 hierboven). Beide lijnen zijn vertegenwoordigd — het
+oude concept dekte alleen sport.
+
+### Campagnetekst (website/social)
+
+**EN (master):**
+> Screens make promises. Mud tells the truth.
+> We'd rather see them fall outside than disappear inside.
+> BLITS builds outdoor gear made for scraped knees, muddy boots, and
+> afternoons that go on too long.
+> Not screen time. Real time.
+> Outside Wins.
+
+**NL:**
+> Schermen doen beloftes. Modder vertelt de waarheid.
+> Wij zien ze liever buiten vallen dan binnen verdwijnen.
+> BLITS bouwt buitenspeelgoed voor geschaafde knieën, modderlaarzen en
+> middagen die te lang duren.
+> Geen schermtijd. Echte tijd.
+> Buiten wint.
+
+### Productomschrijving — sport-lijn (voetbaldoel)
+
+**EN:**
+> BLITS Goal — built for backyard matches that start after school and end
+> when the streetlights come on. Heavy-duty steel. Quick to set up. No
+> fuss. Rain or shine, it stays out — because the best games happen when
+> nobody's watching the forecast.
+> (Parents: yes, it folds away easily. But it probably won't have to.)
+
+**NL:**
+> BLITS Voetbaldoel — gebouwd voor tuinwedstrijdjes die na school beginnen
+> en eindigen als de straatlantaarns aangaan. Stevig staal. Snel opgezet.
+> Geen gedoe. Regen of zon, hij blijft gewoon staan — want de beste potjes
+> spelen zich af als niemand naar het weerbericht kijkt.
+> (Voor de ouders: ja, hij is makkelijk op te bergen. Maar waarschijnlijk
+> hoeft dat niet.)
+
+### Productomschrijving — speeltoestellen-lijn (speelhuisje)
+
+**EN:**
+> BLITS Playhouse — a door of their own. A window to watch the garden
+> from. A chalkboard for passwords only they know. Solid wood, built to
+> weather seasons, not just summers. Somewhere small enough to feel like
+> theirs — and big enough for the whole afternoon.
+
+**NL:**
+> BLITS Speelhuisje — een eigen deur. Een raampje om de tuin te bespieden.
+> Een krijtbordje voor wachtwoorden die alleen zij kennen. Massief hout,
+> gebouwd voor alle seizoenen, niet alleen de zomer. Klein genoeg om van
+> hen te zijn — groot genoeg voor een hele middag.
+
+### Instagram-captions
+
+**Sport-lijn (EN):** "Muddy knees. Grass stains that won't wash out. A
+friendship that started an hour ago over a ball. This is what outside
+looks like. #OutsideWins #BlitsOutside"
+**NL:** "Modderknieën. Grasvlekken die niet meer uitwassen. Een
+vriendschap die een uur geleden begon, over een bal. Zo ziet buiten eruit.
+#BuitenWint #BlitsBuiten"
+
+**Speeltoestellen-lijn (EN):** "Today's password: BLITS. Today's mission:
+don't let the grown-ups in. #OutsideWins #BlitsOutside"
+**NL:** "Wachtwoord van vandaag: BLITS. Missie van vandaag: geen
+volwassenen binnenlaten. #BuitenWint #BlitsBuiten"
+
+Let op wat hier bewust NIET in zit: geen "winnen"/"kampioen"/"strijders",
+geen directe villain-claim ("we beschermen jullie kapot") — de schermtijd-
+tegenstelling in de campagnetekst blijft impliciet (modder vs. scherm,
+nooit een beschuldiging richting de ouder). De speeltoestellen-caption
+verwerkt het "Geheim van de Boomhut"-heritage-detail (krijtbordje/
+wachtwoord) rechtstreeks in copy — een voorbeeld van hoe de
+neo-heritage-signifiers in marketing landen, niet alleen in productdesign.

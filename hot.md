@@ -5,14 +5,16 @@ _Laatst ververst: 2026-10-10_
 ## Actieve merkbouw-vraagstukken
 
 - **[[blits]]** — identiteit vrijwel afgerond, **stem & verhaal-fase
-  gestart** (zie [[blits-tone-of-voice-definitief]]): "strijders"/
+  afgerond** (zie [[blits-tone-of-voice-definitief]]): "strijders"/
   competitie-taal geschrapt (BLITS gaat over samen spelen, niet winnen),
   villain-toon teruggebracht naar de bestaande evocatieve regel (geen
   schuldgevoel), Engels vastgesteld als mastertaal voor nieuwe copy, taal
   blijft warm/toegankelijk (premium zit in fotografie/verpakking/website,
-  niet in de tekst). Open: aanspreekvorm in het Engels ("you" voelt mogelijk
-  "wijzend" aan), de "medailles"-metafoor bevestigen, voorbeeldteksten
-  herschrijven. Identiteitslaag (kleur/typografie/logo/heritage-signifiers)
+  niet in de tekst), voorbeeldteksten herschreven, messaging-hiërarchie +
+  merkverhaal vastgesteld (zie [[blits]] § Merkverhaal & messaging-
+  hiërarchie). Open: aanspreekvorm in het Engels ("you" voelt mogelijk
+  "wijzend" aan), de "medailles"-metafoor bevestigen. Volgende stap:
+  merkgids samenvoegen. Identiteitslaag (kleur/typografie/logo/heritage-signifiers)
   staat: vier merkkleuren (koraalrood, diep olijfgroen, wit/crème `#F8F4EA`,
   neongeel), lettertype-trio Archivo Black/Outfit/Kalam, Engelse tagline
   "Outside Wins." definitief, neo-heritage-signifiers geprioriteerd in drie

@@ -324,6 +324,53 @@ vragenronde. Kern:
   Bart mogelijk "wijzend" aan) — te verkennen bij de eerste concrete
   Engelse copy.
 
+## Merkverhaal & messaging-hiërarchie (vastgesteld 2026-10-10)
+
+Gebouwd uit de reeds vastgestelde villain/waarden/reason-for-existence
+(zie § Merkstrategie), met de domain-skills `brand-story`/`brand-messaging`
+als methode. Engels is de master (zie § Tone of Voice).
+
+**Kernbelofte (één zin):** *"BLITS gets kids outside, together, through
+every age and every fall."* / NL: "BLITS laat kinderen buiten opgroeien,
+samen, door elke leeftijd en elke valpartij heen."
+
+**Drie messaging-pijlers:**
+1. **Real time, not screen time** — de villain-pijler, altijd evocatief
+   (modder/buiten vs. scherm), nooit een directe beschuldiging naar de
+   ouder.
+2. **Built to be used, not admired** — de kwaliteits-/materiaalpijler:
+   onverwoestbaar, eerlijke materialen, de heritage-signifiers (zie §
+   Neo-heritage) als bewijs, niet als decoratie.
+3. **Every kid finds their own place outside** — de lijn-overstijgende
+   pijler die de twee lijnen verbindt: sport-lijn = hun eigen kracht
+   ontdekken, speeltoestellen-lijn = hun eigen plekje ontdekken.
+
+**Doelgroep-invalshoeken (zelfde kern, ander accent):**
+- **B2C, jonge kinderen (speeltoestellen):** geborgenheid, een eigen
+  plekje, veilig experimenteren — koper vaak moeder, esthetisch gedreven
+  (zie § Doelgroep).
+- **B2C, oudere kinderen (sport):** buiten actief zijn, vriendschappen,
+  vallen-en-opstaan in beweging.
+- **B2B (dealers):** marge, onderscheidend merkverhaal t.o.v. Exit/Berg/
+  Salta — dit kanaal houdt wél de dealer-/margefrustratie-ontstaansgeschiedenis
+  (zie Governance: blijft uit consumentencommunicatie).
+
+**Kort merkverhaal (EN, master):** *"BLITS exists because kids don't grow
+up on a screen — they grow up outside, with friends they haven't met yet,
+knees they'll scrape, and a world only they can find on their own. We
+build outdoor gear that's honest about that: built to be used hard, not
+admired from a distance. Two lines, one promise — from a toddler's first
+playhouse to a teenager's last game before the streetlights come on,
+outside wins."*
+
+**NL-vertaling:** "BLITS bestaat omdat kinderen niet opgroeien op een
+scherm — ze groeien op buiten, met vriendjes die ze nog niet kennen,
+geschaafde knieën, en een wereld die ze alleen zelf kunnen ontdekken. We
+bouwen buitenspeelgoed dat daar eerlijk in is: gemaakt om hard gebruikt te
+worden, niet om van een afstandje bewonderd te worden. Twee lijnen, één
+belofte — van het eerste speelhuisje van een peuter tot het laatste potje
+van een puber voor de straatlantaarns aangaan, buiten wint."
+
 ## Speeltoestellen-lijn — designrichting speelhuizen (2026-10-07)
 
 Bart staat op het punt speelhuizen in te kopen; onderstaande sturing is
@@ -429,14 +476,14 @@ voor het vervolg, nog niet door Bart bevestigd welke als eerste:
    Wins."-lockups (nu een conceptrichting in het canvas) definitief maken
    in vector, inclusief exacte Pantone-match van het koraalrood.
 2. **Stem & verhaal** (`brand-voice`/`brand-messaging`/`brand-story` uit
-   `.claude/skills/domain/`) — **gestart 2026-10-10**, tone-of-voice-ronde 1
-   afgerond (zie § Tone of Voice hierboven). Nog te doen: de aanspreekvorm-
-   vraag oplossen, de "medailles"-metafoor bevestigen, en de
-   voorbeeldteksten uit het oude concept herschrijven volgens de nieuwe
-   regels; daarna messaging-hiërarchie en geschreven merkverhaal.
+   `.claude/skills/domain/`) — **afgerond 2026-10-10**: tone-of-voice-ronde 1
+   (zie § Tone of Voice), voorbeeldteksten herschreven (zie
+   [[blits-tone-of-voice-definitief]]), messaging-hiërarchie en merkverhaal
+   vastgesteld (zie § Merkverhaal & messaging-hiërarchie). Nog open:
+   aanspreekvorm EN, "medailles"-metafoor.
 3. **Merkgids samenvoegen** (`brand-guidelines`) — alles uit deze pagina en
    de decision-pagina's bundelen tot één doorlopend document voor een
-   extern bureau/fotograaf/dealer.
+   extern bureau/fotograaf/dealer. Volgende stap.
 
 ## Open beslissingen
 
@@ -468,3 +515,4 @@ Identiteitsfase loopt. Open:
 - **2026-10-07** | Bart, acht culturele codes van het analoge buitenspelen aangeleverd (vervolg op het neo-heritage-onderzoek) — acht concrete productdesign-/copy-vertalingen (o.a. 'Home Base'-plaatje, krijtbordje bij speelhuizen, messing 'Yard Bell', gegraveerde multitool, 'Golden Goal'-bies). Voorgesteld, nog niet getoetst op kostprijs/haalbaarheid. Zie [[blits-culturele-codes-analoog-buitenspelen]], volledig uitgewerkt in [[neo-heritage-branding]].
 - **2026-10-10** | Bart liet de `apple-design`-skill toevoegen aan de vault en vroeg om een designkwaliteitscheck op alles tot nu toe — zie [[blits-apple-design-review]]: bevestigt positionering/architectuur/typografie-discipline, signaleert dat typeplaatje/Home Base-plaatje/chassis-plaatje drie keer dezelfde oplossing zijn (nu samengevoegd tot één 'BLITS-schildplaatje'), en prioriteert de heritage-signifiers in drie tiers i.p.v. alles tegelijk bouwen.
 - **2026-10-10** | Bart, tone-of-voice-ronde 1 — een eerder ToV-concept aangeleverd ([[blits-tone-of-voice-concept-2026]]), gevolgd door een scherpe vragenronde en besluit ([[blits-tone-of-voice-definitief]]): "strijders"/competitie-taal geschrapt (vervangen door "ontdekkers"-richting), villain-toon teruggebracht naar de bestaande evocatieve regel, Engels vastgesteld als mastertaal, taal blijft warm/toegankelijk (premium zit in fotografie/verpakking/website, niet in de tekst). Aanspreekvorm in het Engels blijft open.
+- **2026-10-10** | Bart liet de Tone of Voice als Word-document opleveren (gedownload + in Drive gezet) en vroeg daarna om de stem-&-verhaal-fase af te ronden: voorbeeldteksten herschreven volgens de nieuwe regels (zie [[blits-tone-of-voice-definitief]]) en een messaging-hiërarchie + kort merkverhaal vastgesteld (zie § Merkverhaal & messaging-hiërarchie). Volgende stap: merkgids samenvoegen.
