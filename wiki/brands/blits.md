@@ -418,6 +418,39 @@ worden, niet om van een afstandje bewonderd te worden. Twee lijnen, één
 belofte — van het eerste speelhuisje van een peuter tot het laatste potje
 van een puber voor de straatlantaarns aangaan, buiten wint."
 
+## Verpakking & productpresentatie (voorgesteld 2026-10-10)
+
+Vervolg op § Neo-heritage (verzendkist-gevoel) en de Tier 1-signifiers uit
+[[blits-apple-design-review]]. Gebouwd met de `brand-packaging`-skill.
+**Status: sturing/voorstel, nog niet door Bart bevestigd** — zelfde aanpak
+als bij de eerdere speelhuizen-designrichting.
+
+- **Materiaal:** ongebleekt kraftkarton, tweekleurendruk (olijfgroen +
+  koraalrood) — geen glanzend, witgebleekt "consumentenelektronica"-doosje.
+  Sluit aan bij "eerlijke materialen" (merkwaarde) en het
+  verzendkist-principe.
+- **Buitenkant per lijn:** sport-lijn-dozen olijfgroen-dominant met
+  koraalrode tape/sticker (sluit aan bij de sport-kleurratio); speeltoestellen-
+  lijn-dozen wit/crème-dominant met olijfgroen drukwerk (sluit aan bij de
+  speeltoestellen-kleurratio). Zelfde logo-plaatsing-principe als bij de
+  producten zelf: klein, geen opdringerige merkreclame over de hele doos.
+- **Unboxing-moment (FAO Schwarz-principe uit [[neo-heritage-branding]]):**
+  het eerste wat je ziet bij het openen is niet de bedrukte handleiding,
+  maar een korte welkomstkaart met één regel uit het merkverhaal (NL/EN) —
+  een simpele, goedkope versie van het "eigendomscertificaat"-idee (Tier 3
+  blijft geparkeerd; dit is een lightweight tussenvorm die nu al kan).
+- **Handleiding/instructies:** apart van de merkcopy — rustig register,
+  feitelijk, geen avontuur-/val-taal (bevestigt de bestaande
+  governance-regel). Archivo Black voor stapnummers/koppen, Outfit voor
+  instructietekst, geen Kalam (die blijft voorbehouden aan marketing-
+  uitingen).
+- **Taal op de doos:** Engels als hoofdtaal (master), Nederlands als tweede
+  taal — consistent met § Tone of Voice.
+- **Wat hier NIET in zit:** de volledige Tier 2/3-signifiers (Yard Bell,
+  multitool, stoepkrijt-blikje, eigendomscertificaat) — dit is puur de
+  verpakking zelf, niet de bijgeleverde accessoires. Die blijven in de
+  prioritering uit [[blits-apple-design-review]].
+
 ## Speeltoestellen-lijn — designrichting speelhuizen (2026-10-07)
 
 Bart staat op het punt speelhuizen in te kopen; onderstaande sturing is
@@ -521,10 +554,9 @@ Strategie-, identiteits- en voice-fase zijn inhoudelijk en visueel afgerond
 Huidig voorstel voor het vervolg (distributie-as-vak), geprioriteerd door de
 assistent op Bart's verzoek, nog niet gestart:
 
-1. **Verpakking & productpresentatie** (`brand-packaging`) — vertaalt de
-   Tier 1-heritage-signifiers (schildplaatje, krijtbordje, Golden
-   Goal-bies) en het verzendkist-concept uit [[neo-heritage-branding]] naar
-   een concrete verpakkings-/labelingsrichting.
+1. **Verpakking & productpresentatie** (`brand-packaging`) — **voorstel
+   klaar 2026-10-10**, zie § Verpakking & productpresentatie. Nog te
+   bevestigen door Bart.
 2. **Go-to-market/launchplan** (`brand-launch`) — welk product/welke lijn
    eerst, kanaalvolgorde, campagne-opbouw. Bouwt op de drie persona's
    hierboven.
@@ -566,3 +598,4 @@ Identiteitsfase loopt. Open:
 - **2026-10-10** | Op Bart's verzoek ("jij bent de brandingspecialist, bepaal de volgorde") zelf de vervolgstappen geprioriteerd en de merkgids samengevoegd — zie [[blits-merkgids]]: één extern deelbaar document (strategie, identiteit, kleur/typografie, heritage-tiers, tone of voice, merkverhaal), ook als Word-document opgeleverd.
 - **2026-10-10** | Laatste openstaande stap uit § Volgende stappen afgerond: logo-designbriefing geschreven — zie [[blits-logo-designbriefing]], kant-en-klaar voor een externe designer (vectorisatie + Pantone-match koraalrood). Alle vier voorgestelde vervolgstappen (logo-briefing, stem & verhaal, merkgids) zijn hiermee doorlopen; de identiteits- en voice-fase is inhoudelijk compleet. Resterende open punten: aanspreekvorm EN, "medailles"-metafoor, exacte kleurtint koraalrood, en de daadwerkelijke uitvoering door een externe designer.
 - **2026-10-10** | Op Bart's verzoek door naar de volgende fase (distributie/doelgroep): doelgroep verdiept tot drie concrete persona's (sport-lijn/actieve ouder, speeltoestellen-lijn/esthetische ouder, B2B-dealer) met trigger/kanaal/bezwaar per profiel, zie § Doelgroep-persona's. Volgende stappen: verpakking & productpresentatie, daarna een go-to-market/launchplan.
+- **2026-10-10** | Verpakkingsrichting uitgewerkt (nog te bevestigen door Bart) — zie § Verpakking & productpresentatie: kraftkarton, kleur/logo-principes per lijn overgenomen uit de productrichting, een lightweight welkomstkaart i.p.v. het volledige (Tier 3) eigendomscertificaat, rustig instructie-register gescheiden van marketingcopy. Volgende stap: go-to-market/launchplan.

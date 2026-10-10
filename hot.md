@@ -25,8 +25,9 @@ _Laatst ververst: 2026-10-10_
   tiers (zie [[blits-apple-design-review]]). **Nieuw:** drie
   doelgroep-persona's vastgesteld (sport-lijn/actieve ouder,
   speeltoestellen-lijn/esthetische ouder, B2B-dealer) — zie [[blits]] §
-  Doelgroep-persona's. Volgende fase: verpakking & productpresentatie,
-  daarna een go-to-market/launchplan. Eerdere besluiten:
+  Doelgroep-persona's. Verpakkingsrichting uitgewerkt (zie § Verpakking &
+  productpresentatie) — nog te bevestigen door Bart. Volgende fase:
+  go-to-market/launchplan. Eerdere besluiten:
   [[blits-merkstrategie-fase-1]], [[blits-kleur-definitief]],
   [[blits-merkarchitectuur-lijnen]], [[blits-uitvoering-fase-2]],
   [[blits-strategie-afgerond]], [[blits-identiteit-logo-kleurenpalet]],

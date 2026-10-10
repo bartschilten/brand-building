@@ -2,6 +2,18 @@
 
 Append-only operatielog. `grep "^## \[" log.md` voor alle entries.
 
+## [2026-10-10] ingest | BLITS verpakkingsrichting uitgewerkt (voorstel)
+
+Tweede stap van de door de assistent geprioriteerde distributie-fase:
+verpakkings-/productpresentatierichting met de `brand-packaging`-skill —
+kraftkarton, kleur-/logoprincipes per lijn overgenomen uit de bestaande
+productrichting, een lightweight welkomstkaart (i.p.v. het volledige
+Tier 3-eigendomscertificaat), instructies in een apart, rustig register
+gescheiden van marketingcopy. Status: voorstel/sturing, nog niet door Bart
+bevestigd — zelfde behandeling als de eerdere speelhuizen-designrichting.
+Toegevoegd aan [[blits]] § Verpakking & productpresentatie. Volgende stap:
+go-to-market/launchplan.
+
 ## [2026-10-10] decision | BLITS doelgroep verdiept tot drie persona's, vervolgfase bepaald
 
 Op Bart's verzoek ("ik wil door") zelf de volgende fase (distributie-as-vak)
