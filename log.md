@@ -2,6 +2,17 @@
 
 Append-only operatielog. `grep "^## \[" log.md` voor alle entries.
 
+## [2026-10-10] ingest | BLITS merkgids samengevoegd (eerste playbook-pagina)
+
+Bart liet de assistent zelf de volgorde van de resterende "Volgende
+stappen" bepalen. Merkgids gebouwd als [[blits-merkgids]] (eerste pagina
+van het `playbook`-type in deze vault): een extern deelbaar distillaat van
+strategie, identiteit, kleur/typografie, heritage-tiers, tone of voice en
+merkverhaal, voor een bureau/fotograaf/dealer — expliciet geen vervanging
+van [[blits]] als bronwaarheid. `index.md`/`wiki/brands/blits.md` (§
+Volgende stappen, Timeline) bijgewerkt. Volgende en laatste openstaande
+stap: logo-designbriefing.
+
 ## [2026-10-10] decision | BLITS stem-&-verhaal-fase afgerond: voorbeeldteksten + messaging-hiërarchie
 
 Op verzoek van Bart (ToV als Word-document opgeleverd — gedownload en in

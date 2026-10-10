@@ -5,7 +5,7 @@ status: developing
 created: 2026-09-22
 updated: 2026-09-22
 tags: [eigen-merk, buitenspelen]
-related: ["[[remarkable-brand-is-a-promise]]", "[[villain-and-contagious-ideas]]", "[[reason-for-existence]]", "[[neo-heritage-branding]]", "[[blits-heritage-onderzoek-gemini]]", "[[blits-culturele-codes-analoog-buitenspelen]]", "[[blits-apple-design-review]]", "[[blits-tone-of-voice-definitief]]", "[[blits-tone-of-voice-concept-2026]]"]
+related: ["[[remarkable-brand-is-a-promise]]", "[[villain-and-contagious-ideas]]", "[[reason-for-existence]]", "[[neo-heritage-branding]]", "[[blits-heritage-onderzoek-gemini]]", "[[blits-culturele-codes-analoog-buitenspelen]]", "[[blits-apple-design-review]]", "[[blits-tone-of-voice-definitief]]", "[[blits-tone-of-voice-concept-2026]]", "[[blits-merkgids]]"]
 aliases: []
 category: "Buitenspelen — twee lijnen: sport-lijn (voetbaldoelen, basketbalpalen, trampolines, later volleybal) en speeltoestellen-lijn (speelhuizen, schommels, zandbakken)"
 parent: "Toppy (zie bartschilten/kennisbank)"
@@ -481,9 +481,8 @@ voor het vervolg, nog niet door Bart bevestigd welke als eerste:
    [[blits-tone-of-voice-definitief]]), messaging-hiërarchie en merkverhaal
    vastgesteld (zie § Merkverhaal & messaging-hiërarchie). Nog open:
    aanspreekvorm EN, "medailles"-metafoor.
-3. **Merkgids samenvoegen** (`brand-guidelines`) — alles uit deze pagina en
-   de decision-pagina's bundelen tot één doorlopend document voor een
-   extern bureau/fotograaf/dealer. Volgende stap.
+3. **Merkgids samenvoegen** (`brand-guidelines`) — **afgerond 2026-10-10**,
+   zie [[blits-merkgids]] (ook als Word-document opgeleverd).
 
 ## Open beslissingen
 
@@ -515,4 +514,5 @@ Identiteitsfase loopt. Open:
 - **2026-10-07** | Bart, acht culturele codes van het analoge buitenspelen aangeleverd (vervolg op het neo-heritage-onderzoek) — acht concrete productdesign-/copy-vertalingen (o.a. 'Home Base'-plaatje, krijtbordje bij speelhuizen, messing 'Yard Bell', gegraveerde multitool, 'Golden Goal'-bies). Voorgesteld, nog niet getoetst op kostprijs/haalbaarheid. Zie [[blits-culturele-codes-analoog-buitenspelen]], volledig uitgewerkt in [[neo-heritage-branding]].
 - **2026-10-10** | Bart liet de `apple-design`-skill toevoegen aan de vault en vroeg om een designkwaliteitscheck op alles tot nu toe — zie [[blits-apple-design-review]]: bevestigt positionering/architectuur/typografie-discipline, signaleert dat typeplaatje/Home Base-plaatje/chassis-plaatje drie keer dezelfde oplossing zijn (nu samengevoegd tot één 'BLITS-schildplaatje'), en prioriteert de heritage-signifiers in drie tiers i.p.v. alles tegelijk bouwen.
 - **2026-10-10** | Bart, tone-of-voice-ronde 1 — een eerder ToV-concept aangeleverd ([[blits-tone-of-voice-concept-2026]]), gevolgd door een scherpe vragenronde en besluit ([[blits-tone-of-voice-definitief]]): "strijders"/competitie-taal geschrapt (vervangen door "ontdekkers"-richting), villain-toon teruggebracht naar de bestaande evocatieve regel, Engels vastgesteld als mastertaal, taal blijft warm/toegankelijk (premium zit in fotografie/verpakking/website, niet in de tekst). Aanspreekvorm in het Engels blijft open.
-- **2026-10-10** | Bart liet de Tone of Voice als Word-document opleveren (gedownload + in Drive gezet) en vroeg daarna om de stem-&-verhaal-fase af te ronden: voorbeeldteksten herschreven volgens de nieuwe regels (zie [[blits-tone-of-voice-definitief]]) en een messaging-hiërarchie + kort merkverhaal vastgesteld (zie § Merkverhaal & messaging-hiërarchie). Volgende stap: merkgids samenvoegen.
+- **2026-10-10** | Bart liet de Tone of Voice als Word-document opleveren (gedownload + in Drive gezet) en vroeg daarna om de stem-&-verhaal-fase af te ronden: voorbeeldteksten herschreven volgens de nieuwe regels (zie [[blits-tone-of-voice-definitief]]) en een messaging-hiërarchie + kort merkverhaal vastgesteld (zie § Merkverhaal & messaging-hiërarchie).
+- **2026-10-10** | Op Bart's verzoek ("jij bent de brandingspecialist, bepaal de volgorde") zelf de vervolgstappen geprioriteerd en de merkgids samengevoegd — zie [[blits-merkgids]]: één extern deelbaar document (strategie, identiteit, kleur/typografie, heritage-tiers, tone of voice, merkverhaal), ook als Word-document opgeleverd. Overgebleven: logo-designbriefing voor een externe designer.

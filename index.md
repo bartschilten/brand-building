@@ -43,7 +43,7 @@ _(nog geen pagina's)_
 
 ## playbook
 
-_(nog geen pagina's — Bart's eigen synthese komt hier zodra die is uitgekristalliseerd)_
+- [[blits-merkgids]] — gebundelde, externe merkgids (strategie, identiteit, kleur/typografie, heritage, tone of voice) (mature)
 
 ## decision
 
