@@ -2,6 +2,22 @@
 
 Append-only operatielog. `grep "^## \[" log.md` voor alle entries.
 
+## [2026-10-10] decision | BLITS sport-lijn productrebrand + Nano Banana-prompts
+
+Bart leverde drie productfoto's aan (voetbaldoel, trampoline, rebounder —
+huidige stand: zwart, "PLAY MORE"-tagline, oud pointed-shield-logo) en
+vroeg een concrete rebrand-richting plus een prompt voor Nano Banana
+(Gemini image-editing) om zelf te checken. Opgeleverd als
+[[blits-sportlijn-productrebrand]]: kleur-/tekstvervanging per product
+(zwart → diep olijfgroen `#1B2E21`, "PLAY MORE" → "OUTSIDE WINS." in
+Archivo Black, een nieuwe koraalrode 'Golden Goal'-bies als eerste
+concrete toepassing van een heritage-signifier uit
+[[blits-culturele-codes-analoog-buitenspelen]]), plus drie kant-en-klare
+Nano Banana-prompts (één per product). Status: voorstel, geen
+productie-impact tot Bart het zelf gecheckt heeft. Verwerkt in
+[[blits-launch-rollout]] fase 2A, [[blits]] Timeline, `now/actions/
+blits-launch-acties.md`, `index.md`.
+
 ## [2026-10-10] now | BLITS actielijst voor Bart opgesteld
 
 Bart vroeg concreet wat hij nu moet doen om de launchrollout

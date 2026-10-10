@@ -56,6 +56,7 @@ _(nog geen pagina's)_
 - [[blits-kleur-typografie-herzien]] — palet teruggebracht naar vier gedeelde kleuren (zwart geschrapt), nieuw lettertype-trio Archivo Black/Outfit/Kalam, "Outside Wins." definitief (developing)
 - [[blits-neo-heritage-en-kleurcorrectie]] — zand/crème gecorrigeerd naar wit/crème, neo-heritage-laag toegevoegd, speelhuizen-designrichting (developing)
 - [[blits-logo-designbriefing]] — kant-en-klare briefing voor een externe designer (vectorisatie + Pantone-match) (mature)
+- [[blits-sportlijn-productrebrand]] — kleur-/tekstvervanging voetbaldoel/trampoline/rebounder + Nano Banana-prompts (mature)
 - [[blits-apple-design-review]] — designkwaliteitscheck (Apple Design-principes): simplicity-risico, signifiers samengevoegd en geprioriteerd (mature)
 
 ## initiative

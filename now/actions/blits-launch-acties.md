@@ -28,6 +28,12 @@ er een resultaat terugkomt).
 
 ## Binnenkort — fase 2A, rebrand sport-lijn
 
+- [x] **Gedaan 2026-10-10:** productdesign-richting + Nano Banana-prompts
+  voor voetbaldoel/trampoline/rebounder — zie
+  [[blits-sportlijn-productrebrand]].
+- [ ] **Beslissen:** check de Nano Banana-resultaten en laat weten of de
+  richting (olijfgroen i.p.v. zwart, "OUTSIDE WINS.", koraalrode bies)
+  bevalt, of wat je anders wilt.
 - [ ] **Beslissen:** wanneer wil je dit starten? Timing-advies: vóór het
   voorjaars-hoofdmoment (zie Businessdoelen in [[blits]]).
 - [ ] **Aanleveren/beslissen:** heb je al een fotograaf voor de nieuwe

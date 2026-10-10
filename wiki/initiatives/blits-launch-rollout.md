@@ -5,7 +5,7 @@ status: developing
 created: 2026-10-10
 updated: 2026-10-10
 tags: [eigen-merk, buitenspelen, launch, rebranding]
-related: ["[[blits]]", "[[blits-merkgids]]", "[[blits-logo-designbriefing]]"]
+related: ["[[blits]]", "[[blits-merkgids]]", "[[blits-logo-designbriefing]]", "[[blits-sportlijn-productrebrand]]"]
 aliases: []
 phase: "fase 1 — fundament afgerond, uitrol nog niet gestart"
 owner: "Bart Schilten"
@@ -35,17 +35,22 @@ verpakkingsrichting (voorstel). Zie [[blits]] voor de volledige inhoud,
 - Exacte Pantone-match koraalrood (kan parallel, blokkeert fase 2 niet
   volledig — eerste proefdruk kan met de werkindicatie-hex).
 
-## Fase 2A — Rebrand sport-lijn (nog niet gestart)
+## Fase 2A — Rebrand sport-lijn (gestart 2026-10-10)
 
-Bestaande SKU's (voetbaldoelen, basketbalpalen, trampolines) overzetten op
-de nieuwe identiteit:
-1. Fotografie opnieuw laten maken volgens de sport-lijn-richting (hard
+Bestaande SKU's (voetbaldoelen, basketbalpalen, trampolines, rebounders)
+overzetten op de nieuwe identiteit:
+1. **Productdesign-richting klaar:** zie
+   [[blits-sportlijn-productrebrand]] — concrete kleur-/tekstvervanging per
+   product (zwart → diep olijfgroen, "PLAY MORE" → "OUTSIDE WINS.", nieuwe
+   koraalrode 'Golden Goal'-bies), plus Nano Banana-prompts voor een eigen
+   visuele check door Bart vóór verdere besluitvorming.
+2. Fotografie opnieuw laten maken volgens de sport-lijn-richting (hard
    licht, documentair, diep olijfgroen-gedreven) — eerste concrete
-   budgetpost.
-2. Verpakking vervangen volgens § Verpakking & productpresentatie.
-3. Website/webshop-teksten herschrijven met de voorbeeldteksten uit
+   budgetpost, nog niet opgestart.
+3. Verpakking vervangen volgens § Verpakking & productpresentatie.
+4. Website/webshop-teksten herschrijven met de voorbeeldteksten uit
    [[blits-tone-of-voice-definitief]] als basis.
-4. **Timing:** vóór het voorjaars-hoofdmoment (zie Businessdoelen in
+5. **Timing:** vóór het voorjaars-hoofdmoment (zie Businessdoelen in
    [[blits]]) — dat is het seizoenspiek-anker waar deze rebrand het meeste
    rendement oplevert.
 
