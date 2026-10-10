@@ -29,3 +29,9 @@ merkbouw-toepassing.
 `me/about.md` opgebouwd uit `bartschilten/kennisbank`'s `me/about.md` —
 Bart's profiel en TMA-talentenanalyse, verkort en toegespitst op wat
 relevant is voor merkopbouw-werk.
+
+## [2026-10-10] ingest | BASTE eigen merkbouw-vault (bartschilten/BASTE)
+
+Verwijzing toegevoegd op [[baste]]: BASTE wordt opgebouwd in een eigen
+vault `bartschilten/BASTE` (zelfde route als BLITS). Intake + nulmeting
+daar vastgelegd.

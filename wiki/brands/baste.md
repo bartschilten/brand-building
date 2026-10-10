@@ -3,7 +3,7 @@ type: brand
 title: "BASTE"
 status: developing
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-10
 tags: [eigen-merk, buitenkoken]
 related: ["[[remarkable-brand-is-a-promise]]", "[[premium-branding-exclusivity-identity-story]]"]
 aliases: []
@@ -12,6 +12,11 @@ parent: "Toppy (zie bartschilten/kennisbank)"
 owner: "Bart Schilten"
 stage: "positionering"
 ---
+
+> **Eigen vault (2026-10-10):** BASTE wordt opnieuw opgebouwd als merk in
+> [`bartschilten/BASTE`](https://github.com/bartschilten/BASTE) — volgens
+> dezelfde route als BLITS (strategie → identiteit → stem & verhaal). Alle
+> merkbouw-besluiten (positionering, logo, kleur, tagline) staan dáár.
 
 Eigen merk binnen buitenkoken. Onderdeel van de strategische shift weg van
 lage-marge A-merk leveranciers (o.a. Kamado Joe) naar eigen merken met
@@ -43,4 +48,5 @@ leunen (reparatieservice, onderdelenvoorraad, receptenboeken).
 
 ## Timeline
 
+- **2026-10-10** | Bart — eigen merkbouw-vault `bartschilten/BASTE` opgezet; intake + nulmeting gedaan (nieuw logo gewenst, kleur blijft waarschijnlijk).
 - **2026-09-22** | ingest (overgenomen uit bartschilten/kennisbank, aangepast voor merkbouw-context) — pagina aangemaakt.
