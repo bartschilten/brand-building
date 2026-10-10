@@ -25,6 +25,7 @@ Catalogus van alle pagina's, één regel per pagina, gegroepeerd per type.
 - [[build-a-brand-in-7-minutes-gary-vee]] — video (mature)
 - [[blits-heritage-onderzoek-gemini]] — AI-onderzoeksrapport, neo-heritage-merkopbouw buitenspeelgoed (mature)
 - [[blits-culturele-codes-analoog-buitenspelen]] — acht culturele codes, copy + tastbaar productdesign (mature)
+- [[blits-tone-of-voice-concept-2026]] — eerder ToV-concept, startpunt voor stem-&-verhaal-fase (developing)
 
 ## framework
 

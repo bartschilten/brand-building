@@ -2,6 +2,18 @@
 
 Append-only operatielog. `grep "^## \[" log.md` voor alle entries.
 
+## [2026-10-10] ingest | BLITS tone-of-voice-concept aangeleverd, start stem-&-verhaal-fase
+
+Bart leverde een eerder uitgewerkt tone-of-voice-concept aan (.docx,
+origineel bewaard in
+`.raw/sources/blits-tone-of-voice-concept-2026.txt`) als startpunt voor de
+"stem & verhaal"-vervolgstap uit [[blits]] § Volgende stappen. Geïngest als
+[[blits-tone-of-voice-concept-2026]] (source). Nog geen besluit — Bart wil
+eerst een scherpe vragenronde om het concept te verbeteren/concretiseren
+(o.a. "strijders" vervangen, internationalisering NL/EN, spanning met de
+bestaande villain-toonregel). Vragen gesteld in de conversatie, nog niet in
+de vault vastgelegd in afwachting van Bart's antwoorden.
+
 ## [2026-10-10] ingest | design-skillset toegevoegd + BLITS designkwaliteitscheck
 
 Bart liet de skills van [emilkowalski/skills](https://github.com/emilkowalski/skills)
