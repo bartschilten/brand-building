@@ -76,7 +76,8 @@ De documenten in dit pakket zijn bedoeld ter vervanging van de Word-merkgids.
 4. **Aanspreekvorm in het Engels:** "you" voelt mogelijk wijzend aan.
 5. **De metafoor "vuile knieën zijn medailles":** blijft die, of wordt hij vervangen?
 6. **Twee onduidelijke merknamen** bij de bewonderde merken: spelling navragen.
-7. **Keuzes in het keuzebord:** kaart, knoppen, achtergrond, scheidingslijn, zegel, iconen, beweging en de acht verwijzingen naar vroeger.
+7. **Visie en missie:** de teksten uit 2024 ("Wie is BLITS?") zijn niet opnieuw bevestigd na de nieuwe reden van bestaan. Nog actueel, of vervangen?
+8. **Keuzes in het keuzebord:** kaart, knoppen, achtergrond, scheidingslijn, zegel, iconen, beweging en de acht verwijzingen naar vroeger.
 
 # Wat er nu moet gebeuren
 
