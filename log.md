@@ -374,3 +374,7 @@ Bart beantwoordde de vijf aannames: schap-klaar-uitvoering (wraplabel) toegevoeg
 ## [2026-10-12] ingest | BLITS heritage → ontwerpelementen
 
 Nieuwe playbook `wiki/playbooks/blits-ontwerpelementen-heritage.md`: heritage-codes vertaald naar web-/grafische bouwstenen op nieuw palet/fonts. Open: spanning met toon (Laatste doelpunt wint), handschriftaccent na Kalam, afgesneden-hoek-vorm. Index en BLITS-pagina bijgewerkt.
+
+## [2026-10-12] export | Designerpakket BLITS (5 Word-documenten)
+
+Vijf Word-documenten voor de overdracht aan de brandmanager en de designers, samengesteld uit de BLITS-vaultpagina's: overdracht, merkfundament, huisstijl, webelementen, producten en verpakking. Bron-markdown en .docx in `now/briefs/designerpakket-2026-10-12/`. Tone of voice en heritage-verwijzingen zijn door Bart apart aangeleverd en zitten niet in dit pakket.
