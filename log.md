@@ -366,3 +366,7 @@ Bart: "Laat ze de wereld ontdekken…" op de fontpagina is geen vastgestelde mer
 ## [2026-10-12] update | BLITS verpakkingsvoorstel herzien
 
 § Verpakking & productpresentatie in `wiki/brands/blits.md` herschreven op nieuw palet/fonts (brand-packaging-skill). Status voorstel; vijf aannames te bevestigen. `hot.md` bijgewerkt.
+
+## [2026-10-12] update | BLITS verpakking: aannames beantwoord
+
+Bart beantwoordde de vijf aannames: schap-klaar-uitvoering (wraplabel) toegevoegd, minimale tekstset (CE, breekbaar), budget laag, kraft-proefdruk. Maten/gewichten trampolines/veerhoezen uit Drive-offerte "Quote request BLITS – Toppy 2027" opgenomen (geen prijzen).
