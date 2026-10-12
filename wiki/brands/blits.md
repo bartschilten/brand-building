@@ -5,7 +5,7 @@ status: developing
 created: 2026-09-22
 updated: 2026-10-12
 tags: [eigen-merk, buitenspelen]
-related: ["[[remarkable-brand-is-a-promise]]", "[[villain-and-contagious-ideas]]", "[[reason-for-existence]]", "[[neo-heritage-branding]]", "[[blits-heritage-onderzoek-gemini]]", "[[blits-culturele-codes-analoog-buitenspelen]]", "[[blits-apple-design-review]]", "[[blits-tone-of-voice-definitief]]", "[[blits-tone-of-voice-concept-2026]]", "[[blits-merkgids]]", "[[blits-logo-designbriefing]]", "[[blits-launch-rollout]]", "[[blits-kleurenpalet-2026-10]]", "[[wie-is-blits-missie-visie]]"]
+related: ["[[remarkable-brand-is-a-promise]]", "[[villain-and-contagious-ideas]]", "[[reason-for-existence]]", "[[neo-heritage-branding]]", "[[blits-heritage-onderzoek-gemini]]", "[[blits-culturele-codes-analoog-buitenspelen]]", "[[blits-apple-design-review]]", "[[blits-tone-of-voice-definitief]]", "[[blits-tone-of-voice-concept-2026]]", "[[blits-merkgids]]", "[[blits-logo-designbriefing]]", "[[blits-launch-rollout]]", "[[blits-ontwerpelementen-heritage]]", "[[blits-kleurenpalet-2026-10]]", "[[wie-is-blits-missie-visie]]"]
 aliases: []
 category: "Buitenspelen — twee lijnen: sport-lijn (voetbaldoelen, basketbalpalen, trampolines, later volleybal) en speeltoestellen-lijn (speelhuizen, schommels, zandbakken)"
 parent: "Toppy (zie bartschilten/kennisbank)"
