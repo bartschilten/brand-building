@@ -46,11 +46,12 @@ worden — en gelijkgestemde kinderen verbindt met elkaar én het merk.
 én ouder trots); creatievere communicatie; smal, doordacht assortiment;
 productverbeteringen door klantfeedback.
 
-Later gepubliceerde variant (BLITS TEXT.pdf / websiteschets, 2025-03): "Wij
-geloven in de kracht van buitenspelen. Onze missie? Kids inspireren om de
-wereld te ontdekken, vrienden te maken en plezier te hebben." — met kop
-"Laat ze de wereld ontdekken, het is hun wereld". Dit is de tekst in de
-nieuwe fontpagina (`BLITS_TEXT_1.pdf`).
+Let op: de kop "Laat ze de wereld ontdekken, het is hun wereld" en de tekst
+"Wij geloven in de kracht van buitenspelen…" komen voor als voorbeeldtekst in
+`BLITS TEXT.pdf` / een websiteschets (2025-03) en op het lettertype-voorbeeld
+`BLITS_TEXT_1.pdf`. Dat is specimen-/schetstekst; Bart bevestigde (2026-10-12)
+dat dit **geen** vastgestelde merktekst is. Niet gebruiken als bron voor
+merkverhaal of messaging.
 
 ## Gedistilleerd naar
 

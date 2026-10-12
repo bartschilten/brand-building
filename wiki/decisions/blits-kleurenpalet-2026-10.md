@@ -21,7 +21,7 @@ hex-waardes), met één afwijking: **Tarmac Black (#1D2020) vervalt** en wordt
 vervangen door een heel donker groen dat bij een gedimd scherm als zwart
 leest, maar dichter bij het merkgroen blijft dan een neutraal zwart.
 
-**Night Pitch Green `#06150E`** — bevestigd door Bart op 2026-10-12.
+**Night Pitch Green `#06150E`** — bevestigd door Bart op 2026-10-12; vervangt ook het diepe olijfgroen `#1B2E21`. Beachball Volley Beige `#E5DCC2` is bewust gekozen (ondanks eerdere "zand te geel"-opmerking).
 
 ## Waarom
 

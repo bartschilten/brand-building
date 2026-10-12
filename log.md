@@ -358,3 +358,7 @@ verwijderd, want er zijn er inmiddels zeven).
 ## [2026-10-12] merge | BLITS-werk van branch compassionate-tesla samengevoegd + nieuw palet geïntegreerd
 
 Correctie op eerdere sessie-claim: de definitieve reden van bestaan (2026-10-05), tone of voice en merkverhaal stonden al in `wiki/brands/blits.md`, maar alleen op de niet-gemergede branch `claude/compassionate-tesla-ejdcex` (25 commits). Samengevoegd in `claude/stoic-edison-c9gzib`. Nieuw palet/fonts (`blits-kleurenpalet-2026-10`) vervangt `blits-kleur-typografie-herzien` (SUPERSEDED-banner); merkgids §3/§4 en BLITS-pagina bijgewerkt; Drive-bron `wie-is-blits-missie-visie` als voorloper gelabeld.
+
+## [2026-10-12] correction | specimen-tekst is geen merktekst; palet-mapping bevestigd
+
+Bart: "Laat ze de wereld ontdekken…" op de fontpagina is geen vastgestelde merktekst (aanname van de assistent was fout) — `wie-is-blits-missie-visie` en `blits` gecorrigeerd. Night Pitch Green vervangt olijfgroen; Beachball Volley Beige bewust.

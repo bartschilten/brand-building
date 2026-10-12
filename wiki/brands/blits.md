@@ -208,21 +208,20 @@ De PDF schrijft "Bastketball Red" (typfout) — hier gecorrigeerd.
   witte tekst.
 - **Maten:** titels line-height 1 em; tekst line-height 1,8 em; knoppen
   letter-spacing 0,15 em.
-- Voorbeeldtekst uit de PDF: "Laat ze de wereld ontdekken, *het is hun
+- Specimen-tekst in de PDF (geen vastgestelde merktekst, zie [[wie-is-blits-missie-visie]]): "Laat ze de wereld ontdekken, *het is hun
   wereld*" — "Wij geloven in de kracht van buitenspelen. Onze missie? Kids
   inspireren om de wereld te ontdekken, vrienden te maken en plezier te
   hebben."
 
 ### Wat dit betekent voor eerdere voorstellen
 
-Oude rol → nieuwe waarde (mapping, door Bart nog te bevestigen waar
-gemarkeerd):
+Oude rol → nieuwe waarde (mapping bevestigd door Bart 2026-10-12):
 
 | eerder | nu |
 |---|---|
 | Koraalrood `~#E14B33` (tint gepauzeerd) | Basketball Red `#D74A23` — tintvraag is daarmee beantwoord |
-| Diep olijfgroen `#1B2E21` (donker anker) | Night Pitch Green `#06150E` *(of naast elkaar? te bevestigen)* |
-| Wit/crème `~#F8F4EA` ("zand te geel") | Beachball Volley Beige `#E5DCC2` + Concrete Grey `#D7D7D7` *(let op: Bart vond eerder zand te geel — te bevestigen)* |
+| Diep olijfgroen `#1B2E21` (donker anker) | Night Pitch Green `#06150E` — **vervangt het olijfgroen** (bevestigd 2026-10-12) |
+| Wit/crème `~#F8F4EA` ("zand te geel") | Beachball Volley Beige `#E5DCC2` + Concrete Grey `#D7D7D7` — beige bewust gekozen, Bart is er blij mee (bevestigd 2026-10-12) |
 | Neongeel `~#D7FF1A` | Tour de Yellow `#F3BB31` |
 | Archivo Black / Outfit / Kalam | TT Autonomous / Archia |
 
@@ -636,8 +635,7 @@ Identiteitsfase loopt. Open:
   klaar: [[blits-logo-designbriefing]], wacht op een externe designer.
 - Kleur: Basketball Red `#D74A23` beantwoordt de koraalrood-tintvraag
   (Pantone-match blijft een productiestap). Open: gebruiksregels/ratio per
-  lijn (Bart + brandmanager), mapping oud→nieuw palet bevestigen
-  (zie § Visuele identiteit), verpakking/sport-rebrand/logo-briefing/
+  lijn (Bart + brandmanager), verpakking/sport-rebrand/logo-briefing/
   merkgids op het nieuwe palet zetten.
 - Grootste merk qua volume — risico blijft dat het merk zonder scherpe
   uitvoering terugzakt naar "prijs-vriendelijk alternatief".
