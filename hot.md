@@ -1,6 +1,6 @@
 # Hot
 
-_Laatst ververst: 2026-09-22_
+_Laatst ververst: 2026-10-12_
 
 ## Actieve merkbouw-vraagstukken
 
@@ -9,8 +9,11 @@ _Laatst ververst: 2026-09-22_
   pagina voor de aanbevolen volgorde).
 - **[[baste]]** — positionering nog dubbelzinnig tussen "A-merk-alternatief
   voor minder" en eigen premium-narratief; keuze staat open.
-- **[[luminous]]** en **[[blits]]** — minder urgent, maar beide missen nog
-  een expliciete "reden van bestaan"-zin.
+- **[[luminous]]** — minder urgent, mist nog een expliciete "reden van
+  bestaan"-zin.
+- **[[blits]]** — visuele identiteit net vernieuwd (palet + fonts, 2026-10-12;
+  donkergroen i.p.v. Tarmac Black, hex nog te bevestigen). Mist nog een
+  "reden van bestaan"-zin.
 
 ## Net binnengehaald (2026-09-22)
 
@@ -20,7 +23,7 @@ brand-building-skills-set (27 domain-skills) van
 [arnabbagxd/brand-building-skills](https://github.com/arnabbagxd/brand-building-skills).
 Zie `wiki/sources/` en `wiki/frameworks/` voor de distillatie.
 
-## Nog geen beslissingen genomen
+## Beslissingen
 
-Geen `decision`-pagina's aangemaakt — alle vier merken zitten nog in de
-verkennende fase van dit vak.
+Eén genomen: [[blits-kleurenpalet-2026-10]]. Verder zitten de merken nog in
+de verkennende fase van dit vak.

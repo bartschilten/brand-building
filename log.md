@@ -29,3 +29,7 @@ merkbouw-toepassing.
 `me/about.md` opgebouwd uit `bartschilten/kennisbank`'s `me/about.md` —
 Bart's profiel en TMA-talentenanalyse, verkort en toegespitst op wat
 relevant is voor merkopbouw-werk.
+
+## [2026-10-12] update | BLITS visuele identiteit (palet + fonts)
+
+Kleuren en fonts uit `BLITS_COLORS.pdf`/`BLITS_TEXT_1.pdf` verwerkt in `wiki/brands/blits.md`; Tarmac Black vervangen door donkergroen (voorstel `#06150E`), vastgelegd als `wiki/decisions/blits-kleurenpalet-2026-10.md`. Index en hot bijgewerkt.
