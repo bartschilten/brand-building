@@ -19,6 +19,22 @@ Dit is de basis onder alles wat BLITS maakt: waarom het merk bestaat, voor wie, 
 | Prijs en uitvoering | Toegankelijk in prijs, premium in uitvoering |
 | Eigen merk van | Toppy, onderdeel van de LDD-groep |
 
+# Context: waarom het merk er is voor Toppy
+
+BLITS is een van de eigen merken van Toppy, naast BASTE (buitenkoken), Luminous (tuinverwarming) en een merk voor tuininrichting dat nog wordt opgezet. Toppy verschuift van lage-marge A-merk-leveranciers (Exit Toys, Berg, Salta) naar eigen merken met een brutomarge van meer dan 50%. Het toekomstbeeld is een merkenhuis voor de tuin in de geest van Decathlon en IKEA: eigen merken, inspirerende klantreizen en een groeiend netwerk van resellers via de vakhandel, ook in Europa.
+
+Het doel is om de eigen merken, die nu vaak vooral uit een logo en een kleur bestaan, uit te bouwen tot sterke merken. BLITS is hier het volumemerk: van de eigen merken het grootste qua verwachte omzet.
+
+**Businessdoelen voor de komende één tot twee jaar:**
+
+- Omzet één- tot tweemaal zo groot.
+- Een forse verbreding van het assortiment, van sportspeelgoed naar speelhuizen, schommels en zandbakken.
+- Van een private-label-uitstraling naar een voorkeursmerk.
+- Meer marktaandeel en distributie via B2B (dealers en resellers).
+- De seizoenspieken bewust gebruiken als campagneanker: het voorjaar als hoofdmoment, en het cadeauseizoen in november en december.
+
+Voor omzet, targets en de actuele cijfers is de Toppy-kennisbank (`bartschilten/kennisbank`) de bron; die staan hier bewust niet.
+
 # Reden van bestaan
 
 Definitief vastgesteld op 5 oktober 2026:
@@ -28,6 +44,29 @@ Definitief vastgesteld op 5 oktober 2026:
 De zin gaat niet alleen over avontuur tegenover schermtijd. Het gaat ook over leren omgaan met andere kinderen: vriendschap sluiten met kinderen die je nog niet kent, en omgaan met teleurstelling en verlies.
 
 **Voorloper.** In 2024 stond de missie al in een intern document ("Wie is BLITS?"). De scherpste versie daarvan was: "Wij inspireren kinderen om achter hun scherm weg te gaan en buiten te spelen." De definitieve zin hierboven vervangt die.
+
+# Visie, missie en USP's (uit 2024)
+
+Uit het interne document "Wie is BLITS?" (2024), van vóór de huidige reden van bestaan. Het is **niet opnieuw bevestigd**: Bart moet aangeven of dit nog actueel is.
+
+**Visie.** Een uniek aanbod van slim, mooi en gebruiksvriendelijk sportspeelgoed dat kinderen motiveert en inspireert om meer te sporten en er ook beter in te worden. Zo hopen we gelijkgestemde kinderen te verbinden met elkaar én met ons merk.
+
+**Missie (2024).** Wat de oorspronkelijke missie verder zei, naast het buiten spelen:
+
+- Kinderen stimuleren om buiten te spelen en te sporten, alleen of met vrienden, met hoogwaardige, stijlvolle en functionele sportartikelen.
+- Tijdloze designs die niet alleen kinderen maar ook ouders verblijden, zodat het speelgoed een mooie toevoeging is aan elke tuin.
+- De weg naar een actieve en gezonde levensstijl begint met plezier.
+- Duurzame en betaalbare producten die de ervaring van professionele training binnen ieders bereik brengen.
+- Luisteren naar klanten en voortdurend verbeteren, zodat producten generaties lang meegaan.
+
+**USP's.**
+
+- Betaalbaar in combinatie met goed design.
+- Veel sfeer, beleving en inspiratie.
+- Stoer: producten waar kind en ouder heel trots op kunnen zijn.
+- Een creatievere insteek van communicatie-uitingen.
+- Specialisatie en verdieping: goed doordacht met een smal assortiment.
+- Slimme productverbeteringen door feedback van klanten.
 
 # Positionering
 
@@ -137,6 +176,47 @@ NL: "BLITS laat kinderen buiten opgroeien, samen, door elke leeftijd en elke val
 
 Engels is de mastertaal: nieuwe tekst wordt eerst in het Engels geschreven en daarna vertaald.
 
+# Tagline
+
+**"Buiten wint." (Nederlands) en "Outside Wins." (Engels, de mastervariant).**
+
+- **Waarom deze.** De tagline claimt de merkbrede vijand direct (buiten wint van het scherm) en werkt daardoor voor beide lijnen. Het gaat niet over kinderen die van elkaar winnen.
+- **"Val op. Sta op."** won eerder de doelgroeptest, maar bleek bij nader inzien te sportspecifiek: het past bij trampolines en rebounders, niet bij speelhuizen. Het is niet weggegooid, maar een subline of campagnezin voor de sport-lijn.
+- **"Play More"** is losgelaten, omdat het te generiek was.
+- **De Engelse variant** is vastgesteld op 5 oktober 2026, omdat BLITS met het merk heel Europa in wil. Het is bijna een één-op-één vertaling, met hetzelfde ritme. De logo-lockups zijn hierop gebaseerd.
+- **Gebruik.** Zie het document Huisstijl voor de lockups en de lettertypes.
+
+# Neo-heritage: de strategische laag
+
+BLITS bouwt zijn merkziel niet alleen met positionering, vijand en kleur, maar ook met fysieke, materiële merktekens op het product zelf. Dit is een extra ontwerplaag en vervangt niets van de strategie. De volledige uitwerking staat in het document met de verwijzingen naar vroeger.
+
+**Het idee.** Een jong merk hoeft geen lange geschiedenis te hebben om geloofwaardig te zijn. Door historische archetypen en materiële ambachtssignalen consequent toe te passen, krijgt een nieuw merk een tijdloze uitstraling ("invented tradition").
+
+**Drie mechanismen:**
+
+1. **Theatrale verwondering** (FAO Schwarz): de overgang van het alledaagse naar de wereld van het product is een ceremoniële drempel, zoals het uitpakken.
+2. **Industriële onverwoestbaarheid** (Radio Flyer): robuuste eenvoud en eerlijke materialen, gepositioneerd als investering voor generaties.
+3. **Het fysieke zegel** (Steiff, "knoop in het oor"): een permanent, aangebracht merkteken in plaats van een sticker maakt een massa-artikel tot erfstuk.
+
+**Waarschuwing.** Geen sepia, geen krulletters, geen verzonnen jaartallen: dan wordt het kitsch. Een streng, industrieel typografisch kader is de bescherming daartegen.
+
+**Acht culturele codes** van het analoge buitenspelen geven de concrete invulling: de jas als doelpaal, laatste doelpunt wint, pootje over, buutvrij voor de hele pot, het geheim van de boomhut, de beker krijt, gereedschap van pa en de bandenplakker, en de roep voor het eten.
+
+# Merkcanvas: waar staat wat
+
+Voor het merkcanvas (de methode met why, how en what, visie, missie, doelgroep, merkbelofte en bewijs) staat de inhoud hieronder. De velden die nog open zijn zijn gemarkeerd.
+
+| Veld | Inhoud | Waar |
+|------------------|--------------------------------------------|------------------------|
+| Why | De reden van bestaan | Reden van bestaan |
+| How | De drie messaging-pijlers; eerlijke materialen en uitvoering; de fysieke merktekens | Merkverhaal en messaging; Neo-heritage |
+| What | Twee lijnen: sport en speeltoestellen | BLITS in een oogopslag; Producten en verpakking |
+| Visie | De tekst uit 2024 | Visie, missie en USP's (**te bevestigen**) |
+| Missie | De 2024-tekst; of de reden van bestaan als missie | Visie, missie en USP's (**open**) |
+| Doelgroep | Jonge ouders, drie persona's | Doelgroep |
+| Merkbelofte | De kernbelofte | Merkverhaal en messaging |
+| Bewijs | Stevig materiaal, 2 jaar frame-garantie, CE en EN 71, de fysieke merktekens | Producten en verpakking; Neo-heritage |
+
 # Spelregels
 
 Wat wel en niet kan in uitingen:
@@ -148,6 +228,14 @@ Wat wel en niet kan in uitingen:
 - **Constanten blijven gelijk over beide lijnen:** logo, naam, tagline, het merkpalet, typografie en verpakkingsstructuur. Alleen de toepassing van de vijand, de fotostijl en de kleurverhouding mogen per lijn verschillen.
 - **Nieuwe assortimentsuitbreiding** (speelhuizen, schommels, zandbakken en later meer) wordt eerst getoetst op marge en logistiek, en daarna op merk-fit.
 - **Nieuwe fysieke merktekens** worden eerst getoetst of ze een bestaand merkteken dupliceren, voordat ze als apart item worden toegevoegd.
+
+# Hoe de strategie tot stand kwam
+
+Op 22 september 2026 is de strategie vastgesteld na een volledige intake met Bart en een kritische review door vijf rollen: de advocaat van de duivel, de overambitieuze visionair, de retail-realist, de doelgroep-ouder en de esthetische purist.
+
+Het panel legde twee tegenstrijdigheden bloot: prijs tegenover persoonlijkheid, en kleur tegenover persoonlijkheid. Ook noemde het governance-risico's: aansprakelijkheid, verwarring bij dealers, en een herhaling van het marge-probleem met Exit en Berg bij assortimentsverbreding. Bart heeft per punt gekozen op basis van concrete referentiemerken (Sklum, Create, IKEA PAX) en persona-feedback. De uitkomst zijn de afspraken over prijs en uitvoering, de gelaagde vijand, de twee schotten en de toetsing van assortimentsverbreding (zie Positionering, Vijand en Spelregels).
+
+Op 29 september is daaruit de merkarchitectuur ontstaan (één merk, twee lijnen), om het risico op te lossen dat BLITS een eendimensionaal sportief merk wordt zoals Exit en Salta, zonder in het generieke alles-kunnende model van Berg te vervallen.
 
 # Concurrenten en inspiratie
 
@@ -166,6 +254,7 @@ Deze ideeën zijn legitiem, maar vallen buiten de huidige fase:
 
 # Open punten
 
+- Visie en missie uit 2024: nog actueel, of vervangen door de reden van bestaan?
 - Aanspreekvorm in het Engels: "you" voelt voor Bart mogelijk wijzend aan.
 - De metafoor "vuile knieën zijn medailles": blijft die staan of wordt hij vervangen?
 - Twee onduidelijke merknamen bij de inspiratiemerken (spelling navragen).

@@ -378,3 +378,7 @@ Nieuwe playbook `wiki/playbooks/blits-ontwerpelementen-heritage.md`: heritage-co
 ## [2026-10-12] export | Designerpakket BLITS (5 Word-documenten)
 
 Vijf Word-documenten voor de overdracht aan de brandmanager en de designers, samengesteld uit de BLITS-vaultpagina's: overdracht, merkfundament, huisstijl, webelementen, producten en verpakking. Bron-markdown en .docx in `now/briefs/designerpakket-2026-10-12/`. Tone of voice en heritage-verwijzingen zijn door Bart apart aangeleverd en zitten niet in dit pakket.
+
+## [2026-10-12] update | Merkfundament aangevuld (strategiegaten)
+
+Bij controle bleken in het designerpakket te ontbreken: context en businessdoelen, visie/missie/USP's uit 2024 (te bevestigen), tagline-onderbouwing, neo-heritage als strategische laag, merkcanvas-overzicht en hoe de strategie tot stand kwam. Toegevoegd aan `BLITS_02_Merkfundament`; open punt visie/missie toegevoegd aan de overdracht.
