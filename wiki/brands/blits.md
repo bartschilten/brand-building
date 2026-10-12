@@ -484,8 +484,9 @@ van een puber voor de straatlantaarns aangaan, buiten wint."
 Herschreven op het nieuwe palet en de nieuwe fonts (zie § Visuele identiteit,
 [[blits-kleurenpalet-2026-10]]); vervangt het voorstel van 2026-10-10
 (olijfgroen/koraalrood/Archivo Black, staat in de git-historie). Gebouwd met
-de `brand-packaging`-skill. **Status: voorstel, nog niet door Bart
-bevestigd.** Aannames staan onderaan — die bepalen of dit klopt.
+de `brand-packaging`-skill. **Status: voorstel; aannames door Bart
+beantwoord op 2026-10-12 (zie onderaan), voorstel nog niet formeel
+bevestigd.**
 
 **Strategie in één alinea:** de doos is het eerste fysieke moment van het
 merk en moet zeggen: dit is geen generiek private label. Eerlijk materiaal,
@@ -502,13 +503,48 @@ Voelen bij openen: *dit is voor ons bedoeld*. Eén indruk daarna:
 - Binnenin: kartonnen hoekbeschermers i.p.v. plastic/schuim waar mogelijk;
   losse onderdelen per stap in genummerde zakken/bundels.
 
+**Twee uitvoeringen op één systeem (aangescherpt 2026-10-12)**
+- **Webshop-uitvoering** (nu): kraft, minimale print, laag budget.
+- **Schap-klaar-uitvoering** (voor dealers die op termijn consumenten in de
+  winkel krijgen): zelfde doos, maar met een **groot bedrukt wraplabel** op
+  het hoofdvlak (papier/folie, wit of Concrete Grey als ondergrond, volle
+  kleur Soccer Green, productnaam, korte lijntekening of foto, maat/leeftijd,
+  schildplaatje-icoon). Zo is het schapvlak controleerbaar in kleur en blijft
+  de doos zelf goedkoop en gelijk voor beide kanalen. Een dealer kan dus
+  ook gewoon de webshop-doos krijgen; het label maakt hem schap-klaar.
+  Bij meerdelige producten (zie maten) krijgt elke doos het label of alleen
+  doos 1/n — keuze later, afhankelijk van hoe dealers presenteren.
+
+**Maten, gewichten en meerdelige verpakking** *(bron: leveranciersoffertesheet
+"Quote request BLITS – Toppy 2027", 2026-08-24; opgave van de leverancier,
+kan nog wijzigen; alleen trampolines en veerhoezen, geen doelen/rebounders/
+speelhuizen)*
+- Trampolines komen in **2–4 aparte platte/lange dozen**, bv. 305 × 213 cm:
+  4 dozen (o.a. 1210×620×135 en 1020×370×110 mm); 366 × 244 cm: 5 dozen
+  (o.a. 1180×650×100 mm, 1230×480×320 mm); ronde/inground-varianten 1–2
+  dozen (bv. Ø 183: 1100×420×220 mm, 22,5 kg; 214 × 153: totaal 33 kg).
+  Totaalgewicht per set: ca. 33–68 kg.
+- Veerhoezen ("rand"): 1 doos, 1000–1700 × 500–660 × 140–280 mm, 4–13 kg.
+- Elke doos heeft in de offerte een **eigen EAN** (bv. Box 1/2/3).
+- Gevolgen: de grootste vlakken zijn lang en smal (geen "voorkant/achterkant"
+  zoals bij een tv-doos); elke doos moet nummering krijgen ("1/4"),
+  een duidelijke "dit hoort bij…"-regel en dezelfde productnaam; de
+  zware doos (frame) krijgt breekbaar-/tilsymbolen. Doelen: maten/gewichten
+  van de productsheet (alleen productmaten, geen doosmaten) — doosmaten per
+  doel nog niet beschikbaar.
+
 **Kleur** *(placeholder tot de gebruiksregels met de brandmanager er zijn —
 ratio per lijn is nog open)*
 - Basis: kraft; zwaardere drukkleur **Night Pitch Green** `#06150E`
   (logo, productnaam, tekst).
-- **Soccer Green** `#09CD66` als signatuur: één groot vlak of band op het
-  zijpaneel, plus tape. Op kraft verliest groen helderheid — daarom vlak en
-  groot, niet als dunne lijn; **drukproef op echt kraft verplicht.**
+- **Soccer Green** `#09CD66` als signatuur — **niet direct op kraft
+  drukken.** Kraft is bruin en niet-afdekkend: een heldere, lichte kleur als
+  deze wordt er donkerder en doffer op, tenzij er een witte onderdruk onder
+  zit (extra kosten/proces). Daarom: **Night Pitch Green direct op kraft**
+  (donkere inkt werkt goed op kraft) en **Soccer Green via tape en
+  wraplabel op wit** (kleur beheersbaar, geen dure drukgang op de doos
+  zelf). Dit is algemene drukkennis, geen meting: de printer bevestigt met
+  een **drukproef op het echte kraft**, ook voor Basketball Red.
 - **Basketball Red** `#D74A23` alleen als klein signaal (sticker, CTA-regel,
   schildplaatje-verwijzing) — zelfde rol als knoppen op de site.
 - **Sport-lijn:** kraft + Night Pitch Green + Soccer Green-vlak.
@@ -529,14 +565,16 @@ ratio per lijn is nog open)*
   laat ik door kwaliteit/compliance vaststellen (norm per productgroep).
 
 **Informatiehiërarchie**
-- Voorvlak: logo → productnaam → één regel claim/type (bv. "Trampoline
+- Voorvlak (of hoofdvlak, zie maten): logo → productnaam → één regel claim/type (bv. "Trampoline
   305 × 213 cm") → eventueel klein schildplaatje-icoon. Geen foto.
 - Achtervlak: 2–3 korte feiten (materiaal, wat zit erin, leeftijds-/
   gewichtsgrens), kleine lijntekening van het product, korte
   merkregel (één zin uit het merkverhaal, EN/NL).
-- Zijpanelen: EAN-barcode, CE/veiligheidsnorm, gewicht, afmetingen, land van
-  herkomst, importeur/contact, recycle-pictogrammen — leesbaar voor
-  magazijn en dealers.
+- Zijpanelen/vaste tekst (Bart, 2026-10-12: houd het kort): CE-teken (bij
+  doelen staat "CE en EN 71" in de productdata), **breekbaar/fragile**,
+  tilsymbool bij zware dozen, EAN-barcode, gewicht en afmetingen,
+  doosnummer "x/n", land van herkomst, contact/importeur, recycle-
+  pictogrammen. Verder geen extra juridische tekst nodig volgens Bart.
 - Taal: Engels hoofdtaal, Nederlands tweede (zie § Tone of Voice).
 
 **Unboxing — vijf lagen**
@@ -564,18 +602,17 @@ voor een rustige, materiaal-eerlijke doos; dat past bij "built to be used,
 not admired", maar moet naast de concurrentie ook op de dealerschappen
 opvallen.
 
-**Aannames die jij moet bevestigen**
-1. Kanaal: hoofdzakelijk webshop + dealers, vrijwel geen consumentenschap
-   waar de doos zichzelf moet verkopen.
-2. Budget: laag-tot-midden (toegankelijke prijs); geen speciale
-   afwerkingen (foil, soft-touch).
-3. Productafmetingen/gewichten en het huidige dozenformaat zijn niet
-   meegenomen — de structuur volgt per product.
-4. Wettelijke tekst/normen per productgroep: door kwaliteit/compliance
-   te laten bevestigen vóór drukwerk.
-5. Printer/Pantone: Soccer Green en Basketball Red moeten op kraft
-   proefgedrukt worden; hoort bij de externe-designerstap
-   ([[blits-logo-designbriefing]]).
+**Aannames — beantwoord door Bart (2026-10-12)**
+1. Kanaal: webshop + dealers; op termijn dealers mét consumentenschappen →
+   schap-klaar-uitvoering nodig (verwerkt hierboven).
+2. Budget: laag — bevestigd.
+3. Maten/gewichten: heeft Bart beschikbaar; deels teruggevonden in Drive
+   (trampolines/veerhoezen, zie hierboven). Open: doosmaten doelen,
+   basketbalpalen, rebounders, speelhuizen.
+4. Wettelijke tekst: geen aparte compliance-ronde nodig; minimale set
+   (CE, breekbaar e.d.) volstaat.
+5. Proefdruk op kraft: ja, via de printer; groen niet direct op kraft
+   (zie Kleur).
 
 **Niet in dit voorstel:** Tier 2/3-signifiers (Yard Bell, multitool,
 stoepkrijt-blikje, eigendomscertificaat), ratio per lijn (brandmanager),
@@ -713,6 +750,7 @@ Identiteitsfase loopt. Open:
 
 ## Timeline
 
+- **2026-10-12** | Bart + assistent — aannames verpakking beantwoord: schap-klaar-uitvoering toegevoegd, minimale tekstset, meerdelige trampolineverpakking (2–5 dozen, eigen EAN per doos) uit Drive-offerte verwerkt.
 - **2026-10-12** | assistent, op verzoek van Bart — verpakkingsvoorstel herzien op nieuw palet/fonts (kraft + Night Pitch Green, Soccer Green-signatuur); vijf aannames ter bevestiging. Specimen-tekst fontpagina bevestigd als geen merktekst.
 - **2026-10-12** | Bart — Night Pitch Green `#06150E` bevestigd; licentie/webfonts gecheckt; kleurgebruiksregels volgen met de brandmanager. Correctie: de definitieve reden van bestaan (2026-10-05, § Merkstrategie) en tone of voice/merkverhaal stonden al in de vault, maar op een niet-gemergede branch; samengevoegd. Het Drive-doc "Wie is BLITS?" (2024) is de voorloper, zie [[wie-is-blits-missie-visie]].
 - **2026-10-12** | Bart (BLITS_COLORS.pdf + BLITS_TEXT_1.pdf) — nieuw palet en fonts (TT Autonomous / Archia) leidend; vervangt vier-kleurenpalet en Archivo Black/Outfit/Kalam; Tarmac Black vervangen door Night Pitch Green. Zie [[blits-kleurenpalet-2026-10]].
