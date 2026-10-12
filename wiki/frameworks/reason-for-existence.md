@@ -37,6 +37,12 @@ verzameling categorieën (overkappingen, meubilair, opslag) zonder verhaal.
 
 ## Toepassing op eigen merken
 
+- **BLITS heeft deze zin al** (definitief, 2026-10-05): "BLITS bestaat om
+  kinderen, van dreumes tot puber, buiten te laten opgroeien — met
+  vriendjes die je nog niet kent, teleurstellingen die je overleeft, en
+  avontuur dat geen scherm je kan geven." Staat op [[blits]] § Merkstrategie
+  (niet hier — deze pagina is de generieke theorie, niet de merk-specifieke
+  toepassing).
 - Formuleer per merk één zin: "we bestaan om ___" — niet een productlijst.
 - Investeer in verborgen merk-metrics (customer service-ervaring, LTV,
   post-purchase survey) naast omzet/marge-KPI's.

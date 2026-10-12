@@ -2,6 +2,17 @@
 
 Append-only operatielog. `grep "^## \[" log.md` voor alle entries.
 
+## [2026-10-12] fix | reason-for-existence vindbaarder gemaakt
+
+Bart meldde dat "de reden van bestaan niet in de kennisbank staat" — bleek
+geen ontbrekende content te zijn: de BLITS-zin staat op [[blits]] §
+Merkstrategie (en in [[blits-merkgids]]), maar de wikilink
+[[reason-for-existence]] wijst naar de generieke frameworkpagina (Bob
+Verlaat's theorie), die geen concrete verwijzing naar de BLITS-zin bevatte.
+Fix: een directe verwijzing toegevoegd aan [[reason-for-existence]] §
+Toepassing op eigen merken, zodat die pagina niet meer als doodlopend
+aanvoelt.
+
 ## [2026-10-12] fix | vault consistentie-check vóór sessie-einde
 
 Bart gaf aan de gesprekshistorie te gaan wissen. Volledige audit: alle
