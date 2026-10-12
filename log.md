@@ -33,3 +33,7 @@ relevant is voor merkopbouw-werk.
 ## [2026-10-12] update | BLITS visuele identiteit (palet + fonts)
 
 Kleuren en fonts uit `BLITS_COLORS.pdf`/`BLITS_TEXT_1.pdf` verwerkt in `wiki/brands/blits.md`; Tarmac Black vervangen door donkergroen (voorstel `#06150E`), vastgelegd als `wiki/decisions/blits-kleurenpalet-2026-10.md`. Index en hot bijgewerkt.
+
+## [2026-10-12] ingest | Wie is BLITS? (missie/visie)
+
+Drive-doc "Wie is BLITS?" als bron opgeslagen (`.raw/2026-10-12/`, `wiki/sources/wie-is-blits-missie-visie.md`); reden van bestaan in `wiki/brands/blits.md` gezet (correctie: stond eerder als "ontbreekt"). Night Pitch Green bevestigd; index/hot bijgewerkt.

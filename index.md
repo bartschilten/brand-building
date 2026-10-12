@@ -23,6 +23,7 @@ Catalogus van alle pagina's, één regel per pagina, gegroepeerd per type.
 - [[growth-for-breakfast-oliver-source]] — social post (developing)
 - [[psychology-of-premium-branding]] — video (mature)
 - [[build-a-brand-in-7-minutes-gary-vee]] — video (mature)
+- [[wie-is-blits-missie-visie]] — Drive-doc: BLITS-missie (4 versies), visie, USP's (developing)
 
 ## framework
 
@@ -42,7 +43,7 @@ _(nog geen pagina's — Bart's eigen synthese komt hier zodra die is uitgekrista
 
 ## decision
 
-- [[blits-kleurenpalet-2026-10]] — BLITS-palet uitgebreid, Tarmac Black → donkergroen (developing)
+- [[blits-kleurenpalet-2026-10]] — BLITS-palet uitgebreid, Tarmac Black → Night Pitch Green, bevestigd (mature)
 
 ## initiative
 

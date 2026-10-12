@@ -1,7 +1,7 @@
 ---
 type: decision
 title: "BLITS kleurenpalet 2026-10 (Tarmac Black vervangen door donkergroen)"
-status: developing
+status: mature
 created: 2026-10-12
 updated: 2026-10-12
 tags: [blits, visuele-identiteit, kleur]
@@ -20,8 +20,7 @@ hex-waardes), met één afwijking: **Tarmac Black (#1D2020) vervalt** en wordt
 vervangen door een heel donker groen dat bij een gedimd scherm als zwart
 leest, maar dichter bij het merkgroen blijft dan een neutraal zwart.
 
-Werkwaarde: **Night Pitch Green `#06150E`** (naam en hex zijn een voorstel —
-nog te bevestigen door Bart, zie open punten op [[blits]]).
+**Night Pitch Green `#06150E`** — bevestigd door Bart op 2026-10-12.
 
 ## Waarom
 

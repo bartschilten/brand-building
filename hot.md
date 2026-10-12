@@ -12,8 +12,9 @@ _Laatst ververst: 2026-10-12_
 - **[[luminous]]** — minder urgent, mist nog een expliciete "reden van
   bestaan"-zin.
 - **[[blits]]** — visuele identiteit net vernieuwd (palet + fonts, 2026-10-12;
-  donkergroen i.p.v. Tarmac Black, hex nog te bevestigen). Mist nog een
-  "reden van bestaan"-zin.
+  Night Pitch Green bevestigd). Reden van bestaan bestaat al (Drive, 2024) en
+  staat nu in de vault; open: welke versie leidend is. Gebruiksregels kleur:
+  Bart met brandmanager.
 
 ## Net binnengehaald (2026-09-22)
 
