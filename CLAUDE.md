@@ -115,6 +115,11 @@ Zelfde als kennisbank: kebab-case filenames, wederkerige `[[wikilinks]]`,
 één entiteit per bestand, `## [YYYY-MM-DD] <op> | <title>` log-regels.
 `.gitattributes` zet `log.md merge=union`.
 
+- **Alles meteen naar `main`:** na elke afgeronde operatie een PR openen naar
+  `main` én die zelf mergen (Bart, 2026-10-12: "alles moet altijd meteen naar
+  de kennisbank") — werk dat alleen op een feature-branch staat is onvindbaar
+  in een volgende sessie.
+
 ## De domain-skillset (`.claude/skills/domain/`)
 
 Geïmporteerd van [arnabbagxd/brand-building-skills](https://github.com/arnabbagxd/brand-building-skills)

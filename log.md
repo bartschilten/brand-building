@@ -362,3 +362,7 @@ Correctie op eerdere sessie-claim: de definitieve reden van bestaan (2026-10-05)
 ## [2026-10-12] correction | specimen-tekst is geen merktekst; palet-mapping bevestigd
 
 Bart: "Laat ze de wereld ontdekken…" op de fontpagina is geen vastgestelde merktekst (aanname van de assistent was fout) — `wie-is-blits-missie-visie` en `blits` gecorrigeerd. Night Pitch Green vervangt olijfgroen; Beachball Volley Beige bewust.
+
+## [2026-10-12] update | BLITS verpakkingsvoorstel herzien
+
+§ Verpakking & productpresentatie in `wiki/brands/blits.md` herschreven op nieuw palet/fonts (brand-packaging-skill). Status voorstel; vijf aannames te bevestigen. `hot.md` bijgewerkt.
