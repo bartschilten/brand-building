@@ -1,26 +1,56 @@
 # Hot
 
-_Laatst ververst: 2026-09-22_
+_Laatst ververst: 2026-10-12_
 
 ## Actieve merkbouw-vraagstukken
 
+- **[[blits]]** — identiteit vrijwel afgerond, **stem & verhaal-fase
+  afgerond** (zie [[blits-tone-of-voice-definitief]]): "strijders"/
+  competitie-taal geschrapt (BLITS gaat over samen spelen, niet winnen),
+  villain-toon teruggebracht naar de bestaande evocatieve regel (geen
+  schuldgevoel), Engels vastgesteld als mastertaal voor nieuwe copy, taal
+  blijft warm/toegankelijk (premium zit in fotografie/verpakking/website,
+  niet in de tekst), voorbeeldteksten herschreven, messaging-hiërarchie +
+  merkverhaal vastgesteld (zie [[blits]] § Merkverhaal & messaging-
+  hiërarchie). Merkgids gebundeld (zie [[blits-merkgids]], ook als Word-
+  document) en logo-designbriefing geschreven (zie
+  [[blits-logo-designbriefing]]) — alle vier vervolgstappen uit § Volgende
+  stappen zijn hiermee doorlopen. Open: aanspreekvorm in het Engels ("you"
+  voelt mogelijk "wijzend" aan), de "medailles"-metafoor bevestigen, exacte
+  kleurtint koraalrood, en de daadwerkelijke logo-vectorisatie door een
+  externe designer. Identiteitslaag (kleur/typografie/logo/heritage-signifiers)
+  staat: **sinds 2026-10-12 nieuw palet en fonts van Bart** (Soccer Green,
+  Basketball Red, Tour de Yellow, Beachball Volley Beige, blauwen, grijzen,
+  donkergroen **Night Pitch Green `#06150E`** i.p.v. Tarmac Black;
+  TT Autonomous + Archia) — vervangt de vier merkkleuren en het trio
+  Archivo Black/Outfit/Kalam, zie [[blits-kleurenpalet-2026-10]]; Engelse
+  tagline "Outside Wins." definitief, neo-heritage-signifiers geprioriteerd in
+  drie tiers (zie [[blits-apple-design-review]]). **Open na palet-wissel:**
+  verpakkingsvoorstel, sport-lijn-rebrand, logo-briefing en merkgids bevatten
+  nog het oude palet — herzien; kleurgebruiksregels met de brandmanager. **Nieuw:** drie
+  doelgroep-persona's vastgesteld (sport-lijn/actieve ouder,
+  speeltoestellen-lijn/esthetische ouder, B2B-dealer) — zie [[blits]] §
+  Doelgroep-persona's. Verpakkingsrichting uitgewerkt (zie § Verpakking &
+  productpresentatie) — nog te bevestigen door Bart. Go-to-market/
+  launchplan opgezet (zie [[blits-launch-rollout]]): fase 2B
+  (speeltoestellen-lijn-launch, samenvallend met de speelhuizen-inkoop) is
+  nu de eerstvolgende concrete stap. Eerdere besluiten:
+  [[blits-merkstrategie-fase-1]], [[blits-kleur-definitief]],
+  [[blits-merkarchitectuur-lijnen]], [[blits-uitvoering-fase-2]],
+  [[blits-strategie-afgerond]], [[blits-identiteit-logo-kleurenpalet]],
+  [[blits-kleur-typografie-herzien]], [[blits-neo-heritage-en-kleurcorrectie]].
 - **[[eigen-merk-tuininrichting]]** — nog naamloos, hoogste prioriteit qua
   merkbouw-werk: reason-for-existence en naamgeving staan open (zie de
   pagina voor de aanbevolen volgorde).
 - **[[baste]]** — positionering nog dubbelzinnig tussen "A-merk-alternatief
   voor minder" en eigen premium-narratief; keuze staat open.
-- **[[luminous]]** en **[[blits]]** — minder urgent, maar beide missen nog
-  een expliciete "reden van bestaan"-zin.
+- **[[luminous]]** — mist nog een expliciete "reden van bestaan"-zin.
 
-## Net binnengehaald (2026-09-22)
+## Beslissingen tot nu toe
 
-Vijf bronnen geïngest (Seth Godin, Bob Verlaat, Gary Vaynerchuk, Growth for
-Breakfast/Oliver, Psychology of Premium Branding) + de volledige
-brand-building-skills-set (27 domain-skills) van
-[arnabbagxd/brand-building-skills](https://github.com/arnabbagxd/brand-building-skills).
-Zie `wiki/sources/` en `wiki/frameworks/` voor de distillatie.
-
-## Nog geen beslissingen genomen
-
-Geen `decision`-pagina's aangemaakt — alle vier merken zitten nog in de
-verkennende fase van dit vak.
+BLITS is het enige merk met `decision`-pagina's — zie `wiki/decisions/`
+(twaalf stuks, van positionering tot kleur/typografie/heritage/tone-of-voice/
+logo-briefing) en de Timeline op
+[[blits]] voor de volledige geschiedenis. De andere drie merken
+(eigen-merk-tuininrichting, baste, luminous) zitten nog in de verkennende
+fase, geen besluiten vastgelegd.
