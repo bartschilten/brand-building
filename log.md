@@ -382,3 +382,7 @@ Vijf Word-documenten voor de overdracht aan de brandmanager en de designers, sam
 ## [2026-10-12] update | Merkfundament aangevuld (strategiegaten)
 
 Bij controle bleken in het designerpakket te ontbreken: context en businessdoelen, visie/missie/USP's uit 2024 (te bevestigen), tagline-onderbouwing, neo-heritage als strategische laag, merkcanvas-overzicht en hoe de strategie tot stand kwam. Toegevoegd aan `BLITS_02_Merkfundament`; open punt visie/missie toegevoegd aan de overdracht.
+
+## [2026-10-12] ingest | BLITS True Story Canvas
+
+True Story Canvas (Truman, 13 onderdelen) ingevuld voor BLITS uit de kennisbank: nieuwe playbook `wiki/playbooks/blits-true-story-canvas.md` en een typbaar invulformulier (Artifact). 7 ingevuld, 5 voorstel, 1 open (merkmissie). Index en BLITS-pagina bijgewerkt.

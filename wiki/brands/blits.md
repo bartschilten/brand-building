@@ -754,6 +754,7 @@ Identiteitsfase loopt. Open:
 
 ## Timeline
 
+- **2026-10-12** | Bart + assistent — True Story Canvas ingevuld voor BLITS en als typbaar formulier beschikbaar, zie [[blits-true-story-canvas]].
 - **2026-10-12** | Bart + assistent — heritage vertaald naar bouwstenen voor website/grafisch ([[blits-ontwerpelementen-heritage]]), voorstel voor designers.
 - **2026-10-12** | Bart + assistent — aannames verpakking beantwoord: schap-klaar-uitvoering toegevoegd, minimale tekstset, meerdelige trampolineverpakking (2–5 dozen, eigen EAN per doos) uit Drive-offerte verwerkt.
 - **2026-10-12** | assistent, op verzoek van Bart — verpakkingsvoorstel herzien op nieuw palet/fonts (kraft + Night Pitch Green, Soccer Green-signatuur); vijf aannames ter bevestiging. Specimen-tekst fontpagina bevestigd als geen merktekst.
