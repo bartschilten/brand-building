@@ -26,8 +26,10 @@ _Laatst ververst: 2026-10-12_
   Archivo Black/Outfit/Kalam, zie [[blits-kleurenpalet-2026-10]]; Engelse
   tagline "Outside Wins." definitief, neo-heritage-signifiers geprioriteerd in
   drie tiers (zie [[blits-apple-design-review]]). **Open na palet-wissel:**
-  verpakkingsvoorstel, sport-lijn-rebrand, logo-briefing en merkgids bevatten
-  nog het oude palet — herzien; kleurgebruiksregels met de brandmanager. **Nieuw:** drie
+  sport-lijn-rebrand en logo-briefing bevatten nog het oude palet;
+  verpakkingsvoorstel is herzien op het nieuwe palet (2026-10-12, wacht op
+  Bart's bevestiging van vijf aannames); kleurgebruiksregels met de
+  brandmanager. **Nieuw:** drie
   doelgroep-persona's vastgesteld (sport-lijn/actieve ouder,
   speeltoestellen-lijn/esthetische ouder, B2B-dealer) — zie [[blits]] §
   Doelgroep-persona's. Verpakkingsrichting uitgewerkt (zie § Verpakking &

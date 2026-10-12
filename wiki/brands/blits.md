@@ -479,38 +479,107 @@ worden, niet om van een afstandje bewonderd te worden. Twee lijnen, één
 belofte — van het eerste speelhuisje van een peuter tot het laatste potje
 van een puber voor de straatlantaarns aangaan, buiten wint."
 
-## Verpakking & productpresentatie (voorgesteld 2026-10-10)
+## Verpakking & productpresentatie (herzien voorstel 2026-10-12)
 
-Vervolg op § Neo-heritage (verzendkist-gevoel) en de Tier 1-signifiers uit
-[[blits-apple-design-review]]. Gebouwd met de `brand-packaging`-skill.
-**Status: sturing/voorstel, nog niet door Bart bevestigd** — zelfde aanpak
-als bij de eerdere speelhuizen-designrichting.
+Herschreven op het nieuwe palet en de nieuwe fonts (zie § Visuele identiteit,
+[[blits-kleurenpalet-2026-10]]); vervangt het voorstel van 2026-10-10
+(olijfgroen/koraalrood/Archivo Black, staat in de git-historie). Gebouwd met
+de `brand-packaging`-skill. **Status: voorstel, nog niet door Bart
+bevestigd.** Aannames staan onderaan — die bepalen of dit klopt.
 
-- **Materiaal:** ongebleekt kraftkarton, tweekleurendruk (olijfgroen +
-  koraalrood) — geen glanzend, witgebleekt "consumentenelektronica"-doosje.
-  Sluit aan bij "eerlijke materialen" (merkwaarde) en het
-  verzendkist-principe.
-- **Buitenkant per lijn:** sport-lijn-dozen olijfgroen-dominant met
-  koraalrode tape/sticker (sluit aan bij de sport-kleurratio); speeltoestellen-
-  lijn-dozen wit/crème-dominant met olijfgroen drukwerk (sluit aan bij de
-  speeltoestellen-kleurratio). Zelfde logo-plaatsing-principe als bij de
-  producten zelf: klein, geen opdringerige merkreclame over de hele doos.
-- **Unboxing-moment (FAO Schwarz-principe uit [[neo-heritage-branding]]):**
-  het eerste wat je ziet bij het openen is niet de bedrukte handleiding,
-  maar een korte welkomstkaart met één regel uit het merkverhaal (NL/EN) —
-  een simpele, goedkope versie van het "eigendomscertificaat"-idee (Tier 3
-  blijft geparkeerd; dit is een lightweight tussenvorm die nu al kan).
-- **Handleiding/instructies:** apart van de merkcopy — rustig register,
-  feitelijk, geen avontuur-/val-taal (bevestigt de bestaande
-  governance-regel). Archivo Black voor stapnummers/koppen, Outfit voor
-  instructietekst, geen Kalam (die blijft voorbehouden aan marketing-
-  uitingen).
-- **Taal op de doos:** Engels als hoofdtaal (master), Nederlands als tweede
-  taal — consistent met § Tone of Voice.
-- **Wat hier NIET in zit:** de volledige Tier 2/3-signifiers (Yard Bell,
-  multitool, stoepkrijt-blikje, eigendomscertificaat) — dit is puur de
-  verpakking zelf, niet de bijgeleverde accessoires. Die blijven in de
-  prioritering uit [[blits-apple-design-review]].
+**Strategie in één alinea:** de doos is het eerste fysieke moment van het
+merk en moet zeggen: dit is geen generiek private label. Eerlijk materiaal,
+één duidelijke kleurvlak-gebaar en weinig tekst op de buitenkant; het
+verhaal komt pas bij het openen. Voelen bij aankomst: *serieus gemaakt*.
+Voelen bij openen: *dit is voor ons bedoeld*. Eén indruk daarna:
+*outside wins*.
+
+**Structuur**
+- Primair = tevens verzenddoos (e-commerce is het hoofdkanaal): ongebleekt
+  kraftkarton, golfkarton op maat per product. Geen extra buitenverpakking.
+- Eén zijpaneel krijgt een groot, vlak merkgebaar (zie kleur); geen
+  full-colour fotodoos met kinderen.
+- Binnenin: kartonnen hoekbeschermers i.p.v. plastic/schuim waar mogelijk;
+  losse onderdelen per stap in genummerde zakken/bundels.
+
+**Kleur** *(placeholder tot de gebruiksregels met de brandmanager er zijn —
+ratio per lijn is nog open)*
+- Basis: kraft; zwaardere drukkleur **Night Pitch Green** `#06150E`
+  (logo, productnaam, tekst).
+- **Soccer Green** `#09CD66` als signatuur: één groot vlak of band op het
+  zijpaneel, plus tape. Op kraft verliest groen helderheid — daarom vlak en
+  groot, niet als dunne lijn; **drukproef op echt kraft verplicht.**
+- **Basketball Red** `#D74A23` alleen als klein signaal (sticker, CTA-regel,
+  schildplaatje-verwijzing) — zelfde rol als knoppen op de site.
+- **Sport-lijn:** kraft + Night Pitch Green + Soccer Green-vlak.
+  **Speeltoestellen-lijn:** de doos in **Beachball Volley Beige** `#E5DCC2`
+  (ligt dicht bij kraft; bedrukt of gecoat) met Night Pitch Green; groen
+  alleen als kleine band. Verschil per lijn zit in verhouding, niet in een
+  ander systeem.
+- Blauwen, geel en Stuntpark Grey: niet standaard op de doos; eerst
+  gebruiksregels afwachten. **Geen kleurcode per sport** (besluit
+  2026-09-29): varianten onderscheid je via tekst/maatlabel.
+
+**Typografie**
+- Productnaam: TT Autonomous Bold Italic, uppercase, groot.
+- Regel/tagline ("Outside Wins." / "Buiten wint."): TT Autonomous Bold.
+  Outline-italic alleen voor één accentwoord, niet op kleine tekst.
+- Tekst, handleiding, wettelijke tekst: Archia Regular; stapnummers in TT
+  Autonomous Bold. Minimale lettergrootte voor wettelijke/instructietekst
+  laat ik door kwaliteit/compliance vaststellen (norm per productgroep).
+
+**Informatiehiërarchie**
+- Voorvlak: logo → productnaam → één regel claim/type (bv. "Trampoline
+  305 × 213 cm") → eventueel klein schildplaatje-icoon. Geen foto.
+- Achtervlak: 2–3 korte feiten (materiaal, wat zit erin, leeftijds-/
+  gewichtsgrens), kleine lijntekening van het product, korte
+  merkregel (één zin uit het merkverhaal, EN/NL).
+- Zijpanelen: EAN-barcode, CE/veiligheidsnorm, gewicht, afmetingen, land van
+  herkomst, importeur/contact, recycle-pictogrammen — leesbaar voor
+  magazijn en dealers.
+- Taal: Engels hoofdtaal, Nederlands tweede (zie § Tone of Voice).
+
+**Unboxing — vijf lagen**
+1. *Aankomst:* kraftdoos met één groen gebaar; voelt degelijk, niet
+   "speelgoeddoos".
+2. *Openen:* binnenkant van de flap bedrukt met één regel in Night Pitch
+   Green ("Now go outside." / "Ga nu naar buiten."). Geen gimmick-laag
+   erbij.
+3. *Product:* netjes genest, onderdelen per stap gebundeld.
+4. *Extra's:* welkomstkaart (EN/NL) met de kernbelofte — *"BLITS gets kids
+   outside, together, through every age and every fall."* — en uitleg van het
+   BLITS-schildplaatje (Tier 1 uit [[blits-apple-design-review]]; het plaatje
+   zelf zit op het product). Tier 2/3-signifiers blijven geparkeerd.
+5. *Daarna:* de kartonnen doos is herbruikbaar; geen speciaal keepsake-
+   ontwerp nu.
+
+**Handleiding:** apart register, feitelijk, geen avontuur-/val-taal en geen
+winnen-taal (Governance). Stapnummers TT Autonomous Bold, tekst Archia,
+geen outline-italic.
+
+**Waarin dit afwijkt van de categorie** *(aanname, niet op dit moment
+gecontroleerd — graag een paar Exit/Berg/Salta-dozen naast elkaar leggen)*:
+veel concurrenten gebruiken volledig bedrukte fotodozen. Dit voorstel kiest
+voor een rustige, materiaal-eerlijke doos; dat past bij "built to be used,
+not admired", maar moet naast de concurrentie ook op de dealerschappen
+opvallen.
+
+**Aannames die jij moet bevestigen**
+1. Kanaal: hoofdzakelijk webshop + dealers, vrijwel geen consumentenschap
+   waar de doos zichzelf moet verkopen.
+2. Budget: laag-tot-midden (toegankelijke prijs); geen speciale
+   afwerkingen (foil, soft-touch).
+3. Productafmetingen/gewichten en het huidige dozenformaat zijn niet
+   meegenomen — de structuur volgt per product.
+4. Wettelijke tekst/normen per productgroep: door kwaliteit/compliance
+   te laten bevestigen vóór drukwerk.
+5. Printer/Pantone: Soccer Green en Basketball Red moeten op kraft
+   proefgedrukt worden; hoort bij de externe-designerstap
+   ([[blits-logo-designbriefing]]).
+
+**Niet in dit voorstel:** Tier 2/3-signifiers (Yard Bell, multitool,
+stoepkrijt-blikje, eigendomscertificaat), ratio per lijn (brandmanager),
+fotografie/website.
 
 ## Speeltoestellen-lijn — designrichting speelhuizen (2026-10-07)
 
@@ -644,6 +713,7 @@ Identiteitsfase loopt. Open:
 
 ## Timeline
 
+- **2026-10-12** | assistent, op verzoek van Bart — verpakkingsvoorstel herzien op nieuw palet/fonts (kraft + Night Pitch Green, Soccer Green-signatuur); vijf aannames ter bevestiging. Specimen-tekst fontpagina bevestigd als geen merktekst.
 - **2026-10-12** | Bart — Night Pitch Green `#06150E` bevestigd; licentie/webfonts gecheckt; kleurgebruiksregels volgen met de brandmanager. Correctie: de definitieve reden van bestaan (2026-10-05, § Merkstrategie) en tone of voice/merkverhaal stonden al in de vault, maar op een niet-gemergede branch; samengevoegd. Het Drive-doc "Wie is BLITS?" (2024) is de voorloper, zie [[wie-is-blits-missie-visie]].
 - **2026-10-12** | Bart (BLITS_COLORS.pdf + BLITS_TEXT_1.pdf) — nieuw palet en fonts (TT Autonomous / Archia) leidend; vervangt vier-kleurenpalet en Archivo Black/Outfit/Kalam; Tarmac Black vervangen door Night Pitch Green. Zie [[blits-kleurenpalet-2026-10]].
 - **2026-09-22** | ingest (overgenomen uit bartschilten/kennisbank, aangepast voor merkbouw-context) — pagina aangemaakt.
