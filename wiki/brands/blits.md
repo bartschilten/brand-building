@@ -391,6 +391,10 @@ niets van de bestaande strategie, het is een extra ontwerplaag. Concreet:
   voorgesteld, nog niet getoetst op kostprijs/haalbaarheid — loopt mee in
   de gewone assortiments-/productontwikkelingstoets. Volledige tabel (acht
   codes × drager × copy × productdesign) in [[neo-heritage-branding]].
+- **Vertaling naar ontwerpelementen (toegevoegd 2026-10-12):** de
+  heritage-codes zijn vertaald naar website-/grafische bouwstenen
+  (achtergronden, kaarten, knoppen, iconen, beweging) voor de designers — zie
+  [[blits-ontwerpelementen-heritage]].
 - **Prioritering (toegevoegd 2026-10-10, na designkwaliteitscheck):** niet
   alle signifiers tegelijk bouwen — zie [[blits-apple-design-review]]. Tier 1
   (nu): één gedeeld 'BLITS-schildplaatje' (vervangt het typeplaatje/Home
@@ -750,6 +754,7 @@ Identiteitsfase loopt. Open:
 
 ## Timeline
 
+- **2026-10-12** | Bart + assistent — heritage vertaald naar bouwstenen voor website/grafisch ([[blits-ontwerpelementen-heritage]]), voorstel voor designers.
 - **2026-10-12** | Bart + assistent — aannames verpakking beantwoord: schap-klaar-uitvoering toegevoegd, minimale tekstset, meerdelige trampolineverpakking (2–5 dozen, eigen EAN per doos) uit Drive-offerte verwerkt.
 - **2026-10-12** | assistent, op verzoek van Bart — verpakkingsvoorstel herzien op nieuw palet/fonts (kraft + Night Pitch Green, Soccer Green-signatuur); vijf aannames ter bevestiging. Specimen-tekst fontpagina bevestigd als geen merktekst.
 - **2026-10-12** | Bart — Night Pitch Green `#06150E` bevestigd; licentie/webfonts gecheckt; kleurgebruiksregels volgen met de brandmanager. Correctie: de definitieve reden van bestaan (2026-10-05, § Merkstrategie) en tone of voice/merkverhaal stonden al in de vault, maar op een niet-gemergede branch; samengevoegd. Het Drive-doc "Wie is BLITS?" (2024) is de voorloper, zie [[wie-is-blits-missie-visie]].

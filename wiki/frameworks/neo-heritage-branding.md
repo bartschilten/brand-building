@@ -5,7 +5,7 @@ status: developing
 created: 2026-10-07
 updated: 2026-10-07
 tags: [eigen-merk, heritage, identiteit]
-related: ["[[blits]]", "[[blits-heritage-onderzoek-gemini]]", "[[reason-for-existence]]"]
+related: ["[[blits-ontwerpelementen-heritage]]", "[[blits]]", "[[blits-heritage-onderzoek-gemini]]", "[[reason-for-existence]]"]
 aliases: ["invented tradition", "geïnventeerde traditie"]
 source: "[[blits-heritage-onderzoek-gemini]]"
 core_claim: "Een jong merk kan een tijdloze, geloofwaardige merkziel construeren door historische archetypen en materiële ambachtssignalen methodisch toe te passen — niet door decennialang te bestaan, maar door de juiste vormtaal consequent vol te houden."
