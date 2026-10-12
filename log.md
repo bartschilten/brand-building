@@ -2,6 +2,18 @@
 
 Append-only operatielog. `grep "^## \[" log.md` voor alle entries.
 
+## [2026-10-12] fix | vault consistentie-check vóór sessie-einde
+
+Bart gaf aan de gesprekshistorie te gaan wissen. Volledige audit: alle
+11 `decision`-pagina's, de `source`/`framework`/`playbook`/`initiative`-
+pagina's gecontroleerd tegen hun frontmatter-`type` versus waar ze in
+`index.md` staan. Eén fout gevonden en gefixt:
+[[blits-tone-of-voice-definitief]] (type `decision`) stond abusievelijk
+onder de `## source`-sectie in plaats van `## decision`. Verder geen
+afwijkingen. `hot.md` was al actueel (ververst 2026-10-10, dekt alle
+recente besluiten). Vault is een consistente, standalone staat voor een
+nieuwe sessie.
+
 ## [2026-10-10] decision | BLITS sport-lijn productrebrand + Nano Banana-prompts
 
 Bart leverde drie productfoto's aan (voetbaldoel, trampoline, rebounder —
