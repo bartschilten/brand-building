@@ -5,11 +5,12 @@ status: mature
 created: 2026-10-12
 updated: 2026-10-12
 tags: [blits, visuele-identiteit, kleur]
-related: ["[[blits]]"]
+related: ["[[blits]]", "[[blits-kleur-typografie-herzien]]"]
 aliases: []
 date: 2026-10-12
 decided_by: "Bart Schilten"
-affects: ["[[blits]]"]
+affects: ["[[blits]]", "[[blits-merkgids]]"]
+supersedes: "[[blits-kleur-typografie-herzien]]"
 ---
 
 ## De beslissing
@@ -32,6 +33,11 @@ leest, maar dichter bij het merkgroen blijft dan een neutraal zwart.
   Beige (WCAG-berekening).
 
 ## Gevolgen
+
+- Vervangt het vier-kleurenpalet (koraalrood, diep olijfgroen, wit/crème,
+  neongeel) en het trio Archivo Black/Outfit/Kalam uit
+  [[blits-kleur-typografie-herzien]]; fonts: TT Autonomous (titels, knoppen)
+  en Archia Regular (tekst).
 
 - Overal waar de PDF "BG-TEXT / Tarmac Black" noemt (tekst op lichte
   achtergrond, donkere vlakken), geldt nu Night Pitch Green.

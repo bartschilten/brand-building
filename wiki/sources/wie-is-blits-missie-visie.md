@@ -15,8 +15,8 @@ raw: ".raw/2026-10-12/wie-is-blits-drive-doc.md"
 ---
 
 Intern Google Doc (Bart, laatst gewijzigd 2024-11-29, uit het Label Launch-
-project) met de missie, visie en USP's van BLITS. Bevat de "reden van
-bestaan" die in deze vault nog ontbrak. Sectie "Het ontstaan" is leeg.
+project) met de missie, visie en USP's van BLITS. **Voorloper** van de definitieve reden van bestaan (2026-10-05, zie
+[[blits]] § Merkstrategie), die dit document opvolgt. Sectie "Het ontstaan" is leeg.
 
 ## Kernideeën
 
@@ -54,5 +54,5 @@ nieuwe fontpagina (`BLITS_TEXT_1.pdf`).
 
 ## Gedistilleerd naar
 
-- [[blits]] (reden van bestaan, vijand)
+- [[blits]] (§ Merkstrategie bouwt hierop voort)
 - [[reason-for-existence]], [[villain-and-contagious-ideas]] (toepassing)
