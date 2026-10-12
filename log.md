@@ -370,3 +370,7 @@ Bart: "Laat ze de wereld ontdekken…" op de fontpagina is geen vastgestelde mer
 ## [2026-10-12] update | BLITS verpakking: aannames beantwoord
 
 Bart beantwoordde de vijf aannames: schap-klaar-uitvoering (wraplabel) toegevoegd, minimale tekstset (CE, breekbaar), budget laag, kraft-proefdruk. Maten/gewichten trampolines/veerhoezen uit Drive-offerte "Quote request BLITS – Toppy 2027" opgenomen (geen prijzen).
+
+## [2026-10-12] ingest | BLITS heritage → ontwerpelementen
+
+Nieuwe playbook `wiki/playbooks/blits-ontwerpelementen-heritage.md`: heritage-codes vertaald naar web-/grafische bouwstenen op nieuw palet/fonts. Open: spanning met toon (Laatste doelpunt wint), handschriftaccent na Kalam, afgesneden-hoek-vorm. Index en BLITS-pagina bijgewerkt.
