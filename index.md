@@ -45,6 +45,7 @@ _(nog geen pagina's)_
 
 - [[blits-merkgids]] — gebundelde, externe merkgids (strategie, identiteit, kleur/typografie, heritage, tone of voice) (mature)
 - [[blits-ontwerpelementen-heritage]] — heritage vertaald naar bouwstenen voor website/grafisch (achtergronden, kaarten, knoppen, iconen), voorstel voor designers (seed)
+- [[blits-true-story-canvas]] — True Story Canvas (Truman) ingevuld voor BLITS: dertien onderdelen, typbaar formulier (developing)
 
 ## decision
 
