@@ -3,7 +3,7 @@ type: playbook
 title: "BLITS — True Story Canvas"
 status: developing
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-10-14
 tags: [blits, merkstrategie, canvas]
 related: ["[[blits]]", "[[reason-for-existence]]", "[[villain-and-contagious-ideas]]"]
 aliases: ["True Story Canvas BLITS", "merkcanvas BLITS"]
@@ -37,6 +37,8 @@ Avontuurlijk. Esthetisch. Vrijheid. Eerlijk (naar dealers én klanten). Kwalitat
 
 Persoonlijkheid, door Bart gescoord op een schaal van 1 tot 8: casual 1, zeer toegankelijk en betaalbaar 2, zeer vernieuwend 7, zeer bold 7.
 
+Let op: in de merkgids en de kennisbank heten deze vijf ook "kernwaarden". In dit canvas is Kernwaarde (onderdeel 3) iets anders: de ene waarde die het hart vormt.
+
 _Bron: BLITS-pagina, Merkstrategie._
 
 ## 3. Kernwaarde (voorstel)
@@ -47,7 +49,7 @@ Voorstel: Avontuur.
 
 Het sluit aan op de reden van bestaan ("avontuur dat geen scherm je kan geven") en de andere waarden volgen eruit: eerlijk en kwalitatief omdat het hard gebruikt wordt, esthetisch omdat het ook in de tuin hoort, vrijheid als gevolg van buitenspelen.
 
-Bart bevestigt of past aan: er is in de kennisbank geen vastgestelde kernwaarde.
+Bart bevestigt of past aan: er is in de kennisbank geen vastgestelde kernwaarde. De vijf waarden onder Merkwaarden heten in de merkgids ook "kernwaarden", maar dat is de lijst, niet de ene kernwaarde.
 
 _Bron: Afgeleid uit de reden van bestaan; niet eerder vastgesteld._
 
@@ -177,13 +179,15 @@ _Waaruit blijkt dat het merk zijn belofte waarmaakt?_
 - Fysieke merktekens als bewijs van kwaliteit, niet als decoratie (het BLITS-schildplaatje, de Golden Goal-bies).
 - Productverbeteringen op basis van klantfeedback.
 - Reserveonderdelen voor trampolines staan in het jaarplan.
+- Dealers: Outdoorspeelgoed.nl is de eerste B2B-reseller; Speelgoed de Betuwe kreeg BLITS op het dealerportaal.
 
-Ontbreekt nog: klantreviews, cijfers (aantal klanten, retourpercentage) en dealer-referenties.
+Ontbreekt nog: klantreviews, cijfers (aantal klanten, retourpercentage) en uitspraken van dealers.
 
-_Bron: Productsheet (2025), productrichting, jaarplan; niet aangevuld met cijfers._
+_Bron: Productsheet (2025), productrichting, jaarplan, Toppy-kennisbank (dealers); niet aangevuld met cijfers._
 
 ---
 
 ## Timeline
 
+- **2026-10-14** | assistent, op verzoek van Bart — canvas bijgewerkt na PR 8 en de Toppy-kennisbank: merkwaarden en kernwaarde uit elkaar gehaald (merkgids noemt de vijf waarden ook "kernwaarden"), bewijs aangevuld met eerste resellers (Outdoorspeelgoed.nl, Speelgoed de Betuwe). Kernwaarde (enkelvoud) en merkvisie nog steeds niet vastgesteld.
 - **2026-10-12** | assistent, op verzoek van Bart — True Story Canvas voor BLITS ingevuld uit de kennisbank en als typbaar formulier gepubliceerd. Zeven velden ingevuld, vijf voorstel, een open (merkmissie).

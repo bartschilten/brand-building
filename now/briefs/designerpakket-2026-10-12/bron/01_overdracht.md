@@ -1,7 +1,7 @@
 ---
 title: "BLITS Overdracht"
 subtitle: "Stand van zaken, besluiten en wat er nog openstaat"
-date: "Stand 12 oktober 2026"
+date: "Stand 14 oktober 2026"
 ---
 
 # Waar dit document voor is
@@ -21,8 +21,9 @@ De kennis komt uit de BLITS-kennisbank in GitHub (`bartschilten/brand-building`,
 | 5 | Producten en verpakking | Assortiment, productrichting, fysieke merktekens, verpakkingsvoorstel |
 | 6 | Tone of Voice | Aangeleverd door Bart (apart document) |
 | 7 | Verwijzingen naar vroeger (heritage) | Aangeleverd door Bart (apart document) |
+| 8 | True Story Canvas | Dertien onderdelen ingevuld voor BLITS, met een typbaar formulier |
 
-Documenten 2 tot en met 5 zijn samengesteld uit de kennisbank en gelden per 12 oktober 2026.
+Documenten 2 tot en met 5 zijn samengesteld uit de kennisbank. Documenten 1, 2 en 5 zijn bijgewerkt op 14 oktober 2026; documenten 3 en 4 zijn inhoudelijk ongewijzigd (stand 12 oktober). Document 8 staat in een typbaar formulier: https://claude.ai/artifact/G7hRy4krp2d7EVbe7eBQoM (privé: Bart moet het delen).
 
 # Waar staat BLITS nu
 
@@ -40,7 +41,8 @@ Documenten 2 tot en met 5 zijn samengesteld uit de kennisbank en gelden per 12 o
 | Logo | Vectorisatie en kleurvarianten in het nieuwe palet **open** |
 | Webelementen | Voorstel; keuzes via het keuzebord nog te maken |
 | Verpakking | Voorstel; uitgangspunten bevestigd, uitwerking door een designer |
-| Sport-lijn productrebrand | Voorstel op het nieuwe palet, niet visueel gecheckt |
+| Sport-lijn productrebrand | Bijgewerkt op het nieuwe palet (14 oktober), nog niet visueel gecheckt |
+| True Story Canvas | Ingevuld (7 ingevuld, 5 voorstel, 1 open); kernwaarde en merkvisie nog niet vastgesteld |
 | Speeltoestellen-lijn | Designrichting vastgesteld; speelhuizen-inkoop nog te doen |
 | Fotografie sport-lijn | Nog niet opgestart |
 
@@ -61,12 +63,10 @@ Deze materialen bevatten nog het **oude palet** (koraalrood, diep olijfgroen, wi
 
 - De Word-merkgids van 10 oktober 2026.
 - De logo-briefing voor de externe designer.
-- De Nano Banana-prompts voor de sport-lijn (voetbaldoel, trampoline, rebounder).
-- Het eerdere verpakkingsvoorstel van 10 oktober.
 - Het visuele merkcanvas (Artifact) met de borden Overzicht, Kleur, Typografie en Logo.
 - De websiteschets uit maart 2025 (bevat ook "strijders" en "Play more", beide geschrapt).
 
-De documenten in dit pakket zijn bedoeld ter vervanging van de Word-merkgids.
+De documenten in dit pakket zijn bedoeld ter vervanging van de Word-merkgids. De merkgids in de kennisbank zelf is op 14 oktober bijgewerkt (merkwaarden en persona's terug, nieuw palet); de Nano Banana-prompts en het verpakkingsvoorstel staan inmiddels op het nieuwe palet.
 
 # Open beslissingen voor Bart
 
@@ -76,7 +76,7 @@ De documenten in dit pakket zijn bedoeld ter vervanging van de Word-merkgids.
 4. **Aanspreekvorm in het Engels:** "you" voelt mogelijk wijzend aan.
 5. **De metafoor "vuile knieën zijn medailles":** blijft die, of wordt hij vervangen?
 6. **Twee onduidelijke merknamen** bij de bewonderde merken: spelling navragen.
-7. **Visie en missie:** de teksten uit 2024 ("Wie is BLITS?") zijn niet opnieuw bevestigd na de nieuwe reden van bestaan. Nog actueel, of vervangen?
+7. **Kernwaarde, merkvisie en merkmissie** (True Story Canvas): de kernwaarde (enkelvoud) is nog niet vastgesteld; voorstel Avontuur. De visie en missie uit 2024 ("Wie is BLITS?") zijn niet opnieuw bevestigd na de nieuwe reden van bestaan. Nog actueel, of vervangen? Let op: in de merkgids heten de vijf merkwaarden ook "kernwaarden"; dat is iets anders.
 8. **Keuzes in het keuzebord:** kaart, knoppen, achtergrond, scheidingslijn, zegel, iconen, beweging en de acht verwijzingen naar vroeger.
 
 # Wat er nu moet gebeuren
@@ -105,6 +105,13 @@ De uitrol heeft drie fasen. Fase 1, het fundament, is afgerond.
 **Fase 3: contentcadans per persona.** Actieve ouder (Instagram en YouTube, specificaties en reviews). Esthetische ouder (Pinterest en Instagram, sfeerbeelden). Dealer (vakbeurzen en directe sales). Nog op hoofdlijnen.
 
 **Risico:** 2A en 2B tegelijk zonder genoeg capaciteit verwatert beide. Prioriteer 2B als er gekozen moet worden.
+
+# Context vanuit Toppy
+
+Uit de Toppy-kennisbank, voor wie het merk verder brengt:
+
+- **Eerste resellers.** Outdoorspeelgoed.nl is de eerste B2B-reseller van BLITS. Speelgoed de Betuwe kreeg BLITS geopend op het dealerportaal, met dezelfde voorwaarden als W'eau (LDD-groep). Het dealerkanaal is dus begonnen; het ontstaansverhaal uit dealerfrustratie hoort daar.
+- **Creator-programma (voorstel).** Er ligt een pitch voor een creator-, affiliate- en UGC-programma voor de eigen merken, BLITS inbegrepen, bij Tom en Sander. Nog geen besluit. Raakt de fotografie en de content die de designers maken.
 
 # Wie doet wat
 
