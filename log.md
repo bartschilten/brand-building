@@ -386,3 +386,23 @@ Bij controle bleken in het designerpakket te ontbreken: context en businessdoele
 ## [2026-10-12] ingest | BLITS True Story Canvas
 
 True Story Canvas (Truman, 13 onderdelen) ingevuld voor BLITS uit de kennisbank: nieuwe playbook `wiki/playbooks/blits-true-story-canvas.md` en een typbaar invulformulier (Artifact). 7 ingevuld, 5 voorstel, 1 open (merkmissie). Index en BLITS-pagina bijgewerkt.
+
+## [2026-10-14] fix | BLITS merkwaarden ontbraken in de merkgids, branch losgekoppeld van main
+
+Bart meldde via een andere sessie dat de kernwaarden niet in de kennisbank
+te vinden waren. Onderzoek: [[blits-merkgids]] miste sinds het aanmaken
+(2026-10-10) de secties Merkwaarden/persoonlijkheid en Doelgroep-persona's
+— de waarden stonden wél altijd op [[blits]] zelf, alleen niet in de
+samengevatte merkgids. Tweede, groter probleem gevonden: de sessie werkte
+op een geïsoleerde branch (`claude/compassionate-tesla-ejdcex`) die nooit
+met `main` was samengevoegd op het moment van de laatste commits — inmiddels
+bleek al het oudere werk daar wél in opgenomen (via merges door een andere
+sessie), maar deze fix dreigde opnieuw op een losse branch te blijven staan
+en dus onvindbaar te zijn, precies het scenario dat CLAUDE.md sinds
+2026-10-12 beschrijft ("alles moet altijd meteen naar de kennisbank").
+Opgelost: branch vanaf actuele `main` gestart, merkgids hersteld (nu ook op
+het sinds 2026-10-12 geldende kleurenpalet, zie
+[[blits-kleurenpalet-2026-10]]), en [[blits-sportlijn-productrebrand]]
+bijgewerkt naar hetzelfde palet (stond nog op olijfgroen/koraalrood,
+al gesignaleerd als "te herzien" in [[blits]] § Visuele identiteit maar nog
+niet gedaan). Via PR direct naar `main` gezet.

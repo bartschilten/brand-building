@@ -225,11 +225,14 @@ Oude rol → nieuwe waarde (mapping bevestigd door Bart 2026-10-12):
 | Neongeel `~#D7FF1A` | Tour de Yellow `#F3BB31` |
 | Archivo Black / Outfit / Kalam | TT Autonomous / Archia |
 
-Nog op het oude palet en dus te herzien: § Verpakking & productpresentatie,
-§ Speeltoestellen-lijn (designrichting), logo-kleurvarianten en lockups,
-[[blits-sportlijn-productrebrand]] (Nano Banana-prompts), de
-kleurverhoudingen per lijn en het canvas-Artifact. Kleurgebruiksregels
-(welk accent waar, ratio per lijn) werkt Bart uit met de brandmanager.
+**Bijgewerkt 2026-10-14:** § Verpakking & productpresentatie is al herzien
+op het nieuwe palet (zie die sectie), en [[blits-sportlijn-productrebrand]]
+(Nano Banana-prompts) is nu ook bijgewerkt (Night Pitch Green/Basketball
+Red/Soccer Green i.p.v. olijfgroen/koraalrood). Nog op het oude palet en dus
+te herzien: § Speeltoestellen-lijn (designrichting), logo-kleurvarianten en
+lockups, de kleurverhoudingen per lijn en het canvas-Artifact.
+Kleurgebruiksregels (welk accent waar, ratio per lijn) werkt Bart uit met de
+brandmanager.
 
 ## Identiteit — kleur: vier merkkleuren, één gedeeld palet (herzien 2026-10-05)
 
@@ -755,6 +758,7 @@ Identiteitsfase loopt. Open:
 ## Timeline
 
 - **2026-10-12** | Bart + assistent — True Story Canvas ingevuld voor BLITS en als typbaar formulier beschikbaar, zie [[blits-true-story-canvas]].
+- **2026-10-14** | Bart meldde (via een andere sessie) dat de kernwaarden niet in de kennisbank te vinden waren. Oorzaak: [[blits-merkgids]] miste al sinds het aanmaken de secties Merkwaarden/persoonlijkheid en Doelgroep-persona's (ze stonden wél altijd in deze pagina) — nu toegevoegd. Daarnaast bleek de eigen branch (`claude/compassionate-tesla-ejdcex`) losgekoppeld te zijn geraakt van `main`: al het eerdere werk bleek al gemerged, maar deze fix dreigde opnieuw op een eigen branch te blijven staan. Direct via PR naar `main` gezet (nieuwe regel sinds 2026-10-12, zie CLAUDE.md). Tegelijk [[blits-sportlijn-productrebrand]] bijgewerkt naar het nieuwe kleurenpalet (stond nog op olijfgroen/koraalrood, was al als "te herzien" gesignaleerd in § Visuele identiteit).
 - **2026-10-12** | Bart + assistent — heritage vertaald naar bouwstenen voor website/grafisch ([[blits-ontwerpelementen-heritage]]), voorstel voor designers.
 - **2026-10-12** | Bart + assistent — aannames verpakking beantwoord: schap-klaar-uitvoering toegevoegd, minimale tekstset, meerdelige trampolineverpakking (2–5 dozen, eigen EAN per doos) uit Drive-offerte verwerkt.
 - **2026-10-12** | assistent, op verzoek van Bart — verpakkingsvoorstel herzien op nieuw palet/fonts (kraft + Night Pitch Green, Soccer Green-signatuur); vijf aannames ter bevestiging. Specimen-tekst fontpagina bevestigd als geen merktekst.
