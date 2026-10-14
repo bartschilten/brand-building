@@ -406,3 +406,7 @@ het sinds 2026-10-12 geldende kleurenpalet, zie
 bijgewerkt naar hetzelfde palet (stond nog op olijfgroen/koraalrood,
 al gesignaleerd als "te herzien" in [[blits]] § Visuele identiteit maar nog
 niet gedaan). Via PR direct naar `main` gezet.
+
+## [2026-10-14] update | Designerpakket en True Story Canvas bijgewerkt
+
+Na PR 8 (merkgids hersteld, sport-lijn-rebrand op nieuw palet) en nieuwe Toppy-kennisbank-info (eerste resellers Outdoorspeelgoed.nl en Speelgoed de Betuwe; creator-programma-pitch): documenten 1 (overdracht), 2 (merkfundament) en 5 (producten en verpakking) bijgewerkt; 3 en 4 inhoudelijk ongewijzigd. True Story Canvas: merkwaarden en kernwaarde uit elkaar gehaald (de merkgids noemt de vijf waarden ook "kernwaarden"), bewijs aangevuld met eerste resellers. Kernwaarde (enkelvoud) en merkvisie nog steeds niet vastgesteld door Bart.

@@ -1,7 +1,7 @@
 ---
 title: "BLITS Producten en verpakking"
 subtitle: "Assortiment, productrichting, fysieke merktekens en verpakkingsvoorstel"
-date: "Stand 12 oktober 2026"
+date: "Stand 14 oktober 2026"
 ---
 
 # Waar dit document voor is
@@ -48,15 +48,31 @@ Trampolines komen in **2 tot 5 aparte dozen** per set, bijvoorbeeld 4 dozen bij 
 
 # Sport-lijn: productrichting in de nieuwe huisstijl
 
-Het idee is een **kleur- en tekstvervanging** op bestaande, functioneel goede producten, geen duur herontwerp. Dat past bij "toegankelijk in prijs, premium in uitvoering".
+Het idee is een **kleur- en tekstvervanging** op bestaande, functioneel goede producten, geen duur herontwerp. Elke zwarte oppervlakte (frame, padding) wordt Night Pitch Green: dezelfde rol die zwart al had, nu in de merkkleur. Dat past bij "toegankelijk in prijs, premium in uitvoering".
 
-> Dit voorstel is bijgewerkt op het nieuwe palet (Night Pitch Green in plaats van olijfgroen) maar nog **niet visueel gecheckt**. De eerdere versie met Nano Banana-prompts gebruikte het oude palet en moet opnieuw worden gecheckt voordat er iets wordt geproduceerd.
+> Bijgewerkt op 14 oktober 2026 op het nieuwe palet (Night Pitch Green, Basketball Red, Soccer Green). De eerdere versie stond op het oude palet. Er zijn ook nieuwe prompts voor Nano Banana (beeldbewerking) in de kennisbank. De uitkomst is nog **niet visueel gecheckt** door Bart; er wordt niets geproduceerd voordat hij dat gedaan heeft.
 
-**Voetbaldoel.** Frame en hoekpadding van zwart naar Night Pitch Green. De tekst op de bovenbalk van "PLAY MORE" naar "OUTSIDE WINS." in TT Autonomous. Een dun rood lijntje (Basketball Red) langs de bovenrand van de balkpadding: de Golden Goal-bies. Het schildlogo-patchje in het net krijgt de nieuwe kleuren.
+**Voetbaldoel.**
 
-**Trampoline.** Padding van zwart naar Night Pitch Green. De wordmark (schild en "BLITS") bovenop in een contrastkleur. De voorkanttekst naar "OUTSIDE WINS.". Dezelfde rode bies langs de naad van de padding. De springmat blijft zwart (functioneel materiaal).
+- Frame en hoekpadding: van zwart naar Night Pitch Green `#06150E`.
+- De tekst op de bovenbalk: van "PLAY MORE" naar "OUTSIDE WINS." in TT Autonomous Bold Italic, hoofdletters, wit, gecentreerd.
+- Nieuw: een dunne Basketball Red-bies (`#D74A23`) langs de bovenrand van de balkpadding. Dit is het Golden Goal-merkteken, hier voor het eerst concreet toegepast.
+- Het vierkante schild-patchje midden in het net: Night Pitch Green als achtergrond, met schild en "BLITS" in Soccer Green (`#09CD66`). Dit is in feite het BLITS-schildplaatje dat al bestaat; het hoeft alleen herkleurd te worden.
 
-**Rebounder.** Padding van zwart naar Night Pitch Green, "OUTSIDE WINS." op de bovenrand, dezelfde rode bies. Net en metalen onderstel blijven zwart.
+**Trampoline.**
+
+- Padding: van zwart naar Night Pitch Green.
+- De wordmark bovenop (schild en "BLITS"): van wit naar Soccer Green op Night Pitch Green.
+- De voorkanttekst van "PLAY MORE" naar "OUTSIDE WINS." in TT Autonomous Bold Italic, hoofdletters, wit.
+- Dezelfde Basketball Red-bies langs de naad van de padding.
+- De springmat blijft zwart (functioneel materiaal).
+
+**Rebounder.**
+
+- Padding van het frame: van zwart naar Night Pitch Green.
+- Bovenrand: "OUTSIDE WINS." in TT Autonomous Bold Italic, hoofdletters, wit.
+- Dezelfde Basketball Red-bies langs de bovenrand.
+- Net en metalen onderstel blijven zwart.
 
 Eén visueel signaal (de rode bies) over alle producten, niet per product iets nieuws bedenken.
 

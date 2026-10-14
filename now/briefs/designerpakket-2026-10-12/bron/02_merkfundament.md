@@ -1,7 +1,7 @@
 ---
 title: "BLITS Merkfundament"
 subtitle: "Reden van bestaan, merkverhaal, doelgroep en spelregels"
-date: "Stand 12 oktober 2026"
+date: "Stand 14 oktober 2026"
 ---
 
 # Waar dit document voor is
@@ -133,6 +133,8 @@ Jonge ouders die hun kind willen opvoeden zoals zijzelf zijn opgevoed: vallen, o
 
 **Persoonlijkheid** (door Bart gescoord op een schaal van 1 tot 8): casual 1, zeer toegankelijk en betaalbaar 2, zeer vernieuwend 7, zeer bold 7.
 
+**Let op de naam.** In de merkgids en de kennisbank worden deze vijf waarden ook "kernwaarden" genoemd. In het True Story Canvas is **Kernwaarde** (enkelvoud) iets anders: de ene waarde die het hart van het merk vormt. Die is voor BLITS nog niet vastgesteld. Het canvas bevat een voorstel (Avontuur), zie Merkcanvas hieronder.
+
 # Eén merk, twee lijnen
 
 BLITS is één merk met een gedeelde kern die nooit verandert, en een uitvoeringslaag die per lijn mag verschillen. Dit voorkomt twee dingen: dat BLITS een eendimensionaal "sportief" merk wordt, en dat het in een generiek alles-kunnend merk verandert.
@@ -204,18 +206,23 @@ BLITS bouwt zijn merkziel niet alleen met positionering, vijand en kleur, maar o
 
 # Merkcanvas: waar staat wat
 
-Voor het merkcanvas (de methode met why, how en what, visie, missie, doelgroep, merkbelofte en bewijs) staat de inhoud hieronder. De velden die nog open zijn zijn gemarkeerd.
+Het True Story Canvas® van Truman Amsterdam heeft dertien onderdelen. Voor BLITS is het ingevuld in een typbaar formulier (https://claude.ai/artifact/G7hRy4krp2d7EVbe7eBQoM, privé: Bart moet het delen) en in de kennisbank (`wiki/playbooks/blits-true-story-canvas.md`). Hieronder staat per onderdeel waar de inhoud vandaan komt en hoe zeker het is.
 
-| Veld | Inhoud | Waar |
-|------------------|--------------------------------------------|------------------------|
-| Why | De reden van bestaan | Reden van bestaan |
-| How | De drie messaging-pijlers; eerlijke materialen en uitvoering; de fysieke merktekens | Merkverhaal en messaging; Neo-heritage |
-| What | Twee lijnen: sport en speeltoestellen | BLITS in een oogopslag; Producten en verpakking |
-| Visie | De tekst uit 2024 | Visie, missie en USP's (**te bevestigen**) |
-| Missie | De 2024-tekst; of de reden van bestaan als missie | Visie, missie en USP's (**open**) |
-| Doelgroep | Jonge ouders, drie persona's | Doelgroep |
-| Merkbelofte | De kernbelofte | Merkverhaal en messaging |
-| Bewijs | Stevig materiaal, 2 jaar frame-garantie, CE en EN 71, de fysieke merktekens | Producten en verpakking; Neo-heritage |
+| Nr | Onderdeel | Inhoud | Status |
+|----|----------------|--------------------------------------------|--------------------|
+| 1 | Kernverhaal | Het ontstaan uit dealerfrustratie (alleen intern en voor dealers) | Ingevuld |
+| 2 | Merkwaarden | Avontuurlijk, esthetisch, vrijheid, eerlijk, kwalitatief | Ingevuld |
+| 3 | Kernwaarde | Voorstel: Avontuur | **Voorstel, te bevestigen** |
+| 4 | Doelgroep | Jonge ouders, drie persona's | Ingevuld |
+| 5 | Behoefte | Afgeleid uit de persona's en de reden van bestaan | Voorstel |
+| 6 | Why | De reden van bestaan | Ingevuld |
+| 7 | How | De drie pijlers, eerlijke materialen, fysieke merktekens | Ingevuld |
+| 8 | What | Twee lijnen: sport en speeltoestellen | Ingevuld |
+| 9 | Trends | Zes ontwikkelingen, niet onderzocht | Voorstel |
+| 10 | Merkvisie | De tekst uit 2024 | **Voorstel, te bevestigen** |
+| 11 | Merkmissie | Geen vastgestelde missie; twee kandidaten | **Open** |
+| 12 | Belofte | De kernbelofte en de tagline | Ingevuld |
+| 13 | Bewijs | Stevig materiaal, garantie, CE en EN 71, merktekens, eerste resellers | Voorstel |
 
 # Spelregels
 
@@ -254,6 +261,7 @@ Deze ideeën zijn legitiem, maar vallen buiten de huidige fase:
 
 # Open punten
 
+- Kernwaarde (enkelvoud, voor het canvas): vaststellen. Voorstel: Avontuur.
 - Visie en missie uit 2024: nog actueel, of vervangen door de reden van bestaan?
 - Aanspreekvorm in het Engels: "you" voelt voor Bart mogelijk wijzend aan.
 - De metafoor "vuile knieën zijn medailles": blijft die staan of wordt hij vervangen?
