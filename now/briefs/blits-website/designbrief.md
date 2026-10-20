@@ -98,7 +98,7 @@ Er is **geen vastgestelde merkvorm**; de afgesneden hoek in de kleurenpdf is nie
 
 ## 10. Beeld
 
-Drie Pinterest-moodboards van Bart (packshots, lifestyle, campagne), als uploads in het project. Per lijn:
+Drie Pinterest-moodboards van Bart (packshots, lifestyle, campagne), als uploads in het project. **Campagne-moodboard is binnen** (zie `wiki/sources/blits-moodboard-campagne.md`): echte actie en rommel (modder, stof), lage camerahoek en kinderen groot tegen de lucht, niet poseren, analoog gevoel (korrel, lichte bewegingsonscherpte), verzadigd geel/blauw/groen, plek = straat, stoep, gaashek, plein, plas. Beelden zijn referenties van derden, niet voor publicatie. Lifestyle en packshots volgen. Per lijn:
 - **Sport-lijn:** hard middaglicht, documentair, actie en beweging, geen golden hour, stoer en direct zonder schattigheid.
 - **Speeltoestellen-lijn:** warm natuurlijk daglicht, wit-en-naturel-hout met zachte groentinten, lifestyle-styling, een kind in naturel kleding in een weelderige tuin.
 

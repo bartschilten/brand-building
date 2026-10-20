@@ -414,3 +414,7 @@ Na PR 8 (merkgids hersteld, sport-lijn-rebrand op nieuw palet) en nieuwe Toppy-k
 ## [2026-10-20] update | BLITS-website voor dealers gestart, open punten verwerkt
 
 Bart startte de BLITS-dealerwebsite via Claude Design. Nieuw: initiatief [[blits-website-dealers]], besluit [[blits-open-punten-2026-10-20]], designbrief `now/briefs/blits-website/designbrief.md`. Verwerkt: "Laatste doelpunt wint" geschrapt (Golden Goal-bies heroverwogen), "you" blijft, "vuile knieën zijn medailles" blijft, merkvormen en kleurregels samen met Claude Design, logobestanden en actuele kleur-/font-pdf's in `.raw/2026-10-20/` (PLAY MORE-lockup verouderd). Handschriftaccent wacht op bevestiging. Toppy-vault: Timeline-regel.
+
+## [2026-10-20] ingest | BLITS moodboard campagneshots
+
+Vijf referentiebeelden van het campagne-moodboard opgeslagen in `.raw/2026-10-20/moodboard-campagne/`; beeldtaal gedistilleerd in [[blits-moodboard-campagne]] en samengevat in de designbrief. Lifestyle- en packshotbord volgen. Open: ruimere lichtregel voor campagne dan de sport-lijnregel.
