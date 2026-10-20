@@ -67,13 +67,13 @@ Vaste regels: één kleursysteem voor het hele merk, **geen kleurcode per sport/
 - Accentwoord in titel: **TT Autonomous Bold Outline Italic**, één woord, contrastkleur.
 - Lopende tekst: **Archia Regular (400)**, regelhoogte 1,8 em, belangrijke woorden vet.
 - Knoppen: **TT Autonomous Bold**, hoofdletters, letter-spacing 0,15 em. Primaire knop = rode pil met witte tekst.
-- Geen handschriftfont (Kalam is vervallen; krijt alleen als illustratie).
+- Geen handschriftfont: besloten. Alleen TT Autonomous en Archia; krijt alleen als illustratie.
 
 Optische maat: iets strakker op grote koppen, iets ruimer op kleine labels.
 
 ## 7. Logo
 
-Aangeleverd, zwart op wit (`.raw/2026-10-20/`): staand schild (punt boven/onder), liggend schild (punt links/rechts), beide met afgeronde hoeken en "BLITS" in de eigen belettering. De lockup met "PLAY MORE" is **verouderd**, niet gebruiken. Kleurvarianten (op Night Pitch Green, Soccer Green, Concrete Grey) en lockups met "Outside Wins." volgen. Het schild wordt niet herontworpen.
+Aangeleverd, zwart op wit (`.raw/2026-10-20/`): staand schild (punt boven/onder), liggend schild (punt links/rechts), beide met afgeronde hoeken en "BLITS" in de eigen belettering. **Gebruik alleen deze twee standaard schildlogo's.** De lockup met "PLAY MORE" is **verouderd**, niet gebruiken, en een lockup met "Outside Wins." bestaat niet (niets zelf verzinnen). Het schild wordt niet herontworpen; omkleuren op donkere of gekleurde vlakken mag, de vorm blijft.
 
 ## 8. Analoog en anti-scherm als ontwerpidee
 
@@ -115,4 +115,4 @@ Beeldkwaliteit is waarop de site zich onderscheidt van de concurrentie.
 
 ## 12. Wat nog van Bart komt
 
-Pinterest-beelden zijn binnen (5 per bord, aanvullen mag) · echte BLITS-productfoto's of -renders (sport-lijn is bestaand, speeltoestellen-lijn nog niet) · webfont-bestanden · logokleurvarianten en lockups met "Outside Wins." · bevestiging: handschriftaccent nee? · dealercijfers (alleen voor het eindresultaat, niet voor het bouwen).
+Fontbestanden (`.woff2`, anders `.otf`/`.ttf`) van TT Autonomous (Bold Italic, Bold Outline Italic, Bold) en Archia (Regular, Bold) · echte BLITS-productfoto's of -renders (sport-lijn is bestaand, speeltoestellen-lijn nog niet) · dealercijfers (alleen voor het eindresultaat, niet voor het bouwen). Pinterest-beelden zijn binnen (5 per bord, aanvullen mag).
