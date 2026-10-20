@@ -61,6 +61,7 @@ Meer is niet nodig. Geen webshop.
 
 ## Timeline
 
+- **2026-10-20** | Bart — eerste versie met bestaande afbeeldingen en huidige productuiterlijken; nieuwe beelden en vervanging later; beeldplan geparkeerd.
 - **2026-10-20** | Bart — geen speeltoestellen op de website of in het merkverhaal (generiek: buitenspeelgoed); alle productbeelden worden nieuw gemaakt, huidige foto's tijdelijk; beeldplan opgesteld (`now/briefs/blits-website/beeldplan.md`).
 - **2026-10-20** | Bart — één beeldlijn voor sport en speeltoestellen; startassortiment = alle live BLITS-producten bij Toppy (45, sport-lijn); Apple-ontwerpregels (emilkowalski/skills) gelden voor de website, skills geïmporteerd.
 - **2026-10-20** | Bart — Archia-fontbestanden (Regular, SemiBold, Bold) aangeleverd; TT Autonomous nog niet.

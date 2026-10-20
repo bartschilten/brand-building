@@ -16,6 +16,7 @@ decision_type: "bevestiging open punten uit de overdracht"10. **Geen Adobe-kit v
 13. **De Apple-ontwerpregels (emilkowalski/skills) gelden voor de website.** Skills staan in `.claude/skills/design/`; samengevat in de designbrief § 11, met bewuste uitzonderingen (geen glas/blur, geen gesture-physics, geen haptiek).
 14. **Geen speeltoestellen op de website of in het merkverhaal** (Bart, 2026-10-20). Ze bestaan nog niet en het is onzeker of ze volgend jaar komen. Het verhaal is generiek: buitenspeelgoed. Dit is een scope-keuze voor de website; de merkarchitectuur met twee lijnen in [[blits]] blijft staan als langetermijnrichting.
 15. **Alle productbeelden worden nieuw gemaakt.** De huidige Toppy-foto's mogen tijdelijk in de site; ze passen niet bij de moodboards. Plan en voorstel: `now/briefs/blits-website/beeldplan.md`.
+16. **Eerste versie van de site gebruikt de bestaande afbeeldingen en de huidige uiterlijken van de producten** (Bart, 2026-10-20). Later worden nieuwe beelden gemaakt en vervangen, en de producten krijgen later een nieuw uiterlijk. Het beeldplan is daarmee geparkeerd; geen renders of mock-ups van het nieuwe uiterlijk nu.
 
 ---
 

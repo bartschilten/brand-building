@@ -450,3 +450,7 @@ Bart: één beeldlijn voor sport en speeltoestellen (sport iets meer modder, spe
 ## [2026-10-20] update | BLITS-website: geen speeltoestellen, nieuw beeld, beeldplan
 
 Bart: op de site en in het merkverhaal niets over speeltoestellen (generiek: buitenspeelgoed), alle beelden nieuw (huidige foto's tijdelijk). Verwerkt in designbrief, [[blits-open-punten-2026-10-20]], [[blits-website-dealers]]; voorstel voor beeldproductie in `now/briefs/blits-website/beeldplan.md`.
+
+## [2026-10-20] update | BLITS-website: bestaande beelden en huidige productuiterlijken voor nu
+
+Bart: eerste versie gebruikt de bestaande afbeeldingen en de huidige productuiterlijken; nieuwe beelden en nieuw productuiterlijk komen later en vervangen dan de bestanden. Beeldplan (`now/briefs/blits-website/beeldplan.md`) geparkeerd. Zie [[blits-open-punten-2026-10-20]].
