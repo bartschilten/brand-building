@@ -45,7 +45,7 @@ Meer is niet nodig. Geen webshop.
 
 Eigen Claude-design-system, privé-Artifact: https://claude.ai/artifact/7nxXx7V2161nWAmFmCUznh ("BLITS Design System"). Bevat: tokens (9 palet-kleuren plus semantische tokens, licht en donker thema), README met merkregels en scope-regel (geen speeltoestellen), Archia-fonts, zes logo-varianten (staand en liggend in night-pitch-green, wit, soccer-green; alleen omgekleurd, vorm ongewijzigd), zes componenten met preview (Button, Heading met outline-accentwoord, PlaqueCard, SpecPlate, Divider, Marker) en een cover.
 
-Bekende beperkingen: TT Autonomous staat als eerste in de fontstack, maar is niet beschikbaar; het stand-in is Unbounded (Google Fonts) en wisselt vanzelf zodra TT Autonomous beschikbaar is. De afgesneden hoek van PlaqueCard is een startvoorstel uit de kleurenpdf, geen vastgestelde merkvorm. Kleurgebruiksregels en merkvormen volgen met Bart. Productfoto's zitten niet in het design system. Link is privé: alleen de eigenaar kan hem openen tot hij gedeeld wordt.
+Bekende beperkingen: TT Autonomous staat als eerste in de fontstack, maar is niet beschikbaar; het stand-in is Archivo Expanded Black Italic (Google Fonts, bijgesteld na feedback van Bart: Unbounded was te rond en te licht) en wisselt vanzelf zodra TT Autonomous beschikbaar is. **Revisie 2026-10-20 na feedback van Bart:** kaarten hebben nu een getrapte uitsnede in alle vier de hoeken (als de hoeken van een voetbaldoel), de SpecPlate is een geborsteld aluminium naamplaatje (gegraveerde tekst, vier schroefkoppen, kaderlijn; enige element met textuur) en het outline-accentwoord is schoon. De hoekvorm blijft een werkvoorstel, geen vastgestelde merkvorm. Open: er zit nog weinig ziel en herkenbare 'analoog van vroeger' in; die analoge elementen worden in de volgende ronde uitgewerkt. Kleurgebruiksregels en merkvormen volgen met Bart. Productfoto's zitten niet in het design system. Link is privé: alleen de eigenaar kan hem openen tot hij gedeeld wordt.
 
 ## Aan te leveren door Bart
 
@@ -67,6 +67,7 @@ Bekende beperkingen: TT Autonomous staat als eerste in de fontstack, maar is nie
 
 ## Timeline
 
+- **2026-10-20** | Bart — feedback op design system: koppen te lelijk (stand-in font vervangen door Archivo Expanded Black Italic), kaarten uitsnijden in alle vier de hoeken, SpecPlate moet een aluminium kwaliteitsplaatje lijken; analoge verwijzingen nog te weinig ziel (volgende ronde). Verwerkt in het design system.
 - **2026-10-20** | assistent, op verzoek van Bart — BLITS design system gebouwd en gepubliceerd (tokens, README, Archia, logo's, zes componenten, cover); volgende stap: merkvormen en kleurregels met Bart, daarna proefpagina Home.
 - **2026-10-20** | Bart — eerste versie met bestaande afbeeldingen en huidige productuiterlijken; nieuwe beelden en vervanging later; beeldplan geparkeerd.
 - **2026-10-20** | Bart — geen speeltoestellen op de website of in het merkverhaal (generiek: buitenspeelgoed); alle productbeelden worden nieuw gemaakt, huidige foto's tijdelijk; beeldplan opgesteld (`now/briefs/blits-website/beeldplan.md`).
