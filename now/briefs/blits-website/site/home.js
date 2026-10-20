@@ -113,7 +113,7 @@
       h('div', { className: 'wrap' },
         h('div', { className: 'facts-head' },
           h(B.StampedShield, { size: 112 }),
-          h('div', null, h('p', { className: 'eyebrow eyebrow-row' }, 'On the plate'), h(B.Heading, { id: 'facts-h', size: 'l', accent: 'facts', accentColor: 'green' }, 'Real'))),
+          h('div', null, h('p', { className: 'eyebrow eyebrow-row' }, 'Kept on the scoreboard'), h(B.Heading, { id: 'facts-h', size: 'l', accent: 'counted.', accentColor: 'green' }, 'Outside,'))),
         h('ul', { className: 'facts' }, FACTS.map(function (f) { return h('li', { key: f.label }, h(B.FlipDigits, Object.assign({ size: 'lg' }, f))); }))));
   }
 
@@ -137,11 +137,8 @@
           h('p', { className: 'eyebrow eyebrow-row' }, 'Where to buy'),
           h(B.Heading, { id: 'dealer-h', size: 'l', accent: 'dealer' }, 'Find a'),
           h('p', { className: 'body-l', style: { margin: '24px 0 0', maxWidth: '44ch' } }, 'See BLITS for real, at a shop near you. Try the bounce, feel the frame.')),
-        h('form', { className: 'dealer__form', onSubmit: function (e) { e.preventDefault(); } },
-          h('label', { className: 'eyebrow', htmlFor: 'dealer-q' }, 'Postcode or city'),
-          h('div', { className: 'dealer__row' },
-            h('input', { id: 'dealer-q', className: 'dealer__input', type: 'text', autoComplete: 'postal-code', placeholder: 'e.g. 3011 AB or Rotterdam' }),
-            h(B.Button, { type: 'submit' }, 'Search')),
+        h('form', { className: 'dealer__form', role: 'search', onSubmit: function (e) { e.preventDefault(); } },
+          h(B.Field, { label: 'Postcode or city', placeholder: 'e.g. 3011 AB', autoComplete: 'postal-code' }, h(B.Button, { type: 'submit' }, 'Search')),
           h('p', { className: 'body dealer__pro', id: 'professionals' }, 'Own a shop? ', h('a', { href: '#professionals' }, 'BLITS for Professionals')))));
   }
 
@@ -158,7 +155,7 @@
   }
 
   function App() {
-    return h(React.Fragment, null, h(Header), h('main', { id: 'top' }, h(Hero), h(Story), h(Range), h(Spotlight), h(Facts), h(Film), h(Dealer)), h(Footer));
+    return h(React.Fragment, null, h(Header), h('main', { id: 'top' }, h(Hero), h(Story), h(Range), h(Facts), h(Spotlight), h(Film), h(Dealer)), h(Footer));
   }
 
   ReactDOM.createRoot(document.getElementById('root')).render(h(App));

@@ -494,3 +494,7 @@ Tien componenten toegevoegd aan het BLITS design system (v10: LanternHero, Field
 ## [2026-10-20] update | BLITS Home-proef v2 na feedback van Bart
 
 Campagnehero, Streetlight (lantaarn voor bakstenen muur verlicht de filmstrip), fotovakken, rustiger assortiment, inspirerende feiten, productspotlight en Find a dealer. Drie nieuwe componenten in het design system (v11: Photo, CampaignHero, Streetlight). Campagne-prompts in `now/briefs/blits-website/campagne-prompts.md`. Zie [[blits-website-dealers]].
+
+## [2026-10-20] update | BLITS Home-proef v3
+
+Feiten en spotlight gewisseld, feitentitel "OUTSIDE, COUNTED.", nieuw `Field`-component (design system v12) voor de dealerzoeker. Zie [[blits-website-dealers]].
