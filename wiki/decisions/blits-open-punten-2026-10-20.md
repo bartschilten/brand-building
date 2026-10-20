@@ -11,7 +11,9 @@ date: 2026-10-20
 decided_by: "Bart Schilten"
 affects: ["[[blits]]", "[[blits-tone-of-voice-definitief]]", "[[blits-ontwerpelementen-heritage]]", "[[blits-website-dealers]]"]
 decision_type: "bevestiging open punten uit de overdracht"10. **Geen Adobe-kit voor TT Autonomous** (Bart, 2026-10-20: lukt niet). Vervangend breed italic font in het design; één plek om later te wisselen.
-11. **Lifestylebord = sport-lijn**; speeltoestellen-lijn krijgt later een eigen bord. **Campagnebeeld** mag gouden en bewolkt licht gebruiken; product en lifestyle van de sport-lijn houden hard middaglicht. (Standaardaanname van de assistent, geldt tot Bart anders zegt.)
+11. **Eén beeldlijn voor het hele merk** (Bart, 2026-10-20, vervangt de eerdere aanname dat het lifestylebord alleen voor sport zou gelden): zoveel mogelijk hetzelfde tussen sport en speeltoestellen. Verschil is een accent: sport iets meer modder en rommel, speeltoestellen iets cleaner en warmer; altijd herkenbaar hetzelfde merk. Campagnebeeld mag gouden en bewolkt licht; product en lifestyle hard, richtinggevend licht (standaardaannames van de assistent).
+12. **Producten bij de start van de site: alle producten die nu live staan bij Toppy onder BLITS.** Dat zijn 45 producten, allemaal sport-lijn; speeltoestellen zijn er (nog) niet. Zie `now/briefs/blits-website/producten-live.md`. Productbeeld wordt in eerste instantie uit de Toppy-CDN gehaald, voorzien van de kanttekeningen in dat document.
+13. **De Apple-ontwerpregels (emilkowalski/skills) gelden voor de website.** Skills staan in `.claude/skills/design/`; samengevat in de designbrief § 11, met bewuste uitzonderingen (geen glas/blur, geen gesture-physics, geen haptiek).
 
 ---
 

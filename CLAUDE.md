@@ -164,8 +164,15 @@ identiteitswerk nu. Alleen geïmporteerd:
   toetsingskader voor merk-/identiteitsbeslissingen in het algemeen (zie
   toepassing in [[blits-apple-design-review]]).
 
-Als een later merk een website/app/configurator bouwt: haal dan alsnog de
-resterende skills uit dezelfde bronrepo op.
+**2026-10-20 — BLITS-website gestart ([[blits-website-dealers]]):** daarom
+alsnog uit dezelfde bronrepo geïmporteerd: `emil-design-eng`, `animate`,
+`review-animations`, `animation-performance`, `animation-vocabulary`,
+`find-animation-opportunities`, `mobile-native`, `break-ui`, `prototype`.
+Bewust niet: `animate-expo`, `write-swift` (native apps), `ask-sonner`,
+`pick-ui-library`, `improve-animations` (codebase-audit, nu geen codebase).
+Samenvatting voor de website: designbrief § 11 in
+`now/briefs/blits-website/designbrief.md`. Claude Design leest de vault
+niet, dus de regels staan daar expliciet in de brief.
 
 ## Invariants
 
