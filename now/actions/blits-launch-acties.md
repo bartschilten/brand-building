@@ -45,7 +45,8 @@ er een resultaat terugkomt).
 Zie [[blits-website-dealers]] en `now/briefs/blits-website/designbrief.md`.
 
 - [ ] **Aanleveren:** Pinterest-beelden (8–15 per moodboard) + vijf regels beschrijving per bord.
-- [ ] **Aanleveren:** webfont-bestanden TT Autonomous en Archia (`.woff2`, anders `.otf`/`.ttf`).
+- [x] **Archia** (Regular, SemiBold, Bold) aangeleverd 2026-10-20.
+- [ ] **Aanleveren:** fontbestanden **TT Autonomous** (Bold Italic, Bold Outline Italic, Bold; `.woff2`, anders `.otf`/`.ttf`).
 - [x] **Besloten 2026-10-20:** alleen de aangeleverde schildlogo's (geen "Outside Wins."-lockup); geen handschriftaccent.
 - [ ] **Extern:** BLITS-design-system starten in Claude Design (eigen systeem, niet Toppy).
 
