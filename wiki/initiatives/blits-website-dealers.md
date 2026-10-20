@@ -45,7 +45,7 @@ Meer is niet nodig. Geen webshop.
 
 - Pinterest-moodboards: **binnen** (campagne, lifestyle, packshots, 5 beelden per bord, zie [[blits-moodboard-campagne]], [[blits-moodboard-lifestyle]], [[blits-moodboard-packshots]]). Aanvullen mag.
 - Eigen BLITS-productbeeld (foto's of renders) voor de pagina's; de moodboardbeelden zijn alleen referentie.
-- Fontbestanden (TT Autonomous Bold Italic, Bold Outline Italic, Bold; Archia Regular en Bold), bij voorkeur `.woff2`, anders `.otf`/`.ttf`, met webgebruik in de licentie.
+- Fontbestanden: **Archia** (Regular, SemiBold, Bold, `.otf`) binnen, in `.raw/2026-10-20/fonts/`. **TT Autonomous** (Bold Italic, Bold Outline Italic, Bold) nog aan te leveren, bij voorkeur `.woff2`, anders `.otf`/`.ttf`, met webgebruik in de licentie.
 - Logo: alleen de aangeleverde standaard schildlogo's (zwart-wit, staand en liggend); geen "Outside Wins."-lockup (zie [[blits-open-punten-2026-10-20]]). Omkleuren op donkere of gekleurde vlakken doet Claude Design met de bestaande vorm, niet herontworpen.
 - Handschriftaccent: besloten nee.
 
@@ -61,5 +61,6 @@ Meer is niet nodig. Geen webshop.
 
 ## Timeline
 
+- **2026-10-20** | Bart — Archia-fontbestanden (Regular, SemiBold, Bold) aangeleverd; TT Autonomous nog niet.
 - **2026-10-20** | Bart — drie Pinterest-moodboards (campagne, lifestyle, packshots) aangeleverd; beeldtaal en gebruiksregel per beeldtype (campagne = homepage/campagnes, lifestyle en packshots = productpagina) vastgelegd.
 - **2026-10-20** | Bart + assistent — initiatief gestart; pagina's, aanpak en open punten vastgelegd; logobestanden en actuele kleur-/font-pdf's in `.raw/2026-10-20/`.

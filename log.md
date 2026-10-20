@@ -430,3 +430,7 @@ Vijf referentiebeelden van het packshot-moodboard in `.raw/2026-10-20/moodboard-
 ## [2026-10-20] update | BLITS-website: logo- en handschriftbesluit
 
 Bart: voor de website alleen de aangeleverde standaard schildlogo's (geen "Outside Wins."-lockup), en geen handschriftaccent. Verwerkt in [[blits-open-punten-2026-10-20]], [[blits-website-dealers]], designbrief, launch-acties en [[blits]]. Aan te leveren blijft: fontbestanden (TT Autonomous, Archia) en echt productbeeld.
+
+## [2026-10-20] ingest | Archia-fontbestanden
+
+Archia Regular, SemiBold en Bold (`.otf`, geldig als font) opgeslagen in `.raw/2026-10-20/fonts/`. TT Autonomous nog niet aangeleverd. Licentie-/webgebruik van beide fonts volgens Bart gecheckt; niet in de bestanden zelf terug te vinden.

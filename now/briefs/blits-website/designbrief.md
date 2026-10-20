@@ -115,4 +115,4 @@ Beeldkwaliteit is waarop de site zich onderscheidt van de concurrentie.
 
 ## 12. Wat nog van Bart komt
 
-Fontbestanden (`.woff2`, anders `.otf`/`.ttf`) van TT Autonomous (Bold Italic, Bold Outline Italic, Bold) en Archia (Regular, Bold) · echte BLITS-productfoto's of -renders (sport-lijn is bestaand, speeltoestellen-lijn nog niet) · dealercijfers (alleen voor het eindresultaat, niet voor het bouwen). Pinterest-beelden zijn binnen (5 per bord, aanvullen mag).
+Fontbestanden van **TT Autonomous** (Bold Italic, Bold Outline Italic, Bold; `.woff2`, anders `.otf`/`.ttf`) — **nog niet binnen**. Archia (Regular, SemiBold, Bold, `.otf`) is binnen: `.raw/2026-10-20/fonts/` · echte BLITS-productfoto's of -renders (sport-lijn is bestaand, speeltoestellen-lijn nog niet) · dealercijfers (alleen voor het eindresultaat, niet voor het bouwen). Pinterest-beelden zijn binnen (5 per bord, aanvullen mag).
