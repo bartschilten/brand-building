@@ -478,3 +478,7 @@ Groene boog uit de lantaarnhero verwijderd; zeven materiaaltexturen gekozen (bet
 ## [2026-10-20] ingest | Echte texturen (Nano Banana)
 
 Vijf getekende texturen vervangen door foto's van Bart (beton, asfalt, zand, gras, regenplas), opgeslagen in `.raw/2026-10-20/textures/` en als assets in het design system. Lantaarnhero gebruikt nu de asfaltfoto. Kraft, modder en tartanbaan nog placeholder. Besluit 19 in [[blits-open-punten-2026-10-20]].
+
+## [2026-10-20] ingest | Modder en tartanbaan; kraft vervalt
+
+Texturen compleet: beton, asfalt, zand, gras, modder, tartanbaan, regenplas, allemaal echte foto's (`.raw/2026-10-20/textures/`, design system). Kraft vervallen. Besluit 20 in [[blits-open-punten-2026-10-20]].
