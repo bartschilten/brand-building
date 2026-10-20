@@ -482,3 +482,7 @@ Vijf getekende texturen vervangen door foto's van Bart (beton, asfalt, zand, gra
 ## [2026-10-20] ingest | Modder en tartanbaan; kraft vervalt
 
 Texturen compleet: beton, asfalt, zand, gras, modder, tartanbaan, regenplas, allemaal echte foto's (`.raw/2026-10-20/textures/`, design system). Kraft vervallen. Besluit 20 in [[blits-open-punten-2026-10-20]].
+
+## [2026-10-20] update | Overdracht BLITS-website naar nieuwe sessie
+
+Overdracht geschreven (`now/briefs/blits-website/overdracht-sessie.md`), bronbestanden en scripts van het design system bewaard (`now/briefs/blits-website/design-system-bron/`), gekleurde logo's en alle texturen in `.raw/2026-10-20/`. hot.md ververst. Zie [[blits-website-dealers]].

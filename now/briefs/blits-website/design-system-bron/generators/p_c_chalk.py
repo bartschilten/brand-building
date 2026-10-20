@@ -1,0 +1,20 @@
+from common import *
+FILT='''<defs><filter id="chalk" x="-5%" y="-5%" width="110%" height="110%"><feTurbulence type="fractalNoise" baseFrequency="0.035" numOctaves="2" seed="3" result="w"/><feDisplacementMap in="SourceGraphic" in2="w" scale="3.5" result="d"/><feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="1" seed="8" result="g"/><feColorMatrix in="g" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -2 1.6" result="m"/><feComposite in="d" in2="m" operator="in"/></filter></defs>'''
+def tile(code,name,inner,cls=''):
+    return f'<div class="t {cls}" style="height:230px"><svg width="100%" height="100%" viewBox="0 0 300 230" preserveAspectRatio="xMidYMid meet">{FILT}<g filter="url(#chalk)" fill="none" stroke="#d7d7d7" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">{inner}</g></svg>{lab(code,name)}</div>'
+# hopscotch: 1, 2-3, 4, 5-6, 7, 8-9, 10 (rows from bottom)
+def sq(x,y,n=None,c='#d7d7d7'):
+    s=f'<rect x="{x}" y="{y}" width="34" height="34"/>'
+    if n: s+=f'<text x="{x+17}" y="{y+25}" text-anchor="middle" font-family="Orbitron,sans-serif" font-weight="800" font-size="19" fill="{c}" stroke="none">{n}</text>'
+    return s
+hop=sq(133,176,1)+sq(100,142,2)+sq(134,142,3)+sq(133,108,4)+sq(100,74,5)+sq(134,74,6)+sq(133,40,7)+sq(100,6,8)+sq(134,6,9)
+hop='<g transform="translate(0 -18)">'+hop+'</g>'
+ttt='<path d="M110 40V190M190 40V190M60 90H240M60 140H240"/><path d="M72 52L98 78M98 52L72 78" stroke="#f3bb31"/><circle cx="150" cy="115" r="14" stroke="#5dcbf1"/><path d="M212 152L238 178M238 152L212 178" stroke="#f3bb31"/><circle cx="85" cy="165" r="14" stroke="#5dcbf1"/>'
+goal='<path d="M50 160V70H250V160" stroke-width="5"/><path d="M62 72L50 160M238 72L250 160" /><path d="M80 72V160M110 72V160M140 72V160M170 72V160M200 72V160M220 72V160" stroke-width="1.6" stroke-dasharray="1 7" /><path d="M60 100H240M56 130H244" stroke-width="1.6" stroke-dasharray="1 7"/><circle cx="150" cy="190" r="14" stroke="#09cd66"/><path d="M150 181L158 187L155 196H145L142 187Z" stroke="#09cd66" stroke-width="2"/><path d="M20 168H280"/>'
+arrows='<path d="M40 60H150M130 42L152 60L130 78" stroke="#09cd66"/><path d="M60 120C100 90 140 150 190 110" stroke="#f3bb31"/><path d="M178 96L192 108L174 118" stroke="#f3bb31"/><path d="M230 70L238 92L260 94L242 108L248 130L230 118L212 130L218 108L200 94L222 92Z" stroke="#5dcbf1"/><path d="M40 180L65 160L90 190L115 160L140 190L165 160L190 190" stroke="#d7d7d7"/>'
+sun='<circle cx="150" cy="115" r="32" stroke="#f3bb31"/><path d="M150 60V40M150 190V170M95 115H75M225 115H205M111 76L97 62M203 168L189 154M111 154L97 168M203 62L189 76" stroke="#f3bb31"/><path d="M40 205C70 195 100 215 130 205S190 195 220 205 270 215 290 205" stroke="#d7d7d7"/>'
+loop='<ellipse cx="150" cy="85" rx="48" ry="12" stroke="#f3bb31" stroke-width="4"/><path d="M104 88C112 120 120 130 126 134M196 88C188 120 180 130 174 134M150 97V134M128 100C132 118 136 128 140 134M172 100C168 118 164 128 160 134" stroke-width="1.6"/><path d="M150 30V60" /><path d="M120 30H180" stroke-width="5"/><path d="M60 190C100 170 130 200 160 185S230 170 250 188" stroke="#d7d7d7"/>'
+items=[('C1','Hinkelbaan',hop),('C2','Boter-kaas-en-eieren',ttt),('C3','Doel en bal',goal),('C4','Pijlen, ster, zigzag',arrows),('C5','Zon en grondlijn',sun),('C6','Basketbalring',loop)]
+body=f'''<h2>C · Stoepkrijt</h2><p class="note">Krijttekeningen op asfalt. <b>Alleen illustratie</b>, geen handschriftfont. Krijtlijn met onregelmatige rand en grain via een SVG-filter. Op de site laag gedoseerd op donkere vlakken, nooit achter tekst. De cijfers in de hinkelbaan staan in het merkfont.</p>
+<div class="g">{''.join(tile(c,n,i) for c,n,i in items)}</div>'''
+write('ChalkDoodles','Analoog: keuzes',800,body,'Optie-galerij C: stoepkrijt-illustraties (hinkelbaan, boter-kaas-en-eieren, doel en bal, pijlen en ster, zon, basketbalring). Alleen als illustratie op donkere vlakken, met lage opacity en nooit achter lopende tekst. Krijtlijn: `concrete-grey`, accenten in `tour-de-yellow`, `olympic-pool-blue` en `brand`. Er is geen handschriftfont (besluit): getallen staan in het merkfont.\n')

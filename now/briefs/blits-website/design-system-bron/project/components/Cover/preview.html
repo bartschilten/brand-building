@@ -1,0 +1,27 @@
+<!-- @dsCard height=300 -->
+<!doctype html><html><head><meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700..900&display=swap" rel="stylesheet">
+<style>html,body{margin:0;background:var(--surface)}svg{display:block}
+.brand{fill:var(--brand)}.action{fill:var(--action)}.sun{fill:var(--tour-de-yellow)}.ink{fill:var(--ink)}.blue{fill:var(--marathon-blue)}.grey{fill:var(--stuntpark-grey)}
+.line{fill:none;stroke:var(--surface);stroke-width:4}.dot{fill:var(--surface)}
+.name{font-family:var(--font-display);font-style:italic;font-weight:900;font-size:88px;fill:var(--ink);letter-spacing:-0.02em}
+.tag{font-family:var(--font-sans);font-size:14px;fill:var(--ink)}</style></head><body>
+<svg width="960" height="300" viewBox="0 0 960 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="BLITS, Outside Wins.">
+<!--
+ blocks: brand 300x200 with a cut-md notch (20) in all four corners, action 180x120, tour-de-yellow 180x100, ink 180x100, marathon-blue 120x100, stuntpark-grey 180x80.
+ arrangement: flush modular grid from x=480, big green slab top-left of the zone, the rest stepped around it, bleeding off the top and right edge.
+ pattern: pitch lines (centre line, centre circle, centre spot), the ground colour cut out of the blocks; chosen because BLITS is built from playing fields and its colours are named after places to play.
+ steps/radii: widths 120-300 (multiples of space-4/space-8), notch cut-md 20px, radius-none (square everywhere), line 4px.
+-->
+<path class="brand" d="M480 20H500V0H760V20H780V180H760V200H500V180H480Z"/>
+<rect class="action" x="780" y="0" width="180" height="120"/>
+<rect class="sun" x="780" y="120" width="180" height="100"/>
+<rect class="ink" x="480" y="200" width="180" height="100"/>
+<rect class="blue" x="660" y="200" width="120" height="100"/>
+<rect class="grey" x="780" y="220" width="180" height="80"/>
+<line class="line" x1="690" y1="0" x2="690" y2="300"/>
+<circle class="line" cx="690" cy="150" r="74"/>
+<circle class="dot" cx="690" cy="150" r="7"/>
+<text class="name" x="40" y="226">BLITS</text>
+<text class="tag" x="42" y="262">Outside Wins.</text>
+</svg></body></html>

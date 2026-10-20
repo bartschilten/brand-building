@@ -1,0 +1,1 @@
+Optie-galerij I: scheidingslijnen: middenlijn (gestippeld, dit is ook component Divider), baanlijnen (dubbel + streep), krijtlijn, gaasstrook, meetlint, korte streep. Kleur is altijd `ink` op `surface` (of `surface` op `ink`). Eén stijl per site, tussen secties of tekstblokken, niet tussen elk element.

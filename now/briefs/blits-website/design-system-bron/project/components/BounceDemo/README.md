@@ -1,0 +1,1 @@
+Optie-galerij J: de stuiter als enig bewegingsmotief. J1 subtiel (past bij premium), J2 gemiddeld, J3 speels met squash and stretch. Gebruik: een kaart die opent of landt, nooit herhalend en nooit voor navigatie. Easing `ease-out`, duur onder 300 ms voor gewone interacties; deze demo duurt langer om het verschil te laten zien. Bij `prefers-reduced-motion`: korte cross-fade.

@@ -1,0 +1,1 @@
+Optie-galerij D: het BLITS-schildplaatje in vier uitvoeringen: D1 geborsteld aluminium met gegraveerd schild, D2 gestanst metalen schild (logo als masker) op een donker vlak, D3 emaille in `brand` met wit logo, D4 donker chassisplaatje met schroeven en velden. Eén plaatje-systeem voor het hele merk; kies er één. Alleen echte feiten op een plaatje.

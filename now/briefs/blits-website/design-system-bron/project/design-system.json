@@ -1,0 +1,145 @@
+{
+ "v": 3,
+ "layout": "files",
+ "createdOnFiles": {
+  "v": 1,
+  "at": "2026-10-20T12:00:00Z"
+ },
+ "title": "BLITS",
+ "namespace": "Blits",
+ "libraries": [
+  {
+   "name": "react",
+   "version": "18"
+  },
+  {
+   "name": "react-dom",
+   "version": "18"
+  }
+ ],
+ "sections": {},
+ "groups": [
+  "Logos",
+  "Textures"
+ ],
+ "assetGroups": {
+  "Logos": {
+   "name": "Logos",
+   "tile": "m",
+   "order": [
+    "blits-schild-staand-night-pitch-green.png",
+    "blits-schild-staand-white.png",
+    "blits-schild-staand-soccer-green.png",
+    "blits-schild-liggend-night-pitch-green.png",
+    "blits-schild-liggend-white.png",
+    "blits-schild-liggend-soccer-green.png"
+   ],
+   "files": {
+    "blits-schild-staand-night-pitch-green.png": {
+     "name": "blits-schild-staand-night-pitch-green.png",
+     "blob": "16f913919faad95f91f191b9e5cb20b8",
+     "size": 22375,
+     "type": "image/png"
+    },
+    "blits-schild-staand-white.png": {
+     "name": "blits-schild-staand-white.png",
+     "blob": "a22e34bfe5f36cd9b4f54be45eb5a316",
+     "size": 22235,
+     "type": "image/png"
+    },
+    "blits-schild-staand-soccer-green.png": {
+     "name": "blits-schild-staand-soccer-green.png",
+     "blob": "52e73398578c33ec63254c0318a84c57",
+     "size": 22315,
+     "type": "image/png"
+    },
+    "blits-schild-liggend-night-pitch-green.png": {
+     "name": "blits-schild-liggend-night-pitch-green.png",
+     "blob": "b834a1dd81fcc0e9715469e29927b6fb",
+     "size": 26647,
+     "type": "image/png"
+    },
+    "blits-schild-liggend-white.png": {
+     "name": "blits-schild-liggend-white.png",
+     "blob": "315886cc6395f754a99771a151563548",
+     "size": 26262,
+     "type": "image/png"
+    },
+    "blits-schild-liggend-soccer-green.png": {
+     "name": "blits-schild-liggend-soccer-green.png",
+     "blob": "8de75f976e716a5238a91633f780a040",
+     "size": 26256,
+     "type": "image/png"
+    }
+   }
+  },
+  "Textures": {
+   "name": "Textures",
+   "tile": "m",
+   "order": [
+    "blits-textuur-beton.jpg",
+    "blits-textuur-asfalt.jpg",
+    "blits-textuur-zand.jpg",
+    "blits-textuur-gras.jpg",
+    "blits-textuur-regenplas.jpg",
+    "blits-textuur-tartan.jpg",
+    "blits-textuur-modder.jpg"
+   ],
+   "files": {
+    "blits-textuur-beton.jpg": {
+     "name": "blits-textuur-beton.jpg",
+     "blob": "aa10ef79247decedde3d769d3fe84c30",
+     "size": 124912,
+     "type": "image/jpeg"
+    },
+    "blits-textuur-asfalt.jpg": {
+     "name": "blits-textuur-asfalt.jpg",
+     "blob": "9c011f6a13d940f394bdddbecd9bdf55",
+     "size": 383803,
+     "type": "image/jpeg"
+    },
+    "blits-textuur-zand.jpg": {
+     "name": "blits-textuur-zand.jpg",
+     "blob": "886f08359e1f8b6620b62c2e57fc14e7",
+     "size": 385301,
+     "type": "image/jpeg"
+    },
+    "blits-textuur-gras.jpg": {
+     "name": "blits-textuur-gras.jpg",
+     "blob": "ef42e301c697fa21989961a15792cf33",
+     "size": 441478,
+     "type": "image/jpeg"
+    },
+    "blits-textuur-regenplas.jpg": {
+     "name": "blits-textuur-regenplas.jpg",
+     "blob": "863aeb498ca5ad27d4b471487a6b8475",
+     "size": 562129,
+     "type": "image/jpeg"
+    },
+    "blits-textuur-tartan.jpg": {
+     "name": "blits-textuur-tartan.jpg",
+     "blob": "14ce452a39508d9acb2afe720b6e81cc",
+     "size": 436235,
+     "type": "image/jpeg"
+    },
+    "blits-textuur-modder.jpg": {
+     "name": "blits-textuur-modder.jpg",
+     "blob": "114d2b46127b0d1edecbbd5df9c9101b",
+     "size": 500769,
+     "type": "image/jpeg"
+    }
+   }
+  }
+ },
+ "blobs": {},
+ "docs": {
+  "readme": "project/README.md",
+  "sections": []
+ },
+ "lastChange": {
+  "by": "Claude",
+  "at": "2026-10-20T16:00:00Z",
+  "via": "Claude Code",
+  "note": "All seven real textures added (mud and tartan track new); kraft removed."
+ }
+}

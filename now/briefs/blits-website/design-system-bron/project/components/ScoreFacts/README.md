@@ -1,0 +1,1 @@
+Optie-galerij G: productfeiten als scorebord: G1 lichtpunten-bord (dot-matrix) in `tour-de-yellow`, G2 klapcijfers (flip-bord), G3 cijferblokken met outline-cijfers. Alleen echte productfeiten (maat, gewicht, garantie), nooit voor winnen of rangschikken. De cijfers in de voorbeelden zijn placeholders.

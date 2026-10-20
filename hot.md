@@ -48,13 +48,7 @@ _Laatst ververst: 2026-10-20_
   voor minder" en eigen premium-narratief; keuze staat open.
 - **[[luminous]]** — mist nog een expliciete "reden van bestaan"-zin.
 
-- **[[blits-website-dealers]]** — nieuw (2026-10-20): merkwebsite voor
-  dealers via Claude Design (Home, Brand, Assortment, BLITS for
-  Professionals + dealeraanvraagformulier), eigen BLITS-design-system.
-  Besloten: "Laatste doelpunt wint" geschrapt, "you" blijft, "vuile knieën
-  zijn medailles" blijft ([[blits-open-punten-2026-10-20]]); merkvormen en
-  kleurgebruiksregels worden samen met Claude Design ontworpen. Brief:
-  `now/briefs/blits-website/designbrief.md`. Wacht op Pinterest-beelden.
+- **[[blits-website-dealers]]** — design system gebouwd (Claude-Artifact, privé) met de analoge keuzes van Bart verwerkt: lantaarnhero met animatie, zeven echte texturen, plaatjes, klapcijfers, filmstrip, stuiter J3 (besluit 17 t/m 20 in [[blits-open-punten-2026-10-20]]). **Volgende stap: de Home-pagina bouwen in een nieuwe sessie**, zie `now/briefs/blits-website/overdracht-sessie.md` (leesvolgorde, wat er nog gebouwd moet worden, startprompt). Geen speeltoestellen op de site; huidige productfoto's tijdelijk.
 
 ## Beslissingen tot nu toe
 

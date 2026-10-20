@@ -1,0 +1,1 @@
+Optie-galerij A: veldlijn-achtergronden uit verschillende speelplekken (voetbalveld, basketbalveld, trampoline van boven, atletiekbaan, doel met net). Kies er één of twee; de rest vervalt. Gebruik: sectieachtergrond met lage opacity, lijnen afgesneden door de rand, nooit achter kleine tekst. Donker: `brand` op `ink`. Licht: `stuntpark-grey` op `surface`.

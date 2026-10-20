@@ -1,0 +1,1 @@
+Optie-galerij K: fotobehandelingen en lijsten: K1 filmkorrel met vignet, K2 duotone in `brand`, K3 filmstrip met beeldnummers, K4 foto met aluminium onderschrift, K5 afdruk met witte rand, K6 warm kleurfilm-gevoel. De getekende scène is een plaatshouder. Campagnebeelden van echte foto's krijgen alleen K1 of K6 (subtiel); geen sepia en geen verzonnen jaartallen.
