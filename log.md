@@ -438,3 +438,7 @@ Archia Regular, SemiBold en Bold (`.otf`, geldig als font) opgeslagen in `.raw/2
 ## [2026-10-20] update | TT Autonomous komt van Adobe Fonts
 
 Bart heeft geen TT Autonomous-bestanden, alleen de Adobe Fonts-pagina (foundry TypeType). Op Adobe Fonts is webgebruik via een Web Project (kit), er zijn geen downloads; zelf hosten is een aparte licentie bij TypeType. Of de stijl Bold Outline Italic bestaat is niet bevestigd (anders text-stroke op Bold Italic). Verwerkt in designbrief, initiatief en actielijst.
+
+## [2026-10-20] update | BLITS-website: geen Adobe-kit, lichtregel en lifestylebord
+
+Adobe-kit voor TT Autonomous vervalt (lukt niet): vervangend font in het design. Standaardaannames vastgelegd: lifestylebord geldt voor de sport-lijn, speeltoestellen-lijn krijgt later een eigen bord; campagnebeeld mag gouden/bewolkt licht, product/lifestyle sport-lijn hard middaglicht. Zie [[blits-open-punten-2026-10-20]].

@@ -10,7 +10,9 @@ aliases: []
 date: 2026-10-20
 decided_by: "Bart Schilten"
 affects: ["[[blits]]", "[[blits-tone-of-voice-definitief]]", "[[blits-ontwerpelementen-heritage]]", "[[blits-website-dealers]]"]
-decision_type: "bevestiging open punten uit de overdracht"
+decision_type: "bevestiging open punten uit de overdracht"10. **Geen Adobe-kit voor TT Autonomous** (Bart, 2026-10-20: lukt niet). Vervangend breed italic font in het design; één plek om later te wisselen.
+11. **Lifestylebord = sport-lijn**; speeltoestellen-lijn krijgt later een eigen bord. **Campagnebeeld** mag gouden en bewolkt licht gebruiken; product en lifestyle van de sport-lijn houden hard middaglicht. (Standaardaanname van de assistent, geldt tot Bart anders zegt.)
+
 ---
 
 Bart beantwoordde (spraakbericht, deels onverstaanbaar getranscribeerd) de
