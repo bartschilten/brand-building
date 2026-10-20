@@ -66,16 +66,17 @@
     var Tag = props.href ? 'a' : 'div';
     return h(Tag, {
       ref: ref, href: props.href,
-      className: cx('blits-plate', size !== 'md' && 'blits-plate--' + size, tone !== 'warm' && 'blits-plate--' + tone, props.bounce !== false && 'blits-bounce', props.land && 'blits-land', props.land && landed && 'is-landed', props.href && 'blits-plate--link', props.className)
+      className: cx('blits-plate-wrap', props.bounce !== false && 'blits-bounce', props.land && 'blits-land', props.land && landed && 'is-landed', props.href && 'blits-plate--link', props.className),
+      style: props.delay ? { animationDelay: props.delay + 'ms' } : null
     },
-      props.backdrop ? h('div', { className: 'blits-plate__backdrop', 'aria-hidden': 'true' }, props.backdrop) : null,
-      piping,
-      props.media ? h('div', { className: 'blits-plate__media' }, props.media) : null,
-      props.eyebrow ? h('p', { className: 'eyebrow', style: { margin: '0 0 8px', position: 'relative' } }, props.eyebrow) : null,
-      props.title ? h('h3', { className: 'blits-heading display-s blits-plate__title' }, props.title) : null,
-      props.piping === 'underline' ? h('span', { className: 'blits-plate__underline', 'aria-hidden': 'true' }) : null,
-      props.children ? h('div', { className: 'blits-plate__body' }, props.children) : null
-    );
+      h('div', { className: cx('blits-plate', size !== 'md' && 'blits-plate--' + size, tone !== 'warm' && 'blits-plate--' + tone) },
+        props.backdrop ? h('div', { className: 'blits-plate__backdrop', 'aria-hidden': 'true' }, props.backdrop) : null,
+        piping,
+        props.media ? h('div', { className: 'blits-plate__media' }, props.media) : null,
+        props.eyebrow ? h('p', { className: 'eyebrow', style: { margin: '0 0 8px', position: 'relative' } }, props.eyebrow) : null,
+        props.title ? h('h3', { className: 'blits-heading display-s blits-plate__title' }, props.title) : null,
+        props.piping === 'underline' ? h('span', { className: 'blits-plate__underline', 'aria-hidden': 'true' }) : null,
+        props.children ? h('div', { className: 'blits-plate__body' }, props.children) : null));
   }
 
   function SpecPlate(props) {
@@ -192,33 +193,33 @@
     React.useEffect(function () {
       if (!props.run) return;
       if (!/[0-9]/.test(props.ch)) { setShown(props.ch); return; }
-      var target = +props.ch, cur = /[0-9]/.test(shown) ? +shown : 0, steps = 0, t;
+      var target = +props.ch, cur = -1, t;
       function tick() {
-        if (cur === target && steps > 0) return;
-        cur = (cur + 1) % 10; steps++;
+        cur++;
         setShown(String(cur)); setFlips(function (f) { return f + 1; });
-        t = setTimeout(tick, 70);
+        if (cur < target) t = setTimeout(tick, 70);
       }
       t = setTimeout(tick, props.delay);
       return function () { clearTimeout(t); };
     }, [props.run, props.ch]);
-    var narrow = !/[0-9A-Z\[\]]/.test(props.ch);
-    return h('span', { className: cx('blits-flip__tile', narrow && 'blits-flip__tile--sep') },
+    var sep = props.ph ? /[^0-9A-Z]/.test(props.ch) : !/[0-9A-Z]/.test(props.ch) && props.ch !== '–';
+    return h('span', { className: cx('blits-flip__tile', sep && 'blits-flip__tile--sep', props.ph && !sep && 'blits-flip__tile--ph') },
       h('span', { key: flips, className: cx('blits-flip__char', flips && 'is-flipping') }, shown === ' ' ? ' ' : shown),
       h('i', { className: 'blits-flip__hinge' }));
   }
   function FlipDigits(props) {
     var value = String(props.value);
-    var l = useLanding(props.animate !== false), ref = l[0], run = l[1];
-    var reduce = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-    var chars = value.split('');
     var placeholder = value.indexOf('[') !== -1;
-    return h('div', { ref: ref, className: cx('blits-flip', props.size && 'blits-flip--' + props.size, props.className) },
-      h('span', { className: 'blits-flip__sr' }, value + (props.unit ? ' ' + props.unit : '')),
+    var animate = props.animate !== false && !placeholder;
+    var l = useLanding(animate), ref = l[0], run = l[1];
+    var reduce = typeof window !== 'undefined' && window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    var chars = (placeholder ? value.replace(/[\[\]]/g, '') : value).split('');
+    return h('div', { ref: ref, className: cx('blits-flip', props.size && 'blits-flip--' + props.size, placeholder && 'blits-flip--ph', props.className) },
+      h('span', { className: 'blits-flip__sr' }, (placeholder ? 'To be confirmed' : value) + (props.unit ? ' ' + props.unit : '')),
       h('span', { className: 'blits-flip__row', 'aria-hidden': 'true' },
-        placeholder ? h('span', { className: 'blits-flip__placeholder' }, value) : chars.map(function (ch, i) {
-          var start = reduce || props.animate === false || !/[0-9]/.test(ch) ? ch : '0';
-          return h(FlipTile, { key: i + ch, ch: ch, start: start, run: run && !reduce && props.animate !== false, delay: i * 90 });
+        chars.map(function (ch, i) {
+          var start = reduce || !animate || !/[0-9]/.test(ch) ? ch : '–';
+          return h(FlipTile, { key: i + ch, ch: ch, ph: placeholder, start: start, run: run && !reduce && animate, delay: i * 90 });
         }),
         props.unit ? h('span', { className: 'blits-flip__unit' }, props.unit) : null),
       props.label ? h('p', { className: 'eyebrow blits-flip__label' }, props.label) : null);
@@ -317,8 +318,17 @@
   /* B2 · streetlight in front of a brick wall. The light flickers on, lights the wall and the content (photos), then goes out. */
   function Streetlight(props) {
     var st = React.useState(0), mode = st[0], setMode = st[1];
-    function toggle(e) { if (props.toggle === false || e.target.closest('a,button,input,select,textarea')) return; setMode((mode + 1) % 3); }
-    return h('section', { className: cx('blits-streetlight', mode === 1 && 'on', mode === 2 && 'off', props.side === 'left' && 'blits-streetlight--left', props.className), 'data-theme': 'dark', onClick: toggle, 'aria-label': props.label, id: props.id, style: { '--brick-grain': 'url(' + assets.textures.concrete + ')' } },
+    var ref = React.useRef(null);
+    var rs = React.useState(false), running = rs[0], setRunning = rs[1];
+    React.useEffect(function () {
+      var el = ref.current;
+      if (!el || !('IntersectionObserver' in window)) { setRunning(true); return; }
+      var io = new IntersectionObserver(function (es) { setRunning(es[0].isIntersecting); }, { threshold: 0.3 });
+      io.observe(el);
+      return function () { io.disconnect(); };
+    }, []);
+    var LABELS = ['Auto', 'On', 'Off'];
+    return h('section', { ref: ref, className: cx('blits-streetlight', running && 'is-running', mode === 1 && 'on', mode === 2 && 'off', props.side === 'left' && 'blits-streetlight--left', props.className), 'data-theme': 'dark', 'aria-label': props.label, id: props.id, style: { '--brick-grain': 'url(' + assets.textures.concrete + ')' } },
       h('div', { className: 'blits-streetlight__wall', 'aria-hidden': 'true' }),
       h('div', { className: 'blits-streetlight__wall blits-streetlight__wall--lit a-soft', 'aria-hidden': 'true' }),
       h('div', { className: 'blits-streetlight__cone a-lit', 'aria-hidden': 'true' }),
@@ -327,7 +337,11 @@
       h('div', { className: 'blits-streetlight__bulb a-lit', 'aria-hidden': 'true' }),
       h('div', { className: 'blits-streetlight__content' }, props.children),
       h('div', { className: 'blits-streetlight__dim a-dim', 'aria-hidden': 'true' }),
-      h('div', { className: 'blits-streetlight__glow a-soft', 'aria-hidden': 'true' }));
+      h('div', { className: 'blits-streetlight__glow a-soft', 'aria-hidden': 'true' }),
+      props.toggle === false ? null : h('button', {
+        type: 'button', className: 'blits-streetlight__switch', 'aria-pressed': mode === 1 ? 'true' : mode === 2 ? 'false' : 'mixed',
+        'aria-label': 'Streetlight: ' + LABELS[mode] + '. Change', onClick: function () { setMode((mode + 1) % 3); }
+      }, h('span', { className: 'eyebrow' }, 'Light · ' + LABELS[mode])));
   }
 
   /* Form field as a flat plate: small label, large input on a dashed writing line, optional action (button) beside it. */
@@ -335,10 +349,10 @@
     var id = useId('blits-field-');
     var fid = props.id || id;
     return h('div', { className: cx('blits-fieldplate', props.className) },
-      h('div', { className: 'blits-fieldplate__plate' },
+      h('div', { className: 'blits-fieldplate__wrap' }, h('div', { className: 'blits-fieldplate__plate' },
         h('label', { className: 'eyebrow blits-fieldplate__label', htmlFor: fid }, props.label),
         h('input', { id: fid, className: 'blits-fieldplate__input', type: props.type || 'text', name: props.name, placeholder: props.placeholder, autoComplete: props.autoComplete, inputMode: props.inputMode, required: props.required, value: props.value, defaultValue: props.defaultValue, onChange: props.onChange }),
-        h('span', { className: 'blits-fieldplate__line', 'aria-hidden': 'true' })),
+        h('span', { className: 'blits-fieldplate__line', 'aria-hidden': 'true' }))),
       props.children ? h('div', { className: 'blits-fieldplate__action' }, props.children) : null);
   }
 
