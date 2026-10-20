@@ -49,13 +49,15 @@ Bekende beperkingen: TT Autonomous staat als eerste in de fontstack, maar is nie
 
 ## Home-pagina proef (gebouwd 2026-10-20)
 
-Privé-Artifact: https://claude.ai/artifact/JsHhQ3bo83pSqvNJ5k61kX ("BLITS — Outside Wins."). Bron in de vault: `now/briefs/blits-website/site/` (`index.html`, `home.js`, `home.css`, `build.py` maakt `tokens.css` en kopieert de bundle uit het design system). Wacht op akkoord van Bart; daarna Brand, Assortment en BLITS for Professionals.
+Privé-Artifact: https://claude.ai/artifact/JsHhQ3bo83pSqvNJ5k61kX ("BLITS — Outside Wins."). Bron in de vault: `now/briefs/blits-website/site/` (`index.html`, `home.js`, `home.css`, `build.py` maakt `tokens.css` en kopieert de bundle uit het design system). Versie 2 (na feedback van Bart, 2026-10-20) staat op dezelfde link; wacht op akkoord van Bart, daarna Brand, Assortment en BLITS for Professionals.
 
 Opbouw (voorstel uit de overdracht, zo gebouwd): navigatie (liggend schild wit, Brand / Assortment / BLITS for Professionals, knop "Become a dealer"), LanternHero "OUTSIDE WINS.", merkverhaal met drie pijlers (Marker 01-03) en krijtlijn I3 naast een asfaltpaneel met hinkelbaan C1, vier productfamilies als PlaqueCards (veldlijnen A1/A2/A3/A5 achter de huidige productfoto, bies E1, J3-stuiter bij landen en hover), echte feiten als klapcijfers (45 producten, 6 families, grootste doel 500×200 cm, grootste trampoline Ø427 cm; garantie en norm als placeholder) met gestanst schild D2, filmstrip K3 met drie placeholders, Professionals-teaser op Soccer Green met chassisplaatje D4 (`[MARGIN %]`, `[DEALER PRICE]`, `[MOQ]`), donkere footer met middenlijn I1. Getest op 1440 px en 390 px (geen horizontale scroll, geen consolefouten).
 
 Nieuwe componenten in het design system (versie 10): `LanternHero`, `FieldLines`, `Icon`, `ChalkDoodle`, `ChalkDivider`, `FlipDigits`, `StampedShield`, `ChassisPlate`, `FilmStrip`, `Texture`; `PlaqueCard` kreeg `media`, `backdrop`, bies E1/E6 en de gedeelde J3-stuiter. `Blits.configureAssets()` laat een site eigen kopieën van logo's en texturen gebruiken.
 
-Aannames om te toetsen: copy van hero, pijlers en productkaarten is nieuw geschreven binnen de tone of voice; links wijzen nog naar ankers op Home (de andere pagina's bestaan nog niet); "Become a dealer" en "Apply as a dealer" gaan nu naar de Professionals-teaser.
+**Versie 2 na feedback van Bart (2026-10-20):** hero is één grote campagnefoto (`CampaignHero`, placeholder met beeldomschrijving tot het beeld er is), de lantaarn zit niet meer in de hero maar verlicht de filmstrip-sectie (`Streetlight`: lantaarnpaal voor een onopvallende bakstenen muur, licht gaat aan en uit, foto's lichter of donkerder); merkverhaal krijgt een fotovak (kinderen in de modder die elkaar omhelzen) in plaats van de krijttekening; assortiment rustiger (veldlijnen alleen als vage vloer onder het product, geen lijniconen, geen "45 products"-zin); feiten inspirerend in plaats van assortimentscijfers (0 screens included, 0 batteries needed, en placeholders voor kinderen buiten en uren buiten, nog zonder bron); de Professionals-teaser is van Home gehaald (consumenten landen ook op de site) en vervangen door wat D2C-merken doen: één productgroep uitgelicht (Arena-doel met SpecPlate) en "Find a dealer" (postcode-zoeker, nog niet werkend) met een link voor winkels. Beeldprompts: `now/briefs/blits-website/campagne-prompts.md`.
+
+Aannames om te toetsen (v1): copy van hero, pijlers en productkaarten is nieuw geschreven binnen de tone of voice; links wijzen nog naar ankers op Home (de andere pagina's bestaan nog niet); "Become a dealer" en "Apply as a dealer" gaan nu naar de Professionals-teaser.
 
 ## Analoge zielelementen: keuzes van Bart (2026-10-20)
 
@@ -81,6 +83,7 @@ Uit de keuze-galerij in het design system (zie [[blits-open-punten-2026-10-20]] 
 
 ## Timeline
 
+- **2026-10-20** | Bart — feedback op Home v1 verwerkt in v2 (campagnehero, lantaarn verlicht de filmstrip voor een bakstenen muur, fotovak in merkverhaal, rustiger assortiment, inspirerende feiten, productspotlight en Find a dealer i.p.v. Professionals-teaser); campagne-prompts opgesteld.
 - **2026-10-20** | assistent, op verzoek van Bart — ontbrekende analoge componenten gebouwd (design system v10) en de Home-pagina als proef gebouwd en gepubliceerd (privé-Artifact); wacht op akkoord van Bart voor de overige pagina's.
 - **2026-10-20** | Bart — modder en tartanbaan aangeleverd, kraft vervalt: alle zeven texturen zijn nu echte foto's in het design system.
 - **2026-10-20** | Bart — echte texturen (beton, asfalt, zand, gras, regenplas) aangeleverd en ingebouwd; lantaarnhero gebruikt nu de asfaltfoto; kraft, modder en tartanbaan volgen.

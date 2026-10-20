@@ -44,7 +44,7 @@ Use only the supplied BLITS shield logos in `assets/Logos/`: standing shield and
 
 Base: `Button` (the red pill), `Heading` (uppercase italic with outline accent word), `PlaqueCard` (flat plate with cut corners; `media`, `backdrop`, piping E1/E6, J3 bounce), `SpecPlate` (aluminium name plate for facts: size, norm, warranty; only real facts), `Divider` (I1 dashed centre line), `Marker` (01 / 02 / 03 outline numerals).
 
-Analog components (group "Analoog: componenten"), built from Bart's picks: `LanternHero` (B2), `FieldLines` (A, five types), `Icon` (H, twelve icons), `ChalkDoodle` (C, six drawings), `ChalkDivider` (I3), `FlipDigits` (G2), `StampedShield` (D2), `ChassisPlate` (D4), `FilmStrip` (K3), `Texture` (F1 to F7). The J3 bounce is shared: classes `blits-bounce` (hover) and `blits-land` (plays once on entering the view), used by `PlaqueCard`.
+Analog components (group "Analoog: componenten"), built from Bart's picks: `LanternHero` (B2), `FieldLines` (A, five types), `Icon` (H, twelve icons), `ChalkDoodle` (C, six drawings), `ChalkDivider` (I3), `FlipDigits` (G2), `StampedShield` (D2), `ChassisPlate` (D4), `FilmStrip` (K3), `Texture` (F1 to F7), `Photo` (image slot with a shot brief), `CampaignHero` (Home hero: one big campaign photo) and `Streetlight` (B2 as a section: lamp in front of a brick wall that lights the photos). Since Bart's feedback of 2026-10-20 the Home hero is `CampaignHero`; the streetlight lights the film strip further down. `LanternHero` stays available for a campaign page. The J3 bounce is shared: classes `blits-bounce` (hover) and `blits-land` (plays once on entering the view), used by `PlaqueCard`.
 
 Assets: components default to this system's uploads (logos, textures). A website that hosts its own copies calls `Blits.configureAssets({ logos: {...}, textures: {...} })` once before rendering.
 
@@ -56,7 +56,7 @@ The gallery cards in the group "Analoog: keuzes" carry a green "gekozen" tag on 
 
 - **Motion: J3** the playful bounce (squash and stretch, like a ball or a trampoline landing). The only motion motif. Use it when a card opens or lands, never for navigation, never looping on the page.
 - **Dividers: I1** dashed centre line (component `Divider`) and **I3** chalk line. Use one or the other per section, not both side by side.
-- **Dusk: B2** the lantern hero, **animated** (component `LanternHero`): the light flickers on, the cone and glow rise, texture and pitch lines appear in the lit patch, the headline lights up, then it flickers off. Home and campaign pages only.
+- **Dusk: B2** the streetlight, **animated**: the light flickers on and off. On Home it is `Streetlight`, a lamp in front of a brick wall that lights the film strip; `LanternHero` is the earlier hero version. Not in the Home hero any more (that is one big campaign photo).
 - **Piping: E1** short red line under a heading and **E6** red corner marks. Both allowed; one per card.
 - **Plates: D2** stamped metal shield on a dark field and **D4** dark chassis plate with screws. Plus the aluminium `SpecPlate`.
 - **Scoreboard digits: G2** flip digits, for real product facts only.
