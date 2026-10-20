@@ -14,6 +14,8 @@ decision_type: "bevestiging open punten uit de overdracht"10. **Geen Adobe-kit v
 11. **Eén beeldlijn voor het hele merk** (Bart, 2026-10-20, vervangt de eerdere aanname dat het lifestylebord alleen voor sport zou gelden): zoveel mogelijk hetzelfde tussen sport en speeltoestellen. Verschil is een accent: sport iets meer modder en rommel, speeltoestellen iets cleaner en warmer; altijd herkenbaar hetzelfde merk. Campagnebeeld mag gouden en bewolkt licht; product en lifestyle hard, richtinggevend licht (standaardaannames van de assistent).
 12. **Producten bij de start van de site: alle producten die nu live staan bij Toppy onder BLITS.** Dat zijn 45 producten, allemaal sport-lijn; speeltoestellen zijn er (nog) niet. Zie `now/briefs/blits-website/producten-live.md`. Productbeeld wordt in eerste instantie uit de Toppy-CDN gehaald, voorzien van de kanttekeningen in dat document.
 13. **De Apple-ontwerpregels (emilkowalski/skills) gelden voor de website.** Skills staan in `.claude/skills/design/`; samengevat in de designbrief § 11, met bewuste uitzonderingen (geen glas/blur, geen gesture-physics, geen haptiek).
+14. **Geen speeltoestellen op de website of in het merkverhaal** (Bart, 2026-10-20). Ze bestaan nog niet en het is onzeker of ze volgend jaar komen. Het verhaal is generiek: buitenspeelgoed. Dit is een scope-keuze voor de website; de merkarchitectuur met twee lijnen in [[blits]] blijft staan als langetermijnrichting.
+15. **Alle productbeelden worden nieuw gemaakt.** De huidige Toppy-foto's mogen tijdelijk in de site; ze passen niet bij de moodboards. Plan en voorstel: `now/briefs/blits-website/beeldplan.md`.
 
 ---
 
