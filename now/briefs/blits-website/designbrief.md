@@ -14,7 +14,7 @@ Eigen BLITS-design-system. **Niet** het Toppy-design-system gebruiken: de regels
 
 > **Scope-regel (Bart, 2026-10-20): op de website en in het merkverhaal komt niets voor over speeltoestellen** (speelhuizen, schommels, zandbakken, "twee lijnen"). Die bestaan nog niet en het is onzeker of ze volgend jaar komen. Houd het verhaal generiek: **buitenspeelgoed**. Ook in beeld, kopteksten, iconen en navigatie. Het officiële merkverhaal in de vault noemt "two lines" en "a toddler's first playhouse"; voor de site geldt de generieke versie hieronder.
 
-**Website-versie merkverhaal (voorstel, door Bart te bevestigen):** *BLITS exists because kids don't grow up on a screen — they grow up outside, with friends they haven't met yet, knees they'll scrape, and a world only they can find on their own. We build outdoor gear that's honest about that: built to be used hard, not admired from a distance. From a toddler's first bounce to a teenager's last game before the streetlights come on, outside wins.*
+**Website-versie merkverhaal (voorstel, door Bart te bevestigen):** *BLITS exists because kids don't grow up on a screen — they grow up outside, with friends they haven't met yet, knees they'll scrape, and a world only they can find on their own. We build outdoor toys that are honest about that: built to be used hard, not admired from a distance. From a toddler's first bounce to a teenager's last game before the streetlights come on, outside wins.*
 
 BLITS bestaat om kinderen, van dreumes tot puber, buiten te laten opgroeien: *met vriendjes die je nog niet kent, teleurstellingen die je overleeft, en avontuur dat geen scherm je kan geven.* Het merk is **buitenspeelgoed**, zonder opdeling in lijnen. Tagline: **"Outside Wins."** (NL: "Buiten wint.").
 
@@ -30,6 +30,8 @@ Merkwaarden: avontuurlijk, esthetisch, vrijheid, eerlijk, kwalitatief. Persoonli
 ## 3. De dealer (primaire lezer)
 
 Zoekt een alternatief voor Exit/Berg/Salta met betere marge en een onderscheidend schap-verhaal, niet nóg een private-label-merk. Bezwaar: *"nog een nieuw merk zonder trackrecord."* Antwoord van de site: de beeldkwaliteit en het vakmanschap zélf, plus het eerlijke ontstaansverhaal (dealer- en margefrustratie) — dat laatste alleen op de Professionals-pagina en mild gehouden. **Regel:** richting consumenten nooit het dealer-/margeverhaal vertellen.
+
+**Prijzen:** nergens op de site, ook geen adviesprijzen (besluit 21, 2026-10-20); mensen vinden een winkel om de prijs te zien. **Woordkeuze:** "outdoor toys", niet "gear" (besluit 22).
 
 **Getallen:** er zijn nog geen dealerprijzen of marges. Gebruik zichtbare placeholders (`[MARGIN %]`, `[DEALER PRICE]`). **Nooit getallen verzinnen.**
 

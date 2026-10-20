@@ -498,3 +498,7 @@ Campagnehero, Streetlight (lantaarn voor bakstenen muur verlicht de filmstrip), 
 ## [2026-10-20] update | BLITS Home-proef v3
 
 Feiten en spotlight gewisseld, feitentitel "OUTSIDE, COUNTED.", nieuw `Field`-component (design system v12) voor de dealerzoeker. Zie [[blits-website-dealers]].
+
+## [2026-10-20] update | BLITS Home v4 na design- en merkreview
+
+Twee review-agents (Apple-design en branding) bekeken Home v3; Bart akkoord op vrijwel alles. Besluiten 21-23 toegevoegd aan [[blits-open-punten-2026-10-20]] (geen prijzen, "toys", Home na review). Doorgevoerd in Home v4 en design system v13; samenvatting in `now/briefs/blits-website/review-home-2026-10-20.md`. Zie [[blits-website-dealers]].
