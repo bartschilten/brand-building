@@ -1,4 +1,6 @@
-# BLITS-website: beeldplan (voorstel, 2026-10-20)
+# BLITS-website: beeldplan (voorstel, 2026-10-20) — GEPARKEERD
+
+> **Bart, 2026-10-20: nu gebruiken we de bestaande afbeeldingen en de huidige uiterlijken van de producten. Dit plan is voor later.**
 
 Doel: nieuwe beelden die bij de drie moodboards passen (campagne, lifestyle, packshots) en bij "geen private label". De huidige Toppy-foto's blijven alleen tijdelijk.
 
