@@ -458,3 +458,7 @@ Bart: eerste versie gebruikt de bestaande afbeeldingen en de huidige productuite
 ## [2026-10-20] create | BLITS design system (Claude Artifact)
 
 Eerste BLITS design system gebouwd en gepubliceerd als privé-Artifact (link in [[blits-website-dealers]]): tokens (palet, licht/donker thema), README met merkregels en scope-regel, Archia-fonts, zes omgekleurde logo-varianten, zes componenten met preview en een cover. TT Autonomous niet beschikbaar: stand-in Unbounded. Merkvormen en kleurgebruiksregels nog samen met Bart te bepalen.
+
+## [2026-10-20] update | BLITS design system herzien na feedback
+
+Koppen: stand-in font Archivo Expanded Black Italic i.p.v. Unbounded; kaarten met getrapte uitsnede in alle vier de hoeken; SpecPlate als geborsteld aluminium plaatje (nieuwe tokens aluminium-light/mid/engrave, enige uitzondering op 'flat'); outline-accent schoon. Open: analoge verwijzingen naar vroeger uitwerken (volgende ronde). Zie [[blits-website-dealers]].
