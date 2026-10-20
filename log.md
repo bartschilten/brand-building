@@ -418,3 +418,7 @@ Bart startte de BLITS-dealerwebsite via Claude Design. Nieuw: initiatief [[blits
 ## [2026-10-20] ingest | BLITS moodboard campagneshots
 
 Vijf referentiebeelden van het campagne-moodboard opgeslagen in `.raw/2026-10-20/moodboard-campagne/`; beeldtaal gedistilleerd in [[blits-moodboard-campagne]] en samengevat in de designbrief. Lifestyle- en packshotbord volgen. Open: ruimere lichtregel voor campagne dan de sport-lijnregel.
+
+## [2026-10-20] ingest | BLITS moodboard lifestyleshots
+
+Vijf referentiebeelden van het lifestyle-moodboard (voor de productpagina) opgeslagen in `.raw/2026-10-20/moodboard-lifestyle/`; beeldtaal in [[blits-moodboard-lifestyle]] en designbrief. Gebruiksregel vastgelegd: campagne = homepage/campagnes, nooit productpagina; lifestyle = productpagina. Packshotbord volgt. Open: geldt dit bord ook voor de speeltoestellen-lijn?
