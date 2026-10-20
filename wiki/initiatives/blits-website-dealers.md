@@ -41,6 +41,12 @@ Meer is niet nodig. Geen webshop.
 5. Samenvoegen, toetsen (contrast, tone of voice), live. Domein registreren
    of publiceren alleen na expliciet akkoord van Bart.
 
+## BLITS design system (gebouwd 2026-10-20)
+
+Eigen Claude-design-system, privé-Artifact: https://claude.ai/artifact/7nxXx7V2161nWAmFmCUznh ("BLITS Design System"). Bevat: tokens (9 palet-kleuren plus semantische tokens, licht en donker thema), README met merkregels en scope-regel (geen speeltoestellen), Archia-fonts, zes logo-varianten (staand en liggend in night-pitch-green, wit, soccer-green; alleen omgekleurd, vorm ongewijzigd), zes componenten met preview (Button, Heading met outline-accentwoord, PlaqueCard, SpecPlate, Divider, Marker) en een cover.
+
+Bekende beperkingen: TT Autonomous staat als eerste in de fontstack, maar is niet beschikbaar; het stand-in is Unbounded (Google Fonts) en wisselt vanzelf zodra TT Autonomous beschikbaar is. De afgesneden hoek van PlaqueCard is een startvoorstel uit de kleurenpdf, geen vastgestelde merkvorm. Kleurgebruiksregels en merkvormen volgen met Bart. Productfoto's zitten niet in het design system. Link is privé: alleen de eigenaar kan hem openen tot hij gedeeld wordt.
+
 ## Aan te leveren door Bart
 
 - Pinterest-moodboards: **binnen** (campagne, lifestyle, packshots, 5 beelden per bord, zie [[blits-moodboard-campagne]], [[blits-moodboard-lifestyle]], [[blits-moodboard-packshots]]). Aanvullen mag.
@@ -61,6 +67,7 @@ Meer is niet nodig. Geen webshop.
 
 ## Timeline
 
+- **2026-10-20** | assistent, op verzoek van Bart — BLITS design system gebouwd en gepubliceerd (tokens, README, Archia, logo's, zes componenten, cover); volgende stap: merkvormen en kleurregels met Bart, daarna proefpagina Home.
 - **2026-10-20** | Bart — eerste versie met bestaande afbeeldingen en huidige productuiterlijken; nieuwe beelden en vervanging later; beeldplan geparkeerd.
 - **2026-10-20** | Bart — geen speeltoestellen op de website of in het merkverhaal (generiek: buitenspeelgoed); alle productbeelden worden nieuw gemaakt, huidige foto's tijdelijk; beeldplan opgesteld (`now/briefs/blits-website/beeldplan.md`).
 - **2026-10-20** | Bart — één beeldlijn voor sport en speeltoestellen; startassortiment = alle live BLITS-producten bij Toppy (45, sport-lijn); Apple-ontwerpregels (emilkowalski/skills) gelden voor de website, skills geïmporteerd.

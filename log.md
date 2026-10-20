@@ -454,3 +454,7 @@ Bart: op de site en in het merkverhaal niets over speeltoestellen (generiek: bui
 ## [2026-10-20] update | BLITS-website: bestaande beelden en huidige productuiterlijken voor nu
 
 Bart: eerste versie gebruikt de bestaande afbeeldingen en de huidige productuiterlijken; nieuwe beelden en nieuw productuiterlijk komen later en vervangen dan de bestanden. Beeldplan (`now/briefs/blits-website/beeldplan.md`) geparkeerd. Zie [[blits-open-punten-2026-10-20]].
+
+## [2026-10-20] create | BLITS design system (Claude Artifact)
+
+Eerste BLITS design system gebouwd en gepubliceerd als privé-Artifact (link in [[blits-website-dealers]]): tokens (palet, licht/donker thema), README met merkregels en scope-regel, Archia-fonts, zes omgekleurde logo-varianten, zes componenten met preview en een cover. TT Autonomous niet beschikbaar: stand-in Unbounded. Merkvormen en kleurgebruiksregels nog samen met Bart te bepalen.
