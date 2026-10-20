@@ -98,13 +98,34 @@ Er is **geen vastgestelde merkvorm**; de afgesneden hoek in de kleurenpdf is nie
 
 ## 10. Beeld
 
-Drie Pinterest-moodboards van Bart (packshots, lifestyle, campagne), als uploads in het project. **Campagne-moodboard is binnen** (zie `wiki/sources/blits-moodboard-campagne.md`): echte actie en rommel (modder, stof), lage camerahoek en kinderen groot tegen de lucht, niet poseren, analoog gevoel (korrel, lichte bewegingsonscherpte), verzadigd geel/blauw/groen, plek = straat, stoep, gaashek, plein, plas. Beelden zijn referenties van derden, niet voor publicatie. **Gebruik per type:** campagne = homepage en campagnes, nooit productpagina; lifestyle = productpagina; packshots = productpagina/assortiment (volgen). **Lifestyle-moodboard is binnen** (zie `wiki/sources/blits-moodboard-lifestyle.md`): stilleven op een echte plek (veld, betonnen hoek, kleedkamer), hard richtinggevend licht met lange schaduw, gedempt aards palet met één verzadigd accent, industrieel-vintage rekwisieten, bijna geen mensen. Geen tekst als "Champions" op rekwisieten. **Packshot-moodboard is binnen** (zie `wiki/sources/blits-moodboard-packshots.md`): twee modi, het hele product op effen lichtgrijs (= Concrete Grey `#D7D7D7`) en macro-details van materiaal en schildplaatje; zacht diffuus licht, eerlijke matte materialen, één accent per product. Voor grote producten en details die nog niet bestaan: duidelijke placeholders, nooit verzonnen details. Alle drie de borden zijn binnen. Per lijn (**besloten 2026-10-20**: het lifestylebord geldt voor de sport-lijn; de speeltoestellen-lijn krijgt later een eigen warm lifestylebord; voor campagnebeeld is gouden en bewolkt licht toegestaan, voor product en lifestyle van de sport-lijn blijft hard middaglicht de regel):
-- **Sport-lijn:** hard middaglicht, documentair, actie en beweging, geen golden hour, stoer en direct zonder schattigheid.
-- **Speeltoestellen-lijn:** warm natuurlijk daglicht, wit-en-naturel-hout met zachte groentinten, lifestyle-styling, een kind in naturel kleding in een weelderige tuin.
+Drie Pinterest-moodboards van Bart (packshots, lifestyle, campagne), als uploads in het project. **Campagne-moodboard is binnen** (zie `wiki/sources/blits-moodboard-campagne.md`): echte actie en rommel (modder, stof), lage camerahoek en kinderen groot tegen de lucht, niet poseren, analoog gevoel (korrel, lichte bewegingsonscherpte), verzadigd geel/blauw/groen, plek = straat, stoep, gaashek, plein, plas. Beelden zijn referenties van derden, niet voor publicatie. **Gebruik per type:** campagne = homepage en campagnes, nooit productpagina; lifestyle = productpagina; packshots = productpagina/assortiment (volgen). **Lifestyle-moodboard is binnen** (zie `wiki/sources/blits-moodboard-lifestyle.md`): stilleven op een echte plek (veld, betonnen hoek, kleedkamer), hard richtinggevend licht met lange schaduw, gedempt aards palet met één verzadigd accent, industrieel-vintage rekwisieten, bijna geen mensen. Geen tekst als "Champions" op rekwisieten. **Packshot-moodboard is binnen** (zie `wiki/sources/blits-moodboard-packshots.md`): twee modi, het hele product op effen lichtgrijs (= Concrete Grey `#D7D7D7`) en macro-details van materiaal en schildplaatje; zacht diffuus licht, eerlijke matte materialen, één accent per product. Voor grote producten en details die nog niet bestaan: duidelijke placeholders, nooit verzonnen details. Alle drie de borden zijn binnen. **Eén beeldlijn voor het hele merk (besloten 2026-10-20):** zoveel mogelijk hetzelfde tussen sport en speeltoestellen. Verschil is alleen een accent: **sport iets meer modder en rommel, speeltoestellen iets cleaner en warmer.** Je moet altijd zien dat het hetzelfde merk is (zelfde kleurpalet, licht, kadrering, rust en detail, zelfde moodboards). Campagnebeeld mag gouden en bewolkt licht gebruiken; product en lifestyle blijven bij hard, richtinggevend licht. Er staan nu alleen **sport-producten** live (45 stuks, zie `producten-live.md`); speeltoestellen komen later.
 
 Beeldkwaliteit is waarop de site zich onderscheidt van de concurrentie.
 
-## 11. Werkwijze (stappen)
+## 11. Design-regels (Apple en Emil Kowalski, toepassen)
+
+Bart wil dat de kennis uit `emilkowalski/skills` (Apple-ontwerpregels, uit WWDC) toegepast wordt. In de vault staan de volledige skills in `.claude/skills/design/`. Dit is de samenvatting voor een **marketingwebsite voor dealers**:
+
+**Toepassen:**
+- **Purpose en Simplicity:** bepaal wat je *niet* bouwt. Eén doel per pagina, hiërarchie door volgorde, ruimte en contrast. Eenvoudig is niet hetzelfde als kaal.
+- **Craft:** elke afstand, tijd en uitlijning is een verdedigbare keuze. 8px-ritme, consistente marges, niets willekeurig.
+- **Familiarity en wayfinding:** standaard navigatie op een standaardplek, logo linksboven naar Home, elke pagina beantwoordt "waar ben ik, waar kan ik heen". Knoppen en labels noemen wat ze doen.
+- **Typografie:** tracking en regelhoogte horen bij de maat. Grote koppen iets strakker, kleine labels iets ruimer. **Barts specificatie wint** waar die concreet is: titels regelhoogte 1 em, tekst 1,8 em, knoppen 0,15 em. Merklettertypes boven systeemfont.
+- **Beweging:** alleen waar het iets doet (feedback, ruimtelijke samenhang, uitleg). `ease-out`, onder 300 ms, nooit `ease-in`. Eén beweging-motief: een korte stuiter (lichte overshoot) bij hover/openen van kaarten. Knop reageert direct op indrukken (`scale(0.97)`). Alleen `transform` en `opacity` animeren. Niets animeren dat de bezoeker vaak ziet (navigatie).
+- **Kenmerk van fluïde interface:** reageren op pointer-down, nooit input blokkeren tijdens een animatie, enter en exit langs hetzelfde pad.
+- **Toegankelijkheid:** `prefers-reduced-motion` = korte cross-fade zonder stuiter; contrast volgens de tabel; focusring in Marathon Blue.
+- **Mobiel/tablet:** dealers kijken ook op telefoon. Geen 100vh-bug, geen zoom bij formuliervelden, tap-highlight uit, safe areas. (skill `mobile-native`)
+- **Breek-test:** het dealerformulier moet lange namen, vreemde e-mailadressen, lege velden en NL/EN-tekst aankunnen. (skill `break-ui`)
+
+**Bewust niet overnemen (past niet bij een flat merk of een brochure-site):**
+- Translucente "glas"-materialen en blur. BLITS is flat: kaarten zijn platte plaatjes, geen schaduw, geen afgeronde hoeken behalve de knop.
+- Gesture-physics voor sheets/drag/momentum. Dit is geen app.
+- Haptiek en geluid.
+- Animatie om het mooi te vinden: BLITS-beweging dient altijd een doel.
+
+Gereedschap in de vault: `emil-design-eng` (hoofdregels), `animate`, `review-animations`, `animation-performance`, `animation-vocabulary`, `find-animation-opportunities`, `mobile-native`, `break-ui`, `prototype` (meerdere varianten naast elkaar, handig voor de merkvormen).
+
+## 12. Werkwijze (stappen)
 
 1. Design system: tokens (kleur, type), merkvormen, kleurgebruiksregels — Bart kiest uit voorstellen en bevriest.
 2. Bouwstenen: een handvol, daarna variatie.
@@ -113,6 +134,6 @@ Beeldkwaliteit is waarop de site zich onderscheidt van de concurrentie.
 5. Samenvoegen: navigatie, responsive, contrastcheck, tone-of-voice-check.
 6. Live: pas na Bart's akkoord (hosting, domein, formulierafhandeling).
 
-## 12. Wat nog van Bart komt
+## 13. Wat nog van Bart komt
 
 **TT Autonomous**: geen bestanden, alleen via Adobe Fonts (foundry TypeType, `fonts.adobe.com/fonts/tt-autonomous`). Voor het web via een Adobe *Web Project* (kit-link), niet als download; zelf hosten vraagt een aparte licentie bij TypeType. **Besloten 2026-10-20: geen Adobe-kit.** Claude Design gebruikt een vergelijkbaar breed, vet italic font als vervanger voor TT Autonomous, op één plek in het design system gedefinieerd, zodat het later in één keer te wisselen is. Het outline-accentwoord kan met een contour (text-stroke) op Bold Italic als de Outline-stijl niet bestaat. Archia (Regular, SemiBold, Bold, `.otf`) is binnen: `.raw/2026-10-20/fonts/` · echte BLITS-productfoto's of -renders (sport-lijn is bestaand, speeltoestellen-lijn nog niet) · dealercijfers (alleen voor het eindresultaat, niet voor het bouwen). Pinterest-beelden zijn binnen (5 per bord, aanvullen mag).

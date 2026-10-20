@@ -442,3 +442,7 @@ Bart heeft geen TT Autonomous-bestanden, alleen de Adobe Fonts-pagina (foundry T
 ## [2026-10-20] update | BLITS-website: geen Adobe-kit, lichtregel en lifestylebord
 
 Adobe-kit voor TT Autonomous vervalt (lukt niet): vervangend font in het design. Standaardaannames vastgelegd: lifestylebord geldt voor de sport-lijn, speeltoestellen-lijn krijgt later een eigen bord; campagnebeeld mag gouden/bewolkt licht, product/lifestyle sport-lijn hard middaglicht. Zie [[blits-open-punten-2026-10-20]].
+
+## [2026-10-20] update | BLITS-website: eén beeldlijn, startassortiment, Apple-ontwerpregels
+
+Bart: één beeldlijn voor sport en speeltoestellen (sport iets meer modder, speeltoestellen iets cleaner/warmer); startassortiment = alle live BLITS-producten bij Toppy (45, alleen sport-lijn, uit Toppy-data) → `now/briefs/blits-website/producten-live.md`; Apple-ontwerpregels toepassen: negen skills uit emilkowalski/skills in `.claude/skills/design/` geïmporteerd, samengevat in designbrief § 11, CLAUDE.md bijgewerkt. Besluit: [[blits-open-punten-2026-10-20]].
