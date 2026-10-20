@@ -1,6 +1,6 @@
 # Hot
 
-_Laatst ververst: 2026-10-12_
+_Laatst ververst: 2026-10-20_
 
 ## Actieve merkbouw-vraagstukken
 
@@ -47,6 +47,14 @@ _Laatst ververst: 2026-10-12_
 - **[[baste]]** — positionering nog dubbelzinnig tussen "A-merk-alternatief
   voor minder" en eigen premium-narratief; keuze staat open.
 - **[[luminous]]** — mist nog een expliciete "reden van bestaan"-zin.
+
+- **[[blits-website-dealers]]** — nieuw (2026-10-20): merkwebsite voor
+  dealers via Claude Design (Home, Brand, Assortment, BLITS for
+  Professionals + dealeraanvraagformulier), eigen BLITS-design-system.
+  Besloten: "Laatste doelpunt wint" geschrapt, "you" blijft, "vuile knieën
+  zijn medailles" blijft ([[blits-open-punten-2026-10-20]]); merkvormen en
+  kleurgebruiksregels worden samen met Claude Design ontworpen. Brief:
+  `now/briefs/blits-website/designbrief.md`. Wacht op Pinterest-beelden.
 
 ## Beslissingen tot nu toe
 

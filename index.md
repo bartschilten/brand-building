@@ -60,9 +60,11 @@ _(nog geen pagina's)_
 - [[blits-tone-of-voice-definitief]] — "strijders" geschrapt, villain-toon teruggebracht, Engels als mastertaal, voorbeeldteksten herschreven (mature)
 - [[blits-logo-designbriefing]] — kant-en-klare briefing voor een externe designer (vectorisatie + Pantone-match) (mature)
 - [[blits-sportlijn-productrebrand]] — kleur-/tekstvervanging voetbaldoel/trampoline/rebounder + Nano Banana-prompts (mature)
+- [[blits-open-punten-2026-10-20]] — open punten beantwoord: "Laatste doelpunt wint" geschrapt, "you" en medailles blijven, merkvormen samen met Claude Design (mature)
 - [[blits-apple-design-review]] — designkwaliteitscheck (Apple Design-principes): simplicity-risico, signifiers samengevoegd en geprioriteerd (mature)
 - [[blits-kleurenpalet-2026-10]] — nieuw palet (BLITS_COLORS.pdf) + fonts, Tarmac Black → Night Pitch Green; vervangt [[blits-kleur-typografie-herzien]] (mature)
 
 ## initiative
 
+- [[blits-website-dealers]] — BLITS-merkwebsite voor dealers via Claude Design: pagina's, aanpak, open punten (seed)
 - [[blits-launch-rollout]] — rebrand sport-lijn + launch speeltoestellen-lijn, fase 1 (fundament) afgerond (developing)
