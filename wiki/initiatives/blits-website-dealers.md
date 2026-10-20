@@ -45,7 +45,7 @@ Meer is niet nodig. Geen webshop.
 
 - Pinterest-moodboards: **binnen** (campagne, lifestyle, packshots, 5 beelden per bord, zie [[blits-moodboard-campagne]], [[blits-moodboard-lifestyle]], [[blits-moodboard-packshots]]). Aanvullen mag.
 - Eigen BLITS-productbeeld (foto's of renders) voor de pagina's; de moodboardbeelden zijn alleen referentie.
-- Fontbestanden: **Archia** (Regular, SemiBold, Bold, `.otf`) binnen, in `.raw/2026-10-20/fonts/`. **TT Autonomous** (Bold Italic, Bold Outline Italic, Bold) nog aan te leveren, bij voorkeur `.woff2`, anders `.otf`/`.ttf`, met webgebruik in de licentie.
+- Fontbestanden: **Archia** (Regular, SemiBold, Bold, `.otf`) binnen, in `.raw/2026-10-20/fonts/`. **TT Autonomous**: geen bestanden, alleen via Adobe Fonts (TypeType). Aanpak: Adobe Web Project aanmaken en de kit-link delen; zelf hosten kan alleen met een aparte licentie bij TypeType. Tot die tijd een tijdelijk vergelijkbaar font in het design.
 - Logo: alleen de aangeleverde standaard schildlogo's (zwart-wit, staand en liggend); geen "Outside Wins."-lockup (zie [[blits-open-punten-2026-10-20]]). Omkleuren op donkere of gekleurde vlakken doet Claude Design met de bestaande vorm, niet herontworpen.
 - Handschriftaccent: besloten nee.
 
