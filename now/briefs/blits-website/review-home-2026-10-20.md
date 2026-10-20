@@ -23,3 +23,7 @@ Op verzoek van Bart keken twee experts (agents) los van elkaar naar Home-proef v
 
 - "Above ground" voor de Urban-trampolines (uit de productnamen afgeleid).
 - Norm en garantie per productfamilie.
+
+## Na de review (Bart, v5)
+
+Garantie Arena 5 jaar; Norm- en Also in-rij weg; "Rather order online" en "Run a shop or webshop" weg (de zoeker vindt winkels en webshops samen); "Why BLITS exists" weg; merkverhaal opnieuw opgemaakt.

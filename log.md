@@ -502,3 +502,7 @@ Feiten en spotlight gewisseld, feitentitel "OUTSIDE, COUNTED.", nieuw `Field`-co
 ## [2026-10-20] update | BLITS Home v4 na design- en merkreview
 
 Twee review-agents (Apple-design en branding) bekeken Home v3; Bart akkoord op vrijwel alles. Besluiten 21-23 toegevoegd aan [[blits-open-punten-2026-10-20]] (geen prijzen, "toys", Home na review). Doorgevoerd in Home v4 en design system v13; samenvatting in `now/briefs/blits-website/review-home-2026-10-20.md`. Zie [[blits-website-dealers]].
+
+## [2026-10-20] update | BLITS Home v5: laatste puntjes
+
+Merkverhaal opnieuw opgemaakt, Arena-plaatje met garantie 5 jaar (zonder Norm en Also in), foto vult het vlak, winkelzoeker zonder losse regels. Besluit 24 in [[blits-open-punten-2026-10-20]]. Zie [[blits-website-dealers]].

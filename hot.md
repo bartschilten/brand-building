@@ -48,7 +48,7 @@ _Laatst ververst: 2026-10-20_
   voor minder" en eigen premium-narratief; keuze staat open.
 - **[[luminous]]** — mist nog een expliciete "reden van bestaan"-zin.
 
-- **[[blits-website-dealers]]** — **Home-pagina proef v4** (privé-Artifact https://claude.ai/artifact/JsHhQ3bo83pSqvNJ5k61kX, design system v13), na design- en merkreview; nergens prijzen, "toys" niet "gear" (besluit 21-23). **Wacht op akkoord van Bart** en op campagnebeelden (`campagne-prompts.md`); open: bron voor de impactcijfers (kinderen buiten, uren buiten); daarna Brand, Assortment en BLITS for Professionals uit hetzelfde set. Bron: `now/briefs/blits-website/site/`. Geen speeltoestellen op de site; huidige productfoto's tijdelijk.
+- **[[blits-website-dealers]]** — **Home-pagina proef v5** (privé-Artifact https://claude.ai/artifact/JsHhQ3bo83pSqvNJ5k61kX, design system v13), na design- en merkreview; nergens prijzen, "toys" niet "gear" (besluit 21-24). **Wacht op akkoord van Bart** en op campagnebeelden (`campagne-prompts.md`); open: bron voor de impactcijfers (kinderen buiten, uren buiten); daarna Brand, Assortment en BLITS for Professionals uit hetzelfde set. Bron: `now/briefs/blits-website/site/`. Geen speeltoestellen op de site; huidige productfoto's tijdelijk.
 
 ## Beslissingen tot nu toe
 

@@ -46,23 +46,22 @@
 
   function Story() {
     return h('section', { className: 'section', id: 'brand', 'aria-labelledby': 'story-h' },
-      h('div', { className: 'wrap' },
-        h('div', { className: 'story' },
-          h('div', null,
-            h('p', { className: 'eyebrow eyebrow-row' }, 'Why BLITS exists'),
-            h(B.Heading, { id: 'story-h', size: 'l' }, 'Kids grow up outside.'),
-            h('p', { className: 'body-l story__lede' },
-              'Kids don’t grow up on a screen. They grow up ', h('b', null, 'outside'), ', with friends they haven’t met yet, knees they’ll scrape, and a world only they can find on their own. We build outdoor toys that are honest about that: ', h('b', null, 'built to be used'), ', not admired from a distance.')),
-          h('figure', { className: 'story__media' },
-            h(B.Photo, { cut: true, ratio: '4 / 5', brief: 'Two or three kids just off the pitch, covered in mud, arms around each other, laughing. Low angle, soft overcast light, dirt on knees and shirts. Real, not posed.' }),
-            h('figcaption', { className: 'display-m story__caption' }, 'Dirty knees are medals.'))),
-        h(B.ChalkDivider, { className: 'story__divider' }),
-        h('ol', { className: 'pillars' }, PILLARS.map(function (p) {
-          return h('li', { key: p[0], className: 'pillar' },
-            h(B.Marker, null, p[0]),
-            h('h3', { className: 'blits-heading display-s' }, p[1]),
-            h('p', { className: 'body' }, p[2]));
-        }))));
+      h('div', { className: 'wrap story' },
+        h('div', { className: 'story__text' },
+          h(B.Heading, { id: 'story-h', size: 'l' }, 'Kids grow up outside.'),
+          h('p', { className: 'body-l story__lede' },
+            'Kids don’t grow up on a screen. They grow up ', h('b', null, 'outside'), ', with friends they haven’t met yet, knees they’ll scrape, and a world only they can find on their own. We build outdoor toys that are honest about that: ', h('b', null, 'built to be used'), ', not admired from a distance.'),
+          h(B.ChalkDivider, { className: 'story__divider' }),
+          h('ol', { className: 'pillars' }, PILLARS.map(function (p) {
+            return h('li', { key: p[0], className: 'pillar' },
+              h(B.Marker, null, p[0]),
+              h('div', null,
+                h('h3', { className: 'blits-heading display-s' }, p[1]),
+                h('p', { className: 'body' }, p[2])));
+          }))),
+        h('figure', { className: 'story__media' },
+          h(B.Photo, { cut: true, ratio: '4 / 5', brief: 'Two or three kids just off the pitch, covered in mud, arms around each other, laughing. Low angle, soft overcast light, dirt on knees and shirts. Real, not posed.' },
+            h('figcaption', { className: 'display-m story__caption' }, 'Dirty knees are medals.')))));
   }
 
   var FACTS = [
@@ -130,9 +129,7 @@
           h(B.SpecPlate, { title: 'BLITS Arena', rows: [
             { label: 'Frame', value: 'Aluminium' },
             { label: 'Sizes', value: '180 × 120 cm\n300 × 200 cm\n500 × 200 cm' },
-            { label: 'Also in', value: 'Ultimate Training Pack (300 × 200, 500 × 200)' },
-            { label: 'Norm', value: '[NORM]' },
-            { label: 'Warranty', value: '[X YEARS]' }
+            { label: 'Warranty', value: '5 years' }
           ] }),
           h('div', { className: 'spotlight__actions' },
             h(B.Button, { href: '#store' }, 'Where to buy the Arena'),
@@ -146,13 +143,11 @@
         h('div', null,
           h('p', { className: 'eyebrow eyebrow-row' }, 'Where to buy'),
           h(B.Heading, { id: 'store-h', size: 'l' }, 'Find BLITS near you'),
-          h('p', { className: 'body-l dealer__lede' }, 'See BLITS for real, at a shop near you. Try the bounce, feel the frame.')),
+          h('p', { className: 'body-l dealer__lede' }, 'Shops and webshops near you, in one search. Try the bounce, feel the frame.')),
         h('div', null,
           h('form', { className: 'dealer__form', role: 'search', onSubmit: function (e) { e.preventDefault(); setSearched(true); } },
             h(B.Field, { label: 'Postcode or city', placeholder: 'e.g. 3011 AB', autoComplete: 'postal-code' }, h(B.Button, { type: 'submit' }, 'Show stores'))),
-          h('p', { className: 'body dealer__result', 'aria-live': 'polite' }, searched ? ['The store finder is coming soon ', h('span', { key: 'p', className: 'ph' }, '[STORE FINDER]'), '.'] : null),
-          h('p', { className: 'body dealer__online' }, 'Rather order online? ', h('span', { className: 'ph' }, '[ONLINE RETAILERS]')),
-          h('p', { className: 'body dealer__pro' }, 'Run a shop or webshop? ', h('a', { className: 'text-link', href: '#retailers' }, 'Stock BLITS →')))));
+          h('p', { className: 'body dealer__result', 'aria-live': 'polite' }, searched ? ['The store finder is coming soon ', h('span', { key: 'p', className: 'ph' }, '[STORE FINDER]'), '.'] : null))));
   }
 
   function Footer() {
