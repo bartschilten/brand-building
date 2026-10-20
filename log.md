@@ -422,3 +422,7 @@ Vijf referentiebeelden van het campagne-moodboard opgeslagen in `.raw/2026-10-20
 ## [2026-10-20] ingest | BLITS moodboard lifestyleshots
 
 Vijf referentiebeelden van het lifestyle-moodboard (voor de productpagina) opgeslagen in `.raw/2026-10-20/moodboard-lifestyle/`; beeldtaal in [[blits-moodboard-lifestyle]] en designbrief. Gebruiksregel vastgelegd: campagne = homepage/campagnes, nooit productpagina; lifestyle = productpagina. Packshotbord volgt. Open: geldt dit bord ook voor de speeltoestellen-lijn?
+
+## [2026-10-20] ingest | BLITS moodboard packshots
+
+Vijf referentiebeelden van het packshot-moodboard in `.raw/2026-10-20/moodboard-packshots/`; beeldtaal in [[blits-moodboard-packshots]], designbrief en initiatief bijgewerkt. Alle drie de moodboards (campagne, lifestyle, packshots) zijn nu binnen. Open: eigen BLITS-productbeeld nodig, grote producten en macro-details.
