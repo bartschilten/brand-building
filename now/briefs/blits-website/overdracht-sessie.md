@@ -1,6 +1,6 @@
 # Overdracht: BLITS-website, Home-pagina bouwen (stand 2026-10-20)
 
-Voor de volgende sessie. Lees in deze volgorde: dit bestand, `wiki/initiatives/blits-website-dealers.md`, `wiki/decisions/blits-open-punten-2026-10-20.md` (besluiten 1 t/m 20), `now/briefs/blits-website/designbrief.md`. Open daarna het design system: https://claude.ai/artifact/7nxXx7V2161nWAmFmCUznh (read-actie met de Artifact-tool; het is privé, alleen Bart kan het openen).
+Voor de volgende sessie. **Stand na sessie 2 (2026-10-20): componenten en Home-proef gebouwd, zie `site/README.md` en [[blits-website-dealers]]; wacht op akkoord van Bart.** Lees in deze volgorde: dit bestand, `wiki/initiatives/blits-website-dealers.md`, `wiki/decisions/blits-open-punten-2026-10-20.md` (besluiten 1 t/m 20), `now/briefs/blits-website/designbrief.md`. Open daarna het design system: https://claude.ai/artifact/7nxXx7V2161nWAmFmCUznh (read-actie met de Artifact-tool; het is privé, alleen Bart kan het openen).
 
 ## Doel
 

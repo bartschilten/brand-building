@@ -137,9 +137,9 @@
   "sections": []
  },
  "lastChange": {
-  "by": "Claude",
-  "at": "2026-10-20T16:00:00Z",
+  "by": "Bart Schilten",
+  "at": "2026-10-20T12:45:00Z",
   "via": "Claude Code",
-  "note": "All seven real textures added (mud and tartan track new); kraft removed."
+  "note": "Analog components built from Bart's picks: LanternHero, FieldLines, Icon, ChalkDoodle, ChalkDivider, FlipDigits, StampedShield, ChassisPlate, FilmStrip, Texture; PlaqueCard gets media, backdrop, piping E1/E6 and the J3 bounce."
  }
 }

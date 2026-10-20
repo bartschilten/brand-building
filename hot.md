@@ -48,7 +48,7 @@ _Laatst ververst: 2026-10-20_
   voor minder" en eigen premium-narratief; keuze staat open.
 - **[[luminous]]** — mist nog een expliciete "reden van bestaan"-zin.
 
-- **[[blits-website-dealers]]** — design system gebouwd (Claude-Artifact, privé) met de analoge keuzes van Bart verwerkt: lantaarnhero met animatie, zeven echte texturen, plaatjes, klapcijfers, filmstrip, stuiter J3 (besluit 17 t/m 20 in [[blits-open-punten-2026-10-20]]). **Volgende stap: de Home-pagina bouwen in een nieuwe sessie**, zie `now/briefs/blits-website/overdracht-sessie.md` (leesvolgorde, wat er nog gebouwd moet worden, startprompt). Geen speeltoestellen op de site; huidige productfoto's tijdelijk.
+- **[[blits-website-dealers]]** — **Home-pagina proef gebouwd** (privé-Artifact https://claude.ai/artifact/JsHhQ3bo83pSqvNJ5k61kX), met de nieuwe analoge componenten in het design system (v10). **Wacht op akkoord van Bart**; daarna Brand, Assortment en BLITS for Professionals uit hetzelfde set. Bron: `now/briefs/blits-website/site/`. Geen speeltoestellen op de site; huidige productfoto's tijdelijk.
 
 ## Beslissingen tot nu toe
 

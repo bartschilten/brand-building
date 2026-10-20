@@ -1,0 +1,96 @@
+/* BLITS Home — page layout only. Every visual part comes from the design system (bundle.css). */
+html{-webkit-text-size-adjust:100%}
+body{background:var(--surface)}
+img{max-width:100%}
+.wrap{max-width:1200px;margin:0 auto;padding:0 var(--space-7)}
+.section{padding:var(--space-9) 0}
+.section--warm{background:var(--surface-warm)}
+.section--green{background:var(--soccer-green);color:var(--night-pitch-green);--accent-fill:var(--soccer-green)}
+.section[data-theme="dark"]{background:var(--surface);color:var(--ink)}
+.lede{margin:0 0 var(--space-6);max-width:60ch}
+.eyebrow-row{margin:0 0 var(--space-3)}
+.section-head{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:var(--space-5);margin-bottom:var(--space-7)}
+.section-head .blits-heading{margin:0}
+.section-head p{margin:0;max-width:44ch}
+
+/* Header */
+.site-header{position:sticky;top:0;z-index:20;background:var(--night-pitch-green);color:var(--concrete-grey);border-bottom:1px solid rgba(215,215,215,.14)}
+.site-header__in{display:flex;align-items:center;gap:var(--space-6);min-height:72px}
+.site-header__logo{display:block;line-height:0}
+.site-header__logo img{height:34px;width:auto}
+.site-nav{display:flex;gap:var(--space-6);margin-left:auto}
+.site-nav a{color:var(--concrete-grey);text-decoration:none;font-family:var(--font-display);font-weight:800;font-size:12px;letter-spacing:.15em;text-transform:uppercase;padding:var(--space-3) 0}
+.site-nav a:hover{color:var(--soccer-green)}
+.site-header .blits-btn{min-height:44px;padding:14px var(--space-5);font-size:12px}
+.site-menu{display:none}
+
+/* Story */
+.story{display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);gap:var(--space-8);align-items:start}
+.story__panel{--cut:var(--cut-lg);aspect-ratio:4/5;clip-path:polygon(0 var(--cut),var(--cut) var(--cut),var(--cut) 0,calc(100% - var(--cut)) 0,calc(100% - var(--cut)) var(--cut),100% var(--cut),100% calc(100% - var(--cut)),calc(100% - var(--cut)) calc(100% - var(--cut)),calc(100% - var(--cut)) 100%,var(--cut) 100%,var(--cut) calc(100% - var(--cut)),0 calc(100% - var(--cut)))}
+.story__panel .blits-texture__content{height:100%;display:flex;flex-direction:column;justify-content:space-between;padding:var(--space-6)}
+.story__panel .blits-chalk{flex:1;min-height:0}
+.story__panel .eyebrow{margin:0;color:var(--concrete-grey)}
+.pillars{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:var(--space-6);margin:0;padding:0;list-style:none}
+.pillar .blits-marker{font-size:48px;-webkit-text-stroke-width:3px}
+.pillar h3{margin:var(--space-3) 0 var(--space-2);font-size:22px}
+.pillar p{margin:0}
+
+/* Range */
+.range{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:var(--space-5)}
+.range .blits-plate{padding:var(--space-5)}
+.range .blits-plate__media{margin:calc(var(--space-5) * -1) calc(var(--space-5) * -1) var(--space-5)}
+.range__meta{display:flex;align-items:center;justify-content:space-between;gap:var(--space-3);margin-top:var(--space-4);color:var(--ink)}
+.range__meta .eyebrow{margin:0}
+.range .blits-plate p.body{margin:0}
+.range__more{margin-top:var(--space-7);display:flex;justify-content:center}
+.field-well{color:var(--stuntpark-grey)}
+
+/* Facts */
+.facts-head{display:flex;align-items:center;gap:var(--space-6);margin-bottom:var(--space-7)}
+.facts{display:flex;flex-wrap:wrap;gap:var(--space-7) var(--space-8);margin:0;padding:0;list-style:none}
+.facts .blits-flip__label{color:var(--ink)}
+.facts-note{margin:var(--space-7) 0 0;font-size:14px;line-height:1.7;max-width:70ch;color:var(--ink)}
+.ph{font-family:var(--font-display);font-weight:800;font-size:12px;letter-spacing:.1em;padding:2px 6px;border:1px dashed currentColor}
+
+/* Film */
+.film-head{margin-bottom:var(--space-6)}
+
+/* Professionals */
+.pro{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,420px);gap:var(--space-8);align-items:center}
+.pro .blits-heading{color:var(--night-pitch-green)}
+.pro .blits-chassis{width:100%}
+.pro__actions{display:flex;flex-wrap:wrap;gap:var(--space-3);margin-top:var(--space-6)}
+.section--green .blits-btn--secondary{color:var(--night-pitch-green);border-color:var(--night-pitch-green)}
+.section--green .blits-btn--primary:hover,.section--green .blits-btn--secondary:hover{background:var(--night-pitch-green);color:var(--soccer-green)}
+
+/* Footer */
+.site-footer{background:var(--surface);color:var(--ink);padding:var(--space-8) 0 var(--space-7)}
+.site-footer__top{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:var(--space-6)}
+.site-footer__top img{height:56px;width:auto}
+.site-footer nav{display:flex;flex-wrap:wrap;gap:var(--space-5)}
+.site-footer nav a{color:var(--ink);text-decoration:none;font-family:var(--font-display);font-weight:800;font-size:12px;letter-spacing:.15em;text-transform:uppercase}
+.site-footer nav a:hover{color:var(--soccer-green)}
+.site-footer__bottom{display:flex;flex-wrap:wrap;justify-content:space-between;gap:var(--space-4);font-size:14px}
+.site-footer__bottom p{margin:0}
+.site-footer .display-s{color:var(--soccer-green)}
+
+@media (max-width:1000px){
+ .range{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .story{grid-template-columns:1fr}
+ .story__panel{aspect-ratio:16/10}
+ .pro{grid-template-columns:1fr}
+}
+@media (max-width:760px){
+ .wrap{padding:0 var(--space-4)}
+ .section{padding:var(--space-8) 0}
+ .site-nav,.site-header .blits-btn{display:none}
+ .site-menu{display:block;margin-left:auto}
+ .site-menu summary{list-style:none;cursor:pointer;font-family:var(--font-display);font-weight:800;font-size:12px;letter-spacing:.15em;text-transform:uppercase;padding:14px 0;min-height:44px}
+ .site-menu summary::-webkit-details-marker{display:none}
+ .site-menu[open] nav{position:absolute;left:0;right:0;top:72px;display:grid;gap:var(--space-2);padding:var(--space-4);background:var(--night-pitch-green);border-bottom:1px solid rgba(215,215,215,.14)}
+ .site-menu nav a{color:var(--concrete-grey);text-decoration:none;font-family:var(--font-display);font-weight:800;font-size:14px;letter-spacing:.15em;text-transform:uppercase;padding:var(--space-3) 0}
+ .pillars{grid-template-columns:1fr}
+ .range{grid-template-columns:1fr}
+ .facts-head{flex-direction:column;align-items:flex-start}
+ .blits-flip__tile{width:34px;height:54px;font-size:26px}
+}

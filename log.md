@@ -486,3 +486,7 @@ Texturen compleet: beton, asfalt, zand, gras, modder, tartanbaan, regenplas, all
 ## [2026-10-20] update | Overdracht BLITS-website naar nieuwe sessie
 
 Overdracht geschreven (`now/briefs/blits-website/overdracht-sessie.md`), bronbestanden en scripts van het design system bewaard (`now/briefs/blits-website/design-system-bron/`), gekleurde logo's en alle texturen in `.raw/2026-10-20/`. hot.md ververst. Zie [[blits-website-dealers]].
+
+## [2026-10-20] build | BLITS-website: analoge componenten en Home-proef
+
+Tien componenten toegevoegd aan het BLITS design system (v10: LanternHero, FieldLines, Icon, ChalkDoodle, ChalkDivider, FlipDigits, StampedShield, ChassisPlate, FilmStrip, Texture; PlaqueCard uitgebreid met media, backdrop, bies E1/E6 en J3-stuiter). Home-pagina gebouwd en als privé-Artifact gepubliceerd; bron in `now/briefs/blits-website/site/`. Zie [[blits-website-dealers]].
