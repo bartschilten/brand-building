@@ -61,8 +61,8 @@ vastgelegd als regel — graag bevestigen):
 | **Primaire knop** | industriële onverwoestbaarheid; Home Base (code 4) | rode pil volgens PDF; bij hover/indrukken verschijnt een kleine **Home Base-stip** (Soccer Green) en de knop "zakt" een paar pixels, alsof je de paal tikt | Basketball Red, witte tekst (4,3:1 — alleen groot/vet) |
 | **Secundaire knop** | outline-italic accent | zelfde pil met alleen contour | Night Pitch Green contour; op donker Soccer Green |
 | **Veldlijn-achtergrond** | code 1 (jas als doelpaal), code 2 | zeer grote, lage-contrast lijnen: middencirkel, strafschopgebied, basketbalbaan, trampolinecontour, afgesneden door de paginarand; als sectieachtergrond | Soccer Green lijnen op Night Pitch Green, of Concrete Grey lijnen op Beige |
-| **Schemer-verloop** | "laatste doelpunt wint": de lantaarns gaan aan | sectieachtergrond met verloop van Night Pitch Green naar Tour de Yellow (lantaarnlicht); sluit aan op het kleurverloop in de PDF's; voor hero's en campagne | Night Pitch Green → Tour de Yellow |
-| **Koprandje: "Golden Goal"-bies** | geweven rode bies op doel/net (Tier 1) | dun rood lijntje onder koppen of aan de rand van kaarten, als de geweven bies op het product | Basketball Red |
+| **Schemer-verloop** | het schemeruur: de lantaarns gaan aan (sfeer; "Laatste doelpunt wint" is geschrapt, 2026-10-20) | sectieachtergrond met verloop van Night Pitch Green naar Tour de Yellow (lantaarnlicht); sluit aan op het kleurverloop in de PDF's; voor hero's en campagne | Night Pitch Green → Tour de Yellow |
+| **Koprandje: rode bies** (voorheen "Golden Goal"-bies, naam heroverwogen sinds 2026-10-20) | geweven rode bies op doel/net (Tier 1) | dun rood lijntje onder koppen of aan de rand van kaarten, als de geweven bies op het product | Basketball Red |
 | **Lijniconen** | "echte feiten", industriële eenvoud | één lijndikte, opgebouwd uit veldlijnen en maten; voor USP's, levering, garantie, montage | Night Pitch Green |
 
 Uitvoering: eerst dit kleine set als Figma/storybook-bouwstenen, zodat elke
@@ -98,14 +98,14 @@ stapelen nu niet op de kern.
 
 ## Open punten
 
-- **Spanning met de toon:** "Laatste doelpunt wint" en de Golden Goal-bies
-  (Tier 1) liggen dicht tegen winnen-taal aan. Het besluit
-  [[blits-tone-of-voice-definitief]] zegt dat winnen/verliezen kinderen niet
-  tegen elkaar mag zetten; het ritueel is juist samen spelen tot het donker.
-  Bart bevestigt of dit mag blijven.
-- **Handschriftaccent:** blijft er een handschrift-lettertype (Kalam was het)
-  of worden krijtelementen alleen illustraties?
-- **Afgesneden hoek:** is dit een bewuste merkvorm of toeval in de PDF's?
+- **Besloten 2026-10-20** ([[blits-open-punten-2026-10-20]]): "Laatste
+  doelpunt wint" is geschrapt. De schemer als sfeer mag blijven, niet als
+  winnen-taal. De bies heet niet meer "Golden Goal"; blijft als puur
+  detail alleen als Bart dat wil.
+- **Handschriftaccent:** lijkt nee (geen handschriftfont in het fontset); dan
+  zijn krijtelementen alleen illustratie. Wacht op bevestiging.
+- **Afgesneden hoek:** geen vastgestelde merkvorm. De vormtaal wordt samen met
+  Claude Design ontworpen ([[blits-website-dealers]]).
 - **Gebruiksregels per kleur/ratio:** komen met de brandmanager; deze
   elementen volgen die regels.
 - **Geen haalbaarheidstoets:** alles hier is digitaal/grafisch en kost

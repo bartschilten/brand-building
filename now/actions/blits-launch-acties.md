@@ -40,15 +40,19 @@ er een resultaat terugkomt).
   sport-lijn-fotografie, of wil je dat ik — net als bij het logo — een
   briefing voor een fotograaf opstel?
 
+## Website voor dealers (gestart 2026-10-20)
+
+Zie [[blits-website-dealers]] en `now/briefs/blits-website/designbrief.md`.
+
+- [ ] **Aanleveren:** Pinterest-beelden (8–15 per moodboard) + vijf regels beschrijving per bord.
+- [ ] **Aanleveren:** webfont-bestanden TT Autonomous en Archia; logokleurvarianten en lockups met "Outside Wins.".
+- [ ] **Beslissen:** handschriftaccent nee? (lijkt nee, bevestigen).
+- [ ] **Extern:** BLITS-design-system starten in Claude Design (eigen systeem, niet Toppy).
+
 ## Kleine open bevestigingen (kunnen altijd, geen haast)
 
-- [ ] **Beslissen:** aanspreekvorm in het Engelse copy — "you" voelt voor
-  jou mogelijk "wijzend" aan (zie [[blits-tone-of-voice-definitief]] § 6).
-  Als je hier geen sterke mening over hebt, stel ik bij de eerste
-  concrete Engelse tekst een paar alternatieven voor.
-- [ ] **Beslissen:** blijft de metafoor "vuile knieën zijn medailles" staan,
-  of vervangen (zie [[blits-tone-of-voice-definitief]], sectie
-  "nog te bevestigen")?
+- [x] **Gedaan 2026-10-20:** aanspreekvorm Engels = "you" blijft; "vuile
+  knieën zijn medailles" blijft ([[blits-open-punten-2026-10-20]]).
 - [ ] **Geen actie nodig:** exacte Pantone-kleurtint koraalrood — bewust
   gepauzeerd tot er daadwerkelijk gedrukt wordt.
 

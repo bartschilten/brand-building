@@ -81,7 +81,9 @@ productnamen en website-vormgeving — niet uit de schrijfstijl. Dit is een
 concrete aanscherping van die eerdere prijs/persoonlijkheid-resolutie,
 toegepast op taal specifiek, geen koerswijziging.
 
-## 6. Aanspreekvorm — NOG OPEN, geen besluit
+## 6. Aanspreekvorm — BESLOTEN 2026-10-20: "you" blijft
+
+> Bart bevestigde op 2026-10-20 ([[blits-open-punten-2026-10-20]]): "you" is de aanspreekvorm in het Engels. De tekst hieronder is de oorspronkelijke twijfel en is achterhaald.
 
 Nederlands "je/jij" lijkt geen probleem. Engels "you" voelt voor Bart
 mogelijk **"wijzend"/aanwijzend** aan — hij twijfelt of dat de juiste
@@ -125,7 +127,9 @@ megatof/keileuk, gezellig/samen/veilig (als vaag containerwoord), eventjes/
 misschien/een beetje, moeilijk of betuttelend taalgebruik — **en nieuw:**
 elke winnen/verliezen/strijd/wedstrijd-taal die kinderen tegen elkaar zet.
 
-**Nog te bevestigen (niet eenzijdig gewijzigd):** de metafoor "vuile knieën
+**Besloten 2026-10-20 ([[blits-open-punten-2026-10-20]]): de metafoor blijft staan.** Oorspronkelijke overweging:
+
+de metafoor "vuile knieën
 zijn medailles" uit het oude concept gebruikt zelf ook een
 competitie-/prestatiebeeld (een medaille wordt gewonnen). Dit is niet door
 Bart expliciet afgekeurd, maar staat op gespannen voet met besluit 1

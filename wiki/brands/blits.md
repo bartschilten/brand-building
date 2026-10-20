@@ -390,7 +390,7 @@ niets van de bestaande strategie, het is een extra ontwerplaag. Concreet:
   van speelhuizen (geheime-boomhut-ritueel), een messing 'Yard Bell' als
   speeltoestellen-accessoire (geroepen worden voor het eten), een
   gegraveerde stalen multitool i.p.v. wegwerp-inbussleuteltje, en een
-  koraalrode 'Golden Goal'-bies op sportdoelen/trampolines. Status:
+  koraalrode 'Golden Goal'-bies op sportdoelen/trampolines (sinds 2026-10-20 heroverwogen: "Laatste doelpunt wint" is geschrapt, dus naam en concept van de bies moeten los van dat ritueel). Status:
   voorgesteld, nog niet getoetst op kostprijs/haalbaarheid — loopt mee in
   de gewone assortiments-/productontwikkelingstoets. Volledige tabel (acht
   codes × drager × copy × productdesign) in [[neo-heritage-branding]].
@@ -435,9 +435,8 @@ vragenronde. Kern:
   verpakking en instructies blijven eenvoudiger en rustiger.
 - **Humor mag** — vooral via de nostalgische knipogen uit de
   neo-heritage-laag (zie § Neo-heritage hierboven), niet als apart register.
-- **Open, nog geen besluit:** aanspreekvorm in het Engels ("you" voelt voor
-  Bart mogelijk "wijzend" aan) — te verkennen bij de eerste concrete
-  Engelse copy.
+- **Aanspreekvorm in het Engels: "you" blijft** (besloten 2026-10-20, zie
+  [[blits-open-punten-2026-10-20]]); "vuile knieën zijn medailles" blijft.
 
 ## Merkverhaal & messaging-hiërarchie (vastgesteld 2026-10-10)
 
@@ -742,10 +741,12 @@ assistent op Bart's verzoek, nog niet gestart:
 
 Identiteitsfase loopt. Open:
 
-- Logo-lockups met "PLAY MORE" definitief herbouwen (vector, door een
-  designer) met "Buiten wint." / "Outside Wins." in Archivo Black — het
-  canvas toont nu een concept-richting, geen productiebestand. Briefing
-  klaar: [[blits-logo-designbriefing]], wacht op een externe designer.
+- Logo: zwart-wit logobestanden (staand en liggend schild) bestaan sinds
+  2026-10-20 (`.raw/2026-10-20/`). Open: kleurvarianten in het nieuwe palet
+  en lockups met "Outside Wins." (de "PLAY MORE"-lockup is verouderd).
+- **Website voor dealers** ([[blits-website-dealers]]): gestart 2026-10-20.
+  Open daarbij: merkvormen en kleurgebruiksregels, samen met Claude Design
+  te ontwerpen; handschriftaccent (lijkt nee) wacht op bevestiging.
 - Kleur: Basketball Red `#D74A23` beantwoordt de koraalrood-tintvraag
   (Pantone-match blijft een productiestap). Open: gebruiksregels/ratio per
   lijn (Bart + brandmanager), verpakking/sport-rebrand/logo-briefing/
@@ -757,6 +758,7 @@ Identiteitsfase loopt. Open:
 
 ## Timeline
 
+- **2026-10-20** | Bart + assistent — BLITS-website voor dealers gestart ([[blits-website-dealers]]); open punten beantwoord ([[blits-open-punten-2026-10-20]]): "Laatste doelpunt wint" geschrapt, "you" blijft, "vuile knieën zijn medailles" blijft, merkvormen en kleurregels worden samen met Claude Design ontworpen, logobestanden aangeleverd.
 - **2026-10-12** | Bart + assistent — True Story Canvas ingevuld voor BLITS en als typbaar formulier beschikbaar, zie [[blits-true-story-canvas]].
 - **2026-10-14** | Bart meldde (via een andere sessie) dat de kernwaarden niet in de kennisbank te vinden waren. Oorzaak: [[blits-merkgids]] miste al sinds het aanmaken de secties Merkwaarden/persoonlijkheid en Doelgroep-persona's (ze stonden wél altijd in deze pagina) — nu toegevoegd. Daarnaast bleek de eigen branch (`claude/compassionate-tesla-ejdcex`) losgekoppeld te zijn geraakt van `main`: al het eerdere werk bleek al gemerged, maar deze fix dreigde opnieuw op een eigen branch te blijven staan. Direct via PR naar `main` gezet (nieuwe regel sinds 2026-10-12, zie CLAUDE.md). Tegelijk [[blits-sportlijn-productrebrand]] bijgewerkt naar het nieuwe kleurenpalet (stond nog op olijfgroen/koraalrood, was al als "te herzien" gesignaleerd in § Visuele identiteit).
 - **2026-10-12** | Bart + assistent — heritage vertaald naar bouwstenen voor website/grafisch ([[blits-ontwerpelementen-heritage]]), voorstel voor designers.
