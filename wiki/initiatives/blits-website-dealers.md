@@ -21,7 +21,7 @@ merkindruk; verkopen gebeurt via het dealeraanvraagformulier.
 
 1. **Home**
 2. **Brand** — het verhaal: waarom BLITS bestaat
-3. **Assortment** — sport-lijn en speeltoestellen-lijn
+3. **Assortment** — alle live BLITS-producten (buitenspeelgoed; geen speeltoestellen)
 4. **BLITS for Professionals** — waarom dealer worden; leidt naar het
    **dealeraanvraagformulier**
 
@@ -61,6 +61,7 @@ Meer is niet nodig. Geen webshop.
 
 ## Timeline
 
+- **2026-10-20** | Bart — geen speeltoestellen op de website of in het merkverhaal (generiek: buitenspeelgoed); alle productbeelden worden nieuw gemaakt, huidige foto's tijdelijk; beeldplan opgesteld (`now/briefs/blits-website/beeldplan.md`).
 - **2026-10-20** | Bart — één beeldlijn voor sport en speeltoestellen; startassortiment = alle live BLITS-producten bij Toppy (45, sport-lijn); Apple-ontwerpregels (emilkowalski/skills) gelden voor de website, skills geïmporteerd.
 - **2026-10-20** | Bart — Archia-fontbestanden (Regular, SemiBold, Bold) aangeleverd; TT Autonomous nog niet.
 - **2026-10-20** | Bart — drie Pinterest-moodboards (campagne, lifestyle, packshots) aangeleverd; beeldtaal en gebruiksregel per beeldtype (campagne = homepage/campagnes, lifestyle en packshots = productpagina) vastgelegd.

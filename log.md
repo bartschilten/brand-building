@@ -446,3 +446,7 @@ Adobe-kit voor TT Autonomous vervalt (lukt niet): vervangend font in het design.
 ## [2026-10-20] update | BLITS-website: eén beeldlijn, startassortiment, Apple-ontwerpregels
 
 Bart: één beeldlijn voor sport en speeltoestellen (sport iets meer modder, speeltoestellen iets cleaner/warmer); startassortiment = alle live BLITS-producten bij Toppy (45, alleen sport-lijn, uit Toppy-data) → `now/briefs/blits-website/producten-live.md`; Apple-ontwerpregels toepassen: negen skills uit emilkowalski/skills in `.claude/skills/design/` geïmporteerd, samengevat in designbrief § 11, CLAUDE.md bijgewerkt. Besluit: [[blits-open-punten-2026-10-20]].
+
+## [2026-10-20] update | BLITS-website: geen speeltoestellen, nieuw beeld, beeldplan
+
+Bart: op de site en in het merkverhaal niets over speeltoestellen (generiek: buitenspeelgoed), alle beelden nieuw (huidige foto's tijdelijk). Verwerkt in designbrief, [[blits-open-punten-2026-10-20]], [[blits-website-dealers]]; voorstel voor beeldproductie in `now/briefs/blits-website/beeldplan.md`.

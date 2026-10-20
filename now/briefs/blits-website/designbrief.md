@@ -8,18 +8,22 @@ Een zeer visuele, professionele **merkwebsite voor B2B-dealers** (geen webshop).
 
 Eigen BLITS-design-system. **Niet** het Toppy-design-system gebruiken: de regels daar (geen zwart vlak, geen pill-knoppen) gelden hier niet.
 
-**Pagina's:** Home · Brand (waarom BLITS bestaat) · Assortment (sport-lijn, speeltoestellen-lijn) · BLITS for Professionals (leidt naar een dealeraanvraagformulier). Taal: **Engels is de master** (site wordt internationaal), Nederlands volgt.
+**Pagina's:** Home · Brand (waarom BLITS bestaat) · Assortment (alle live BLITS-producten, nu 45 buitenspeelgoed-producten, zie `producten-live.md`) · BLITS for Professionals (leidt naar een dealeraanvraagformulier). Taal: **Engels is de master** (site wordt internationaal), Nederlands volgt.
 
 ## 2. Merk in één alinea
 
-BLITS bestaat om kinderen, van dreumes tot puber, buiten te laten opgroeien: *met vriendjes die je nog niet kent, teleurstellingen die je overleeft, en avontuur dat geen scherm je kan geven.* Eén merk, twee lijnen: **sport-lijn** (voetbaldoelen, basketbalpalen, trampolines) en **speeltoestellen-lijn** (speelhuizen, schommels, zandbakken). Tagline: **"Outside Wins."** (NL: "Buiten wint.").
+> **Scope-regel (Bart, 2026-10-20): op de website en in het merkverhaal komt niets voor over speeltoestellen** (speelhuizen, schommels, zandbakken, "twee lijnen"). Die bestaan nog niet en het is onzeker of ze volgend jaar komen. Houd het verhaal generiek: **buitenspeelgoed**. Ook in beeld, kopteksten, iconen en navigatie. Het officiële merkverhaal in de vault noemt "two lines" en "a toddler's first playhouse"; voor de site geldt de generieke versie hieronder.
+
+**Website-versie merkverhaal (voorstel, door Bart te bevestigen):** *BLITS exists because kids don't grow up on a screen — they grow up outside, with friends they haven't met yet, knees they'll scrape, and a world only they can find on their own. We build outdoor gear that's honest about that: built to be used hard, not admired from a distance. From a toddler's first bounce to a teenager's last game before the streetlights come on, outside wins.*
+
+BLITS bestaat om kinderen, van dreumes tot puber, buiten te laten opgroeien: *met vriendjes die je nog niet kent, teleurstellingen die je overleeft, en avontuur dat geen scherm je kan geven.* Het merk is **buitenspeelgoed**, zonder opdeling in lijnen. Tagline: **"Outside Wins."** (NL: "Buiten wint.").
 
 Kernbelofte: *BLITS gets kids outside, together, through every age and every fall.*
 
 Drie pijlers:
 1. **Real time, not screen time** — altijd evocatief (modder/buiten tegenover scherm), nooit een beschuldiging of schuldgevoel richting ouders.
 2. **Built to be used, not admired** — onverwoestbaar, eerlijke materialen; details als bewijs, niet als decoratie.
-3. **Every kid finds their own place outside** — sport = je eigen kracht ontdekken, speeltoestellen = je eigen plekje ontdekken.
+3. **Every kid finds their own place outside** — hun eigen kracht, hun eigen plek buiten ontdekken.
 
 Merkwaarden: avontuurlijk, esthetisch, vrijheid, eerlijk, kwalitatief. Persoonlijkheid: zeer vernieuwend en bold, zeer toegankelijk in prijs.
 
@@ -98,7 +102,9 @@ Er is **geen vastgestelde merkvorm**; de afgesneden hoek in de kleurenpdf is nie
 
 ## 10. Beeld
 
-Drie Pinterest-moodboards van Bart (packshots, lifestyle, campagne), als uploads in het project. **Campagne-moodboard is binnen** (zie `wiki/sources/blits-moodboard-campagne.md`): echte actie en rommel (modder, stof), lage camerahoek en kinderen groot tegen de lucht, niet poseren, analoog gevoel (korrel, lichte bewegingsonscherpte), verzadigd geel/blauw/groen, plek = straat, stoep, gaashek, plein, plas. Beelden zijn referenties van derden, niet voor publicatie. **Gebruik per type:** campagne = homepage en campagnes, nooit productpagina; lifestyle = productpagina; packshots = productpagina/assortiment (volgen). **Lifestyle-moodboard is binnen** (zie `wiki/sources/blits-moodboard-lifestyle.md`): stilleven op een echte plek (veld, betonnen hoek, kleedkamer), hard richtinggevend licht met lange schaduw, gedempt aards palet met één verzadigd accent, industrieel-vintage rekwisieten, bijna geen mensen. Geen tekst als "Champions" op rekwisieten. **Packshot-moodboard is binnen** (zie `wiki/sources/blits-moodboard-packshots.md`): twee modi, het hele product op effen lichtgrijs (= Concrete Grey `#D7D7D7`) en macro-details van materiaal en schildplaatje; zacht diffuus licht, eerlijke matte materialen, één accent per product. Voor grote producten en details die nog niet bestaan: duidelijke placeholders, nooit verzonnen details. Alle drie de borden zijn binnen. **Eén beeldlijn voor het hele merk (besloten 2026-10-20):** zoveel mogelijk hetzelfde tussen sport en speeltoestellen. Verschil is alleen een accent: **sport iets meer modder en rommel, speeltoestellen iets cleaner en warmer.** Je moet altijd zien dat het hetzelfde merk is (zelfde kleurpalet, licht, kadrering, rust en detail, zelfde moodboards). Campagnebeeld mag gouden en bewolkt licht gebruiken; product en lifestyle blijven bij hard, richtinggevend licht. Er staan nu alleen **sport-producten** live (45 stuks, zie `producten-live.md`); speeltoestellen komen later.
+Drie Pinterest-moodboards van Bart (packshots, lifestyle, campagne), als uploads in het project. **Campagne-moodboard is binnen** (zie `wiki/sources/blits-moodboard-campagne.md`): echte actie en rommel (modder, stof), lage camerahoek en kinderen groot tegen de lucht, niet poseren, analoog gevoel (korrel, lichte bewegingsonscherpte), verzadigd geel/blauw/groen, plek = straat, stoep, gaashek, plein, plas. Beelden zijn referenties van derden, niet voor publicatie. **Gebruik per type:** campagne = homepage en campagnes, nooit productpagina; lifestyle = productpagina; packshots = productpagina/assortiment (volgen). **Lifestyle-moodboard is binnen** (zie `wiki/sources/blits-moodboard-lifestyle.md`): stilleven op een echte plek (veld, betonnen hoek, kleedkamer), hard richtinggevend licht met lange schaduw, gedempt aards palet met één verzadigd accent, industrieel-vintage rekwisieten, bijna geen mensen. Geen tekst als "Champions" op rekwisieten. **Packshot-moodboard is binnen** (zie `wiki/sources/blits-moodboard-packshots.md`): twee modi, het hele product op effen lichtgrijs (= Concrete Grey `#D7D7D7`) en macro-details van materiaal en schildplaatje; zacht diffuus licht, eerlijke matte materialen, één accent per product. Voor grote producten en details die nog niet bestaan: duidelijke placeholders, nooit verzonnen details. Alle drie de borden zijn binnen. **Eén beeldlijn (besloten 2026-10-20):** alle beelden volgen dezelfde beeldtaal: zelfde palet, licht, kadrering, rust en detail, zelfde moodboards. Campagnebeeld mag iets meer modder en rommel hebben, productbeeld is schoner. Altijd herkenbaar BLITS. Campagnebeeld mag gouden en bewolkt licht gebruiken; product en lifestyle blijven bij hard, richtinggevend licht. **Er komt geen speeltoestel in beeld.**
+
+**Huidige productfoto's zijn tijdelijk** (besloten 2026-10-20): ze passen niet bij de moodboards (oud merk, geen BLITS-merk zichtbaar, deels AI-gegenereerd). Gebruik ze als duidelijke plaatshouders; ze worden allemaal vervangen. Plan: `now/briefs/blits-website/beeldplan.md`.
 
 Beeldkwaliteit is waarop de site zich onderscheidt van de concurrentie.
 
