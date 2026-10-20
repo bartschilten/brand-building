@@ -1,0 +1,6 @@
+<!-- @dsCard group="Analoog: componenten" height=380 width=960 subtitle="Photo slot with a visible shot brief until the photo exists" -->
+<!doctype html><html><head><meta charset="utf-8"><link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700..900&display=swap" rel="stylesheet"><style>*{box-sizing:border-box}body{margin:0;padding:20px;background:var(--surface);color:var(--ink);font-family:var(--font-sans)}</style><style></style></head><body><div id="root"></div><script>
+var B=window.Blits,h=React.createElement;
+function App(){return h("div",{style:{display:"grid",gridTemplateColumns:"1fr 1fr 2fr",gap:16,alignItems:"start"}},h(B.Photo,{cut:true,ratio:"4 / 5",brief:"Kids in the mud, arms around each other, laughing."}),h(B.Photo,{ratio:"4 / 5",kind:"Lifestyle photo",brief:"Goal in a concrete corner, hard light, long shadow."}),h(B.Photo,{ratio:"3 / 2",src:B.assets.textures.puddle,alt:"Rain puddle under a streetlight"}))}
+ReactDOM.createRoot(document.getElementById("root")).render(h(App));
+</script></body></html>

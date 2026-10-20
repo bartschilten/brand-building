@@ -69,5 +69,5 @@ _(nog geen pagina's)_
 
 ## initiative
 
-- [[blits-website-dealers]] — BLITS-merkwebsite voor dealers: design system met analoge componenten, Home-pagina als proef gebouwd, wacht op akkoord (developing)
+- [[blits-website-dealers]] — BLITS-merkwebsite voor dealers: design system met analoge componenten, Home-proef v2 na feedback, wacht op akkoord en campagnebeelden (developing)
 - [[blits-launch-rollout]] — rebrand sport-lijn + launch speeltoestellen-lijn, fase 1 (fundament) afgerond (developing)

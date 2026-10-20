@@ -490,3 +490,7 @@ Overdracht geschreven (`now/briefs/blits-website/overdracht-sessie.md`), bronbes
 ## [2026-10-20] build | BLITS-website: analoge componenten en Home-proef
 
 Tien componenten toegevoegd aan het BLITS design system (v10: LanternHero, FieldLines, Icon, ChalkDoodle, ChalkDivider, FlipDigits, StampedShield, ChassisPlate, FilmStrip, Texture; PlaqueCard uitgebreid met media, backdrop, bies E1/E6 en J3-stuiter). Home-pagina gebouwd en als privé-Artifact gepubliceerd; bron in `now/briefs/blits-website/site/`. Zie [[blits-website-dealers]].
+
+## [2026-10-20] update | BLITS Home-proef v2 na feedback van Bart
+
+Campagnehero, Streetlight (lantaarn voor bakstenen muur verlicht de filmstrip), fotovakken, rustiger assortiment, inspirerende feiten, productspotlight en Find a dealer. Drie nieuwe componenten in het design system (v11: Photo, CampaignHero, Streetlight). Campagne-prompts in `now/briefs/blits-website/campagne-prompts.md`. Zie [[blits-website-dealers]].

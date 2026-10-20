@@ -1,4 +1,4 @@
-/* @ds-bundle: {"format":4,"namespace":"Blits","components":[{"name":"Button"},{"name":"Heading"},{"name":"PlaqueCard"},{"name":"SpecPlate"},{"name":"Divider"},{"name":"Marker"},{"name":"FieldLines"},{"name":"Icon"},{"name":"ChalkDoodle"},{"name":"ChalkDivider"},{"name":"FlipDigits"},{"name":"StampedShield"},{"name":"ChassisPlate"},{"name":"FilmStrip"},{"name":"Texture"},{"name":"LanternHero"}]} */
+/* @ds-bundle: {"format":4,"namespace":"Blits","components":[{"name":"Button"},{"name":"Heading"},{"name":"PlaqueCard"},{"name":"SpecPlate"},{"name":"Divider"},{"name":"Marker"},{"name":"FieldLines"},{"name":"Icon"},{"name":"ChalkDoodle"},{"name":"ChalkDivider"},{"name":"FlipDigits"},{"name":"StampedShield"},{"name":"ChassisPlate"},{"name":"FilmStrip"},{"name":"Texture"},{"name":"LanternHero"},{"name":"Photo"},{"name":"CampaignHero"},{"name":"Streetlight"}]} */
 (function () {
   var h = React.createElement;
   function cx() { return Array.prototype.filter.call(arguments, Boolean).join(' '); }
@@ -291,10 +291,49 @@
         props.children ? h('div', { className: 'blits-lantern__actions' }, props.children) : null));
   }
 
+  /* Photo slot. Fixed aspect ratio, image separate from text. Without src it shows a visible placeholder that describes the shot. */
+  function Photo(props) {
+    var Tag = props.as || 'figure';
+    return h(Tag, { className: cx('blits-photo', props.cut && 'blits-photo--cut', props.className), style: Object.assign({ aspectRatio: props.ratio || '4 / 5' }, props.style) },
+      props.src ? h('img', { src: props.src, alt: props.alt || '', loading: props.eager ? 'eager' : 'lazy', style: props.position ? { objectPosition: props.position } : null })
+        : h('div', { className: 'blits-photo__placeholder' },
+          h('p', { className: 'eyebrow' }, props.kind || 'Campaign photo'),
+          h('p', { className: 'blits-photo__brief' }, props.brief || '[PHOTO]')),
+      props.children);
+  }
+
+  /* Campaign hero: one large campaign photograph, full bleed, with the headline on a dark gradient. */
+  function CampaignHero(props) {
+    return h('section', { className: cx('blits-campaign', props.className), 'data-theme': 'dark', 'aria-label': props.label },
+      h(Photo, { as: 'div', className: 'blits-campaign__photo', src: props.src, alt: props.alt, brief: props.brief, kind: 'Campaign photo', ratio: 'auto', eager: true, position: props.position }),
+      h('div', { className: 'blits-campaign__shade', 'aria-hidden': 'true' }),
+      h('div', { className: 'blits-campaign__copy' },
+        props.eyebrow ? h('p', { className: 'eyebrow', style: { margin: 0 } }, props.eyebrow) : null,
+        h('h1', { className: 'display-xl blits-campaign__title' }, props.title),
+        props.intro ? h('p', { className: 'body-l blits-campaign__intro' }, props.intro) : null,
+        props.children ? h('div', { className: 'blits-campaign__actions' }, props.children) : null));
+  }
+
+  /* B2 · streetlight in front of a brick wall. The light flickers on, lights the wall and the content (photos), then goes out. */
+  function Streetlight(props) {
+    var st = React.useState(0), mode = st[0], setMode = st[1];
+    function toggle(e) { if (props.toggle === false || e.target.closest('a,button,input,select,textarea')) return; setMode((mode + 1) % 3); }
+    return h('section', { className: cx('blits-streetlight', mode === 1 && 'on', mode === 2 && 'off', props.side === 'left' && 'blits-streetlight--left', props.className), 'data-theme': 'dark', onClick: toggle, 'aria-label': props.label, id: props.id, style: { '--brick-grain': 'url(' + assets.textures.concrete + ')' } },
+      h('div', { className: 'blits-streetlight__wall', 'aria-hidden': 'true' }),
+      h('div', { className: 'blits-streetlight__wall blits-streetlight__wall--lit a-soft', 'aria-hidden': 'true' }),
+      h('div', { className: 'blits-streetlight__cone a-lit', 'aria-hidden': 'true' }),
+      h('div', { className: 'blits-streetlight__pole', 'aria-hidden': 'true' }),
+      h('div', { className: 'blits-streetlight__head', 'aria-hidden': 'true' }),
+      h('div', { className: 'blits-streetlight__bulb a-lit', 'aria-hidden': 'true' }),
+      h('div', { className: 'blits-streetlight__content' }, props.children),
+      h('div', { className: 'blits-streetlight__dim a-dim', 'aria-hidden': 'true' }),
+      h('div', { className: 'blits-streetlight__glow a-soft', 'aria-hidden': 'true' }));
+  }
+
   window.Blits = {
     Button: Button, Heading: Heading, PlaqueCard: PlaqueCard, SpecPlate: SpecPlate, Divider: Divider, Marker: Marker,
     FieldLines: FieldLines, Icon: Icon, ChalkDoodle: ChalkDoodle, ChalkDivider: ChalkDivider, FlipDigits: FlipDigits,
-    StampedShield: StampedShield, ChassisPlate: ChassisPlate, FilmStrip: FilmStrip, Texture: Texture, LanternHero: LanternHero,
+    StampedShield: StampedShield, ChassisPlate: ChassisPlate, FilmStrip: FilmStrip, Texture: Texture, LanternHero: LanternHero, Photo: Photo, CampaignHero: CampaignHero, Streetlight: Streetlight,
     configureAssets: configureAssets, assets: assets, iconNames: Object.keys(ICONS), doodleNames: Object.keys(DOODLES), fieldTypes: Object.keys(FIELD)
   };
 })();
