@@ -20,6 +20,7 @@ Catalogus van alle pagina's, één regel per pagina, gegroepeerd per type.
 
 - [[blits-moodboard-campagne]] — Pinterest-moodboard campagneshots: beeldtaal (lage hoek, echte rommel, analoog, verzadigd geel/blauw) (developing)
 - [[blits-moodboard-lifestyle]] — Pinterest-moodboard lifestyleshots (productpagina): stilleven op echte plek, hard licht, gedempt palet + één accent (developing)
+- [[blits-moodboard-packshots]] — Pinterest-moodboard packshots: hele product op lichtgrijs + macro-details, eerlijke materialen, schildplaatje (developing)
 - [[entrepreneur-studio-seth-godin]] — podcast (mature)
 - [[elevator-talks-bob-verlaat]] — podcast (mature)
 - [[growth-for-breakfast-oliver-source]] — social post (developing)
@@ -68,5 +69,5 @@ _(nog geen pagina's)_
 
 ## initiative
 
-- [[blits-website-dealers]] — BLITS-merkwebsite voor dealers via Claude Design: pagina's, aanpak, open punten (seed)
+- [[blits-website-dealers]] — BLITS-merkwebsite voor dealers via Claude Design: pagina's, aanpak, drie moodboards binnen, open punten (seed)
 - [[blits-launch-rollout]] — rebrand sport-lijn + launch speeltoestellen-lijn, fase 1 (fundament) afgerond (developing)

@@ -43,8 +43,8 @@ Meer is niet nodig. Geen webshop.
 
 ## Aan te leveren door Bart
 
-- Pinterest-moodboards (packshots, lifestyle, campagne): geselecteerde
-  beelden als bestand, 8–15 per bord, plus vijf regels beschrijving per bord.
+- Pinterest-moodboards: **binnen** (campagne, lifestyle, packshots, 5 beelden per bord, zie [[blits-moodboard-campagne]], [[blits-moodboard-lifestyle]], [[blits-moodboard-packshots]]). Aanvullen mag.
+- Eigen BLITS-productbeeld (foto's of renders) voor de pagina's; de moodboardbeelden zijn alleen referentie.
 - Fontbestanden (TT Autonomous, Archia) als webfonts.
 - Kleurvarianten van het logo en lockups met "Outside Wins." (de aangeleverde
   logo's zijn zwart-wit).
@@ -62,4 +62,5 @@ Meer is niet nodig. Geen webshop.
 
 ## Timeline
 
+- **2026-10-20** | Bart — drie Pinterest-moodboards (campagne, lifestyle, packshots) aangeleverd; beeldtaal en gebruiksregel per beeldtype (campagne = homepage/campagnes, lifestyle en packshots = productpagina) vastgelegd.
 - **2026-10-20** | Bart + assistent — initiatief gestart; pagina's, aanpak en open punten vastgelegd; logobestanden en actuele kleur-/font-pdf's in `.raw/2026-10-20/`.
