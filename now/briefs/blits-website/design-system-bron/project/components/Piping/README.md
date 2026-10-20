@@ -1,0 +1,1 @@
+Optie-galerij E: rode details op kaarten: korte bies onder een kop, bies langs de bovenrand, trainingsstrepen, gestippelde stikselnaad, dubbele bies, hoekmarkeringen. Rood is `action`; blijf bij één detail per kaart en één soort per site.

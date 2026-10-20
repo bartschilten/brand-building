@@ -1,0 +1,1 @@
+Optie-galerij B: schemer-achtergronden voor hero en campagnesecties. B1 zacht verloop van `ink` naar `tour-de-yellow`, B2 lantaarnpaal met lichtkegel, B3 vlakke banden in palet (past het best bij de flat stijl), B4 veldlijnen met schemerverloop. Houd tekst in `surface` op het donkere deel (contrast 13:1); zet geen tekst op de gele rand.

@@ -1,0 +1,1 @@
+Outline italic numerals ("01", "02", "03") for the three messaging pillars and for steps. Decorative: the text is hidden from screen readers, so repeat the number in the heading or the label when it carries meaning.

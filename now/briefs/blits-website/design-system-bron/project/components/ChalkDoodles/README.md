@@ -1,0 +1,1 @@
+Optie-galerij C: stoepkrijt-illustraties (hinkelbaan, boter-kaas-en-eieren, doel en bal, pijlen en ster, zon, basketbalring). Alleen als illustratie op donkere vlakken, met lage opacity en nooit achter lopende tekst. Krijtlijn: `concrete-grey`, accenten in `tour-de-yellow`, `olympic-pool-blue` en `brand`. Er is geen handschriftfont (besluit): getallen staan in het merkfont.

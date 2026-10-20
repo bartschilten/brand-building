@@ -1,0 +1,12 @@
+from common import *
+def hero(code,name,bg,extra='',txt='var(--surface)',sub=''):
+    return f'''<div class="t" style="height:250px;{bg}">{extra}<div style="position:absolute;left:24px;top:22px;right:24px;color:{txt};z-index:3"><p class="eyebrow" style="margin:0 0 10px">BLITS for professionals</p><h3 class="display-m" style="margin:0;font-size:34px;color:{txt};text-transform:uppercase">Outside<br>wins.</h3></div>{lab(code,name)}</div>'''
+lamp='''<svg style="position:absolute;right:0;top:0;z-index:2" width="200" height="250" viewBox="0 0 200 250"><polygon points="118,36 40,250 196,250" fill="#f3bb31" opacity=".16"/><rect x="152" y="46" width="6" height="204" fill="#06150e" stroke="#d7d7d7" stroke-opacity=".35"/><rect x="132" y="34" width="46" height="12" fill="#06150e" stroke="#d7d7d7" stroke-opacity=".5"/><rect x="138" y="44" width="34" height="5" fill="#f3bb31"/></svg>'''
+lines='''<svg style="position:absolute;inset:0" width="100%" height="100%" viewBox="0 0 440 250" preserveAspectRatio="xMidYMid slice" fill="none" stroke="#09cd66" stroke-opacity=".5" stroke-width="3"><circle cx="330" cy="190" r="90"/><line x1="330" y1="90" x2="330" y2="290"/></svg>'''
+B1=hero('B1','Verloop naar lantaarnlicht','background:linear-gradient(to top,var(--tour-de-yellow) 0%,#7a6a1e 22%,var(--ink) 72%)')
+B2=hero('B2','Lantaarnpaal met lichtkegel','background:radial-gradient(circle at 80% 18%,rgba(243,187,49,.75),rgba(243,187,49,0) 52%),var(--ink)',lamp)
+B3=hero('B3','Schemer in banden (vlak)','background:linear-gradient(to bottom,var(--ink) 0 60%,var(--marathon-blue) 60% 74%,var(--olympic-pool-blue) 74% 87%,var(--tour-de-yellow) 87% 100%)')
+B4=hero('B4','Veld bij schemer','background:linear-gradient(to top,rgba(243,187,49,.85) 0%,rgba(243,187,49,0) 55%),var(--ink)',lines)
+body=f'''<h2>B · Schemer: het uur dat de lantaarns aangaan</h2><p class="note">Sfeer van "samen buiten spelen tot het donker wordt". Geen wedstrijd, geen "laatste doelpunt wint". Vier hero-achtergronden met dezelfde kop; kies op gevoel én leesbaarheid.</p>
+<div class="g2">{B1}{B2}{B3}{B4}</div>'''
+write('Dusk','Analoog: keuzes',640,body,'Optie-galerij B: schemer-achtergronden voor hero en campagnesecties. B1 zacht verloop van `ink` naar `tour-de-yellow`, B2 lantaarnpaal met lichtkegel, B3 vlakke banden in palet (past het best bij de flat stijl), B4 veldlijnen met schemerverloop. Houd tekst in `surface` op het donkere deel (contrast 13:1); zet geen tekst op de gele rand.\n')
