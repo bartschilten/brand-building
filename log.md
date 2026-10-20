@@ -434,3 +434,7 @@ Bart: voor de website alleen de aangeleverde standaard schildlogo's (geen "Outsi
 ## [2026-10-20] ingest | Archia-fontbestanden
 
 Archia Regular, SemiBold en Bold (`.otf`, geldig als font) opgeslagen in `.raw/2026-10-20/fonts/`. TT Autonomous nog niet aangeleverd. Licentie-/webgebruik van beide fonts volgens Bart gecheckt; niet in de bestanden zelf terug te vinden.
+
+## [2026-10-20] update | TT Autonomous komt van Adobe Fonts
+
+Bart heeft geen TT Autonomous-bestanden, alleen de Adobe Fonts-pagina (foundry TypeType). Op Adobe Fonts is webgebruik via een Web Project (kit), er zijn geen downloads; zelf hosten is een aparte licentie bij TypeType. Of de stijl Bold Outline Italic bestaat is niet bevestigd (anders text-stroke op Bold Italic). Verwerkt in designbrief, initiatief en actielijst.
