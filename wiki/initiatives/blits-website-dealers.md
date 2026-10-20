@@ -71,6 +71,7 @@ Uit de keuze-galerij in het design system (zie [[blits-open-punten-2026-10-20]] 
 
 ## Timeline
 
+- **2026-10-20** | Bart — modder en tartanbaan aangeleverd, kraft vervalt: alle zeven texturen zijn nu echte foto's in het design system.
 - **2026-10-20** | Bart — echte texturen (beton, asfalt, zand, gras, regenplas) aangeleverd en ingebouwd; lantaarnhero gebruikt nu de asfaltfoto; kraft, modder en tartanbaan volgen.
 - **2026-10-20** | Bart — lantaarnhero goedgekeurd (groene boog verwijderd); texturen gekozen (zeven materialen); wil professionelere uitvoering; texture-prompts voor Nano Banana opgesteld.
 - **2026-10-20** | Bart — keuzes uit de analoge galerij (zie boven); lantaarnhero B2 met animatie gebouwd; echte-materiaaltexturen uitgebreid; nog te kiezen: de nieuwe texturen en het gebruik van A, C, H per pagina.
