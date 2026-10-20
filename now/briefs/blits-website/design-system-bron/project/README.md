@@ -34,7 +34,7 @@ BLITS is outdoor play gear (goals, basketball poles, trampolines, rebounders). T
 
 ## Iconography
 
-Line icons only, one stroke width, built from pitch lines and measurements (a goal, a ball, a trampoline outline, a ruler). No emoji, no filled glyphs. No icon set has been supplied yet: until it exists, use plain type labels and do not draw icons from memory.
+Line icons only, one stroke width, built from pitch lines and measurements. The set is the `Icon` component: twelve icons (`goal`, `ball`, `trampoline`, `rebounder`, `hoop`, `size`, `warranty`, `delivery`, `assembly`, `norm`, `weather`, `box`), single ink via `currentColor`, so they take the colour of the section. No emoji, no filled glyphs, no play-equipment icons. Do not draw icons outside this set.
 
 ## Logo
 
@@ -42,7 +42,13 @@ Use only the supplied BLITS shield logos in `assets/Logos/`: standing shield and
 
 ## Components
 
-`Button` (the red pill), `Heading` (uppercase italic with outline accent word), `PlaqueCard` (flat plate with a cut corner), `SpecPlate` (name-plate block for facts: size, norm, warranty; only real facts), `Divider` (dashed centre line), `Marker` (01 / 02 / 03 outline numerals). Everything else on a page is built from these plus type and spacing tokens. Keep the set small.
+Base: `Button` (the red pill), `Heading` (uppercase italic with outline accent word), `PlaqueCard` (flat plate with cut corners; `media`, `backdrop`, piping E1/E6, J3 bounce), `SpecPlate` (aluminium name plate for facts: size, norm, warranty; only real facts), `Divider` (I1 dashed centre line), `Marker` (01 / 02 / 03 outline numerals).
+
+Analog components (group "Analoog: componenten"), built from Bart's picks: `LanternHero` (B2), `FieldLines` (A, five types), `Icon` (H, twelve icons), `ChalkDoodle` (C, six drawings), `ChalkDivider` (I3), `FlipDigits` (G2), `StampedShield` (D2), `ChassisPlate` (D4), `FilmStrip` (K3), `Texture` (F1 to F7). The J3 bounce is shared: classes `blits-bounce` (hover) and `blits-land` (plays once on entering the view), used by `PlaqueCard`.
+
+Assets: components default to this system's uploads (logos, textures). A website that hosts its own copies calls `Blits.configureAssets({ logos: {...}, textures: {...} })` once before rendering.
+
+Everything else on a page is built from these plus type and spacing tokens. Keep the set small. The gallery cards in "Analoog: keuzes" stay as the record of options and choices; build pages from the components, not from the galleries.
 
 ## Analog soul elements (chosen by Bart, 2026-10-20)
 

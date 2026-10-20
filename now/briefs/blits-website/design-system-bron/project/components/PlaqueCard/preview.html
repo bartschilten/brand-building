@@ -1,6 +1,10 @@
-<!-- @dsCard group="Surfaces" height=340 subtitle="Flat plate with a cut corner (starting proposal)" -->
-<!doctype html><html><head><meta charset="utf-8"><link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700..900&display=swap" rel="stylesheet"><style>body{margin:0;padding:24px;background:var(--surface);color:var(--ink)}.row{display:flex;gap:16px;flex-wrap:wrap;align-items:center}.dark{background:var(--surface);padding:24px;margin-top:16px}</style></head><body><div id="root"></div><script>
+<!-- @dsCard group="Analoog: componenten" height=420 width=960 subtitle="Flat plate with cut corners, piping E1 / E6, J3 bounce" -->
+<!doctype html><html><head><meta charset="utf-8"><link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700..900&display=swap" rel="stylesheet"><style>*{box-sizing:border-box}body{margin:0;padding:20px;background:var(--surface);color:var(--ink);font-family:var(--font-sans)}.g{display:grid;gap:16px}.lab{font-family:var(--font-display);font-weight:800;font-size:11px;letter-spacing:.12em;text-transform:uppercase;margin:8px 0 0}.lab b{color:var(--action)}</style><style></style></head><body><div id="root"></div><script>
 var B=window.Blits,h=React.createElement;
-function App(){var t=function(tone,title,eb){return h(B.PlaqueCard,{key:tone,tone:tone,title:title,eyebrow:eb},h("p",{className:"body",style:{margin:0}},"Built to be used hard, not admired from a distance."))};return h("div",{className:"row",style:{alignItems:"stretch"}},t("warm","Honest materials","Plate"),t("green","Built to be used","Plate"),t("grey","Made to last","Plate"),t("ink","Outside wins","Plate"))}
-ReactDOM.createRoot(document.getElementById('root')).render(h(App));
+function App(){return h("div",{style:{display:"grid",gridTemplateColumns:"repeat(4,1fr)",gap:16,alignItems:"stretch"}},
+h(B.PlaqueCard,{tone:"grey",piping:"underline",title:"Football goals",href:"#",media:[h("div",{key:"f",style:{color:"var(--stuntpark-grey)"}},h(B.FieldLines,{type:"football",opacity:.55}))]},h("p",{className:"body",style:{margin:0}},"Media well with field lines, E1 underline.")),
+h(B.PlaqueCard,{tone:"warm",piping:"corners",eyebrow:"Plate",title:"Built to be used"},h("p",{className:"body",style:{margin:0}},"E6 red corner marks. Hover: J3 bounce.")),
+h(B.PlaqueCard,{tone:"green",title:"Honest materials",land:true},h("p",{className:"body",style:{margin:0}},"Lands with J3 when it scrolls into view.")),
+h(B.PlaqueCard,{tone:"ink",title:"Outside wins",backdrop:h("div",{style:{color:"var(--soccer-green)",height:"100%"}},h(B.FieldLines,{type:"track",opacity:.35}))},h("p",{className:"body",style:{margin:0}},"Backdrop with field lines.")))}
+ReactDOM.createRoot(document.getElementById("root")).render(h(App));
 </script></body></html>

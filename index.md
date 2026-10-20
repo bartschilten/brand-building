@@ -69,5 +69,5 @@ _(nog geen pagina's)_
 
 ## initiative
 
-- [[blits-website-dealers]] — BLITS-merkwebsite voor dealers via Claude Design: pagina's, aanpak, drie moodboards binnen, open punten (seed)
+- [[blits-website-dealers]] — BLITS-merkwebsite voor dealers: design system met analoge componenten, Home-pagina als proef gebouwd, wacht op akkoord (developing)
 - [[blits-launch-rollout]] — rebrand sport-lijn + launch speeltoestellen-lijn, fase 1 (fundament) afgerond (developing)

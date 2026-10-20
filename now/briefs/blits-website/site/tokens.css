@@ -1,0 +1,16 @@
+/* BLITS — generated from design-system-bron/project/tokens.json by build.py */
+:root,[data-theme="light"]{--soccer-green:#09cd66;--concrete-grey:#d7d7d7;--night-pitch-green:#06150e;--basketball-red:#d74a23;--tour-de-yellow:#f3bb31;--beachball-volley-beige:#e5dcc2;--marathon-blue:#0266dd;--olympic-pool-blue:#5dcbf1;--stuntpark-grey:#7a9ba6;--white:#ffffff;--surface:var(--concrete-grey);--surface-warm:var(--beachball-volley-beige);--ink:var(--night-pitch-green);--brand:var(--soccer-green);--action:var(--basketball-red);--on-action:var(--white);--focus-ring:var(--marathon-blue);--aluminium-light:#e6e9ea;--aluminium-mid:#b4bbbf;--aluminium-engrave:#2c3437;}
+[data-theme="dark"]{--soccer-green:#09cd66;--concrete-grey:#d7d7d7;--night-pitch-green:#06150e;--basketball-red:#d74a23;--tour-de-yellow:#f3bb31;--beachball-volley-beige:#e5dcc2;--marathon-blue:#0266dd;--olympic-pool-blue:#5dcbf1;--stuntpark-grey:#7a9ba6;--white:#ffffff;--surface:var(--night-pitch-green);--surface-warm:var(--night-pitch-green);--ink:var(--concrete-grey);--brand:var(--soccer-green);--action:var(--basketball-red);--on-action:var(--white);--focus-ring:var(--olympic-pool-blue);--aluminium-light:#e6e9ea;--aluminium-mid:#b4bbbf;--aluminium-engrave:#2c3437;}
+:root{--space-1:4px;--space-2:8px;--space-3:12px;--space-4:16px;--space-5:24px;--space-6:32px;--space-7:48px;--space-8:64px;--space-9:96px;--cut-sm:12px;--cut-md:20px;--cut-lg:32px;--radius-none:0;--radius-pill:9999px;--font-sans:"Archia", system-ui, sans-serif;--font-display:"TT Autonomous", "Orbitron", system-ui, sans-serif;}
+@font-face{font-family:Archia;src:url(fonts/Archia-Regular.otf) format("opentype");font-weight:400;font-display:swap}
+@font-face{font-family:Archia;src:url(fonts/Archia-SemiBold.otf) format("opentype");font-weight:600;font-display:swap}
+@font-face{font-family:Archia;src:url(fonts/Archia-Bold.otf) format("opentype");font-weight:700;font-display:swap}
+.display-xl{font-family:"TT Autonomous", "Orbitron", system-ui, sans-serif;font-size:72px;line-height:1;font-weight:900;font-style:italic;letter-spacing:-0.02em}
+.display-l{font-family:"TT Autonomous", "Orbitron", system-ui, sans-serif;font-size:56px;line-height:1;font-weight:900;font-style:italic;letter-spacing:-0.02em}
+.display-m{font-family:"TT Autonomous", "Orbitron", system-ui, sans-serif;font-size:40px;line-height:1;font-weight:900;font-style:italic;letter-spacing:-0.01em}
+.display-s{font-family:"TT Autonomous", "Orbitron", system-ui, sans-serif;font-size:28px;line-height:1;font-weight:900;font-style:italic;letter-spacing:0}
+.button{font-family:"TT Autonomous", "Orbitron", system-ui, sans-serif;font-size:14px;line-height:1;font-weight:800;font-style:normal;letter-spacing:0.15em}
+.eyebrow{font-family:"TT Autonomous", "Orbitron", system-ui, sans-serif;font-size:12px;line-height:1.4;font-weight:800;font-style:normal;letter-spacing:0.15em}
+.body-l{font-family:"Archia", system-ui, sans-serif;font-size:18px;line-height:1.8;font-weight:400;font-style:normal;letter-spacing:0}
+.body{font-family:"Archia", system-ui, sans-serif;font-size:16px;line-height:1.8;font-weight:400;font-style:normal;letter-spacing:0}
+.spec-value{font-family:"Archia", system-ui, sans-serif;font-size:16px;line-height:1.4;font-weight:600;font-style:normal;letter-spacing:0}

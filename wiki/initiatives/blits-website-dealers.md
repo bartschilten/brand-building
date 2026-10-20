@@ -1,13 +1,13 @@
 ---
 type: initiative
 title: "BLITS-website voor dealers"
-status: seed
+status: developing
 created: 2026-10-20
 updated: 2026-10-20
 tags: [blits, website, b2b, claude-design]
 related: ["[[blits]]", "[[blits-ontwerpelementen-heritage]]", "[[blits-open-punten-2026-10-20]]", "[[blits-launch-rollout]]", "[[blits-tone-of-voice-definitief]]"]
 aliases: ["BLITS website", "BLITS for Professionals"]
-phase: "idea"
+phase: "build"
 owner: "Bart Schilten"
 target: "Een zeer visuele, professionele merkwebsite (geen webshop) waarop dealers denken: dit is geen private label maar een sterk merk dat ik wil voeren — en versteld staan van lage prijzen en hoge marge."
 ---
@@ -47,6 +47,16 @@ Eigen Claude-design-system, privé-Artifact: https://claude.ai/artifact/7nxXx7V2
 
 Bekende beperkingen: TT Autonomous staat als eerste in de fontstack, maar is niet beschikbaar; het stand-in is Orbitron Black (Google Fonts, synthetische italic; gekozen na vergelijking met Barts voorbeelden "BLITS COLORS"/"BLITS ELEMENTS", na Unbounded en Archivo die te rond of te lijkend op een gewone grotesk bleken) en wisselt vanzelf zodra TT Autonomous beschikbaar is. **Revisie 2026-10-20 na feedback van Bart:** kaarten hebben nu een getrapte uitsnede in alle vier de hoeken (als de hoeken van een voetbaldoel), de SpecPlate is een geborsteld aluminium naamplaatje (gegraveerde tekst, vier schroefkoppen, kaderlijn; enige element met textuur) en het outline-accentwoord is schoon. De hoekvorm blijft een werkvoorstel, geen vastgestelde merkvorm. Open: er zit nog weinig ziel en herkenbare 'analoog van vroeger' in; die analoge elementen worden in de volgende ronde uitgewerkt. Kleurgebruiksregels en merkvormen volgen met Bart. Productfoto's zitten niet in het design system. Link is privé: alleen de eigenaar kan hem openen tot hij gedeeld wordt.
 
+## Home-pagina proef (gebouwd 2026-10-20)
+
+Privé-Artifact: https://claude.ai/artifact/JsHhQ3bo83pSqvNJ5k61kX ("BLITS — Outside Wins."). Bron in de vault: `now/briefs/blits-website/site/` (`index.html`, `home.js`, `home.css`, `build.py` maakt `tokens.css` en kopieert de bundle uit het design system). Wacht op akkoord van Bart; daarna Brand, Assortment en BLITS for Professionals.
+
+Opbouw (voorstel uit de overdracht, zo gebouwd): navigatie (liggend schild wit, Brand / Assortment / BLITS for Professionals, knop "Become a dealer"), LanternHero "OUTSIDE WINS.", merkverhaal met drie pijlers (Marker 01-03) en krijtlijn I3 naast een asfaltpaneel met hinkelbaan C1, vier productfamilies als PlaqueCards (veldlijnen A1/A2/A3/A5 achter de huidige productfoto, bies E1, J3-stuiter bij landen en hover), echte feiten als klapcijfers (45 producten, 6 families, grootste doel 500×200 cm, grootste trampoline Ø427 cm; garantie en norm als placeholder) met gestanst schild D2, filmstrip K3 met drie placeholders, Professionals-teaser op Soccer Green met chassisplaatje D4 (`[MARGIN %]`, `[DEALER PRICE]`, `[MOQ]`), donkere footer met middenlijn I1. Getest op 1440 px en 390 px (geen horizontale scroll, geen consolefouten).
+
+Nieuwe componenten in het design system (versie 10): `LanternHero`, `FieldLines`, `Icon`, `ChalkDoodle`, `ChalkDivider`, `FlipDigits`, `StampedShield`, `ChassisPlate`, `FilmStrip`, `Texture`; `PlaqueCard` kreeg `media`, `backdrop`, bies E1/E6 en de gedeelde J3-stuiter. `Blits.configureAssets()` laat een site eigen kopieën van logo's en texturen gebruiken.
+
+Aannames om te toetsen: copy van hero, pijlers en productkaarten is nieuw geschreven binnen de tone of voice; links wijzen nog naar ankers op Home (de andere pagina's bestaan nog niet); "Become a dealer" en "Apply as a dealer" gaan nu naar de Professionals-teaser.
+
 ## Analoge zielelementen: keuzes van Bart (2026-10-20)
 
 Uit de keuze-galerij in het design system (zie [[blits-open-punten-2026-10-20]] besluit 17 voor de volledige lijst): **J3** speelse stuiter, **I1** middenlijn en **I3** krijtlijn, **B2** lantaarnhero met animatie (gebouwd als `LanternHero`: het licht flikkert aan en uit, textuur en veldlijnen in het verlichte vlak), **E1 + E6** bies, **D2 + D4** plaatjes, **G2** klapcijfers, **K3** filmstrip, **F1 beton, F2 asfalt, F3 kraft en zand**. Veldlijnen (A), stoepkrijt (C) en lijniconen (H) blijven allemaal beschikbaar, per pagina of product gekozen en in de kleur van de sectie. Texturen na ronde 2: beton, asfalt, kraft en zand, gras, modder, tartanbaan, regenplas (F1 t/m F7); kunstgras, grind, hout, leer, filmkorrel, hekwerk en tegels vervallen. De getekende texturen zijn placeholders; echte texturen via Nano Banana (`now/briefs/blits-website/texture-prompts.md`). De groene boog in de lantaarnhero is verwijderd.
@@ -71,6 +81,7 @@ Uit de keuze-galerij in het design system (zie [[blits-open-punten-2026-10-20]] 
 
 ## Timeline
 
+- **2026-10-20** | assistent, op verzoek van Bart — ontbrekende analoge componenten gebouwd (design system v10) en de Home-pagina als proef gebouwd en gepubliceerd (privé-Artifact); wacht op akkoord van Bart voor de overige pagina's.
 - **2026-10-20** | Bart — modder en tartanbaan aangeleverd, kraft vervalt: alle zeven texturen zijn nu echte foto's in het design system.
 - **2026-10-20** | Bart — echte texturen (beton, asfalt, zand, gras, regenplas) aangeleverd en ingebouwd; lantaarnhero gebruikt nu de asfaltfoto; kraft, modder en tartanbaan volgen.
 - **2026-10-20** | Bart — lantaarnhero goedgekeurd (groene boog verwijderd); texturen gekozen (zeven materialen); wil professionelere uitvoering; texture-prompts voor Nano Banana opgesteld.

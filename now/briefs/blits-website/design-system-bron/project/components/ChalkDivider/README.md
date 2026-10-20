@@ -1,0 +1,1 @@
+The chalk line (I3) between sections or text blocks. `<ChalkDivider />` draws in `ink`; pass `color` on a dark field. Per section use either this or the dashed centre line `Divider` (I1), never both side by side. Decorative, hidden from screen readers.
