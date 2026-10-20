@@ -462,3 +462,7 @@ Eerste BLITS design system gebouwd en gepubliceerd als privé-Artifact (link in 
 ## [2026-10-20] update | BLITS design system herzien na feedback
 
 Koppen: stand-in font Archivo Expanded Black Italic i.p.v. Unbounded; kaarten met getrapte uitsnede in alle vier de hoeken; SpecPlate als geborsteld aluminium plaatje (nieuwe tokens aluminium-light/mid/engrave, enige uitzondering op 'flat'); outline-accent schoon. Open: analoge verwijzingen naar vroeger uitwerken (volgende ronde). Zie [[blits-website-dealers]].
+
+## [2026-10-20] update | BLITS design system: kopfont Orbitron en analoge keuze-galerij
+
+Kopfont-stand-in vervangen door Orbitron Black (past het best bij Barts voorbeelden). Analoge keuze-galerij A t/m K (veldlijnen, schemer, stoepkrijt, plaatjes, bies, texturen, scorebord-cijfers, lijniconen, scheidingslijnen, stuiter, fotobehandeling) gebouwd in het design system, per optie een code; wacht op Barts keuzes. Zie [[blits-website-dealers]].
