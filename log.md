@@ -474,3 +474,7 @@ Keuzes van Bart verwerkt (besluit 17 in [[blits-open-punten-2026-10-20]]); lanta
 ## [2026-10-20] update | Lantaarnhero goedgekeurd, texturen gekozen, texture-prompts
 
 Groene boog uit de lantaarnhero verwijderd; zeven materiaaltexturen gekozen (beton, asfalt, kraft/zand, gras, modder, tartan, regenplas), vier vervallen; Nano Banana-prompts voor echte texturen in `now/briefs/blits-website/texture-prompts.md`. Besluit 18 in [[blits-open-punten-2026-10-20]].
+
+## [2026-10-20] ingest | Echte texturen (Nano Banana)
+
+Vijf getekende texturen vervangen door foto's van Bart (beton, asfalt, zand, gras, regenplas), opgeslagen in `.raw/2026-10-20/textures/` en als assets in het design system. Lantaarnhero gebruikt nu de asfaltfoto. Kraft, modder en tartanbaan nog placeholder. Besluit 19 in [[blits-open-punten-2026-10-20]].
