@@ -55,10 +55,6 @@ img{max-width:100%}
 /* Dealer */
 .dealer{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:var(--space-8);align-items:end}
 .dealer__form{display:grid;gap:var(--space-3)}
-.dealer__form .eyebrow{margin:0}
-.dealer__row{display:flex;gap:var(--space-3)}
-.dealer__input{flex:1;min-width:0;min-height:52px;padding:0 var(--space-5);border:2px solid var(--ink);border-radius:var(--radius-none);background:var(--concrete-grey);color:var(--ink);font:400 16px/1.4 var(--font-sans)}
-.dealer__input::placeholder{color:#46524c}
 .dealer__pro{margin:var(--space-3) 0 0}
 .dealer__pro a{color:var(--ink);font-weight:700}
 
@@ -110,7 +106,6 @@ img{max-width:100%}
  .pillars{grid-template-columns:1fr}
  .range{grid-template-columns:1fr}
  .facts-head{flex-direction:column;align-items:flex-start}
- .dealer__row{flex-direction:column}
  .film-head{max-width:80%}
  .blits-flip--lg .blits-flip__tile{width:52px;height:80px;font-size:40px}.blits-flip--lg .blits-flip__placeholder{height:80px;font-size:18px}
 }

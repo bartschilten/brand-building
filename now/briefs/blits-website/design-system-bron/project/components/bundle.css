@@ -149,6 +149,16 @@ body{margin:0;background:var(--surface);color:var(--ink);font-family:var(--font-
 @media (max-width:760px){.blits-lantern{min-height:auto}.blits-lantern__copy{max-width:none;padding:var(--space-8) var(--space-4) 300px}.blits-lantern__pole,.blits-lantern__head,.blits-lantern__bulb{left:88%}.blits-lantern__pole,.blits-lantern__head{top:auto}.blits-lantern__pole{top:62%}.blits-lantern__head{top:calc(62% - 7px)}.blits-lantern__bulb{top:calc(62% + 5px)}.blits-lantern__glow{background:radial-gradient(circle at 88% 64%,rgba(243,187,49,.82),rgba(243,187,49,0) 45%)}.blits-lantern__cone{clip-path:polygon(87.8% 64%,45% 100%,100% 100%)}.blits-lantern__ground{-webkit-mask-image:radial-gradient(ellipse 70% 40% at 80% 85%,#000 20%,transparent 78%);mask-image:radial-gradient(ellipse 70% 40% at 80% 85%,#000 20%,transparent 78%)}.blits-chassis{padding:var(--space-5)}.blits-chassis__in{letter-spacing:.1em;column-gap:var(--space-3)}}
 
 
+.blits-fieldplate{display:flex;align-items:center;gap:var(--space-4)}
+.blits-fieldplate__plate{--cut:var(--cut-sm);position:relative;flex:1;min-width:0;display:flex;flex-direction:column;gap:var(--space-1);padding:var(--space-4) var(--space-5) var(--space-3);background:var(--concrete-grey);color:var(--night-pitch-green);clip-path:polygon(0 var(--cut),var(--cut) var(--cut),var(--cut) 0,calc(100% - var(--cut)) 0,calc(100% - var(--cut)) var(--cut),100% var(--cut),100% calc(100% - var(--cut)),calc(100% - var(--cut)) calc(100% - var(--cut)),calc(100% - var(--cut)) 100%,var(--cut) 100%,var(--cut) calc(100% - var(--cut)),0 calc(100% - var(--cut)))}
+.blits-fieldplate__label{margin:0;font-size:11px}
+.blits-fieldplate__input{width:100%;min-height:44px;padding:0;border:0;border-radius:0;background:transparent;color:var(--night-pitch-green);font-family:var(--font-display);font-weight:800;font-style:italic;font-size:22px;letter-spacing:.02em;text-transform:uppercase;outline:none;-webkit-appearance:none;appearance:none}
+.blits-fieldplate__input::placeholder{color:#59706f;opacity:1}
+.blits-fieldplate__line{display:block;height:2px;background:repeating-linear-gradient(90deg,var(--night-pitch-green) 0 14px,transparent 14px 28px);transition:background-color 160ms var(--ease-out)}
+.blits-fieldplate__plate:focus-within .blits-fieldplate__line{height:3px;background:var(--marathon-blue)}
+.blits-fieldplate__action{flex:none}
+@media (max-width:640px){.blits-fieldplate{flex-direction:column;align-items:stretch}.blits-fieldplate__action .blits-btn{width:100%}}
+
 /* Photo slot */
 .blits-photo{position:relative;margin:0;overflow:hidden;background:var(--night-pitch-green)}
 .blits-photo>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}

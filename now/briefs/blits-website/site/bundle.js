@@ -1,4 +1,4 @@
-/* @ds-bundle: {"format":4,"namespace":"Blits","components":[{"name":"Button"},{"name":"Heading"},{"name":"PlaqueCard"},{"name":"SpecPlate"},{"name":"Divider"},{"name":"Marker"},{"name":"FieldLines"},{"name":"Icon"},{"name":"ChalkDoodle"},{"name":"ChalkDivider"},{"name":"FlipDigits"},{"name":"StampedShield"},{"name":"ChassisPlate"},{"name":"FilmStrip"},{"name":"Texture"},{"name":"LanternHero"},{"name":"Photo"},{"name":"CampaignHero"},{"name":"Streetlight"}]} */
+/* @ds-bundle: {"format":4,"namespace":"Blits","components":[{"name":"Button"},{"name":"Heading"},{"name":"PlaqueCard"},{"name":"SpecPlate"},{"name":"Divider"},{"name":"Marker"},{"name":"FieldLines"},{"name":"Icon"},{"name":"ChalkDoodle"},{"name":"ChalkDivider"},{"name":"FlipDigits"},{"name":"StampedShield"},{"name":"ChassisPlate"},{"name":"FilmStrip"},{"name":"Texture"},{"name":"LanternHero"},{"name":"Photo"},{"name":"CampaignHero"},{"name":"Streetlight"},{"name":"Field"}]} */
 (function () {
   var h = React.createElement;
   function cx() { return Array.prototype.filter.call(arguments, Boolean).join(' '); }
@@ -330,10 +330,22 @@
       h('div', { className: 'blits-streetlight__glow a-soft', 'aria-hidden': 'true' }));
   }
 
+  /* Form field as a flat plate: small label, large input on a dashed writing line, optional action (button) beside it. */
+  function Field(props) {
+    var id = useId('blits-field-');
+    var fid = props.id || id;
+    return h('div', { className: cx('blits-fieldplate', props.className) },
+      h('div', { className: 'blits-fieldplate__plate' },
+        h('label', { className: 'eyebrow blits-fieldplate__label', htmlFor: fid }, props.label),
+        h('input', { id: fid, className: 'blits-fieldplate__input', type: props.type || 'text', name: props.name, placeholder: props.placeholder, autoComplete: props.autoComplete, inputMode: props.inputMode, required: props.required, value: props.value, defaultValue: props.defaultValue, onChange: props.onChange }),
+        h('span', { className: 'blits-fieldplate__line', 'aria-hidden': 'true' })),
+      props.children ? h('div', { className: 'blits-fieldplate__action' }, props.children) : null);
+  }
+
   window.Blits = {
     Button: Button, Heading: Heading, PlaqueCard: PlaqueCard, SpecPlate: SpecPlate, Divider: Divider, Marker: Marker,
     FieldLines: FieldLines, Icon: Icon, ChalkDoodle: ChalkDoodle, ChalkDivider: ChalkDivider, FlipDigits: FlipDigits,
-    StampedShield: StampedShield, ChassisPlate: ChassisPlate, FilmStrip: FilmStrip, Texture: Texture, LanternHero: LanternHero, Photo: Photo, CampaignHero: CampaignHero, Streetlight: Streetlight,
+    StampedShield: StampedShield, ChassisPlate: ChassisPlate, FilmStrip: FilmStrip, Texture: Texture, LanternHero: LanternHero, Photo: Photo, CampaignHero: CampaignHero, Streetlight: Streetlight, Field: Field,
     configureAssets: configureAssets, assets: assets, iconNames: Object.keys(ICONS), doodleNames: Object.keys(DOODLES), fieldTypes: Object.keys(FIELD)
   };
 })();
