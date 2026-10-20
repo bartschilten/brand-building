@@ -466,3 +466,7 @@ Koppen: stand-in font Archivo Expanded Black Italic i.p.v. Unbounded; kaarten me
 ## [2026-10-20] update | BLITS design system: kopfont Orbitron en analoge keuze-galerij
 
 Kopfont-stand-in vervangen door Orbitron Black (past het best bij Barts voorbeelden). Analoge keuze-galerij A t/m K (veldlijnen, schemer, stoepkrijt, plaatjes, bies, texturen, scorebord-cijfers, lijniconen, scheidingslijnen, stuiter, fotobehandeling) gebouwd in het design system, per optie een code; wacht op Barts keuzes. Zie [[blits-website-dealers]].
+
+## [2026-10-20] update | BLITS analoge keuzes verwerkt, lantaarnhero en meer texturen
+
+Keuzes van Bart verwerkt (besluit 17 in [[blits-open-punten-2026-10-20]]); lantaarnhero B2 met animatie gebouwd (`LanternHero`); texturen uitgebreid met echte materialen (gras, kunstgras, modder, grind, tartan, hout, leer, regenplas); galerijen krijgen een 'gekozen'-markering. Eerder fout in dit besluitbestand hersteld: besluiten 10 t/m 16 stonden per ongeluk in de frontmatter, nu in de lijst. Zie [[blits-website-dealers]].
