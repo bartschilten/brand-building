@@ -470,3 +470,7 @@ Kopfont-stand-in vervangen door Orbitron Black (past het best bij Barts voorbeel
 ## [2026-10-20] update | BLITS analoge keuzes verwerkt, lantaarnhero en meer texturen
 
 Keuzes van Bart verwerkt (besluit 17 in [[blits-open-punten-2026-10-20]]); lantaarnhero B2 met animatie gebouwd (`LanternHero`); texturen uitgebreid met echte materialen (gras, kunstgras, modder, grind, tartan, hout, leer, regenplas); galerijen krijgen een 'gekozen'-markering. Eerder fout in dit besluitbestand hersteld: besluiten 10 t/m 16 stonden per ongeluk in de frontmatter, nu in de lijst. Zie [[blits-website-dealers]].
+
+## [2026-10-20] update | Lantaarnhero goedgekeurd, texturen gekozen, texture-prompts
+
+Groene boog uit de lantaarnhero verwijderd; zeven materiaaltexturen gekozen (beton, asfalt, kraft/zand, gras, modder, tartan, regenplas), vier vervallen; Nano Banana-prompts voor echte texturen in `now/briefs/blits-website/texture-prompts.md`. Besluit 18 in [[blits-open-punten-2026-10-20]].

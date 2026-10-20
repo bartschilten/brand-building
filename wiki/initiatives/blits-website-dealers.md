@@ -49,7 +49,7 @@ Bekende beperkingen: TT Autonomous staat als eerste in de fontstack, maar is nie
 
 ## Analoge zielelementen: keuzes van Bart (2026-10-20)
 
-Uit de keuze-galerij in het design system (zie [[blits-open-punten-2026-10-20]] besluit 17 voor de volledige lijst): **J3** speelse stuiter, **I1** middenlijn en **I3** krijtlijn, **B2** lantaarnhero met animatie (gebouwd als `LanternHero`: het licht flikkert aan en uit, textuur en veldlijnen in het verlichte vlak), **E1 + E6** bies, **D2 + D4** plaatjes, **G2** klapcijfers, **K3** filmstrip, **F1 beton, F2 asfalt, F3 kraft en zand**. Veldlijnen (A), stoepkrijt (C) en lijniconen (H) blijven allemaal beschikbaar, per pagina of product gekozen en in de kleur van de sectie. Bart wil meer echte-materiaaltexturen: gras, kunstgras, modder, grind, tartanbaan, hout, leer en regenplas zijn als voorstel toegevoegd (F4 t/m F11), te kiezen. Vervallen: F-filmkorrel (zit in de beelden), hekwerk, tegels.
+Uit de keuze-galerij in het design system (zie [[blits-open-punten-2026-10-20]] besluit 17 voor de volledige lijst): **J3** speelse stuiter, **I1** middenlijn en **I3** krijtlijn, **B2** lantaarnhero met animatie (gebouwd als `LanternHero`: het licht flikkert aan en uit, textuur en veldlijnen in het verlichte vlak), **E1 + E6** bies, **D2 + D4** plaatjes, **G2** klapcijfers, **K3** filmstrip, **F1 beton, F2 asfalt, F3 kraft en zand**. Veldlijnen (A), stoepkrijt (C) en lijniconen (H) blijven allemaal beschikbaar, per pagina of product gekozen en in de kleur van de sectie. Texturen na ronde 2: beton, asfalt, kraft en zand, gras, modder, tartanbaan, regenplas (F1 t/m F7); kunstgras, grind, hout, leer, filmkorrel, hekwerk en tegels vervallen. De getekende texturen zijn placeholders; echte texturen via Nano Banana (`now/briefs/blits-website/texture-prompts.md`). De groene boog in de lantaarnhero is verwijderd.
 
 ## Aan te leveren door Bart
 
@@ -71,6 +71,7 @@ Uit de keuze-galerij in het design system (zie [[blits-open-punten-2026-10-20]] 
 
 ## Timeline
 
+- **2026-10-20** | Bart — lantaarnhero goedgekeurd (groene boog verwijderd); texturen gekozen (zeven materialen); wil professionelere uitvoering; texture-prompts voor Nano Banana opgesteld.
 - **2026-10-20** | Bart — keuzes uit de analoge galerij (zie boven); lantaarnhero B2 met animatie gebouwd; echte-materiaaltexturen uitgebreid; nog te kiezen: de nieuwe texturen en het gebruik van A, C, H per pagina.
 - **2026-10-20** | Bart — kopfont nog te lelijk, twee voorbeelden aangeleverd (stand-in nu Orbitron Black); vraagt zoveel mogelijk analoge zielelementen gevisualiseerd om uit te kiezen. Gebouwd: keuze-galerij A t/m K (zie sectie hierboven). Wacht op keuzes.
 - **2026-10-20** | Bart — feedback op design system: koppen te lelijk (stand-in font vervangen door Archivo Expanded Black Italic), kaarten uitsnijden in alle vier de hoeken, SpecPlate moet een aluminium kwaliteitsplaatje lijken; analoge verwijzingen nog te weinig ziel (volgende ronde). Verwerkt in het design system.
