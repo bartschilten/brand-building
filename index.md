@@ -18,6 +18,7 @@ Catalogus van alle pagina's, één regel per pagina, gegroepeerd per type.
 
 ## source
 
+- [[blits-moodboard-campagne]] — Pinterest-moodboard campagneshots: beeldtaal (lage hoek, echte rommel, analoog, verzadigd geel/blauw) (developing)
 - [[entrepreneur-studio-seth-godin]] — podcast (mature)
 - [[elevator-talks-bob-verlaat]] — podcast (mature)
 - [[growth-for-breakfast-oliver-source]] — social post (developing)
