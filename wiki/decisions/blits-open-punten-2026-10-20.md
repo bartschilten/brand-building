@@ -35,15 +35,17 @@ open punten uit het overdrachtsdocument bij de start van de BLITS-website
    (voorstellen per paginatype, Bart kiest).
 6. **Logo's bestaan.** Zwart-wit logobestanden zijn aangeleverd (staand en
    liggend schild). Het derde bestand (lockup met "PLAY MORE") is verouderd.
-   Zie `.raw/2026-10-20/`. Kleurvarianten en lockups met "Outside Wins."
-   blijven open.
+   Zie `.raw/2026-10-20/`. Kleurvarianten volgen later; lockups met
+   "Outside Wins." zijn voor de website niet nodig (zie 9).
 7. **Dealercijfers zijn niet nodig om de website te bouwen.** Tekst en
    getallen over marge/prijs worden placeholders en nooit verzonnen.
 
-## Nog te bevestigen
-
-- **Handschriftaccent:** de bedoeling lijkt "nee, geen handschriftfont (zit
-  niet in het fontset)". Dan zijn krijtelementen alleen illustratie. Wacht
-  op bevestiging van Bart.
+8. **Geen handschriftaccent** (bevestigd 2026-10-20): alleen de twee
+   aangeleverde fonts (TT Autonomous, Archia). Krijtelementen alleen als
+   illustratie.
+9. **Logo voor de website: alleen de aangeleverde standaard schildlogo's**
+   (staand en liggend). De lockup met "Outside Wins." is er niet en komt voor
+   de website niet (de designer heeft er geen tijd voor). Geen eigen lockup
+   verzinnen.
 
 ---

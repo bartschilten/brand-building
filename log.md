@@ -426,3 +426,7 @@ Vijf referentiebeelden van het lifestyle-moodboard (voor de productpagina) opges
 ## [2026-10-20] ingest | BLITS moodboard packshots
 
 Vijf referentiebeelden van het packshot-moodboard in `.raw/2026-10-20/moodboard-packshots/`; beeldtaal in [[blits-moodboard-packshots]], designbrief en initiatief bijgewerkt. Alle drie de moodboards (campagne, lifestyle, packshots) zijn nu binnen. Open: eigen BLITS-productbeeld nodig, grote producten en macro-details.
+
+## [2026-10-20] update | BLITS-website: logo- en handschriftbesluit
+
+Bart: voor de website alleen de aangeleverde standaard schildlogo's (geen "Outside Wins."-lockup), en geen handschriftaccent. Verwerkt in [[blits-open-punten-2026-10-20]], [[blits-website-dealers]], designbrief, launch-acties en [[blits]]. Aan te leveren blijft: fontbestanden (TT Autonomous, Archia) en echt productbeeld.

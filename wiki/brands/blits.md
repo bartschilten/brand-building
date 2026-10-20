@@ -742,11 +742,13 @@ assistent op Bart's verzoek, nog niet gestart:
 Identiteitsfase loopt. Open:
 
 - Logo: zwart-wit logobestanden (staand en liggend schild) bestaan sinds
-  2026-10-20 (`.raw/2026-10-20/`). Open: kleurvarianten in het nieuwe palet
-  en lockups met "Outside Wins." (de "PLAY MORE"-lockup is verouderd).
+  2026-10-20 (`.raw/2026-10-20/`). Voor de website alleen de aangeleverde
+  schildlogo's (geen "Outside Wins."-lockup, geen tijd van de designer);
+  de "PLAY MORE"-lockup is verouderd.
 - **Website voor dealers** ([[blits-website-dealers]]): gestart 2026-10-20.
   Open daarbij: merkvormen en kleurgebruiksregels, samen met Claude Design
-  te ontwerpen; handschriftaccent (lijkt nee) wacht op bevestiging.
+  te ontwerpen. Besloten: alleen de aangeleverde schildlogo's, geen
+  handschriftaccent.
 - Kleur: Basketball Red `#D74A23` beantwoordt de koraalrood-tintvraag
   (Pantone-match blijft een productiestap). Open: gebruiksregels/ratio per
   lijn (Bart + brandmanager), verpakking/sport-rebrand/logo-briefing/
