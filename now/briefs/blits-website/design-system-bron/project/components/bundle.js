@@ -361,13 +361,13 @@
   /* Chalk handwriting: an accent layer only (short calls, product notes, stamp-like labels, a quote). Never headlines, body, buttons, prices or dealer information. */
   function ChalkText(props) {
     var id = useId('blits-chalktext-');
-    var colors = { cream: 'var(--beachball-volley-beige)', white: 'var(--white)', secondary: 'var(--tour-de-yellow)', yellow: 'var(--tour-de-yellow)' };
+    var colors = { cream: 'var(--chalk-cream)', white: 'var(--white)', secondary: 'var(--tour-de-yellow)', yellow: 'var(--tour-de-yellow)' };
     var Tag = props.as || 'span';
     return h(Tag, {
       className: cx('blits-chalktext', props.className),
       style: Object.assign({ color: colors[props.color || 'cream'] || props.color, fontSize: typeof props.size === 'number' ? props.size + 'px' : (props.size || '40px'), transform: 'rotate(' + (props.rotate == null ? -4 : props.rotate) + 'deg)', filter: 'url(#' + id + ')' }, props.style)
     },
-      svg('<filter id="' + id + '" x="-10%" y="-30%" width="120%" height="160%"><feTurbulence type="fractalNoise" baseFrequency="0.04" numOctaves="2" seed="3" result="w"/><feDisplacementMap in="SourceGraphic" in2="w" scale="3" result="d"/><feTurbulence type="fractalNoise" baseFrequency="1.1" numOctaves="1" seed="8" result="g"/><feColorMatrix in="g" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -2.4 1.6" result="m"/><feComposite in="d" in2="m" operator="in" result="c"/><feGaussianBlur in="c" stdDeviation="0.9" result="b"/><feComponentTransfer in="b" result="dust"><feFuncA type="linear" slope="0.4"/></feComponentTransfer><feMerge><feMergeNode in="dust"/><feMergeNode in="c"/></feMerge></filter>', { className: 'blits-chalktext__defs', width: 0, height: 0, 'aria-hidden': 'true', focusable: 'false' }),
+      svg('<filter id="' + id + '" x="-10%" y="-30%" width="120%" height="160%"><feTurbulence type="fractalNoise" baseFrequency="0.04" numOctaves="2" seed="3" result="w"/><feDisplacementMap in="SourceGraphic" in2="w" scale="3" result="d"/><feTurbulence type="fractalNoise" baseFrequency="1.1" numOctaves="1" seed="8" result="g"/><feColorMatrix in="g" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -2.1 1.75" result="m"/><feComposite in="d" in2="m" operator="in" result="c"/><feGaussianBlur in="c" stdDeviation="0.9" result="b"/><feComponentTransfer in="b" result="dust"><feFuncA type="linear" slope="0.4"/></feComponentTransfer><feMerge><feMergeNode in="dust"/><feMergeNode in="c"/></feMerge></filter>', { className: 'blits-chalktext__defs', width: 0, height: 0, 'aria-hidden': 'true', focusable: 'false' }),
       props.children);
   }
 
