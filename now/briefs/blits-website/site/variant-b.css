@@ -80,7 +80,7 @@ section[id],footer [id]{scroll-margin-top:72px}
 .vb-card{display:flex;flex-direction:column}
 .vb-card__media{position:relative;aspect-ratio:1/1;margin-bottom:var(--space-4)}
 .vb-block--card{--cut:var(--cut-md);left:0;right:0;bottom:0;height:70%}
-.vb-card__media img{position:absolute;left:4%;right:4%;top:0;width:92%;height:94%;object-fit:contain;object-position:50% 100%;mix-blend-mode:multiply;transition:transform 220ms var(--ease-bounce);transform-origin:50% 100%}
+.vb-card__media img{position:absolute;left:4%;right:4%;top:0;width:92%;height:94%;object-fit:contain;object-position:50% 100%;filter:drop-shadow(0 10px 10px rgba(6,21,14,.16));transition:transform 220ms var(--ease-bounce);transform-origin:50% 100%}
 .vb-card__media--tall img{top:-14%;height:108%}
 .vb-card__media .blits-temp{left:8px;bottom:8px;z-index:2}
 .vb-card .blits-index{margin-bottom:var(--space-2)}
@@ -106,7 +106,7 @@ section[id],footer [id]{scroll-margin-top:72px}
 .vb-spot__in{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,.9fr);gap:var(--space-8);align-items:center}
 .vb-spot__media{position:relative;aspect-ratio:9/7}
 .vb-block--spot{left:14%;right:0;top:16%;bottom:6%}
-.vb-spot__media img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;mix-blend-mode:multiply}
+.vb-spot__media img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;filter:drop-shadow(0 14px 14px rgba(6,21,14,.18))}
 .vb-spot__media .blits-temp{left:auto;right:12px;bottom:calc(6% + 8px);z-index:2}
 .vb-stamp{position:absolute;z-index:3;left:2%;bottom:2%;padding:var(--space-4) var(--space-5);background:var(--night-pitch-green);transform:rotate(-5deg);--cut:var(--cut-sm);clip-path:polygon(0 var(--cut),var(--cut) var(--cut),var(--cut) 0,calc(100% - var(--cut)) 0,calc(100% - var(--cut)) var(--cut),100% var(--cut),100% calc(100% - var(--cut)),calc(100% - var(--cut)) calc(100% - var(--cut)),calc(100% - var(--cut)) 100%,var(--cut) 100%,var(--cut) calc(100% - var(--cut)),0 calc(100% - var(--cut)))}
 .vb-spot__copy{position:relative;padding:var(--space-6)}

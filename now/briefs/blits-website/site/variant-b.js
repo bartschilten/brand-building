@@ -99,10 +99,10 @@
   }
 
   var FAMILIES = [
-    { title: 'Football goals', count: '13 models', img: 'assets/products/blits-voetbaldoel-street-300x200.jpg', alt: 'BLITS Street football goal, 300 x 200 cm', text: 'From a first 90 × 60 cm goal to a full 500 × 200 cm.' },
+    { title: 'Football goals', count: '13 models', img: 'assets/products/blits-voetbaldoel-street-300x200-uitsnede.webp', alt: 'BLITS Street football goal, 300 x 200 cm', text: 'From a first 90 × 60 cm goal to a full 500 × 200 cm.' },
     { title: 'Basketball poles', count: '3 models', img: 'assets/products/blits-basketbalpaal-210-260.png', alt: 'BLITS basketball pole, adjustable 210 to 260 cm', text: 'Adjustable from 135 to 305 cm. The hoop grows with the player.', tall: true },
-    { title: 'Trampolines', count: '10 models', img: 'assets/products/blits-trampoline-inground-305.jpg', alt: 'BLITS Urban Sports inground trampoline', text: 'Above ground or inground, round or rectangular, up to Ø 427 cm. Room for one more.' },
-    { title: 'Rebounders', count: '3 models', img: 'assets/products/blits-rebounder-100x100.jpg', alt: 'BLITS adjustable rebounder, 100 x 100 cm', text: 'The ball always comes back. Adjustable, from 100 to 164 cm.' }
+    { title: 'Trampolines', count: '10 models', img: 'assets/products/blits-trampoline-inground-305-uitsnede.webp', alt: 'BLITS Urban Sports inground trampoline', text: 'Above ground or inground, round or rectangular, up to Ø 427 cm. Room for one more.' },
+    { title: 'Rebounders', count: '3 models', img: 'assets/products/blits-rebounder-100x100-uitsnede.webp', alt: 'BLITS adjustable rebounder, 100 x 100 cm', text: 'The ball always comes back. Adjustable, from 100 to 164 cm.' }
   ];
 
   /* 004 · Range: products break out of green blocks. */
@@ -155,7 +155,7 @@
       h('div', { className: 'wrap vb-spot__in' },
         h('div', { className: 'vb-spot__media' },
           h('div', { className: 'vb-block vb-block--spot' }),
-          h('img', { src: 'assets/products/blits-arena-voetbaldoel-300x200.jpg', alt: 'BLITS Arena aluminium football goal, 300 x 200 cm', loading: 'lazy' }),
+          h('img', { src: 'assets/products/blits-arena-voetbaldoel-300x200-uitsnede.webp', alt: 'BLITS Arena aluminium football goal, 300 x 200 cm', loading: 'lazy' }),
           h('span', { className: 'blits-temp' }, 'Temporary photo'),
           h('div', { className: 'vb-stamp' }, h(B.ChalkText, { color: 'secondary', size: 34, rotate: 0 }, '5 years', h('br'), 'warranty'))),
         h('div', { className: 'vb-spot__copy' },

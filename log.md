@@ -510,3 +510,7 @@ Merkverhaal opnieuw opgemaakt, Arena-plaatje met garantie 5 jaar (zonder Norm en
 ## [2026-10-22] build | BLITS homepage-variant B
 
 Nieuwe designbriefing van Bart vastgelegd (`now/briefs/blits-website/designbriefing-homepage-variant.md`). Variant B gebouwd als aparte pagina naast de bestaande Home; acht nieuwe componenten in het design system (v16). Besluit 25: handschrift mag, alleen als krijt (vervangt besluit 8). Zie [[blits-website-dealers]].
+
+## [2026-10-22] update | BLITS variant B: producten als echte uitsnede
+
+Productfoto's in variant B vervangen door transparante uitsneden (WebP) vóór de groene vlakken; geen multiply meer. Zie [[blits-website-dealers]].
