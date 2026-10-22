@@ -530,3 +530,7 @@ Derde campagnefoto van Bart in `.raw/2026-10-22/campagne/`; polaroid 03 in de la
 ## [2026-10-22] ingest | BLITS campagnefoto straat in de schemer
 
 Vierde campagnefoto van Bart in `.raw/2026-10-22/campagne/`; polaroid 01 in de lantaarnsectie van variant B. Zie [[blits-website-dealers]].
+
+## [2026-10-22] ingest | BLITS campagnefoto thuis na het spelen; krijt leesbaarder
+
+Vijfde campagnefoto in `.raw/2026-10-22/campagne/`, polaroid 02 in variant B. ChalkText witter en dekkender (design system v17). Zie [[blits-website-dealers]].

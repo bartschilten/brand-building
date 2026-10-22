@@ -65,3 +65,5 @@ Keuzes en afwijkingen:
 - **Schaduw:** het design system is plat; schaduw alleen op fysieke objecten (FloatingCutout, polaroids), nooit op kaarten of UI.
 - **Cutouts:** alle productfoto's zijn nu echte uitsneden met transparante achtergrond (WebP, `*-uitsnede.webp`), zodat het product vóór het groene vlak staat en zijn eigen kleur houdt: het Arena-doel blijft aluminium, netten blijven wit (Bart, 2026-10-22; de eerste versie gebruikte `multiply`, waardoor producten groen kleurden). Uitsnede gemaakt door de witte achtergrond weg te rekenen; door de mazen van het net zie je het groen. Alle productfoto's dragen het label "Temporary photo".
 - **Filmstrip:** in variant B vervangen door polaroids op de verlichte bakstenen muur, met krijtnotities op de muur.
+
+- **Krijt (bijgesteld 2026-10-22):** crème is een tintje witter (`--chalk-cream`: beige met 55 % wit), dekkender en met een vage donkere rand voor leesbaarheid op foto's; overal identiek, ingebouwd in `ChalkText`.
