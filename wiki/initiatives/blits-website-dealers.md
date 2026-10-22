@@ -3,7 +3,7 @@ type: initiative
 title: "BLITS-website voor dealers"
 status: developing
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-10-22
 tags: [blits, website, b2b, claude-design]
 related: ["[[blits]]", "[[blits-ontwerpelementen-heritage]]", "[[blits-open-punten-2026-10-20]]", "[[blits-launch-rollout]]", "[[blits-tone-of-voice-definitief]]"]
 aliases: ["BLITS website", "BLITS for Professionals"]
@@ -59,6 +59,10 @@ Nieuwe componenten in het design system (versie 10): `LanternHero`, `FieldLines`
 
 Aannames om te toetsen (v1): copy van hero, pijlers en productkaarten is nieuw geschreven binnen de tone of voice; links wijzen nog naar ankers op Home (de andere pagina's bestaan nog niet); "Become a dealer" en "Apply as a dealer" gaan nu naar de Professionals-teaser.
 
+## Homepage-variant B (2026-10-22)
+
+Bart vond de homepage te kleurrijk, druk en met te weinig samenhang en schreef een nieuwe designbriefing (`now/briefs/blits-website/designbriefing-homepage-variant.md`). Variant B staat als aparte pagina naast de bestaande Home: https://claude.ai/artifact/JfNqxDCZME5UVppz1WpDDK (bron `site/variant-b.*`). De bestaande Home (https://claude.ai/artifact/JsHhQ3bo83pSqvNJ5k61kX) blijft ongewijzigd. Variant B gebruikt beige als basis, Night Pitch Green voor tekst en zware vlakken, Soccer Green als enige hoofdkleur (kleurblokken, één kernwoord per kop, knoppen) en Tour de Yellow alleen voor krijt. Nieuw in het design system: ChalkText, TornEdge, PolaroidFrame, DotGrid, IndexLabel, SquareArrowButton, FloatingCutout, Keyword. Handschrift mag nu, alleen als krijt (besluit 25). Wacht op Barts vergelijking.
+
 ## Analoge zielelementen: keuzes van Bart (2026-10-20)
 
 Uit de keuze-galerij in het design system (zie [[blits-open-punten-2026-10-20]] besluit 17 voor de volledige lijst): **J3** speelse stuiter, **I1** middenlijn en **I3** krijtlijn, **B2** lantaarnhero met animatie (gebouwd als `LanternHero`: het licht flikkert aan en uit, textuur en veldlijnen in het verlichte vlak), **E1 + E6** bies, **D2 + D4** plaatjes, **G2** klapcijfers, **K3** filmstrip, **F1 beton, F2 asfalt, F3 kraft en zand**. Veldlijnen (A), stoepkrijt (C) en lijniconen (H) blijven allemaal beschikbaar, per pagina of product gekozen en in de kleur van de sectie. Texturen na ronde 2: beton, asfalt, kraft en zand, gras, modder, tartanbaan, regenplas (F1 t/m F7); kunstgras, grind, hout, leer, filmkorrel, hekwerk en tegels vervallen. De getekende texturen zijn placeholders; echte texturen via Nano Banana (`now/briefs/blits-website/texture-prompts.md`). De groene boog in de lantaarnhero is verwijderd.
@@ -83,6 +87,7 @@ Uit de keuze-galerij in het design system (zie [[blits-open-punten-2026-10-20]] 
 
 ## Timeline
 
+- **2026-10-22** | Bart — nieuwe designbriefing (minder kleur, meer samenhang, gelaagdheid, krijtletters); homepage-variant B gebouwd naast de bestaande Home; handschrift alleen als krijt (besluit 25); design system v16.
 - **2026-10-20** | Bart — "heel blij"; laatste punten in v5: merkverhaal strakker opgemaakt (geen bovenregel, pijlers onder elkaar, "Dirty knees are medals." op de foto), Arena-plaatje zonder Norm/Also in en met garantie 5 jaar, Arena-foto vult het vlak, winkelzoeker zonder losse regels voor online en retailers.
 - **2026-10-20** | Bart + twee review-agents (Apple-design, branding) — review van Home v3, Bart akkoord op vrijwel alles behalve adviesprijzen (nergens prijzen, besluit 21) en "gear" ("toys" blijft, besluit 22); doorgevoerd in Home v4 en design system v13.
 - **2026-10-20** | Bart — v3: feitensectie en Arena-spotlight gewisseld (geen twee keer assortiment of twee donkere secties achter elkaar), titel feiten nu "OUTSIDE, COUNTED.", zoekveld bij Find a dealer vervangen door `Field` (plaatje met gestanste hoeken en gestippelde schrijflijn).

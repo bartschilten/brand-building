@@ -73,7 +73,7 @@ Vaste regels: één kleursysteem voor het hele merk, **geen kleurcode per sport/
 - Accentwoord in titel: **TT Autonomous Bold Outline Italic**, één woord, contrastkleur.
 - Lopende tekst: **Archia Regular (400)**, regelhoogte 1,8 em, belangrijke woorden vet.
 - Knoppen: **TT Autonomous Bold**, hoofdletters, letter-spacing 0,15 em. Primaire knop = rode pil met witte tekst.
-- Geen handschriftfont: besloten. Alleen TT Autonomous en Archia; krijt alleen als illustratie.
+- Handschrift alleen als krijt (besluit 25, 2026-10-22, vervangt het eerdere "geen handschriftfont"): `ChalkText` (Caveat Brush met krijtfilter) als accentlaag, nooit voor koppen, lopende tekst, knoppen, prijzen of dealerinformatie. Verder alleen TT Autonomous en Archia.
 
 Optische maat: iets strakker op grote koppen, iets ruimer op kleine labels.
 

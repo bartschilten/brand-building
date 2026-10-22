@@ -1,0 +1,1 @@
+A quiet dot-grid layer with optional technical corner ticks (`frame`) for large open areas, behind a headline block or a spec plate. `<DotGrid frame gap={16} color />` fills its positioned parent. Never behind running text at high contrast: keep the default (night pitch green at 22 %).

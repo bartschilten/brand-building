@@ -1,4 +1,4 @@
-/* @ds-bundle: {"format":4,"namespace":"Blits","components":[{"name":"Button"},{"name":"Heading"},{"name":"PlaqueCard"},{"name":"SpecPlate"},{"name":"Divider"},{"name":"Marker"},{"name":"FieldLines"},{"name":"Icon"},{"name":"ChalkDoodle"},{"name":"ChalkDivider"},{"name":"FlipDigits"},{"name":"StampedShield"},{"name":"ChassisPlate"},{"name":"FilmStrip"},{"name":"Texture"},{"name":"LanternHero"},{"name":"Photo"},{"name":"CampaignHero"},{"name":"Streetlight"},{"name":"Field"}]} */
+/* @ds-bundle: {"format":4,"namespace":"Blits","components":[{"name":"Button"},{"name":"Heading"},{"name":"PlaqueCard"},{"name":"SpecPlate"},{"name":"Divider"},{"name":"Marker"},{"name":"FieldLines"},{"name":"Icon"},{"name":"ChalkDoodle"},{"name":"ChalkDivider"},{"name":"FlipDigits"},{"name":"StampedShield"},{"name":"ChassisPlate"},{"name":"FilmStrip"},{"name":"Texture"},{"name":"LanternHero"},{"name":"Photo"},{"name":"CampaignHero"},{"name":"Streetlight"},{"name":"Field"},{"name":"ChalkText"},{"name":"TornEdge"},{"name":"PolaroidFrame"},{"name":"DotGrid"},{"name":"IndexLabel"},{"name":"SquareArrowButton"},{"name":"FloatingCutout"},{"name":"Keyword"}]} */
 (function () {
   var h = React.createElement;
   function cx() { return Array.prototype.filter.call(arguments, Boolean).join(' '); }
@@ -356,10 +356,87 @@
       props.children ? h('div', { className: 'blits-fieldplate__action' }, props.children) : null);
   }
 
+  /* Variant set (2026-10-22): chalk lettering, torn paper, polaroids, dot grid, index labels, square arrow button, floating cutouts, keyword highlight. */
+
+  /* Chalk handwriting: an accent layer only (short calls, product notes, stamp-like labels, a quote). Never headlines, body, buttons, prices or dealer information. */
+  function ChalkText(props) {
+    var id = useId('blits-chalktext-');
+    var colors = { cream: 'var(--beachball-volley-beige)', white: 'var(--white)', secondary: 'var(--tour-de-yellow)', yellow: 'var(--tour-de-yellow)' };
+    var Tag = props.as || 'span';
+    return h(Tag, {
+      className: cx('blits-chalktext', props.className),
+      style: Object.assign({ color: colors[props.color || 'cream'] || props.color, fontSize: typeof props.size === 'number' ? props.size + 'px' : (props.size || '40px'), transform: 'rotate(' + (props.rotate == null ? -4 : props.rotate) + 'deg)', filter: 'url(#' + id + ')' }, props.style)
+    },
+      svg('<filter id="' + id + '" x="-10%" y="-30%" width="120%" height="160%"><feTurbulence type="fractalNoise" baseFrequency="0.04" numOctaves="2" seed="3" result="w"/><feDisplacementMap in="SourceGraphic" in2="w" scale="3" result="d"/><feTurbulence type="fractalNoise" baseFrequency="1.1" numOctaves="1" seed="8" result="g"/><feColorMatrix in="g" type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -2.4 1.6" result="m"/><feComposite in="d" in2="m" operator="in" result="c"/><feGaussianBlur in="c" stdDeviation="0.9" result="b"/><feComponentTransfer in="b" result="dust"><feFuncA type="linear" slope="0.4"/></feComponentTransfer><feMerge><feMergeNode in="dust"/><feMergeNode in="c"/></feMerge></filter>', { className: 'blits-chalktext__defs', width: 0, height: 0, 'aria-hidden': 'true', focusable: 'false' }),
+      props.children);
+  }
+
+  /* Torn paper edge between two sections. Sits on the edge of its parent section (position:relative) and overlaps the neighbour. */
+  function tornPath(seed, w, hgt) {
+    var s = seed || 7;
+    function rnd() { s = (s * 16807) % 2147483647; return (s - 1) / 2147483646; }
+    var d = 'M0 ' + hgt + ' L0 ' + (hgt * 0.55).toFixed(1), x = 0;
+    while (x < w) {
+      x += 6 + rnd() * 18;
+      var big = rnd() < 0.12 ? rnd() * hgt * 0.35 : 0;
+      d += ' L' + Math.min(x, w).toFixed(1) + ' ' + (hgt * (0.25 + rnd() * 0.45) + big - (big ? hgt * 0.2 : 0)).toFixed(1);
+    }
+    return d + ' L' + w + ' ' + hgt + ' Z';
+  }
+  function TornEdge(props) {
+    var hgt = props.height || 28, w = 1200, pos = props.position || 'top';
+    var main = tornPath(props.seed || 11, w, hgt), fibre = tornPath((props.seed || 11) + 5, w, hgt);
+    return h('div', { className: cx('blits-torn', 'blits-torn--' + pos, props.className), 'aria-hidden': 'true', style: { height: hgt + 'px' } },
+      svg('<path d="' + fibre + '" fill="' + (props.fibre || 'rgba(255,255,255,.55)') + '" transform="translate(0 -3)"/><path d="' + main + '" fill="' + (props.color || 'var(--night-pitch-green)') + '"/>',
+        { width: '100%', height: hgt, viewBox: '0 0 ' + w + ' ' + hgt, preserveAspectRatio: 'none' }));
+  }
+
+  /* Polaroid-style photo frame: paper border, square photo, a short caption strip. Rotate slightly and let frames overlap. */
+  function PolaroidFrame(props) {
+    return h('figure', { className: cx('blits-polaroid', props.className), style: Object.assign({ transform: 'rotate(' + (props.rotate || 0) + 'deg)' }, props.style) },
+      h(Photo, { as: 'div', src: props.src, alt: props.alt, ratio: props.ratio || '1 / 1', kind: props.kind || 'Campaign photo', brief: props.brief }),
+      props.caption ? h('figcaption', { className: 'blits-polaroid__caption' }, props.caption) : null);
+  }
+
+  /* Dot grid: a quiet technical background layer for large open areas, optionally with corner ticks. Fills its positioned parent. */
+  function DotGrid(props) {
+    var gap = props.gap || 16, color = props.color || 'rgba(6,21,14,.22)';
+    return h('div', {
+      className: cx('blits-dotgrid', props.frame && 'blits-dotgrid--frame', props.className), 'aria-hidden': 'true',
+      style: Object.assign({ backgroundImage: 'radial-gradient(' + color + ' 1.2px, transparent 1.4px)', backgroundSize: gap + 'px ' + gap + 'px', '--tick': color }, props.style)
+    });
+  }
+
+  /* Editorial index number ("001") with an optional label. */
+  function IndexLabel(props) {
+    return h('p', { className: cx('blits-index', props.className) },
+      h('span', { className: 'blits-index__num' }, props.index),
+      props.label ? h('span', { className: 'blits-index__label' }, props.label) : null);
+  }
+
+  /* Compact square action button with a diagonal arrow. For "open this" on tiles and cards; text actions stay pill buttons. */
+  function SquareArrowButton(props) {
+    var Tag = props.href ? 'a' : 'button';
+    return h(Tag, { className: cx('blits-sqbtn', props.tone === 'dark' && 'blits-sqbtn--dark', props.className), href: props.href, type: props.href ? undefined : (props.type || 'button'), onClick: props.onClick, 'aria-label': props.label },
+      svg('<path d="M7 17L17 7M9 7H17V15"/>', { width: 22, height: 22, viewBox: '0 0 24 24', fill: 'none', stroke: 'currentColor', strokeWidth: 2.5, strokeLinecap: 'square', 'aria-hidden': 'true' }));
+  }
+
+  /* A cut-out object (product, ball, net, shield) floating over sections and frames with a soft, realistic shadow. The one place a shadow is allowed: physical objects. */
+  function FloatingCutout(props) {
+    return h('div', { className: cx('blits-float', props.className), style: Object.assign({ width: props.width, transform: 'rotate(' + (props.rotate || 0) + 'deg)' }, props.style) },
+      props.src ? h('img', { src: props.src, alt: props.alt || '', loading: 'lazy' }) : props.children,
+      props.temp ? h('span', { className: 'blits-temp' }, 'Temporary photo') : null);
+  }
+
+  /* One keyword per headline in the primary colour: a soccer-green block behind dark type on light sections, green type on dark sections. */
+  function Keyword(props) {
+    return h('span', { className: cx('blits-keyword', props.className) }, props.children);
+  }
+
   window.Blits = {
     Button: Button, Heading: Heading, PlaqueCard: PlaqueCard, SpecPlate: SpecPlate, Divider: Divider, Marker: Marker,
     FieldLines: FieldLines, Icon: Icon, ChalkDoodle: ChalkDoodle, ChalkDivider: ChalkDivider, FlipDigits: FlipDigits,
-    StampedShield: StampedShield, ChassisPlate: ChassisPlate, FilmStrip: FilmStrip, Texture: Texture, LanternHero: LanternHero, Photo: Photo, CampaignHero: CampaignHero, Streetlight: Streetlight, Field: Field,
+    StampedShield: StampedShield, ChassisPlate: ChassisPlate, FilmStrip: FilmStrip, Texture: Texture, LanternHero: LanternHero, Photo: Photo, CampaignHero: CampaignHero, Streetlight: Streetlight, Field: Field, ChalkText: ChalkText, TornEdge: TornEdge, PolaroidFrame: PolaroidFrame, DotGrid: DotGrid, IndexLabel: IndexLabel, SquareArrowButton: SquareArrowButton, FloatingCutout: FloatingCutout, Keyword: Keyword,
     configureAssets: configureAssets, assets: assets, iconNames: Object.keys(ICONS), doodleNames: Object.keys(DOODLES), fieldTypes: Object.keys(FIELD)
   };
 })();

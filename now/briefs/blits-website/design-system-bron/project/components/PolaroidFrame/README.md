@@ -1,0 +1,1 @@
+A polaroid-style frame: white paper border, a square photo (`Photo`, so it shows a shot brief until the photo exists), a caption strip in the display face. `<PolaroidFrame src alt brief caption rotate ratio />`. Rotate a few degrees and let frames overlap each other or a main photo (collage). It carries a soft shadow because it is a physical print; flat UI keeps no shadows.

@@ -1,0 +1,1 @@
+Exactly one keyword per headline lights up in the primary colour (soccer green). `<h2>Four ways <Keyword>out.</Keyword></h2>`. On light sections a soccer-green block sits behind the dark type (green text on beige would fail contrast); on dark sections the word itself turns soccer green. Used by Home variant B instead of the outline accent word.

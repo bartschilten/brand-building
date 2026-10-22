@@ -3,7 +3,7 @@ type: decision
 title: "BLITS — open punten beantwoord (2026-10-20)"
 status: mature
 created: 2026-10-20
-updated: 2026-10-20
+updated: 2026-10-22
 tags: [blits, website, tone-of-voice, heritage]
 related: ["[[blits]]", "[[blits-website-dealers]]", "[[blits-tone-of-voice-definitief]]", "[[blits-ontwerpelementen-heritage]]", "[[neo-heritage-branding]]"]
 aliases: []
@@ -40,7 +40,7 @@ open punten uit het overdrachtsdocument bij de start van de BLITS-website
 7. **Dealercijfers zijn niet nodig om de website te bouwen.** Tekst en
    getallen over marge/prijs worden placeholders en nooit verzonnen.
 
-8. **Geen handschriftaccent** (bevestigd 2026-10-20): alleen de twee
+8. ~~**Geen handschriftaccent**~~ *(vervangen door besluit 25, 2026-10-22: handschrift mag, maar alleen als krijt)* (bevestigd 2026-10-20): alleen de twee
    aangeleverde fonts (TT Autonomous, Archia). Krijtelementen alleen als
    illustratie.
 9. **Logo voor de website: alleen de aangeleverde standaard schildlogo's**
@@ -71,5 +71,6 @@ open punten uit het overdrachtsdocument bij de start van de BLITS-website
 22. **"Toys", niet "gear"** (Bart, 2026-10-20): "gear" voelt te professioneel en te stuntstep-achtig. Op de site en in de copy heet het outdoor toys.
 23. **Home-pagina na de design- en merkreview** (Bart, 2026-10-20, akkoord op vrijwel alle punten van beide reviewers, zie `now/briefs/blits-website/review-home-2026-10-20.md`): kernbelofte ("outside, together, through every age and every fall") in de hero; outline-accent op OUTSIDE, niet op WINS; outline-regel donkergroen op licht en Soccer Green op donker, rood alleen voor knoppen en bies; consumentenroute "Find a store" en dealerroute via "For retailers" en "Stock BLITS" zonder Professionals-blok op Home; feiten die altijd waar zijn (0 screens, 0 batteries, 1 ball, 2 knees) onder "Outside, counted."; volgorde hero, merkverhaal, feiten, assortiment, lantaarn-filmstrip, Arena, winkelzoeker.
 24. **Laatste Home-punten (Bart, 2026-10-20):** garantie op het Arena-doel is **5 jaar** (Bart; staat zo op het plaatje); geen "Norm"-rij en geen "Also in"-rij op het plaatje; de winkelzoeker vindt fysieke winkels én webshops in één zoekopdracht, dus geen aparte regels voor online kopen of voor retailers in die sectie (de dealerroute loopt via "For retailers" in menu en footer); "Why BLITS exists" als bovenregel vervalt.
+25. **Handschrift mag, maar alleen als krijt** (Bart, 2026-10-22, vervangt besluit 8): een losse, handgeschreven penseelletter die eruitziet als krijt op een ondergrond, geen gladde digitale script. In het design system: `ChalkText` (Caveat Brush met een krijtfilter), alleen in crème of de secundaire kleur (Tour de Yellow), bij voorkeur op donkere, asfalt- of betonvlakken. Alleen als accentlaag (korte kreten, productnotities, stempel-achtige kwaliteitslabels, een kort citaat), nooit voor kopteksten, lopende tekst, knoppen, prijzen of dealerinformatie. Toegepast in homepage-variant B (`now/briefs/blits-website/designbriefing-homepage-variant.md`); de bestaande homepage blijft ernaast bestaan.
 
 ---
