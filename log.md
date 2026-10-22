@@ -526,3 +526,7 @@ Tweede campagnefoto van Bart in `.raw/2026-10-22/campagne/`; bij "Kids grow up o
 ## [2026-10-22] ingest | BLITS campagnefoto basketbal van boven
 
 Derde campagnefoto van Bart in `.raw/2026-10-22/campagne/`; polaroid 03 in de lantaarnsectie van variant B. Krijtteksten hero en merkverhaal omgewisseld. Zie [[blits-website-dealers]].
+
+## [2026-10-22] ingest | BLITS campagnefoto straat in de schemer
+
+Vierde campagnefoto van Bart in `.raw/2026-10-22/campagne/`; polaroid 01 in de lantaarnsectie van variant B. Zie [[blits-website-dealers]].

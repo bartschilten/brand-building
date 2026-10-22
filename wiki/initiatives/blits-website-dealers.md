@@ -87,6 +87,7 @@ Uit de keuze-galerij in het design system (zie [[blits-open-punten-2026-10-20]] 
 
 ## Timeline
 
+- **2026-10-22** | Bart — vierde campagnefoto (straatvoetbal in de schemer, lantaarns net aan) als polaroid 01 "Street" in de lantaarnsectie van variant B.
 - **2026-10-22** | Bart — krijtteksten omgewisseld ("Dirty knees are medals." bij de modderfoto in de hero, "Back before dark!" bij de zonsondergang in het merkverhaal); derde campagnefoto (basketbal van bovenaf door de ring) als polaroid 03 "Last light" in de lantaarnsectie.
 - **2026-10-22** | Bart — tweede campagnefoto (twee vrienden met de arm om elkaar bij het hek, straatvoetbal bij zonsondergang) bij "Kids grow up outside" in variant B; polaroid-detail met de omhelzing. Let op: op de sneakers staan Nike-logo's (zichtbaar in de hoofdfoto); bij voorkeur wegwerken voor publicatie.
 - **2026-10-22** | Bart — eerste eigen campagnefoto aangeleverd (straatvoetbal in de regen, jongen glijdt door een modderplas, bal naar de camera); nu de hero van variant B, met een uitsnede als polaroid. Origineel in `.raw/2026-10-22/campagne/`.

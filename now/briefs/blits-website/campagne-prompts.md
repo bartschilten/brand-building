@@ -12,7 +12,7 @@ Doel: eigen campagnebeelden voor de Home-pagina, in plaats van de placeholders. 
 
 > Analog campaign photograph for an outdoor toy brand, shot on 35mm film, visible natural film grain, slight motion blur on fast movement, real action and real mess, nobody posing or looking at the camera, saturated yellow, blue and green tones, European street setting, no text, no logos, no brand names on clothing.
 
-**Stand 2026-10-22:** Bart leverde een eerste campagnefoto aan (straatvoetbal in de regen, modderplas, lage camerahoek), `.raw/2026-10-22/campagne/blits-campagne-straatvoetbal-modder.jpg`. Die staat als hero in homepage-variant B; een detail ervan staat in de polaroid. Tweede foto (vrienden bij het hek, zonsondergang) staat bij het merkverhaal in plaats van beeld 2; let op de Nike-logo's op de sneakers, bij voorkeur wegwerken. Derde foto (basketbal van bovenaf door de ring, schemer) staat als polaroid 03 "Last light". Nog nodig: polaroids 01 (straat in de schemer) en 02 (regenplas).
+**Stand 2026-10-22:** Bart leverde een eerste campagnefoto aan (straatvoetbal in de regen, modderplas, lage camerahoek), `.raw/2026-10-22/campagne/blits-campagne-straatvoetbal-modder.jpg`. Die staat als hero in homepage-variant B; een detail ervan staat in de polaroid. Tweede foto (vrienden bij het hek, zonsondergang) staat bij het merkverhaal in plaats van beeld 2; let op de Nike-logo's op de sneakers, bij voorkeur wegwerken. Derde foto (basketbal van bovenaf door de ring, schemer) staat als polaroid 03 "Last light". Vierde foto (straat in de schemer) staat als polaroid 01 "Street". Nog nodig: polaroid 02 (regenplas).
 
 ## Per beeld (plak achter de basis)
 
