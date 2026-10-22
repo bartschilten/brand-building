@@ -52,11 +52,11 @@ section[id],footer [id]{scroll-margin-top:72px}
 /* 002 Story */
 .vb-story{padding-bottom:calc(var(--space-9) + var(--space-4))}
 .vb-story__in{display:grid;grid-template-columns:minmax(0,.9fr) minmax(0,1.1fr);gap:var(--space-8);align-items:start}
-.vb-collage--story{aspect-ratio:1/1.12}
+.vb-collage--story{aspect-ratio:1/1.08}
 .vb-strip{position:absolute;left:-200px;right:22%;top:18%;height:56%;background:var(--soccer-green)}
-.vb-collage--story .vb-collage__main{left:6%;top:0;width:70%}
-.vb-collage--story .vb-collage__polaroid{position:absolute;right:0;bottom:0;width:42%;z-index:3}
-.vb-story__chalk{position:absolute;z-index:4;left:12%;top:7%}
+.vb-collage--story .vb-collage__main{left:0;top:6%;width:80%}
+.vb-collage--story .vb-collage__polaroid{position:absolute;right:-2%;top:-4%;width:34%;z-index:3}
+.vb-story__chalk{position:absolute!important;z-index:4;right:6%;bottom:4%;text-align:right;transform-origin:100% 50%}
 .vb-pillars{display:grid;gap:var(--space-6);margin:0;padding:0;list-style:none}
 .vb-pillar{display:grid;grid-template-columns:56px minmax(0,1fr);gap:var(--space-4);align-items:start}
 .vb-pillar__num{display:block;padding-top:2px;font-family:var(--font-display);font-weight:800;font-size:14px;letter-spacing:.15em;color:var(--night-pitch-green);border-top:3px solid var(--soccer-green);padding-top:var(--space-2)}
