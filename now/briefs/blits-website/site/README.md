@@ -7,3 +7,9 @@ Proefversie van de dealerwebsite, gebouwd met het BLITS design system (https://c
 - `assets/` = kopieën van de logo's, texturen (`.raw/2026-10-20/`) en vier tijdelijke productfoto's van de Toppy-CDN (verkleind). `fonts/` = Archia.
 - Gepubliceerd als privé-Artifact: https://claude.ai/artifact/JsHhQ3bo83pSqvNJ5k61kX (publiceren met `file_path` = `index.html`, `root` = deze map).
 - Lokaal bekijken: `python3 -m http.server` in deze map, dan `http://localhost:8000/`.
+
+## Variant B (2026-10-22)
+
+- `variant-b.html` + `variant-b.js` + `variant-b.css` = homepage-variant B volgens `../designbriefing-homepage-variant.md`. De bestaande Home (`index.html`, `home.js`, `home.css`) blijft ongewijzigd.
+- Gepubliceerd als apart privé-Artifact: https://claude.ai/artifact/JfNqxDCZME5UVppz1WpDDK (publiceren met `file_path` = `variant-b.html`, `root` = deze map).
+- Lokaal: `http://localhost:8000/variant-b.html`.

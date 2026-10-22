@@ -170,6 +170,37 @@ body{margin:0;background:var(--surface);color:var(--ink);font-family:var(--font-
 .blits-fieldplate__action{flex:none}
 @media (max-width:640px){.blits-fieldplate{flex-direction:column;align-items:stretch}.blits-fieldplate__action .blits-btn{width:100%}}
 
+/* Variant set (2026-10-22) */
+.blits-btn--brand{background:var(--soccer-green);color:var(--night-pitch-green)}
+@media (hover:hover) and (pointer:fine){.blits-btn--brand:hover{background:var(--night-pitch-green);color:var(--soccer-green)}[data-theme="dark"] .blits-btn--brand:hover{background:var(--beachball-volley-beige);color:var(--night-pitch-green)}}
+.blits-chalktext{position:relative;display:inline-block;font-family:var(--font-chalk);font-weight:400;line-height:1.05;letter-spacing:.01em;transform-origin:0 50%;pointer-events:none}
+.blits-chalktext__defs{position:absolute;width:0;height:0;overflow:hidden}
+.blits-torn{position:absolute;left:0;right:0;z-index:3;line-height:0;pointer-events:none}
+.blits-torn svg{display:block;width:100%}
+.blits-torn--top{top:1px;transform:translateY(-100%)}
+.blits-torn--bottom{bottom:1px;transform:translateY(100%) scaleY(-1)}
+.blits-polaroid{margin:0;padding:12px 12px 0;background:var(--white);box-shadow:0 1px 2px rgba(6,21,14,.18),0 14px 28px rgba(6,21,14,.16)}
+.blits-polaroid .blits-photo__placeholder{outline-offset:-8px}
+.blits-polaroid__caption{display:flex;align-items:center;min-height:52px;padding:0 4px;font-family:var(--font-display);font-weight:800;font-size:12px;letter-spacing:.15em;text-transform:uppercase;color:var(--night-pitch-green)}
+.blits-dotgrid{position:absolute;inset:0;pointer-events:none}
+.blits-dotgrid--frame::before,.blits-dotgrid--frame::after{content:"";position:absolute;width:24px;height:24px;border:solid var(--tick);border-width:2px 0 0 2px;left:0;top:0}
+.blits-dotgrid--frame::after{left:auto;top:auto;right:0;bottom:0;border-width:0 2px 2px 0}
+.blits-index{display:flex;align-items:center;gap:var(--space-3);margin:0;font-family:var(--font-display);font-weight:800;font-size:12px;letter-spacing:.15em;text-transform:uppercase;color:inherit}
+.blits-index__num{font-variant-numeric:tabular-nums}
+.blits-index__label{display:flex;align-items:center;gap:var(--space-3)}
+.blits-index__label::before{content:"";width:32px;height:2px;background:currentColor;opacity:.6}
+.blits-sqbtn{--n:6px;position:relative;isolation:isolate;display:inline-grid;place-items:center;flex:none;width:48px;height:48px;padding:0;border:0;background:transparent;color:var(--night-pitch-green);cursor:pointer;text-decoration:none;transition:transform 120ms var(--ease-out)}
+.blits-sqbtn::before{content:"";position:absolute;inset:0;z-index:-1;background:var(--soccer-green);clip-path:polygon(0 var(--n),var(--n) var(--n),var(--n) 0,calc(100% - var(--n)) 0,calc(100% - var(--n)) var(--n),100% var(--n),100% calc(100% - var(--n)),calc(100% - var(--n)) calc(100% - var(--n)),calc(100% - var(--n)) 100%,var(--n) 100%,var(--n) calc(100% - var(--n)),0 calc(100% - var(--n)));transition:background-color 160ms var(--ease-out)}
+.blits-sqbtn:active{transform:scale(.94)}
+.blits-sqbtn--dark{color:var(--soccer-green)}.blits-sqbtn--dark::before{background:var(--night-pitch-green)}
+@media (hover:hover) and (pointer:fine){.blits-sqbtn:hover::before{background:var(--night-pitch-green)}.blits-sqbtn:hover{color:var(--soccer-green)}.blits-sqbtn--dark:hover::before{background:var(--soccer-green)}.blits-sqbtn--dark:hover{color:var(--night-pitch-green)}}
+.blits-float{position:relative;pointer-events:none}
+.blits-float>img{display:block;width:100%;height:auto;filter:drop-shadow(0 4px 4px rgba(6,21,14,.22)) drop-shadow(0 22px 22px rgba(6,21,14,.24))}
+.blits-float>.blits-stamp{filter:drop-shadow(0 4px 4px rgba(6,21,14,.3)) drop-shadow(0 22px 22px rgba(6,21,14,.3))}
+.blits-temp{position:absolute;left:0;bottom:-6px;padding:3px 6px;background:var(--night-pitch-green);color:var(--beachball-volley-beige);font-family:var(--font-display);font-weight:800;font-size:9px;letter-spacing:.12em;text-transform:uppercase;white-space:nowrap}
+.blits-keyword{padding:0 .08em;margin:0 -.04em;background:linear-gradient(transparent 14%,var(--soccer-green) 14%,var(--soccer-green) 90%,transparent 90%);-webkit-box-decoration-break:clone;box-decoration-break:clone}
+[data-theme="dark"] .blits-keyword{background:none;padding:0;margin:0;color:var(--soccer-green)}
+
 /* Photo slot */
 .blits-photo{position:relative;margin:0;overflow:hidden;background:var(--night-pitch-green)}
 .blits-photo>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}

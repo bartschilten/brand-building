@@ -506,3 +506,7 @@ Twee review-agents (Apple-design en branding) bekeken Home v3; Bart akkoord op v
 ## [2026-10-20] update | BLITS Home v5: laatste puntjes
 
 Merkverhaal opnieuw opgemaakt, Arena-plaatje met garantie 5 jaar (zonder Norm en Also in), foto vult het vlak, winkelzoeker zonder losse regels. Besluit 24 in [[blits-open-punten-2026-10-20]]. Zie [[blits-website-dealers]].
+
+## [2026-10-22] build | BLITS homepage-variant B
+
+Nieuwe designbriefing van Bart vastgelegd (`now/briefs/blits-website/designbriefing-homepage-variant.md`). Variant B gebouwd als aparte pagina naast de bestaande Home; acht nieuwe componenten in het design system (v16). Besluit 25: handschrift mag, alleen als krijt (vervangt besluit 8). Zie [[blits-website-dealers]].

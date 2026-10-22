@@ -1,0 +1,6 @@
+<!-- @dsCard group="Variant B: componenten" height=360 width=960 subtitle="Polaroid-style photo frame, rotated, overlapping" -->
+<!doctype html><html><head><meta charset="utf-8"><link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700..900&family=Caveat+Brush&display=swap" rel="stylesheet"><style>*{box-sizing:border-box}body{margin:0;padding:24px;background:var(--beachball-volley-beige);color:var(--night-pitch-green);font-family:var(--font-sans)}</style><style></style></head><body><div id="root"></div><script>
+var B=window.Blits,h=React.createElement;
+function App(){return h("div",{style:{display:"flex",gap:24,alignItems:"flex-start",padding:16}},h("div",{style:{width:220}},h(B.PolaroidFrame,{rotate:-4,caption:"01 · Street",brief:"Street football at dusk."})),h("div",{style:{width:220,marginTop:30}},h(B.PolaroidFrame,{rotate:3,caption:"02 · Puddle",src:B.assets.textures.puddle,alt:"Rain puddle"})))}
+ReactDOM.createRoot(document.getElementById("root")).render(h(App));
+</script></body></html>

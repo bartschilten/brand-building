@@ -1,0 +1,1 @@
+Editorial index numbers for sections and key products: `<IndexLabel index="001" label="Outdoor toys for kids" />`. Display face, 12px, 0.15em tracking, a short rule between number and label. Number sections in page order (001, 002, ...) and products per list (No. 01, No. 02). Colour follows the text colour of the section.
