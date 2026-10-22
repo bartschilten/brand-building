@@ -514,3 +514,7 @@ Nieuwe designbriefing van Bart vastgelegd (`now/briefs/blits-website/designbrief
 ## [2026-10-22] update | BLITS variant B: producten als echte uitsnede
 
 Productfoto's in variant B vervangen door transparante uitsneden (WebP) vóór de groene vlakken; geen multiply meer. Zie [[blits-website-dealers]].
+
+## [2026-10-22] ingest | BLITS campagnefoto straatvoetbal
+
+Eerste campagnefoto van Bart in `.raw/2026-10-22/campagne/`; als hero en polaroid-detail in homepage-variant B. Zie [[blits-website-dealers]].

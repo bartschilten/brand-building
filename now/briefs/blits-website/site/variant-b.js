@@ -41,9 +41,9 @@
             h(B.Button, { href: '#assortment', variant: 'secondary' }, 'Explore the range'))),
         h('div', { className: 'vb-collage vb-collage--hero', 'aria-hidden': 'false' },
           h('div', { className: 'vb-block vb-block--hero' }),
-          h(B.Photo, { className: 'vb-collage__main', cut: true, ratio: '4 / 5', eager: true, brief: 'Kids in full motion on a street pitch at golden hour: a ball mid-air, dust kicking up, shot from ground level so they stand tall against the sky. Mesh fence, worn asphalt, film grain, nobody posing.' }),
-          h(B.ChalkText, { className: 'vb-hero__chalk', size: 46, rotate: -6 }, 'Back before dark!'),
-          h(B.PolaroidFrame, { className: 'vb-collage__polaroid', rotate: 5, caption: '002 · Puddle', brief: 'Rain boots landing in a puddle on the pavement, splash frozen mid-air.' }),
+          h(B.Photo, { className: 'vb-collage__main vb-hero__photo', cut: true, ratio: '4 / 5', eager: true, src: 'assets/campaign/blits-campagne-straatvoetbal-modder.jpg', alt: 'Kids playing street football in the rain, one sliding through a muddy puddle, laughing, the ball flying towards the camera', position: '50% 62%' },
+            h(B.ChalkText, { className: 'vb-hero__chalk', size: 46, rotate: -6 }, 'Back before dark!')),
+          h(B.PolaroidFrame, { className: 'vb-collage__polaroid', rotate: 5, caption: '002 · Splash', src: 'assets/campaign/blits-campagne-straatvoetbal-modder-detail.jpg', alt: 'Close-up: a boy sliding through a muddy puddle, laughing' }),
           h(B.FloatingCutout, { className: 'vb-hero__float', src: 'assets/products/blits-basketbalbord-uitsnede.png', alt: '', rotate: 6, temp: true }))));
   }
 

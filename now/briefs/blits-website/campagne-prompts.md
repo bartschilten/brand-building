@@ -12,6 +12,8 @@ Doel: eigen campagnebeelden voor de Home-pagina, in plaats van de placeholders. 
 
 > Analog campaign photograph for an outdoor toy brand, shot on 35mm film, visible natural film grain, slight motion blur on fast movement, real action and real mess, nobody posing or looking at the camera, saturated yellow, blue and green tones, European street setting, no text, no logos, no brand names on clothing.
 
+**Stand 2026-10-22:** Bart leverde een eerste campagnefoto aan (straatvoetbal in de regen, modderplas, lage camerahoek), `.raw/2026-10-22/campagne/blits-campagne-straatvoetbal-modder.jpg`. Die staat als hero in homepage-variant B; een detail ervan staat in de polaroid. Nog nodig: de modderfoto voor het merkverhaal (2) en de filmstrip-/polaroidbeelden (3 t/m 5).
+
 ## Per beeld (plak achter de basis)
 
 1. **Hero (`hero`, 16:9 liggend, ook goed bij een smalle uitsnede in het midden)** — Three kids aged 8 to 12 playing street football on a worn asphalt pitch behind a mesh fence at golden hour, the ball in mid-air, dust kicking up, shot from ground level so the kids stand tall against a warm sky, one kid in a yellow shirt, one in blue.
