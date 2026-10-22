@@ -522,3 +522,7 @@ Eerste campagnefoto van Bart in `.raw/2026-10-22/campagne/`; als hero en polaroi
 ## [2026-10-22] ingest | BLITS campagnefoto vrienden bij het hek
 
 Tweede campagnefoto van Bart in `.raw/2026-10-22/campagne/`; bij "Kids grow up outside" in homepage-variant B, met polaroid-detail. Nike-logo's op de sneakers gesignaleerd. Zie [[blits-website-dealers]].
+
+## [2026-10-22] ingest | BLITS campagnefoto basketbal van boven
+
+Derde campagnefoto van Bart in `.raw/2026-10-22/campagne/`; polaroid 03 in de lantaarnsectie van variant B. Krijtteksten hero en merkverhaal omgewisseld. Zie [[blits-website-dealers]].
