@@ -87,6 +87,7 @@ Uit de keuze-galerij in het design system (zie [[blits-open-punten-2026-10-20]] 
 
 ## Timeline
 
+- **2026-10-22** | Bart — eerste eigen campagnefoto aangeleverd (straatvoetbal in de regen, jongen glijdt door een modderplas, bal naar de camera); nu de hero van variant B, met een uitsnede als polaroid. Origineel in `.raw/2026-10-22/campagne/`.
 - **2026-10-22** | Bart — variant B "echt heel dik"; producten staan nu als echte uitsnede vóór de groene vlakken (aluminium blijft aluminium) in plaats van erdoor te kleuren.
 - **2026-10-22** | Bart — nieuwe designbriefing (minder kleur, meer samenhang, gelaagdheid, krijtletters); homepage-variant B gebouwd naast de bestaande Home; handschrift alleen als krijt (besluit 25); design system v16.
 - **2026-10-20** | Bart — "heel blij"; laatste punten in v5: merkverhaal strakker opgemaakt (geen bovenregel, pijlers onder elkaar, "Dirty knees are medals." op de foto), Arena-plaatje zonder Norm/Also in en met garantie 5 jaar, Arena-foto vult het vlak, winkelzoeker zonder losse regels voor online en retailers.

@@ -36,15 +36,16 @@ section[id],footer [id]{scroll-margin-top:72px}
 .vb-hero{padding:var(--space-8) 0 var(--space-9);overflow:hidden}
 .vb-hero__dots{inset:24px auto 24px 24px;width:44%;opacity:.8}
 .vb-hero__in{display:grid;grid-template-columns:minmax(0,.95fr) minmax(0,1.05fr);gap:var(--space-7);align-items:center}
-.vb-hero__copy{position:relative;z-index:2}
+.vb-hero__copy{position:relative;z-index:4}
 .vb-hero__title{margin:var(--space-2) 0 var(--space-5) -.04em;font-size:clamp(56px,8vw,116px)}
 .vb-hero__intro{margin:0;max-width:40ch}
 .vb-collage{position:relative}
 .vb-collage--hero{aspect-ratio:1/1.02}
-.vb-block--hero{right:0;top:9%;width:74%;height:80%}
-.vb-collage__main{position:absolute!important;left:3%;top:0;width:62%}
-.vb-collage--hero .vb-collage__polaroid{position:absolute;right:2%;bottom:-2%;width:40%;z-index:3}
-.vb-hero__chalk{position:absolute;z-index:4;left:8%;top:6%}
+.vb-block--hero{right:0;top:12%;width:74%;height:70%}
+.vb-collage__main{position:absolute!important;left:0;top:0;width:62%}
+.vb-collage--hero .vb-hero__photo{width:72%;z-index:2}
+.vb-collage--hero .vb-collage__polaroid{position:absolute;right:0;bottom:-4%;width:34%;z-index:3}
+.vb-hero__chalk{position:absolute!important;z-index:4;left:7%;bottom:2.5%;text-shadow:0 0 1px rgba(6,21,14,.4)}
 .vb-hero__float{position:absolute!important;z-index:5;right:-2%;top:-6%;width:34%}
 .vb-hero__float .blits-temp{left:auto;right:12%;bottom:8%}
 
@@ -162,7 +163,7 @@ section[id],footer [id]{scroll-margin-top:72px}
  .vb-menu[open] nav{position:absolute;left:0;right:0;top:72px;display:grid;padding:var(--space-2) var(--space-4) var(--space-5);background:var(--beachball-volley-beige);border-bottom:2px solid var(--night-pitch-green)}
  .vb-menu nav a{display:flex;align-items:center;min-height:48px;color:var(--night-pitch-green);text-decoration:none;font-family:var(--font-display);font-weight:800;font-size:14px;letter-spacing:.15em;text-transform:uppercase}
  .vb-actions .blits-btn{flex:1 1 100%}
- .vb-hero__chalk{font-size:28px!important}
+ .vb-hero__chalk{font-size:24px!important}
  .vb-story__chalk{font-size:30px!important}
  .vb-facts__list{gap:var(--space-7) var(--space-4)}
  .vb-facts__note{left:64px;font-size:24px!important}
