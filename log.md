@@ -518,3 +518,7 @@ Productfoto's in variant B vervangen door transparante uitsneden (WebP) vóór d
 ## [2026-10-22] ingest | BLITS campagnefoto straatvoetbal
 
 Eerste campagnefoto van Bart in `.raw/2026-10-22/campagne/`; als hero en polaroid-detail in homepage-variant B. Zie [[blits-website-dealers]].
+
+## [2026-10-22] ingest | BLITS campagnefoto vrienden bij het hek
+
+Tweede campagnefoto van Bart in `.raw/2026-10-22/campagne/`; bij "Kids grow up outside" in homepage-variant B, met polaroid-detail. Nike-logo's op de sneakers gesignaleerd. Zie [[blits-website-dealers]].
