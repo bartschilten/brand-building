@@ -42,7 +42,7 @@
         h('div', { className: 'vb-collage vb-collage--hero', 'aria-hidden': 'false' },
           h('div', { className: 'vb-block vb-block--hero' }),
           h(B.Photo, { className: 'vb-collage__main vb-hero__photo', cut: true, ratio: '4 / 5', eager: true, src: 'assets/campaign/blits-campagne-straatvoetbal-modder.jpg', alt: 'Kids playing street football in the rain, one sliding through a muddy puddle, laughing, the ball flying towards the camera', position: '50% 62%' },
-            h(B.ChalkText, { className: 'vb-hero__chalk', size: 46, rotate: -6 }, 'Back before dark!')),
+            h(B.ChalkText, { className: 'vb-hero__chalk', size: 44, rotate: -5 }, 'Dirty knees', h('br'), 'are medals.')),
           h(B.PolaroidFrame, { className: 'vb-collage__polaroid', rotate: 5, caption: '002 · Splash', src: 'assets/campaign/blits-campagne-straatvoetbal-modder-detail.jpg', alt: 'Close-up: a boy sliding through a muddy puddle, laughing' }),
           h(B.FloatingCutout, { className: 'vb-hero__float', src: 'assets/products/blits-basketbalbord-uitsnede.png', alt: '', rotate: 6, temp: true }))));
   }
@@ -60,7 +60,7 @@
         h('div', { className: 'vb-collage vb-collage--story' },
           h('div', { className: 'vb-strip' }),
           h(B.Photo, { className: 'vb-collage__main vb-story__photo', cut: true, ratio: '4 / 5', src: 'assets/campaign/blits-campagne-vrienden-bij-het-hek.jpg', alt: 'Two boys with an arm around each other at a fence, kids playing street football behind them at sunset', position: '50% 55%' },
-            h(B.ChalkText, { className: 'vb-story__chalk', size: 44, rotate: -5 }, 'Dirty knees', h('br'), 'are medals.')),
+            h(B.ChalkText, { className: 'vb-story__chalk', size: 46, rotate: -6 }, 'Back before dark!')),
           h(B.PolaroidFrame, { className: 'vb-collage__polaroid', rotate: 6, caption: '003 · Friends', src: 'assets/campaign/blits-campagne-vrienden-bij-het-hek-detail.jpg', alt: 'Close-up: an arm around a friend at the fence' })),
         h('div', { className: 'vb-story__text' },
           h(B.IndexLabel, { index: '002', label: 'Why we exist' }),
@@ -144,7 +144,7 @@
             h(B.PolaroidFrame, { rotate: 3, caption: '02 · Puddle', brief: 'A kid in rain boots jumping into a big puddle.' }),
             h(B.ChalkText, { size: 32, rotate: 4 }, 'puddle = pool')),
           h('div', { className: 'vb-film__item vb-film__item--c' },
-            h(B.PolaroidFrame, { rotate: -2, caption: '03 · Last light', brief: 'A teenager shooting at a hoop under one streetlight.' }),
+            h(B.PolaroidFrame, { rotate: -2, caption: '03 · Last light', src: 'assets/campaign/blits-campagne-basketbal-van-boven.jpg', alt: 'Seen from above through the hoop: four kids on a street court at dusk, one holding the ball' }),
             h(B.ChalkText, { size: 32, rotate: -5 }, 'one more shot'))),
         h('p', { className: 'vb-film__tag' }, h(B.ChalkText, { color: 'secondary', size: 40, rotate: -3 }, 'Show us yours: #OutsideWins')))));
   }
