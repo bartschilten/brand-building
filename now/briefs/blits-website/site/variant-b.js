@@ -138,7 +138,7 @@
           h('h2', { className: 'blits-heading display-l' }, 'Until the ', h(B.Keyword, null, 'streetlights'), ' come on.')),
         h('div', { className: 'vb-film__wall' },
           h('div', { className: 'vb-film__item vb-film__item--a' },
-            h(B.PolaroidFrame, { rotate: -4, caption: '01 · Street', brief: 'Street football at dusk, the streetlights just switching on.' }),
+            h(B.PolaroidFrame, { rotate: -4, caption: '01 · Street', src: 'assets/campaign/blits-campagne-straat-schemer.jpg', alt: 'Kids chasing a ball on a street court at dusk, the streetlights just on' }),
             h(B.ChalkText, { size: 32, rotate: -3 }, 'till they call us in')),
           h('div', { className: 'vb-film__item vb-film__item--b' },
             h(B.PolaroidFrame, { rotate: 3, caption: '02 · Puddle', brief: 'A kid in rain boots jumping into a big puddle.' }),
