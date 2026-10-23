@@ -14,6 +14,7 @@
   });
 
   var HOME = 'variant-b.html';
+  var GROUP = 'group.html#';
   var STORE = HOME + '#store';
   var NAV = [['Brand', 'brand.html', 'brand'], ['Assortment', 'assortment.html', 'assortment'], ['For retailers', 'professionals.html', 'professionals']];
   function cx() { return Array.prototype.filter.call(arguments, Boolean).join(' '); }
@@ -60,27 +61,27 @@
 
   /* All 45 live BLITS products, grouped into models (one card per model, sizes as chips). Photos are temporary. */
   var FAMILIES = [
-    { id: 'football-goals', title: 'Football goals', lines: 'football', models: [
+    { id: 'football-goals', title: 'Football goals', lines: 'football', intro: 'From a 90 × 60 cm goal set to a full 500 × 200 cm Arena. Single goals or complete packs.', short: 'From first goal to full size', hero: P + 'blits-arena-voetbaldoel-300x200-uitsnede.webp', models: [
       { name: 'Arena aluminium goal', feature: true, img: P + 'blits-arena-voetbaldoel-300x200-uitsnede.webp', note: 'Aluminium frame · 5 years warranty', sizes: ['180 × 120 cm', '300 × 200 cm', '500 × 200 cm'] },
       { name: 'Street goal', img: P + 'blits-voetbaldoel-street-300x200-uitsnede.webp', sizes: ['180 × 120 cm', '240 × 160 cm', '300 × 200 cm', '500 × 200 cm'] },
       { name: 'Street goal set', img: P + 'blits-street-voetbaldoelen-set-90x60-uitsnede.webp', note: 'Two goals', sizes: ['90 × 60 cm'] },
       { name: 'Hattrick Pack', img: P + 'blits-hattrick-pack-uitsnede.webp', sizes: ['240 × 160 cm', '300 × 200 cm', '500 × 200 cm'] },
       { name: 'Arena Ultimate Training Pack', img: P + 'blits-arena-ultimate-training-pack-uitsnede.webp', sizes: ['300 × 200 cm', '500 × 200 cm'] }
     ] },
-    { id: 'target-walls', title: 'Target walls', lines: 'goal', models: [
+    { id: 'target-walls', title: 'Target walls', lines: 'goal', intro: 'Three sizes that match our goals: 240 × 160, 300 × 200 and 500 × 200 cm. Holes to aim for.', short: 'Something to aim for', hero: P + 'blits-doelwand-met-gaten-uitsnede.webp', models: [
       { name: 'Target wall with holes', img: P + 'blits-doelwand-met-gaten-uitsnede.webp', sizes: ['240 × 160 cm', '300 × 200 cm', '500 × 200 cm'] }
     ] },
-    { id: 'basketball-poles', title: 'Basketball poles', lines: 'basketball', models: [
+    { id: 'basketball-poles', title: 'Basketball poles', lines: 'basketball', intro: 'Three poles, from 135 up to 305 cm. A hoop for every height.', short: 'From 135 up to 305 cm', hero: P + 'blits-basketbalpaal-210-260.png', models: [
       { name: 'Basketball pole', img: P + 'blits-basketbalpaal-210-260.png', tall: true, note: 'Height range per model', sizes: ['135 – 305 cm', '160 – 210 cm', '210 – 260 cm'] }
     ] },
-    { id: 'trampolines', title: 'Trampolines', lines: 'trampoline', models: [
+    { id: 'trampolines', title: 'Trampolines', lines: 'trampoline', intro: 'Inground or above ground, round or rectangular, up to Ø 427 cm.', short: 'Inground or above ground', hero: P + 'blits-trampoline-inground-305-uitsnede.webp', models: [
       { name: 'Urban Sports inground trampoline', img: P + 'blits-trampoline-inground-305-uitsnede.webp', note: 'Inground · black', sizes: ['Ø 244 cm', 'Ø 305 cm', 'Ø 427 cm', '305 × 214 cm', '366 × 244 cm'] },
       { name: 'Urban trampoline', img: P + 'blits-urban-trampoline-uitsnede.webp', note: 'Above ground · black', sizes: ['Ø 244 cm', 'Ø 305 cm', 'Ø 427 cm', '305 × 214 cm', '366 × 244 cm'] }
     ] },
-    { id: 'rebounders', title: 'Rebounders', lines: 'goal', models: [
+    { id: 'rebounders', title: 'Rebounders', lines: 'goal', intro: 'Adjustable, from 100 to 164 cm. The ball always comes back.', short: 'The ball always comes back', hero: P + 'blits-rebounder-100x100-uitsnede.webp', models: [
       { name: 'Adjustable rebounder', img: P + 'blits-rebounder-100x100-uitsnede.webp', sizes: ['100 × 100 cm', '124 × 124 cm', '164 × 164 cm'] }
     ] },
-    { id: 'trampoline-parts', title: 'Trampoline parts', lines: 'trampoline', models: [
+    { id: 'trampoline-parts', title: 'Trampoline parts', lines: 'trampoline', intro: 'Safety pads and premium springs that keep a trampoline going.', short: 'Pads and springs', hero: P + 'blits-trampoline-veren-premium-uitsnede.webp', models: [
       { name: 'Trampoline safety pad', img: P + 'blits-trampoline-rand-uitsnede.webp', sizes: ['214 × 153 cm', '305 × 214 cm', '244 × 366 cm', 'Ø 330 cm', 'Ø 366 cm', 'Ø 427 cm', 'Ø 430 cm'] },
       { name: 'Premium safety pad', img: P + 'blits-trampoline-rand-uitsnede.webp', sizes: ['Ø 244 cm', 'Ø 305 cm'] },
       { name: 'Premium springs, 10 pieces', img: P + 'blits-trampoline-veren-premium-uitsnede.webp', sizes: ['140 mm', '165 mm', '190 mm', '215 mm'] }
@@ -90,5 +91,5 @@
 
   function mount(App) { ReactDOM.createRoot(document.getElementById('root')).render(h(App)); }
 
-  window.VB = { HOME: HOME, STORE: STORE, NAV: NAV, cx: cx, Header: Header, Footer: Footer, NextStep: NextStep, FAMILIES: FAMILIES, mount: mount };
+  window.VB = { HOME: HOME, GROUP: GROUP, STORE: STORE, NAV: NAV, cx: cx, Header: Header, Footer: Footer, NextStep: NextStep, FAMILIES: FAMILIES, mount: mount };
 })();

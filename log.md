@@ -554,3 +554,7 @@ Hero en header terug naar 1440 px, tussen versie 1 en 2 in (versie 12). Zie [[bl
 ## [2026-10-23] build | BLITS Brand, Assortment en Professionals
 
 De overige drie pagina's gebouwd in variant-B-stijl, in de variant-B-Artifact (versie 13), met dealeraanvraagformulier; zeven productfoto's van de Toppy-CDN in `.raw/2026-10-23/producten/`. Zie [[blits-website-dealers]].
+
+## [2026-10-23] update | BLITS assortiment in twee lagen
+
+Productgroep-selectiepagina plus productpagina per groep (`group.html`), versie 14. Zie [[blits-website-dealers]].
