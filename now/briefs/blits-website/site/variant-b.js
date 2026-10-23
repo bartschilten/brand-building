@@ -2,30 +2,7 @@
    Built from window.Blits components plus layout in variant-b.css. The original Home (index.html, home.js) stays untouched. */
 (function () {
   var B = window.Blits, h = React.createElement;
-  var T = 'assets/textures/blits-textuur-';
-  var L = 'assets/logos/blits-schild-';
-  B.configureAssets({
-    textures: { concrete: T + 'beton.jpg', asphalt: T + 'asfalt.jpg', sand: T + 'zand.jpg', grass: T + 'gras.jpg', puddle: T + 'regenplas.jpg', tartan: T + 'tartan.jpg', mud: T + 'modder.jpg' },
-    logos: {
-      'staand-night-pitch-green': L + 'staand-night-pitch-green.png', 'staand-white': L + 'staand-white.png', 'staand-soccer-green': L + 'staand-soccer-green.png',
-      'liggend-night-pitch-green': L + 'liggend-night-pitch-green.png', 'liggend-white': L + 'liggend-white.png', 'liggend-soccer-green': L + 'liggend-soccer-green.png'
-    }
-  });
   var BEIGE = 'var(--beachball-volley-beige)';
-
-  var NAV = [['Brand', '#brand'], ['Assortment', '#assortment'], ['For retailers', '#retailers']];
-  function closeMenu(e) { var d = e.currentTarget.closest('details'); if (d) d.open = false; }
-
-  function Header() {
-    var links = NAV.map(function (n) { return h('a', { key: n[1], href: n[1] }, n[0]); });
-    var menuLinks = NAV.concat([['Find a store', '#store']]).map(function (n) { return h('a', { key: n[1], href: n[1], onClick: closeMenu }, n[0]); });
-    return h('header', { className: 'vb-header' },
-      h('div', { className: 'wrap wrap--wide vb-header__in' },
-        h('a', { className: 'vb-header__logo', href: '#top', 'aria-label': 'BLITS home' }, h('img', { src: B.assets.logos['liggend-night-pitch-green'], alt: 'BLITS' })),
-        h('nav', { className: 'vb-nav', 'aria-label': 'Main' }, links),
-        h(B.Button, { href: '#store', variant: 'brand' }, 'Find a store'),
-        h('details', { className: 'vb-menu' }, h('summary', null, h('span', { className: 'vb-menu__open' }, 'Menu'), h('span', { className: 'vb-menu__close' }, 'Close')), h('nav', { 'aria-label': 'Main' }, menuLinks))));
-  }
 
   /* 001 · Hero: headline left, collage right (campaign photo breaking out of a green block, a polaroid, a floating backboard, a chalk note). */
   function Hero() {
@@ -38,7 +15,7 @@
           h('p', { className: 'body-l vb-hero__intro' }, 'Goals, basketball poles, trampolines and rebounders that get kids outside, together. Through every age and every fall.'),
           h('div', { className: 'vb-actions' },
             h(B.Button, { href: '#store', variant: 'brand' }, 'Find a store'),
-            h(B.Button, { href: '#assortment', variant: 'secondary' }, 'Explore the range'))),
+            h(B.Button, { href: 'assortment.html', variant: 'secondary' }, 'Explore the range'))),
         h('div', { className: 'vb-collage vb-collage--hero', 'aria-hidden': 'false' },
           h('div', { className: 'vb-block vb-block--hero' }),
           h(B.Photo, { className: 'vb-collage__main vb-hero__photo', cut: true, ratio: '4 / 5', eager: true, src: 'assets/campaign/blits-campagne-straatvoetbal-modder.jpg', alt: 'Kids playing street football in the rain, one sliding through a muddy puddle, laughing, the ball flying towards the camera', position: '50% 62%' },
@@ -55,7 +32,7 @@
 
   /* 002 · Story: photo collage left on a green strip, text right. The beige paper tears open onto the asphalt below. */
   function Story() {
-    return h('section', { className: 'vb-section vb-story', id: 'brand', 'aria-labelledby': 'story-h' },
+    return h('section', { className: 'vb-section vb-story', 'aria-labelledby': 'story-h' },
       h('div', { className: 'wrap vb-story__in' },
         h('div', { className: 'vb-collage vb-collage--story' },
           h('div', { className: 'vb-strip' }),
@@ -72,7 +49,8 @@
             return h('li', { key: p[0], className: 'vb-pillar' },
               h('span', { className: 'vb-pillar__num' }, p[0]),
               h('div', null, h('h3', { className: 'blits-heading display-s' }, p[1]), h('p', { className: 'body' }, p[2])));
-          })))),
+          })),
+          h('span', { className: 'vb-arrowlink vb-story__more' }, h('a', { className: 'text-link', href: 'brand.html' }, 'Read the brand story'), h(B.SquareArrowButton, { href: 'brand.html', label: 'Read the brand story' })))),
       h(B.TornEdge, { position: 'bottom', color: BEIGE, seed: 21 }));
   }
 
@@ -99,10 +77,10 @@
   }
 
   var FAMILIES = [
-    { title: 'Football goals', count: '13 models', img: 'assets/products/blits-voetbaldoel-street-300x200-uitsnede.webp', alt: 'BLITS Street football goal, 300 x 200 cm', text: 'From a first 90 × 60 cm goal to a full 500 × 200 cm.' },
-    { title: 'Basketball poles', count: '3 models', img: 'assets/products/blits-basketbalpaal-210-260.png', alt: 'BLITS basketball pole, adjustable 210 to 260 cm', text: 'Adjustable from 135 to 305 cm. The hoop grows with the player.', tall: true },
-    { title: 'Trampolines', count: '10 models', img: 'assets/products/blits-trampoline-inground-305-uitsnede.webp', alt: 'BLITS Urban Sports inground trampoline', text: 'Above ground or inground, round or rectangular, up to Ø 427 cm. Room for one more.' },
-    { title: 'Rebounders', count: '3 models', img: 'assets/products/blits-rebounder-100x100-uitsnede.webp', alt: 'BLITS adjustable rebounder, 100 x 100 cm', text: 'The ball always comes back. Adjustable, from 100 to 164 cm.' }
+    { id: 'football-goals', title: 'Football goals', count: '13 models', img: 'assets/products/blits-voetbaldoel-street-300x200-uitsnede.webp', alt: 'BLITS Street football goal, 300 x 200 cm', text: 'From a first 90 × 60 cm goal to a full 500 × 200 cm.' },
+    { id: 'basketball-poles', title: 'Basketball poles', count: '3 models', img: 'assets/products/blits-basketbalpaal-210-260.png', alt: 'BLITS basketball pole, adjustable 210 to 260 cm', text: 'Adjustable from 135 to 305 cm. The hoop grows with the player.', tall: true },
+    { id: 'trampolines', title: 'Trampolines', count: '10 models', img: 'assets/products/blits-trampoline-inground-305-uitsnede.webp', alt: 'BLITS Urban Sports inground trampoline', text: 'Above ground or inground, round or rectangular, up to Ø 427 cm. Room for one more.' },
+    { id: 'rebounders', title: 'Rebounders', count: '3 models', img: 'assets/products/blits-rebounder-100x100-uitsnede.webp', alt: 'BLITS adjustable rebounder, 100 x 100 cm', text: 'The ball always comes back. Adjustable, from 100 to 164 cm.' }
   ];
 
   /* 004 · Range: products break out of green blocks. */
@@ -112,7 +90,7 @@
       h('div', { className: 'wrap' },
         h('div', { className: 'vb-head' },
           h('div', null, h(B.IndexLabel, { index: '004', label: 'The range' }), h('h2', { id: 'range-h', className: 'blits-heading display-l' }, 'Four ways ', h(B.Keyword, null, 'out.'))),
-          h(B.Button, { href: '#assortment', variant: 'secondary' }, 'See the full range')),
+          h(B.Button, { href: 'assortment.html', variant: 'secondary' }, 'See the full range')),
         h('div', { className: 'vb-range__list' }, FAMILIES.map(function (f, i) {
           return h('article', { key: f.title, className: 'vb-card' },
             h('div', { className: cx('vb-card__media', f.tall && 'vb-card__media--tall') },
@@ -124,7 +102,7 @@
             h('p', { className: 'body vb-card__text' }, f.text),
             h('div', { className: 'vb-card__foot' },
               h('p', { className: 'eyebrow' }, f.count),
-              h(B.SquareArrowButton, { href: '#assortment', label: 'See all ' + f.title.toLowerCase() })));
+              h(B.SquareArrowButton, { href: 'assortment.html#' + f.id, label: 'See all ' + f.title.toLowerCase() })));
         }))));
   }
   function cx() { return Array.prototype.filter.call(arguments, Boolean).join(' '); }
@@ -170,7 +148,7 @@
           ] }),
           h('div', { className: 'vb-actions' },
             h(B.Button, { href: '#store', variant: 'brand' }, 'Where to buy the Arena'),
-            h('span', { className: 'vb-arrowlink' }, h('a', { className: 'text-link', href: '#assortment' }, 'All football goals'), h(B.SquareArrowButton, { href: '#assortment', label: 'All football goals', tone: 'dark' }))))),
+            h('span', { className: 'vb-arrowlink' }, h('a', { className: 'text-link', href: 'assortment.html#football-goals' }, 'All football goals'), h(B.SquareArrowButton, { href: 'assortment.html#football-goals', label: 'All football goals', tone: 'dark' }))))),
       h(B.TornEdge, { position: 'bottom', color: BEIGE, seed: 33 }));
   }
 
@@ -190,25 +168,8 @@
           h('p', { className: 'body vb-store__result', 'aria-live': 'polite' }, searched ? ['The store finder is coming soon ', h('span', { key: 'p', className: 'ph' }, '[STORE FINDER]'), '.'] : null))));
   }
 
-  function Footer() {
-    return h('footer', { className: 'vb-footer', 'data-theme': 'dark' },
-      h('div', { className: 'wrap' },
-        h('div', { className: 'vb-footer__top' },
-          h('img', { src: B.assets.logos['liggend-white'], alt: 'BLITS' }),
-          h('nav', { 'aria-label': 'Footer' }, NAV.map(function (n) { return h('a', { key: n[1], href: n[1] }, n[0]); }))),
-        h('div', { className: 'vb-footer__retail', id: 'retailers' },
-          h(B.IndexLabel, { index: '008', label: 'For retailers' }),
-          h('p', { className: 'body' }, 'Stock BLITS in your shop or webshop. ', h('span', { className: 'ph' }, '[BLITS FOR PROFESSIONALS PAGE]'))),
-        h(B.Divider, null),
-        h('div', { className: 'vb-footer__bottom' },
-          h('p', { className: 'display-s' }, 'Outside ', h(B.Keyword, null, 'Wins.')),
-          h('div', { className: 'vb-footer__meta' },
-            h('p', { className: 'lang', 'aria-label': 'Language' }, h('b', null, 'EN'), ' / ', h('span', { 'aria-disabled': 'true', title: 'Dutch version follows' }, 'NL')),
-            h('p', { className: 'body' }, 'Contact ', h('span', { className: 'ph' }, '[CONTACT E-MAIL]'))))));
-  }
-
   function App() {
-    return h(React.Fragment, null, h(Header), h('main', { id: 'top' }, h(Hero), h(Story), h(Facts), h(Range), h(Film), h(Spotlight), h(Store)), h(Footer));
+    return h(React.Fragment, null, h(VB.Header, { page: 'home' }), h('main', { id: 'top' }, h(Hero), h(Story), h(Facts), h(Range), h(Film), h(Spotlight), h(Store)), h(VB.Footer));
   }
-  ReactDOM.createRoot(document.getElementById('root')).render(h(App));
+  VB.mount(App);
 })();

@@ -48,7 +48,7 @@ _Laatst ververst: 2026-10-22_
   voor minder" en eigen premium-narratief; keuze staat open.
 - **[[luminous]]** — mist nog een expliciete "reden van bestaan"-zin.
 
-- **[[blits-website-dealers]]** — **Homepage-variant B gebouwd** (https://claude.ai/artifact/JfNqxDCZME5UVppz1WpDDK) naast de bestaande Home, uit Barts nieuwe designbriefing (minder kleur, krijtletters, collage); wacht op Barts vergelijking. Bestaande **Home-pagina proef v5** (privé-Artifact https://claude.ai/artifact/JsHhQ3bo83pSqvNJ5k61kX, design system v13), na design- en merkreview; nergens prijzen, "toys" niet "gear" (besluit 21-24). **Wacht op akkoord van Bart** en op campagnebeelden (`campagne-prompts.md`); open: bron voor de impactcijfers (kinderen buiten, uren buiten); daarna Brand, Assortment en BLITS for Professionals uit hetzelfde set. Bron: `now/briefs/blits-website/site/`. Geen speeltoestellen op de site; huidige productfoto's tijdelijk.
+- **[[blits-website-dealers]]** — **Alle vier pagina's staan in variant-B-stijl** (https://claude.ai/artifact/JfNqxDCZME5UVppz1WpDDK): Home (variant B, eigen campagnefoto's), Brand, Assortment (45 producten, geen prijzen) en BLITS for Professionals met dealeraanvraagformulier (verstuurt nog niets). De originele Home-proef v5 (https://claude.ai/artifact/JsHhQ3bo83pSqvNJ5k61kX) blijft ongewijzigd ernaast. **Wacht op feedback van Bart.** Open: dealercijfers (marge, levertijd, prijslijst) als placeholders, formulierafhandeling, privacyverklaring, contactadres, logo's van derden (Nike, Adidas) wegretoucheren vóór publicatie. Bron: `now/briefs/blits-website/site/`. Geen speeltoestellen op de site; productfoto's tijdelijk.
 
 ## Beslissingen tot nu toe
 

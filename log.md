@@ -550,3 +550,7 @@ Hero en header breder, beelden groter; polaroid merkverhaal "003 · Lift-off" (v
 ## [2026-10-23] update | BLITS variant B hero 1440 px
 
 Hero en header terug naar 1440 px, tussen versie 1 en 2 in (versie 12). Zie [[blits-website-dealers]].
+
+## [2026-10-23] build | BLITS Brand, Assortment en Professionals
+
+De overige drie pagina's gebouwd in variant-B-stijl, in de variant-B-Artifact (versie 13), met dealeraanvraagformulier; zeven productfoto's van de Toppy-CDN in `.raw/2026-10-23/producten/`. Zie [[blits-website-dealers]].

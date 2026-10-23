@@ -1,0 +1,194 @@
+/* BLITS variant B, the pages after Home (Brand, Assortment, BLITS for Professionals). Layout only, on top of variant-b.css.
+   Same colour logic: beige base, Night Pitch Green type and heavy fields, Soccer Green as the one primary, Tour de Yellow only for chalk. */
+
+.vb-pagehero__title{font-size:clamp(48px,6.4vw,108px)}
+/* Torn paper inside a section: the neighbour's beige hangs over the top edge or rises from the bottom. */
+.vb-torn-in.blits-torn--top{top:-1px;transform:scaleY(-1)}
+.vb-torn-in.blits-torn--bottom{bottom:-1px;transform:none}
+
+/* Closing band */
+.vb-next{overflow:hidden}
+.vb-next__dots{inset:24px;opacity:.8}
+.vb-next__in{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:var(--space-6)}
+.vb-next__actions{display:flex;flex-wrap:wrap;gap:var(--space-3)}
+
+/* ---------- Brand ---------- */
+.vb-manifesto{padding:0}
+.vb-manifesto__theme{position:relative;padding:calc(var(--space-9) + var(--space-6)) 0;color:var(--concrete-grey)}
+.vb-manifesto .blits-index{color:var(--beachball-volley-beige)}
+.vb-manifesto__doodle{position:absolute;right:3%;top:48px;width:260px;height:200px;pointer-events:none}
+.vb-manifesto__in{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(0,.9fr);gap:var(--space-8);align-items:end}
+.vb-manifesto .vb-lede{max-width:54ch}
+.vb-beliefs{display:grid;gap:var(--space-5);margin:0;padding:0;list-style:none}
+.vb-beliefs li{display:grid;grid-template-columns:56px minmax(0,1fr);gap:var(--space-4);align-items:baseline;padding-bottom:var(--space-5);border-bottom:2px dashed rgba(215,215,215,.35)}
+.vb-beliefs__num{font-family:var(--font-display);font-weight:800;font-size:14px;letter-spacing:.15em;color:var(--soccer-green)}
+.vb-beliefs__line{margin:0;color:var(--concrete-grey);font-size:clamp(24px,2.6vw,36px)}
+.vb-manifesto__chalk{grid-column:1/-1;margin:0;text-align:right}
+
+.vb-pillarrows .vb-head{margin-bottom:var(--space-8)}
+.vb-pillarrow{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:var(--space-8);align-items:center;padding:var(--space-7) 0}
+.vb-pillarrow+.vb-pillarrow{border-top:2px dashed rgba(6,21,14,.2)}
+.vb-pillarrow--flip .vb-pillarrow__media{order:2}
+.vb-pillarrow__media{position:relative;padding:var(--space-6) var(--space-7)}
+.vb-pillarrow__media .blits-polaroid{position:relative;z-index:2;max-width:400px;margin:0 auto}
+.vb-strip--pillar{left:0;right:0;top:22%;height:56%}
+.vb-pillarrow--flip .vb-strip--pillar{left:0;right:-200px}
+.vb-pillarrow:not(.vb-pillarrow--flip) .vb-strip--pillar{left:-200px;right:0}
+.vb-pillarrow__chalk{position:absolute!important;z-index:3;right:6%;bottom:2%}
+.vb-pillarrow__media--product{aspect-ratio:9/7;padding:0}
+.vb-block--pillar{left:10%;right:0;top:14%;bottom:8%}
+.vb-pillarrow__media--product img{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;filter:drop-shadow(0 14px 14px rgba(6,21,14,.18));z-index:1}
+.vb-pillarrow__media--product .blits-temp{left:auto;right:12px;bottom:calc(8% + 8px);z-index:2}
+.vb-pillarrow__plate{position:absolute!important;z-index:3;left:0;bottom:-4%;min-width:240px;transform:rotate(-3deg)}
+.vb-pillarrow__text .vb-pillar__num{display:inline-block;margin-bottom:var(--space-4)}
+.vb-pillarrow__text h3{margin:0 0 var(--space-5);font-size:clamp(28px,3vw,44px)}
+.vb-pillarrow__text p{margin:0 0 var(--space-4);max-width:50ch}
+
+.vb-ages__list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:var(--space-6);margin:0;padding:0;list-style:none}
+.vb-age{position:relative;display:flex;flex-direction:column;gap:var(--space-3);min-height:300px;padding:var(--space-6);background:var(--night-pitch-green);color:var(--concrete-grey);overflow:hidden;--cut:var(--cut-md);clip-path:polygon(0 var(--cut),var(--cut) var(--cut),var(--cut) 0,calc(100% - var(--cut)) 0,calc(100% - var(--cut)) var(--cut),100% var(--cut),100% calc(100% - var(--cut)),calc(100% - var(--cut)) calc(100% - var(--cut)),calc(100% - var(--cut)) 100%,var(--cut) 100%,var(--cut) calc(100% - var(--cut)),0 calc(100% - var(--cut)))}
+.vb-age__field{position:absolute;inset:0;color:var(--soccer-green);pointer-events:none}
+.vb-age__field svg{width:100%;height:100%}
+.vb-age>*:not(.vb-age__field){position:relative}
+.vb-age .blits-index{color:var(--soccer-green)}
+.vb-age h3{margin:var(--space-2) 0 0;color:var(--beachball-volley-beige)}
+.vb-age p.body{margin:0;max-width:34ch}
+.vb-age .vb-card__foot .eyebrow{color:var(--beachball-volley-beige)}
+.vb-age .blits-sqbtn{color:var(--night-pitch-green)}
+
+/* ---------- Assortment ---------- */
+.vb-rangehero{position:relative;padding:var(--space-8) 0 var(--space-6);overflow:hidden}
+.vb-rangehero__dots{inset:24px 24px 24px 24px;opacity:.8}
+.vb-rangehero__in{display:grid;grid-template-columns:minmax(0,1.4fr) minmax(0,.6fr);gap:var(--space-7);align-items:center;margin-bottom:var(--space-7)}
+.vb-rangehero__copy{position:relative;z-index:2}
+.vb-rangehero__float{width:min(320px,100%);justify-self:end;margin-right:var(--space-6)}
+.vb-chips{position:relative;z-index:2;display:flex;flex-wrap:wrap;gap:var(--space-2)}
+.vb-chip{position:relative;display:inline-flex;align-items:center;gap:var(--space-2);min-height:44px;padding:0 var(--space-4);border:2px solid var(--night-pitch-green);background:var(--beachball-volley-beige);color:var(--night-pitch-green);font-family:var(--font-display);font-weight:800;font-size:12px;letter-spacing:.15em;text-transform:uppercase;cursor:pointer;transition:transform 120ms var(--ease-out),background-color 160ms var(--ease-out);-webkit-tap-highlight-color:transparent}
+.vb-chip:active{transform:scale(.97)}
+.vb-chip.is-on{background:var(--soccer-green)}
+.vb-chip:focus-visible,.vb-chip:has(input:focus-visible){outline:3px solid var(--focus-ring);outline-offset:2px}
+@media (hover:hover) and (pointer:fine){.vb-chip:not(.is-on):hover{background:color-mix(in srgb,var(--soccer-green) 30%,var(--beachball-volley-beige))}}
+.vb-chip__count{display:inline-grid;place-items:center;min-width:24px;height:24px;padding:0 4px;background:var(--night-pitch-green);color:var(--beachball-volley-beige);font-size:11px;letter-spacing:.05em}
+.vb-chip input{position:absolute;opacity:0;width:1px;height:1px;pointer-events:none}
+
+.vb-families{padding-top:var(--space-6)}
+.vb-families__grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:0 var(--space-6)}
+.vb-family{position:relative;grid-column:span var(--span,4);scroll-margin-top:96px;padding:var(--space-7) 0 var(--space-8);border-top:2px dashed rgba(6,21,14,.2)}
+.vb-family__field{position:absolute;right:0;top:var(--space-5);width:min(220px,60%);height:150px;color:var(--night-pitch-green);pointer-events:none}
+.vb-family__field svg{width:100%;height:100%}
+.vb-family__head{position:relative;min-height:120px;margin-bottom:var(--space-6)}
+.vb-family__title{font-size:clamp(28px,2.8vw,44px)}
+.vb-family__grid{display:grid;grid-template-columns:repeat(var(--span,4),minmax(0,1fr));gap:var(--space-7) var(--space-6)}
+.vb-model--feature{grid-column:span 2;grid-row:span 2;align-self:start}
+.vb-family--narrow .vb-family__title{font-size:clamp(22px,2vw,30px)}
+.vb-family--narrow .vb-family__field{display:none}
+.vb-model--feature .vb-card__media{aspect-ratio:5/4}
+.vb-model--feature .vb-card__title{font-size:clamp(24px,2.4vw,36px)}
+.vb-sizes{display:flex;flex-wrap:wrap;gap:6px;margin:var(--space-4) 0 0;padding:0;list-style:none}
+.vb-sizes li{padding:4px 8px;border:1px solid rgba(6,21,14,.45);font-family:var(--font-display);font-weight:800;font-size:11px;letter-spacing:.08em;white-space:nowrap}
+
+/* ---------- BLITS for Professionals ---------- */
+.vb-collage--pro{aspect-ratio:1/.92}
+.vb-block--pro{left:8%;right:4%;top:6%;height:72%}
+.vb-prohero__product{position:absolute;z-index:2;left:-4%;right:0;top:14%;height:64%}
+.vb-prohero__product img{width:100%;height:100%;object-fit:contain;filter:drop-shadow(0 18px 16px rgba(6,21,14,.2))}
+.vb-prohero__product .blits-temp{left:auto;right:10%;bottom:4%}
+.vb-collage--pro .vb-collage__polaroid{position:absolute;left:2%;bottom:-2%;width:34%;z-index:3}
+.vb-prohero__stamp{left:auto;right:2%;bottom:6%}
+
+.vb-origin{padding-bottom:calc(var(--space-9) + var(--space-5))}
+.vb-origin__in{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:var(--space-8);align-items:start}
+.vb-origin__lede{margin-top:0}
+.vb-origin__text{margin:var(--space-5) 0 0;max-width:52ch}
+
+.vb-benefits{background:var(--night-pitch-green);color:var(--concrete-grey);padding:calc(var(--space-9) + var(--space-4)) 0}
+.vb-benefits .blits-index{color:var(--beachball-volley-beige)}
+.vb-benefits__title{margin-bottom:var(--space-7)}
+.vb-benefits__figures{margin-bottom:var(--space-7)}
+.vb-benefits .blits-flip__label{color:var(--concrete-grey)}
+.vb-benefits .blits-divider{margin:var(--space-7) 0}
+.vb-benefits__list{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:var(--space-6);margin:0;padding:0;list-style:none}
+.vb-benefit{display:flex;flex-direction:column;gap:var(--space-3);padding-top:var(--space-4);border-top:3px solid var(--soccer-green)}
+.vb-benefit .blits-index{color:var(--soccer-green)}
+.vb-benefit h3{margin:0;color:var(--beachball-volley-beige)}
+.vb-benefit p{margin:0}
+
+.vb-glance{padding-top:calc(var(--space-9) + var(--space-4))}
+.vb-glance__list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:var(--space-7) var(--space-6);margin:0;padding:0;list-style:none}
+
+.vb-steps__title{margin-bottom:var(--space-7)}
+.vb-steps__list{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:var(--space-6);margin:0 0 var(--space-7);padding:0;list-style:none}
+.vb-step{display:flex;flex-direction:column;gap:var(--space-3)}
+.vb-step__num{font-family:var(--font-display);font-weight:900;font-style:italic;font-size:72px;line-height:1;color:transparent;-webkit-text-stroke:calc(.05em - 1px) var(--night-pitch-green)}
+.vb-step h3{margin:0}
+.vb-step p{margin:0;max-width:34ch}
+
+.vb-apply{background:var(--night-pitch-green);color:var(--concrete-grey);padding:calc(var(--space-9) + var(--space-4)) 0}
+.vb-apply .blits-index{color:var(--beachball-volley-beige)}
+.vb-apply__in{display:grid;grid-template-columns:minmax(0,.8fr) minmax(0,1.2fr);gap:var(--space-8);align-items:start}
+.vb-apply__intro{position:sticky;top:104px}
+.vb-apply__chalk{display:inline-block;margin-top:var(--space-6)}
+.vb-form{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:var(--space-4)}
+.vb-form__field--wide{grid-column:1/-1}
+.vb-form .blits-fieldplate{flex-direction:column;align-items:stretch;gap:var(--space-2)}
+.vb-apply .blits-fieldplate__plate{background:var(--beachball-volley-beige)}
+.vb-form .blits-fieldplate__input{font-family:var(--font-sans);font-style:normal;font-weight:600;font-size:18px;letter-spacing:0;text-transform:none;overflow-wrap:anywhere}
+.vb-form .blits-fieldplate__input::placeholder{opacity:.45}
+.vb-form__select{cursor:pointer;background-image:linear-gradient(45deg,transparent 50%,var(--night-pitch-green) 50%),linear-gradient(135deg,var(--night-pitch-green) 50%,transparent 50%);background-position:calc(100% - 14px) 50%,calc(100% - 8px) 50%;background-size:6px 6px;background-repeat:no-repeat;padding-right:28px}
+.vb-form__textarea{min-height:120px;padding-top:8px;resize:vertical;line-height:1.6}
+.vb-form__opt{opacity:.6;text-transform:none;letter-spacing:.04em}
+.vb-form .is-error .blits-fieldplate__line{background:var(--tour-de-yellow);height:3px}
+.vb-form__error{margin:0;color:var(--tour-de-yellow);font-family:var(--font-sans);font-weight:700;font-size:14px}
+.vb-form__error::before{content:"! "}
+.vb-form__choice{margin:0;padding:0;border:0;min-width:0;display:flex;flex-direction:column;gap:var(--space-2)}
+.vb-form__choice legend{padding:0;margin-bottom:var(--space-2);color:var(--beachball-volley-beige)}
+.vb-apply .vb-chip{background:transparent;border-color:var(--beachball-volley-beige);color:var(--beachball-volley-beige)}
+.vb-apply .vb-chip.is-on{background:var(--soccer-green);border-color:var(--soccer-green);color:var(--night-pitch-green)}
+.vb-form__consent{display:flex;align-items:flex-start;gap:var(--space-3);cursor:pointer}
+.vb-form__consent input{flex:none;width:24px;height:24px;margin:4px 0 0;accent-color:var(--soccer-green)}
+.vb-form__consent .body{margin:0}
+.vb-form__submit{margin-top:var(--space-3)}
+.vb-form__done{display:flex;flex-direction:column;align-items:flex-start;gap:var(--space-4);padding:var(--space-7);border:2px dashed rgba(215,215,215,.4)}
+.vb-form__done h3{margin:0;color:var(--beachball-volley-beige);overflow-wrap:anywhere}
+.vb-form__done p{margin:0}
+.vb-form__break{overflow-wrap:anywhere}
+.vb-apply .blits-btn--secondary{color:var(--beachball-volley-beige);border-color:var(--beachball-volley-beige)}
+
+@media (max-width:1180px){
+ .vb-families__grid{grid-template-columns:1fr}
+ .vb-family{grid-column:1/-1}
+ .vb-family__grid{grid-template-columns:repeat(3,minmax(0,1fr))}
+ .vb-family__head{min-height:0}
+ .vb-benefits__list{grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (max-width:1000px){
+ .vb-manifesto__in,.vb-origin__in,.vb-apply__in,.vb-rangehero__in{grid-template-columns:1fr}
+ .vb-pillarrow{grid-template-columns:1fr;gap:var(--space-6)}
+ .vb-pillarrow--flip .vb-pillarrow__media{order:0}
+ .vb-ages__list,.vb-steps__list{grid-template-columns:1fr}
+ .vb-age{min-height:0}
+ .vb-family__grid,.vb-glance__list{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .vb-model--feature{grid-row:auto}
+ .vb-apply__intro{position:static}
+ .vb-rangehero__float{display:none}
+ .vb-collage--pro{max-width:640px}
+}
+@media (max-width:760px){
+ .vb-manifesto__doodle{width:150px;height:116px;top:-56px}
+ .vb-pillarrow__media{padding:var(--space-4) var(--space-5)}
+ .vb-pillarrow__plate{min-width:0;left:0;bottom:-8%}
+ .vb-pillarrow__chalk{font-size:26px!important}
+ .vb-beliefs__line{font-size:22px}
+ .vb-family__field{display:none}
+ .vb-family__grid{gap:var(--space-6) var(--space-4)}
+ .vb-family__grid .vb-card__title{font-size:16px}
+ .vb-glance__list{gap:var(--space-6) var(--space-4)}
+ .vb-benefits__list{grid-template-columns:1fr}
+ .vb-form{grid-template-columns:1fr}
+ .vb-form__submit .blits-btn,.vb-next__actions .blits-btn{flex:1 1 100%}
+ .vb-next__actions{width:100%}
+ .vb-step__num{font-size:56px}
+ .vb-benefits .blits-flip--lg .blits-flip__tile{width:52px;height:80px;font-size:40px}
+ .vb-benefits__figures{grid-template-columns:1fr 1fr}
+ .vb-prohero__stamp .blits-chalktext{font-size:22px!important}
+ .vb-form__done{padding:var(--space-5)}
+}
