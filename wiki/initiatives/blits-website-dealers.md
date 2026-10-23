@@ -87,6 +87,7 @@ Uit de keuze-galerij in het design system (zie [[blits-open-punten-2026-10-20]] 
 
 ## Timeline
 
+- **2026-10-23** | Bart — 1680 px was net te breed en groot; hero en header nu max. 1440 px (tussen de oude 1200 en 1680 in), kop tot 132 px.
 - **2026-10-23** | Bart — hero en header van variant B breder (max. 1680 px in plaats van 1200), kop en collage groter; polaroid bij het merkverhaal nu "003 · Lift-off" (sokken in de lucht boven het BLITS-logo op de mat) in plaats van "Bounce".
 - **2026-10-23** | Bart — trampolinefoto (achtertuin, jongen springt hoog, vriend met modderknieën juicht, BLITS-logo op de mat) vervangt de hekfoto bij "Kids grow up outside"; polaroid nu "003 · Bounce" met de modderknieën. Hekfoto's blijven in `.raw/`.
 - **2026-10-22** | Bart — hekfoto bij "Kids grow up outside" vervangen door een minder klinische versie (v2, met een BLITS-doeltje rechts); polaroid-detail ook uit v2. De eerste versie blijft in `.raw/`.
