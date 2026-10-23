@@ -102,7 +102,7 @@
             h('p', { className: 'body vb-card__text' }, f.text),
             h('div', { className: 'vb-card__foot' },
               h('p', { className: 'eyebrow' }, f.count),
-              h(B.SquareArrowButton, { href: 'assortment.html#' + f.id, label: 'See all ' + f.title.toLowerCase() })));
+              h(B.SquareArrowButton, { href: 'group.html#' + f.id, label: 'See all ' + f.title.toLowerCase() })));
         }))));
   }
   function cx() { return Array.prototype.filter.call(arguments, Boolean).join(' '); }
@@ -148,7 +148,7 @@
           ] }),
           h('div', { className: 'vb-actions' },
             h(B.Button, { href: '#store', variant: 'brand' }, 'Where to buy the Arena'),
-            h('span', { className: 'vb-arrowlink' }, h('a', { className: 'text-link', href: 'assortment.html#football-goals' }, 'All football goals'), h(B.SquareArrowButton, { href: 'assortment.html#football-goals', label: 'All football goals', tone: 'dark' }))))),
+            h('span', { className: 'vb-arrowlink' }, h('a', { className: 'text-link', href: 'group.html#football-goals' }, 'All football goals'), h(B.SquareArrowButton, { href: 'group.html#football-goals', label: 'All football goals', tone: 'dark' }))))),
       h(B.TornEdge, { position: 'bottom', color: BEIGE, seed: 33 }));
   }
 

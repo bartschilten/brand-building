@@ -16,7 +16,7 @@ Proefversie van de dealerwebsite, gebouwd met het BLITS design system (https://c
 
 ## Overige pagina's in variant-B-stijl (2026-10-23)
 
-- `brand.html` + `brand.js`, `assortment.html` + `assortment.js`, `professionals.html` + `professionals.js`. Laden `variant-b.css` plus `vb-pages.css`.
+- `brand.html` + `brand.js`, `assortment.html` + `assortment.js` (productgroep-selectie), `group.html` + `group.js` (productpagina per groep, `group.html#football-goals` enz.), `professionals.html` + `professionals.js`. Laden `variant-b.css` plus `vb-pages.css`.
 - `vb-site.js` = gedeeld voor alle variant-B-pagina's: assets, kop, footer, slotband (`NextStep`) en de productdata (alle 45 producten als modellen met maten). Wordt na `bundle.js` en vóór het paginascript geladen, ook door `variant-b.html`.
 - Alles zit in dezelfde Artifact als variant B (de pagina's als extra bestanden in `files`), zodat de links tussen de pagina's werken.
 - Het dealerformulier controleert in de browser en toont een bevestiging, maar verstuurt niets (`[FORM HANDLING]`).

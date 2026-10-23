@@ -87,9 +87,9 @@
 
   /* 004 · Through every age: three moments, each linked to the part of the range that fits it. Only facts from the range. */
   var STAGES = [
-    { num: '01', title: 'First bounce', lines: 'trampoline', text: 'A trampoline in the garden and a first goal of 90 × 60 cm. Small legs, big jumps.', link: 'assortment.html#trampolines', linkLabel: 'Trampolines' },
-    { num: '02', title: 'Every afternoon', lines: 'football', text: 'Street goals from 180 × 120 cm and a rebounder that always sends the ball back.', link: 'assortment.html#football-goals', linkLabel: 'Football goals' },
-    { num: '03', title: 'Last light', lines: 'basketball', text: 'A basketball pole up to 305 cm and an Arena goal of 500 × 200 cm. Room to keep growing.', link: 'assortment.html#basketball-poles', linkLabel: 'Basketball poles' }
+    { num: '01', title: 'First bounce', lines: 'trampoline', text: 'A trampoline in the garden and a first goal of 90 × 60 cm. Small legs, big jumps.', link: 'group.html#trampolines', linkLabel: 'Trampolines' },
+    { num: '02', title: 'Every afternoon', lines: 'football', text: 'Street goals from 180 × 120 cm and a rebounder that always sends the ball back.', link: 'group.html#football-goals', linkLabel: 'Football goals' },
+    { num: '03', title: 'Last light', lines: 'basketball', text: 'A basketball pole up to 305 cm and an Arena goal of 500 × 200 cm. Room to keep growing.', link: 'group.html#basketball-poles', linkLabel: 'Basketball poles' }
   ];
   function Ages() {
     return h('section', { className: 'vb-section vb-ages', 'aria-labelledby': 'ages-h' },

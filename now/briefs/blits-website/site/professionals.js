@@ -88,7 +88,7 @@
             h('h3', { className: 'blits-heading display-s vb-card__title' }, f.title),
             h('div', { className: 'vb-card__foot' },
               h('p', { className: 'eyebrow' }, f.count + ' products'),
-              h(B.SquareArrowButton, { href: 'assortment.html#' + f.id, label: 'See all ' + f.title.toLowerCase() })));
+              h(B.SquareArrowButton, { href: 'group.html#' + f.id, label: 'See all ' + f.title.toLowerCase() })));
         }))));
   }
 
