@@ -542,3 +542,7 @@ Nieuwe versie van de hekfoto in `.raw/2026-10-22/campagne/` (v2); vervangt v1 bi
 ## [2026-10-23] ingest | BLITS trampolinefoto
 
 Trampolinefoto in `.raw/2026-10-22/campagne/` vervangt de hekfoto bij het merkverhaal van variant B (versie 9). Zie [[blits-website-dealers]].
+
+## [2026-10-23] update | BLITS variant B bredere hero
+
+Hero en header breder, beelden groter; polaroid merkverhaal "003 · Lift-off" (versie 10). Zie [[blits-website-dealers]].

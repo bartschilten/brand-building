@@ -20,7 +20,7 @@
     var links = NAV.map(function (n) { return h('a', { key: n[1], href: n[1] }, n[0]); });
     var menuLinks = NAV.concat([['Find a store', '#store']]).map(function (n) { return h('a', { key: n[1], href: n[1], onClick: closeMenu }, n[0]); });
     return h('header', { className: 'vb-header' },
-      h('div', { className: 'wrap vb-header__in' },
+      h('div', { className: 'wrap wrap--wide vb-header__in' },
         h('a', { className: 'vb-header__logo', href: '#top', 'aria-label': 'BLITS home' }, h('img', { src: B.assets.logos['liggend-night-pitch-green'], alt: 'BLITS' })),
         h('nav', { className: 'vb-nav', 'aria-label': 'Main' }, links),
         h(B.Button, { href: '#store', variant: 'brand' }, 'Find a store'),
@@ -31,7 +31,7 @@
   function Hero() {
     return h('section', { className: 'vb-section vb-hero', 'aria-labelledby': 'hero-h' },
       h(B.DotGrid, { className: 'vb-hero__dots', frame: true }),
-      h('div', { className: 'wrap vb-hero__in' },
+      h('div', { className: 'wrap wrap--wide vb-hero__in' },
         h('div', { className: 'vb-hero__copy' },
           h(B.IndexLabel, { index: '001', label: 'Outdoor toys for kids' }),
           h('h1', { id: 'hero-h', className: 'blits-heading display-xl vb-hero__title' }, h(B.Keyword, null, 'Outside'), h('br'), 'wins.'),
@@ -61,7 +61,7 @@
           h('div', { className: 'vb-strip' }),
           h(B.Photo, { className: 'vb-collage__main vb-story__photo', cut: true, ratio: '4 / 5', src: 'assets/campaign/blits-campagne-trampoline-tuin.jpg', alt: 'A boy jumping high on a BLITS trampoline in a back garden, a friend with muddy knees cheering from the mat', position: '50% 50%' },
             h(B.ChalkText, { className: 'vb-story__chalk', size: 46, rotate: -6 }, 'Back before dark!')),
-          h(B.PolaroidFrame, { className: 'vb-collage__polaroid', rotate: 6, caption: '003 · Bounce', src: 'assets/campaign/blits-campagne-trampoline-tuin-detail.jpg', alt: 'Close-up: a boy with muddy knees cheering on the trampoline' })),
+          h(B.PolaroidFrame, { className: 'vb-collage__polaroid', rotate: 6, caption: '003 · Lift-off', src: 'assets/campaign/blits-campagne-trampoline-tuin-detail.jpg', alt: 'Close-up: socks in mid-air above the BLITS logo on the trampoline mat' })),
         h('div', { className: 'vb-story__text' },
           h(B.IndexLabel, { index: '002', label: 'Why we exist' }),
           h('h2', { id: 'story-h', className: 'blits-heading display-l' }, 'Kids grow up ', h(B.Keyword, null, 'outside.')),

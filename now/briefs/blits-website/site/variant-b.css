@@ -35,10 +35,11 @@ section[id],footer [id]{scroll-margin-top:72px}
 /* 001 Hero */
 .vb-hero{padding:var(--space-8) 0 var(--space-9);overflow:hidden}
 .vb-hero__dots{inset:24px auto 24px 24px;width:44%;opacity:.8}
-.vb-hero__in{display:grid;grid-template-columns:minmax(0,.95fr) minmax(0,1.05fr);gap:var(--space-7);align-items:center}
+.wrap--wide{max-width:1680px}
+.vb-hero__in{display:grid;grid-template-columns:minmax(0,.85fr) minmax(0,1.15fr);gap:var(--space-7);align-items:center}
 .vb-hero__copy{position:relative;z-index:4}
-.vb-hero__title{margin:var(--space-2) 0 var(--space-5) -.04em;font-size:clamp(56px,8vw,116px)}
-.vb-hero__intro{margin:0;max-width:40ch}
+.vb-hero__title{margin:var(--space-2) 0 var(--space-5) -.04em;font-size:clamp(56px,8.4vw,148px)}
+.vb-hero__intro{margin:0;max-width:44ch}
 .vb-collage{position:relative}
 .vb-collage--hero{aspect-ratio:1/1.02}
 .vb-block--hero{right:0;top:12%;width:74%;height:70%}

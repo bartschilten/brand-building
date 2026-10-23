@@ -87,6 +87,7 @@ Uit de keuze-galerij in het design system (zie [[blits-open-punten-2026-10-20]] 
 
 ## Timeline
 
+- **2026-10-23** | Bart — hero en header van variant B breder (max. 1680 px in plaats van 1200), kop en collage groter; polaroid bij het merkverhaal nu "003 · Lift-off" (sokken in de lucht boven het BLITS-logo op de mat) in plaats van "Bounce".
 - **2026-10-23** | Bart — trampolinefoto (achtertuin, jongen springt hoog, vriend met modderknieën juicht, BLITS-logo op de mat) vervangt de hekfoto bij "Kids grow up outside"; polaroid nu "003 · Bounce" met de modderknieën. Hekfoto's blijven in `.raw/`.
 - **2026-10-22** | Bart — hekfoto bij "Kids grow up outside" vervangen door een minder klinische versie (v2, met een BLITS-doeltje rechts); polaroid-detail ook uit v2. De eerste versie blijft in `.raw/`.
 - **2026-10-22** | Bart — vijfde campagnefoto (modderige jongen thuis in de gang, duimen omhoog, vader droogt broertje af) als polaroid 02 "Home" (met krijt "mud = proof"); alle vijf campagnebeelden voor variant B zijn nu binnen. Krijt overal een tintje witter en dekkender, gelijk over de hele pagina; krijtteksten in hero en merkverhaal iets verder de foto in.
