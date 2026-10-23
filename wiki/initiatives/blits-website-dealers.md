@@ -61,7 +61,11 @@ Aannames om te toetsen (v1): copy van hero, pijlers en productkaarten is nieuw g
 
 ## Homepage-variant B (2026-10-22)
 
-Bart vond de homepage te kleurrijk, druk en met te weinig samenhang en schreef een nieuwe designbriefing (`now/briefs/blits-website/designbriefing-homepage-variant.md`). Variant B staat als aparte pagina naast de bestaande Home: https://claude.ai/artifact/JfNqxDCZME5UVppz1WpDDK (bron `site/variant-b.*`). De bestaande Home (https://claude.ai/artifact/JsHhQ3bo83pSqvNJ5k61kX) blijft ongewijzigd. Variant B gebruikt beige als basis, Night Pitch Green voor tekst en zware vlakken, Soccer Green als enige hoofdkleur (kleurblokken, één kernwoord per kop, knoppen) en Tour de Yellow alleen voor krijt. Nieuw in het design system: ChalkText, TornEdge, PolaroidFrame, DotGrid, IndexLabel, SquareArrowButton, FloatingCutout, Keyword. Handschrift mag nu, alleen als krijt (besluit 25). Wacht op Barts vergelijking.
+Bart vond de homepage te kleurrijk, druk en met te weinig samenhang en schreef een nieuwe designbriefing (`now/briefs/blits-website/designbriefing-homepage-variant.md`). Variant B staat als aparte pagina naast de bestaande Home: https://claude.ai/artifact/JfNqxDCZME5UVppz1WpDDK (bron `site/variant-b.*`). De bestaande Home (https://claude.ai/artifact/JsHhQ3bo83pSqvNJ5k61kX) blijft ongewijzigd. Variant B gebruikt beige als basis, Night Pitch Green voor tekst en zware vlakken, Soccer Green als enige hoofdkleur (kleurblokken, één kernwoord per kop, knoppen) en Tour de Yellow alleen voor krijt. Nieuw in het design system: ChalkText, TornEdge, PolaroidFrame, DotGrid, IndexLabel, SquareArrowButton, FloatingCutout, Keyword. Handschrift mag nu, alleen als krijt (besluit 25).
+
+## Overige pagina's in de stijl van variant B (2026-10-23)
+
+Op Barts verzoek gebouwd in dezelfde Artifact als variant B (links in menu en footer werken onderling): **Brand** (`brand.html`: hero "On the side of outside.", manifest op asfalt, de drie pijlers uitgeschreven met foto's en het Arena-plaatje, "From first bounce to last light" met drie momenten die naar het assortiment linken), **Assortment** (`assortment.html`: alle 45 live producten als 13 modelkaarten met maten, filter per productgroep, geen prijzen, elke kaart naar de winkelzoeker) en **BLITS for Professionals** (`professionals.html`: "Stock a brand, not a label.", mild ontstaansverhaal zonder concurrentnamen, wat je krijgt met klapcijfers en placeholders voor marge en levertijd, de zes groepen, drie stappen en het dealeraanvraagformulier). Het formulier controleert in de browser maar verstuurt nog niets (`[FORM HANDLING]`). Gedeelde kop, footer en productdata staan in `site/vb-site.js`, de layout in `site/vb-pages.css`. Zeven extra productfoto's van de Toppy-CDN uitgesneden (bron in `.raw/2026-10-23/producten/`). Pagina's alleen voor variant B; de originele Home blijft ongewijzigd. Wacht op Barts feedback.
 
 ## Analoge zielelementen: keuzes van Bart (2026-10-20)
 
@@ -87,6 +91,7 @@ Uit de keuze-galerij in het design system (zie [[blits-open-punten-2026-10-20]] 
 
 ## Timeline
 
+- **2026-10-23** | Bart — Brand, Assortment en BLITS for Professionals gebouwd in de stijl van variant B (versie 13 van de variant-B-Artifact), met dealeraanvraagformulier; menu en footer van variant B linken nu naar de echte pagina's.
 - **2026-10-23** | Bart — 1680 px was net te breed en groot; hero en header nu max. 1440 px (tussen de oude 1200 en 1680 in), kop tot 132 px.
 - **2026-10-23** | Bart — hero en header van variant B breder (max. 1680 px in plaats van 1200), kop en collage groter; polaroid bij het merkverhaal nu "003 · Lift-off" (sokken in de lucht boven het BLITS-logo op de mat) in plaats van "Bounce".
 - **2026-10-23** | Bart — trampolinefoto (achtertuin, jongen springt hoog, vriend met modderknieën juicht, BLITS-logo op de mat) vervangt de hekfoto bij "Kids grow up outside"; polaroid nu "003 · Bounce" met de modderknieën. Hekfoto's blijven in `.raw/`.
