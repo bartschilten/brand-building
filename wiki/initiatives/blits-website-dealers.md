@@ -3,7 +3,7 @@ type: initiative
 title: "BLITS-website voor dealers"
 status: developing
 created: 2026-10-20
-updated: 2026-10-22
+updated: 2026-10-23
 tags: [blits, website, b2b, claude-design]
 related: ["[[blits]]", "[[blits-ontwerpelementen-heritage]]", "[[blits-open-punten-2026-10-20]]", "[[blits-launch-rollout]]", "[[blits-tone-of-voice-definitief]]"]
 aliases: ["BLITS website", "BLITS for Professionals"]
@@ -87,6 +87,7 @@ Uit de keuze-galerij in het design system (zie [[blits-open-punten-2026-10-20]] 
 
 ## Timeline
 
+- **2026-10-23** | Bart — trampolinefoto (achtertuin, jongen springt hoog, vriend met modderknieën juicht, BLITS-logo op de mat) vervangt de hekfoto bij "Kids grow up outside"; polaroid nu "003 · Bounce" met de modderknieën. Hekfoto's blijven in `.raw/`.
 - **2026-10-22** | Bart — hekfoto bij "Kids grow up outside" vervangen door een minder klinische versie (v2, met een BLITS-doeltje rechts); polaroid-detail ook uit v2. De eerste versie blijft in `.raw/`.
 - **2026-10-22** | Bart — vijfde campagnefoto (modderige jongen thuis in de gang, duimen omhoog, vader droogt broertje af) als polaroid 02 "Home" (met krijt "mud = proof"); alle vijf campagnebeelden voor variant B zijn nu binnen. Krijt overal een tintje witter en dekkender, gelijk over de hele pagina; krijtteksten in hero en merkverhaal iets verder de foto in.
 - **2026-10-22** | Bart — vierde campagnefoto (straatvoetbal in de schemer, lantaarns net aan) als polaroid 01 "Street" in de lantaarnsectie van variant B.
