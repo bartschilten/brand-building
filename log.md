@@ -546,3 +546,7 @@ Trampolinefoto in `.raw/2026-10-22/campagne/` vervangt de hekfoto bij het merkve
 ## [2026-10-23] update | BLITS variant B bredere hero
 
 Hero en header breder, beelden groter; polaroid merkverhaal "003 · Lift-off" (versie 10). Zie [[blits-website-dealers]].
+
+## [2026-10-23] update | BLITS variant B hero 1440 px
+
+Hero en header terug naar 1440 px, tussen versie 1 en 2 in (versie 12). Zie [[blits-website-dealers]].
