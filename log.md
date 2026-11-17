@@ -562,3 +562,7 @@ Productgroep-selectiepagina plus productpagina per groep (`group.html`), versie 
 ## [2026-11-17] update | BLITS assortiment rustiger
 
 Compacte kop en rustige groeps- en productkaarten, eerste rij boven de vouw (versie 15). Zie [[blits-website-dealers]].
+
+## [2026-11-17] build | BLITS productlijstpagina met filters
+
+PLP per productgroep met filters en sortering (versie 16). Zie [[blits-website-dealers]].
