@@ -558,3 +558,7 @@ De overige drie pagina's gebouwd in variant-B-stijl, in de variant-B-Artifact (v
 ## [2026-10-23] update | BLITS assortiment in twee lagen
 
 Productgroep-selectiepagina plus productpagina per groep (`group.html`), versie 14. Zie [[blits-website-dealers]].
+
+## [2026-11-17] update | BLITS assortiment rustiger
+
+Compacte kop en rustige groeps- en productkaarten, eerste rij boven de vouw (versie 15). Zie [[blits-website-dealers]].

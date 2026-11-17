@@ -3,7 +3,7 @@ type: initiative
 title: "BLITS-website voor dealers"
 status: developing
 created: 2026-10-20
-updated: 2026-10-23
+updated: 2026-11-17
 tags: [blits, website, b2b, claude-design]
 related: ["[[blits]]", "[[blits-ontwerpelementen-heritage]]", "[[blits-open-punten-2026-10-20]]", "[[blits-launch-rollout]]", "[[blits-tone-of-voice-definitief]]"]
 aliases: ["BLITS website", "BLITS for Professionals"]
@@ -65,7 +65,7 @@ Bart vond de homepage te kleurrijk, druk en met te weinig samenhang en schreef e
 
 ## Overige pagina's in de stijl van variant B (2026-10-23)
 
-Op Barts verzoek gebouwd in dezelfde Artifact als variant B (links in menu en footer werken onderling): **Brand** (`brand.html`: hero "On the side of outside.", manifest op asfalt, de drie pijlers uitgeschreven met foto's en het Arena-plaatje, "From first bounce to last light" met drie momenten die naar het assortiment linken), **Assortment** in twee lagen (Bart, 2026-10-23): `assortment.html` is de productgroep-selectie ("Pick your game.", zes groepen als bento van donkere tegels waarin het product uit een groen blok breekt), en `group.html#<groep>` is de productpagina per groep met alle producten van die groep (modelkaarten met maten, wisselen tussen groepen, "More ways out" onderaan); geen prijzen, elke kaart naar de winkelzoeker en **BLITS for Professionals** (`professionals.html`: "Stock a brand, not a label.", mild ontstaansverhaal zonder concurrentnamen, wat je krijgt met klapcijfers en placeholders voor marge en levertijd, de zes groepen, drie stappen en het dealeraanvraagformulier). Het formulier controleert in de browser maar verstuurt nog niets (`[FORM HANDLING]`). Gedeelde kop, footer en productdata staan in `site/vb-site.js`, de layout in `site/vb-pages.css`. Zeven extra productfoto's van de Toppy-CDN uitgesneden (bron in `.raw/2026-10-23/producten/`). Pagina's alleen voor variant B; de originele Home blijft ongewijzigd. Wacht op Barts feedback.
+Op Barts verzoek gebouwd in dezelfde Artifact als variant B (links in menu en footer werken onderling): **Brand** (`brand.html`: hero "On the side of outside.", manifest op asfalt, de drie pijlers uitgeschreven met foto's en het Arena-plaatje, "From first bounce to last light" met drie momenten die naar het assortiment linken), **Assortment** in twee lagen (Bart, 2026-10-23): `assortment.html` is de productgroep-selectie (compacte intro "Pick your game.", direct daaronder zes rustige kaarten: het product op een getint vlak, naam en aantal eronder, zodat de eerste rij boven de vouw staat), en `group.html#<groep>` is de productpagina per groep met een compacte kop en alle producten van die groep in dezelfde rustige kaartstijl (modelkaarten met maten, wisselen tussen groepen, "More ways out" onderaan); geen prijzen, elke kaart naar de winkelzoeker en **BLITS for Professionals** (`professionals.html`: "Stock a brand, not a label.", mild ontstaansverhaal zonder concurrentnamen, wat je krijgt met klapcijfers en placeholders voor marge en levertijd, de zes groepen, drie stappen en het dealeraanvraagformulier). Het formulier controleert in de browser maar verstuurt nog niets (`[FORM HANDLING]`). Gedeelde kop, footer en productdata staan in `site/vb-site.js`, de layout in `site/vb-pages.css`. Zeven extra productfoto's van de Toppy-CDN uitgesneden (bron in `.raw/2026-10-23/producten/`). Pagina's alleen voor variant B; de originele Home blijft ongewijzigd. Wacht op Barts feedback.
 
 ## Analoge zielelementen: keuzes van Bart (2026-10-20)
 
@@ -91,6 +91,7 @@ Uit de keuze-galerij in het design system (zie [[blits-open-punten-2026-10-20]] 
 
 ## Timeline
 
+- **2026-11-17** | Bart — productgroeptegels te druk en producten te laat op de pagina: banner compact gemaakt, tegels vervangen door rustige kaarten (product op getint vlak), zelfde stijl op de productpagina's; eerste rij staat boven de vouw (versie 15).
 - **2026-10-23** | Bart — assortiment niet goed genoeg: nu eerst een productgroep-selectiepagina, pas na het kiezen van een groep de productpagina met alle producten van die groep (versie 14).
 - **2026-10-23** | Bart — Brand, Assortment en BLITS for Professionals gebouwd in de stijl van variant B (versie 13 van de variant-B-Artifact), met dealeraanvraagformulier; menu en footer van variant B linken nu naar de echte pagina's.
 - **2026-10-23** | Bart — 1680 px was net te breed en groot; hero en header nu max. 1440 px (tussen de oude 1200 en 1680 in), kop tot 132 px.
