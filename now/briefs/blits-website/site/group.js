@@ -1,5 +1,5 @@
 /* BLITS product listing page (PLP) per group (variant B look): group.html#<group-id>. Compact header, then every product of the group
-   (one card per size) with filters and sorting. No prices (decision 21): each card leads to the store finder. Without a known group in the hash it sends you back to the assortment. */
+   (one card per size) with filters and sorting. No prices (decision 21): each card opens its product page (product.html). Without a known group in the hash it sends you back to the assortment. */
 (function () {
   var B = window.Blits, VB = window.VB, h = React.createElement;
   var FAMILIES = VB.FAMILIES;
@@ -62,7 +62,7 @@
   function ProductCard(props) {
     var p = props.product, a = p.attrs;
     var meta = props.metaKeys.map(function (k) { return a[k]; }).filter(Boolean).join(' · ');
-    return h('a', { className: 'vb-pcard', href: VB.STORE, 'aria-label': 'Where to buy the BLITS ' + p.name + ', ' + p.size },
+    return h('a', { className: 'vb-pcard', href: VB.productHref(p.name, p.size), 'aria-label': 'BLITS ' + p.name + ', ' + p.size },
       h('span', { className: VB.cx('vb-pcard__media', p.tall && 'is-tall') },
         h('img', { src: p.img, alt: '', loading: 'lazy' }),
         h('span', { className: 'blits-temp' }, 'Temporary photo')),
@@ -71,7 +71,7 @@
         h('span', { className: 'blits-heading display-s vb-pcard__name' }, p.name),
         h('span', { className: 'vb-pcard__size' }, p.size)),
       h('span', { className: 'vb-pcard__foot' },
-        h('span', { className: 'eyebrow' }, 'Where to buy'),
+        h('span', { className: 'eyebrow' }, 'View product'),
         h('span', { className: 'blits-sqbtn vb-pcard__go', 'aria-hidden': 'true' },
           h('svg', { width: 22, height: 22, viewBox: '0 0 24 24', fill: 'none', stroke: 'currentColor', strokeWidth: 2.5, strokeLinecap: 'square' }, h('path', { d: 'M7 17L17 7M9 7H17V15' })))));
   }

@@ -566,3 +566,7 @@ Compacte kop en rustige groeps- en productkaarten, eerste rij boven de vouw (ver
 ## [2026-11-17] build | BLITS productlijstpagina met filters
 
 PLP per productgroep met filters en sortering (versie 16). Zie [[blits-website-dealers]].
+
+## [2026-11-17] build | BLITS productpagina's
+
+Productpagina per model zonder koopknop, met tone-of-voice-copy en eerlijke specs (versie 17). Zie [[blits-website-dealers]].

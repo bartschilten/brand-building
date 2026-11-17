@@ -90,7 +90,18 @@
   ];
   FAMILIES.forEach(function (f) { f.count = f.models.reduce(function (n, m) { return n + m.sizes.length; }, 0); });
 
+  /* Product page links: product.html#<model-slug>/<size-slug>, e.g. product.html#street-goal/300x200. */
+  function slug(t) { return String(t).toLowerCase().replace(/ø/g, 'd').replace(/×/g, 'x').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, ''); }
+  function productHref(name, size) { return 'product.html#' + slug(name) + (size ? '/' + slug(size) : ''); }
+  function findProduct(hash) {
+    var parts = String(hash || '').replace(/^#/, '').split('/'), hit = null;
+    FAMILIES.forEach(function (f) { f.models.forEach(function (m) { if (slug(m.name) === parts[0]) hit = { family: f, model: m }; }); });
+    if (!hit) return null;
+    hit.size = hit.model.sizes.filter(function (s) { return slug(s) === parts[1]; })[0] || hit.model.sizes[0];
+    return hit;
+  }
+
   function mount(App) { ReactDOM.createRoot(document.getElementById('root')).render(h(App)); }
 
-  window.VB = { HOME: HOME, GROUP: GROUP, STORE: STORE, NAV: NAV, cx: cx, Header: Header, Footer: Footer, NextStep: NextStep, FAMILIES: FAMILIES, mount: mount };
+  window.VB = { HOME: HOME, GROUP: GROUP, STORE: STORE, NAV: NAV, cx: cx, Header: Header, Footer: Footer, NextStep: NextStep, FAMILIES: FAMILIES, mount: mount, slug: slug, productHref: productHref, findProduct: findProduct };
 })();
