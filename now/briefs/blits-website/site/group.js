@@ -1,4 +1,4 @@
-/* BLITS product page per group (variant B look): group.html#<group-id>. Every product of the group, one card per model with its sizes.
+/* BLITS product page per group (compact header so the products start above the fold) (variant B look): group.html#<group-id>. Every product of the group, one card per model with its sizes.
    No prices (decision 21): each card leads to the store finder. Without a known group in the hash it sends you back to the assortment. */
 (function () {
   var B = window.Blits, VB = window.VB, h = React.createElement;
@@ -17,11 +17,9 @@
           h(B.IndexLabel, { index: '00' + n, label: f.count + ' products' }),
           h('h1', { id: 'group-h', className: 'blits-heading display-xl vb-hero__title vb-pagehero__title' }, words.length ? words.join(' ') + ' ' : '', h(B.Keyword, null, last + '.')),
           h('p', { className: 'body-l vb-hero__intro' }, f.intro)),
-        h('div', { className: 'vb-grouphero__media' },
-          h('div', { className: 'vb-grouphero__field', 'aria-hidden': 'true' }, h(B.FieldLines, { type: f.lines, opacity: 0.25 })),
-          h('div', { className: 'vb-block vb-block--group' }),
-          h('img', { src: f.hero, alt: '', className: VB.cx(f.models[0].tall && 'is-tall') }),
-          h('span', { className: 'blits-temp' }, 'Temporary photo'))),
+        h('div', { className: 'vb-grouphero__aside' },
+          h('p', { className: 'eyebrow vb-grouphero__models' }, f.models.length === 1 ? '1 model' : f.models.length + ' models'),
+          h(B.Button, { href: VB.STORE, variant: 'secondary' }, 'Find a store'))),
       h('div', { className: 'wrap wrap--wide' },
         h('div', { className: 'vb-chips vb-grouphero__chips', role: 'navigation', 'aria-label': 'Other product groups' },
           h('a', { className: 'vb-chip', href: 'assortment.html' }, '← All groups'),
@@ -51,10 +49,7 @@
     var cols = Math.min(Math.max(f.models.length, 2), 4);
     return h('section', { className: 'vb-section vb-products', 'aria-labelledby': 'products-h' },
       h('div', { className: 'wrap wrap--wide' },
-        h('div', { className: 'vb-head' },
-          h('div', null, h(B.IndexLabel, { index: 'No. ' + n, label: f.models.length === 1 ? '1 model' : f.models.length + ' models' }),
-            h('h2', { id: 'products-h', className: 'blits-heading display-l' }, 'All ', f.title.toLowerCase())),
-          h(B.Button, { href: VB.STORE, variant: 'secondary' }, 'Find a store')),
+        h('h2', { id: 'products-h', className: 'vb-sr' }, 'All ' + f.title.toLowerCase()),
         h('div', { className: VB.cx('vb-products__grid', f.models.length === 1 && 'vb-products__grid--single'), style: { '--cols': f.models.length === 1 ? 1 : cols } }, f.models.map(function (m, i) {
           return h(ModelCard, { key: m.name, model: m, index: 'No. ' + n + '.' + (i + 1) });
         }))));
